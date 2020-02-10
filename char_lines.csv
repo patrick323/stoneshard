@@ -1,0 +1,88 @@
+tag;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
+;;;;;;;;
+;dialog_answer;dialog_answer;dialog_answer;dialog_answer;;;;dialog_answer
+;;;;;;;;
+Verren_return;*Слушать дальше*;*Keep listening*;*继续听对方说*;*Hör weiter zu*;;;;*Słuchaj dalej*
+Verren_continue;*Продолжить*;*Continue*;*继续*;*Weiter*;;;;*Kontynuuj*
+Verren_back;Что ещё расскажешь?;What else can you tell me?;还有什么能跟我说的吗？;Was kannst du mir noch erzählen?;;;;Co jeszcze możesz mi powiedzieć?
+;;;;;;;;
+custom_return;*Слушать дальше*;*Keep listening*;*继续听对方说*;*Hör weiter zu*;;;;*Słuchaj dalej*
+custom_reward;Я за наградой.;I'm here about my reward.;我来领报酬了。;Ich bin wegen meiner Belohnung hier.;;;;Jestem tu po nagrodę.
+custom_agree;По рукам.;Deal.;行。;Abgemacht.;;;;Stoi.
+custom_think;Мне надо это обдумать.;I need more time to consider.;我再考虑考虑。;Ich brauche mehr Zeit zum Nachdenken.;;;;Potrzebuję czasu, by to rozważyć.
+custom_advance;Что насчёт аванса?;How about an advance?;能先给一部分钱吗？;Wie wäre es mit einem Vorschuss?;;;;Co powiesz o podwyżce?
+custom_bounty_complete;Контракт "%contract_name%" выполнен.;"%contract_name%" has been fulfilled.;“%contract_name%”完成了。;"%contract_name%" wurde erfüllt.;;;;"%contract_name%" został zakończony.
+custom_dungeon_complete;%dungeon_name% зачищен.;%dungeon_name% is cleared out.;%dungeon_name%清了。;%dungeon_name% ist ausgeräumt.;;;;%dungeon_name% oczyszczono z przeciwników.
+custom_rent_room;Я хочу снять комнату. [позволяет сохранить игру];I want to rent a room. [allows to save the game];我想找个房间住下。[可以保存游戏进度];Ich möchte einen Raum mieten. [erlaubt das Speichern des Spiels];;;;Chcę wynająć pokój. [pozwala na zapis gry]
+custom_continue;*Продолжить разговор*;*Continue the conversation*;*继续对话*;*Fahre mit dem Gespräch fort';;;;*Kontynuuj rozmowę*
+custom_chat;Чего интересного расскажешь? ;Heard anything interesting?;最近听说什么有意思的事情没？;Etwas Interessantes gehört?;;;;Coś ciekawego w okolicy?
+custom_work;Есть какие-то контракты?;Are there any contracts?;有什么能签契据的活儿吗？;Gibt es irgendwelche Aufträge?;;;;Są jakieś zlecenia?
+custom_trade;Есть что на продажу? ;What are you selling?;你这里有什么？;Was verkaufst du?;;;;Pokażesz mi swoje towary?
+custom_leave;Прощай.;Farewell.;走了。;Lebewohl.;;;;Żegnaj.
+custom_this_place;Расскажи про вашу деревню. ;Tell me about your village.;说一说你们村子。;Erzähl mir über dein Dorf.;;;;Opowiedz mi o wiosce.
+custom_back;Я хочу кое-что уточнить.;I need to ask something else.;我还想问一点别的。;Ich muss noch etwas anderes fragen.;;;;Chcę zapytać o coś innego.
+;;;;;;;;
+Jorgrim_return;*Слушать дальше*;*Keep listening*;*继续听对方说*;*Hör weiter zu*;;;;*Słuchaj dalej*
+Jorgrim_reward;Гони награду.;Hand over my reward.;赏金拿来。;Gib mir meine Belohnung;;;;Oczekuję nagrody.
+Jorgrim_agree;Ävdaal. Мне подходит.;Ävdaal. This will do.;得，一言为定。;Ävdaal. Das wird genügen.;;;;Ävdaal. To załatwi sprawę.
+Jorgrim_think;Igg sikker... Надо обдумать.;Igg sikker... I need to think it through.;这事儿吧……让我再掂量掂量。;Igg sikker... Ich muss es überdenken.;;;;Igg skikker... Muszę to przemyśleć.
+Jorgrim_advance;Золото вперёд, venn.;Gold first, venn.;先给钱，再干活儿。;Zuerst das Gold, venn.;;;;Najpierw złoto, wenn.
+Jorgrim_bounty_complete;Контракт "%contract_name%"... Я справился.;The contract, "%contract_name%"... It's fulfilled.;“%contract_name%”那活儿……干完了。;Der Auftrag, "%contract_name%"... Er wurde erfüllt.;;;;Kontrakt, "%contract_name%"... jest skończony.
+Jorgrim_dungeon_complete;%dungeon_name% пустует, blöddanar. Я убил всех.;%dungeon_name% is empty now, blöddanar. I killed them all.;他奶奶个腿儿，%dungeon_name%空了，全都让我给宰了。;%dungeon_name% ist jetzt leer, blöddanar. Ich habe alle getötet.;;;;%dungeon_name% wyczyszczono, blöddanar. Wszyscy nie żyją.
+Jorgrim_rent_room;Пусти переночевать. [позволяет сохранить игру];I need a bunk. [allows to save the game];还有床没有？[可以保存游戏进度];Ich brauche eine Koje. [erlaubt es, das Spiel zu speichern];;;;Potrzebne mi łoże. [pozwala na zapis gry]
+Jorgrim_continue;*Продолжить разговор*;*Keep listening*;*继续听对方说*;*Hör weiter zu*;;;;*Słuchaj dalej*
+Jorgrim_chat;Выкладывай новости.;Tell me the rumors.;最近有啥小道消息么？;Erzähle mir von Gerüchten.;;;;Opowiedz mi plotki.
+Jorgrim_work;Хочу подзаработать, elräd.;I'm looking for work, elräd.;有啥我能干的活儿吗？;Ich suche nach Arbeit, elräd.;;;;Szukam roboty, elräd.
+Jorgrim_trade;Покажи товар.;Show me your goods.;给我瞅瞅你卖的东西。;Zeige mir deine Waren.;;;;Pokaż mi swoje klamoty.
+Jorgrim_leave;*Уйти*;*Walk away*;*离开*;*Geh weg*;;;;*Odejdź*
+Jorgrim_this_place;Расскажи про деревню.;Tell me about this village.;跟我唠叨唠叨你们这地方。;Erzähl mir über dieses Dorf.;;;;Gadaj no, co we wsi.
+Jorgrim_back;Forstatt. Ясно.;Forstatt. I see.;成，知道了。;Forstatt. Ich sehe.;;;;Forstatt. Rozumiem.
+;;;;;;;;
+Arna_return;*Слушать дальше*;*Keep listening*;*继续听对方说*;*Hör weiter zu*;;;;*Słuchaj dalej*
+Arna_reward;Я пришла за наградой.;I'm here for my reward.;我是来领钱的。;Ich bin wegen meiner Belohnung hier.;;;;Jestem po nagrodę.
+Arna_agree;Договорились.;Deal.;成交。;Abgemacht.;;;;Układ.
+Arna_think;Нужно поразмыслить.;I need more time to consider.;我再考虑考虑。;Ich brauche mehr Zeit zum Nachdenken.;;;;Potrzebuję czasu do namysłu.
+Arna_advance;Мне нужен аванс.;I'll need an advance.;我要先看到钱。;Wie wäre es mit einem Vorschuss?;;;;Potrzebna mi podwyżka.
+Arna_bounty_complete;Я справилась с контрактом "%contract_name%".;I was successful at fulfilling "%contract_name%".;“%contract_name%”的事情处理好了。;Ich habe den Auftrag "%contract_name%" erfolgreich erfüllt.;;;;Udało mi się ukończyć "%contract_name%".
+Arna_dungeon_complete;%dungeon_name% больше вас не побеспокоит.;%dungeon_name% won't bother you anymore.;不用再愁%dungeon_name%的事情了。;%dungeon_name% wird dich nicht mehr stören.;;;;%dungeon_name% nie stanowi już problemu.
+Arna_rent_room;Я хочу остановиться на ночь. [позволяет сохранить игру] ;I'd like to stay here for the night. [allows to save the game];我想在这里住一晚上。[可以保存游戏进度];Ich würde gerne hier übernachten. [erlaubt es, das Spiel zu speichern];;;;Chciałabym zostać tu na noc. [pozwala na zapis gry]
+Arna_continue;*Продолжить разговор*;*Continue the conversation*;*继续对话*;*Führe das Gespräch fort*;;;;*Kontynuuj rozmowę*
+Arna_chat;Что нового в ваших краях?;Anything interesting going on in these lands?;附近最近出过什么事情吗？;Passiert Interessantes in diesen Landen?;;;;Coś ciekawego dzieje się na tych ziemiach?
+Arna_work;Не нужна ли вам помощь?;Do you need any help?;有什么要帮忙的吗？;Brauchst du Hilfe?;;;;Potrzebujesz w czymś pomocy?
+Arna_trade;Чем торгуешь?;What are you selling?;你这里有什么？;Was verkaufst du?;;;;Co sprzedajesz?
+Arna_leave;В добрый час.;Good luck.;保重。;Viel Glück.;;;;Powodzenia.
+Arna_this_place;Расскажи про вашу деревню. ;Tell me about your village.;说一说你们村子。;Erzähl mir über dein Dorf.;;;;Opowiedz mi o okolicy.
+Arna_back;Занимательно. ;Interesting.;有意思。;Interessant.;;;;Rozumiem.
+;;;;;;;;
+Dirwin_return;*Слушать дальше*;*Keep listening*;*继续听对方说*;*Hör weiter zu*;;;;*Słuchaj dalej*
+Dirwin_reward;Я за своей наградой.;I came for my reward.;我来领报酬了。;Ich komme wegen meiner Belohnung.;;;;Przybywam po swój hajs.
+Dirwin_agree;Лады, берусь.;All right, I'll do it.;好，包在我身上。;In Ordnung, ich mache es.;;;;Zgoda, zrobię to.
+Dirwin_think;Я это ещё обдумаю.;Let me think this through.;我得考虑考虑再说。;Lass mich das mal überdenken.;;;;Trudna sprawa, przemyślę.
+Dirwin_advance;Без аванса тут никак.;Can't do it without an advance.;先给钱，再做事。;Ohne Vorschuss läuft das nicht.;;;;Nie kiwnę palcem bez podwyżki.
+Dirwin_bounty_complete;Помнишь контракт "%contract_name%"? Я справился.;Remember that contract, "%contract_name%"? It's done.;“%contract_name%”那张契书还记得吗？搞定了。;Erinnerst du dich an den Auftrag "%contract_name%"? Er ist erledigt.;;;;Pamiętasz ten "%contract_name%"? Zaliczony.
+Dirwin_dungeon_complete;Я зачистил %dungeon_name%. Теперь там чисто.;I cleared out %dungeon_name%. It should be safe now.;%dungeon_name%清净了，现在应该不会有事了。;Ich habe den Dungeon %dungeon_name% gereinigt. Es sollte nun sicher sein.;;;;%dungeon_name% dałem radę wyczyścić. Jest już tam bezpiecznie.
+Dirwin_rent_room;Мне нужен приют на ночь. [позволяет сохранить игру];I need to stay for the night. [allows to save the game];我要在这里过一夜。[可以保存游戏进度];Ich würde gerne hier übernachten. [erlaubt es, das Spiel zu speichern];;;;Potrzebuję kąta na noc. [pozwala na zapis gry]
+Dirwin_continue;*Продолжить разговор*;*Continue the conversation*;*继续对话*;*Führe das Gespräch fort';;;;*Kontynuuj rozmowę*
+Dirwin_chat;Потолкуем?;How about a chat?;有空聊天吗？;Wie wäre es mit einem Gespräch?;;;;Pogadamy?
+Dirwin_work;Наёмник не нужен? Берусь за любое дело.;Do you need a mercenary? I'll take any job.;需要雇佣兵吗？我什么活儿都能干。;Brauchst du einen Söldner? Ich nehme jede Arbeit.;;;;Potrzeba najemnika? Wezmę każdą robotę.
+Dirwin_trade;Покажи-ка товар.;Show me your wares.;给我看看你卖的东西。;Zeig mir deine Waren.;;;;Pokaż mi swoje towary.
+Dirwin_leave;Бывай. ;See you.;回见。;Wir sehen uns.;;;;Narazie.
+Dirwin_this_place;Чем живёт ваша деревенька?;Anything interesting about your village?;跟我说说你们村子。;Gibt es etwas Interessantes über dein Dorf?;;;;Coś ciekawego o tej zaplutej dziurze?
+Dirwin_back;Давай про другое.;Let's discuss something else.;聊聊别的吧。;Lass uns über etwas anderes diskutieren.;;;;Pogadajmy o czymś innym.
+;;;;;;;;
+Jonna_return;*Слушать дальше*;*Keep listening*;*继续听对方说*;*Hör weiter zu*;;;;*Słuchaj dalej*
+Jonna_reward;Я за наградой.;I'm here for the reward.;我来拿赏钱了。;Ich bin wegen der Belohnung hier.;;;;Przybyłam tu po nagrodę.
+Jonna_agree;Ладно, так и быть.;So be it.;那就这样吧。;So sei es.;;;;Niech będzie.
+Jonna_think;Мне нужно время на решение.;I need more time to make this decision.;让我再纠结一下。;Ich brauche mehr Zeit, um eine Entscheidung zu treffen.;;;;Potrzeba mi czasu na decyzję.
+Jonna_advance;Часть денег вперёд.;I need some gold in advance.;赏金先预付一部分。;Ich brauche im Voraus etwas Gold.;;;;Płać więcej.
+Jonna_bounty_complete;Я выполнила контракт "%contract_name%".;"%contract_name%" is fulfilled.;“%contract_name%”的事情解决了。;"%contract_name%" ist ausgeführt.;;;;"%contract_name%" jest wypełniony.
+Jonna_dungeon_complete;Я очистила %dungeon_name% от врагов.;I cleared out %dungeon_name% from foes.;%dungeon_name%里面清净了。;Ich habe %dungeon_name% von Feinden befreit.;;;;Oczyściłam %dunegon_name% z paskudztw.
+Jonna_rent_room;Я хочу здесь переночевать. [позволяет сохранить игру];I want to stay here for the night. [allows to save the game];有地方让我过个夜吗？[可以保存游戏进度];Ich würde gerne hier übernachten. [erlaubt es, das Spiel zu speichern];;;;Potrzebne mi wygodne łóżko. [pozwala na zapis gry]
+Jonna_continue;*Продолжить разговор*;*Continue the conversation*;*继续对话*;*Führe das Gespräch fort';;;;*Kontynuuj rozmowę*
+Jonna_chat;Есть новости и слухи?;Any news or rumors?;最近听到什么小道消息了吗？;Irgendwelche Neuigkeiten oder Gerüchte?;;;;Jakieś wieści lub plotki?
+Jonna_work;Я не прочь подзаработать.;I don't mind some work.;来点活儿我也不介意。;Ich hätte nichts gegen etwas Arbeit.;;;;Nie pogardzę jakąś robotą.
+Jonna_trade;Что продаёшь?;What are you selling?;你这里有什么？;Was verkaufst du?;;;;Co sprzedajesz?
+Jonna_leave;Ещё свидимся.;See you later.;再见。;Bis später.;;;;Do zobaczenia później.
+Jonna_this_place;Расскажи про вашу деревню. ;Tell me about your village.;跟我说一说你们村里的事情。;Erzähle mir über dein Dorf.;;;;Opowiedz mi o tym miejscu.
+Jonna_back;Ладно.;All right.;行。;in Ordnung.;;;;Dobrze.
+;dialog_answer_end;dialog_answer_end;dialog_answer_end;dialog_answer_end;;;;dialog_answer_end

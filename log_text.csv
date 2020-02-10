@@ -1,0 +1,210 @@
+тип;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
+;text;text;text;text;;;;text
+attack;~w~$~/~ $. ~w~$~/~ теряет ~w~$~/~ $;~w~$~/~ $. ~w~$~/~ loses ~w~$~/~ $;~w~$~/~$。~w~$~/~失去了~w~$~/~点$;~w~$~/~ $. ~w~$~/~ verliert ~w~$~/~ $;;;;~w~$~/~ $. ~w~$~/~ traci ~w~$~/~ $
+crit;~w~$~/~ $ и наносит ~r~критическую атаку~/~! ~w~$~/~ теряет ~w~$~/~ $;~w~$~/~ $ and scores ~r~critical hit~/~! ~w~$~/~ loses ~w~$~/~ $;~w~$~/~$，并造成了~r~暴击~/~！~w~$~/~失去了~w~$~/~点$;~w~$~/~ $ und landet ~r~krit. Treffer~/~! ~w~$~/~ verliert ~w~$~/~ $;;;;~w~$~/~ $ zatakuje i zadaje ~r~cios krytyczny~/~! ~w~$~/~ traci ~w~$~/~ $
+fumble;~w~$~/~ неудачно $. ~w~$~/~ теряет ~w~$~/~ $;~w~$~/~ $, but fumbles. ~w~$~/~ loses ~w~$~/~ $;~w~$~/~$，但失手了。~w~$~/~失去了~w~$~/~点$;~w~$~/~ $, stellt sich aber ungeschickt an. ~w~$~/~ verliert ~w~$~/~ $;;;;~w~$~/~ $, ale partaczy. ~w~$~/~ traci ~w~$~/~ $
+shot;~w~$~/~ стреляет. ~w~$~/~ теряет ~w~$~/~ $;~w~$~/~ shoots. ~w~$~/~ loses ~w~$~/~ $;~w~$~/~攻击，~w~$~/~失去了~w~$~/~点$;~w~$~/~ schießt. ~w~$~/~ verliert ~w~$~/~ $;;;;~w~$~/~ strzela w. ~w~$~/~ traci ~w~$~/~ $
+fumbleNoDamage;~w~$~/~ неудачно $. ~w~$~/~ не получает урона;~w~$~/~ $, but fumbles. ~w~$~/~ doesn't take any damage;~w~$~/~$，可是失手了，~w~$~/~没有受到伤害;~w~$~/~ $, stellt sich aber ungeschickt an. ~w~$~/~ nimmt keinen Schaden;;;;~w~$~/~ $, ale partaczy. ~w~$~/~ nie otrzymuje obrażeń.
+attackNoDamage;~w~$~/~ $. ~w~$~/~ не получает урона;~w~$~/~ $. ~w~$~/~ doesn't take any damage;~w~$~/~$，~w~$~/~没有受到伤害;~w~$~/~ $. ~w~$~/~ nimmt keinen Schaden;;;;~w~$~/~ $. ~w~$~/~ nie otrzymuje żadnych obrażeń.
+critNoDamage;~w~$~/~ $ и наносит ~r~критическую атаку~/~! ~w~$~/~ не получает урона;~w~$~/~ $ and scores ~r~critical hit~/~! ~w~$~/~ doesn't take any damage;~w~$~/~$，并造成了~r~暴击~/~！~w~$~/~没有受到伤害;~w~$~/~ $ und landet einen ~r~krit. Treffer~/~! ~w~$~/~ nimmt keinen Schaden;;;;~w~$~/~ $ trafia i zadaje ~r~cios krytyczny~/~! ~w~$~/~ nie otrzymuje obrażeń.
+shotNoDamage;~w~$~/~ стреляет. ~w~$~/~ не получает урона;~w~$~/~ shoots. ~w~$~/~ doesn't take any damage;~w~$~/~攻击，~w~$~/~没有受到伤害;~w~$~/~ schießt. ~w~$~/~ nimmt keinen Schaden;;;;~w~$~/~ strzela. ~w~$~/~ nie otrzymuje żadnych obrażeń.
+blockFull;~w~$~/~ $. ~w~$~/~ блокирует весь урон;~w~$~/~ $. ~w~$~/~ blocks all damage;~w~$~/~$。~w~$~/~挡住了所有伤害;~w~$~/~ $. ~w~$~/~ blockt gesamten Schaden;;;;~w~$~/~ $. ~w~$~/~ blokuje wszystkie obrażenia.
+blockPart;~w~$~/~ $. ~w~$~/~ блокирует часть урона и теряет ~w~$~/~ $;~w~$~/~ $. ~w~$~/~ partially blocks damage and loses ~w~$~/~ $;~w~$~/~$，~w~$~/~挡住了部分伤害，失去了~w~$~/~点$;~w~$~/~ $. ~w~$~/~ blockt Teilschaden und verliert ~w~$~/~ $;;;;~w~$~/~ $. ~w~$~/~ częściowo blokuje obrażenia i traci ~w~$~/~ $
+evade;~w~$~/~ $, но промахивается.;~w~$~/~ $, but misses.;~w~$~/~$，但是没有击中。;~w~$~/~ $, aber verfehlt.;;;;~w~$~/~ $, ale pudłuje.
+playerDeath;~w~$~/~ погибает.;~w~$~/~ dies.;~w~$~/~死了。;~w~$~/~ stirbt.;;;;~w~$~/~ umiera.
+enemyDeath;~w~$~/~ погибает. (~y~$~/~);~w~$~/~ dies. (~y~$~/~);~w~$~/~死了。（~y~$~/~）;~w~$~/~ stirbt. (~y~$~/~);;;;~w~$~/~ umiera. (~y~$~/~)
+pickupEffect;~w~$~/~ получает эффект ~ly~$~/~.;~w~$~/~ receives ~ly~$~/~.;~w~$~/~获得~ly~$~/~。;~w~$~/~ erhält ~ly~$~/~.;;;;~w~$~/~ otrzymuje ~ly~$~/~.
+dropEffect;~w~$~/~ больше не под действием эффекта ~ly~$~/~!;~w~$~/~ is no longer affected by ~ly~$~/~!;~w~$~/~身上的~ly~$~/~效果消失了！;~w~$~/~ wird nicht länger beeinflusst von ~ly~$~/~!;;;;~w~$~/~ nie jest dłużej pod wpływem ~ly~$~/~!
+breakLockSuccess;~w~$~/~ успешно взламывает замок (~w~$~/~).;~w~$~/~ succesfully picks ~w~$~/~ lock.;~w~$~/~打开了~w~$~/~的锁。;~w~$~/~ knackt erfolgreich ~w~$~/~ Schloss.;;;;~w~$~/~ z sukcesem otwiera ~w~$~/~ zamek.
+breakLockFail;~w~$~/~ безуспешно пытается взломать замок (~w~$~/~).;~w~$~/~ fails to pick ~w~$~/~ lock.;~w~$~/~没能打开~w~$~/~的锁。;~w~$~/~ kann ~w~$~/~ Schloss nicht knacken.;;;;~w~$~/~ nie daje rady otworzyć zamka ~w~$~/~.
+search;~w~$~/~ обыскивает контейнер (~w~$~/~).;~w~$~/~ searches the ~w~$~/~.;~w~$~/~翻了翻~w~$~/~。;~w~$~/~ durchsucht ~w~$~/~.;;;;~w~$~/~ przeszukuje ~w~$~/~.
+attackTrap;~w~$~/~ попадает в ловушку (~w~$~/~) и теряет ~w~$~/~ здоровья;~w~$~/~ triggers the ~w~$~/~ and loses ~w~$~/~ health;~w~$~/~触发了~w~$~/~，失去了~w~$~/~点生命。;~w~$~/~ löst ~w~$~/~ aus und verliert ~w~$~/~ Gesundheit;;;;~w~$~/~ aktuwuje ~w~$~/~ i traci ~w~$~/~ zdrowia.
+disarmTrapSuccess;~w~$~/~ обезвреживает ловушку (~w~$~/~).;~w~$~/~ tries to disarm the ~w~$~/~ and succeeds.;~w~$~/~拆掉了~w~$~/~。;~w~$~/~ versucht ~w~$~/~ zu entschärfen und ist erfolgreich.;;;;~w~$~/~ próbuje rozbroić ~w~$~/~ i daje radę.
+disarmTrapFail;~w~$~/~ безуспешно пытается обезвредить ловушку (~w~$~/~).;~w~$~/~ tries to disarm the ~w~$~/~ and fails.;~w~$~/~没能拆掉拆掉~w~$~/~。;~w~$~/~ versucht ~w~$~/~ zu entschärfen und scheitert.;;;;~w~$~/~ próbuje rozbroić ~w~$~/~ i nie daje rady.
+spotTrap;~w~$~/~ замечает скрытую ловушку (~w~$~/~).;~w~$~/~ spots a hidden ~w~$~/~.;~w~$~/~发现一个隐蔽的~w~$~/~。;~w~$~/~ entdeckt verborgene ~w~$~/~.;;;;~w~$~/~ zauważa ukrytą ~w~$~/~.
+altarRitual;~w~$~/~ совершает нечестивый ритуал!;~w~$~/~ performs an unholy ritual!;~w~$~/~开始举行邪术仪式！;~w~$~/~ vollzieht ein unheiliges Ritual!;;;;~w~$~/~ wykonuje przeklęty rytuał!
+altarDestroy;~w~$~/~ уничтожает алтарь! Нечестивые узы ослаблены...;~w~$~/~ destroys the Altar! The unholy bonds have been weakened...;~w~$~/~摧毁了祭坛！邪恶的纽带松解了……;~w~$~/~ zerstört den Altar! Die unheiligen Verbindungen wurden geschwächt...;;;;~w~$~/~ niszczy Ołtarz! Przeklęte więzy zostały osłabione...
+folioDestroy;~w~$~/~ уничтожает проклятый фолиант!;~w~$~/~ destroys the Cursed Folio!;~w~$~/~摧毁了受到诅咒的三联书碑！;~w~$~/~ zerstört den Verfluchten Folianten!;;;;~w~$~/~ niszczy Przeklętą Osłonę!
+salvatoryDestroy;~w~$~/~ уничтожает колодец душ!;~w~$~/~ destroys the Well of Souls!;~w~$~/~摧毁了受到魂井！;~w~$~/~ zerstört den Seelenbrunnen!;;;;~w~$~/~ niszczy Studnię Dusz!
+enemyUnaware;~w~$~/~ теряет след персонажа!;~w~$~/~ becomes unaware!;~w~$~/~有所~y~警觉~/~！;~w~$~/~ is nun ahnungslos!;;;;~w~$~/~ jest nieświadomy!
+enemyAlarm;~w~$~/~ ~y~настораживается~/~!;~w~$~/~ becomes ~y~alarmed~/~!;~w~$~/~有所~y~警觉~/~！;~w~$~/~ ist ~y~alarmiert~/~!;;;;~w~$~/~ zostaje ~y~zaalarmowany~/~!
+enemyHostile;~w~$~/~ ~r~замечает персонажа~/~!;~w~$~/~ becomes ~r~hostile~/~!;~w~$~/~出现~y~敌意~/~！;~w~$~/~ ist ~r~feindlich~/~!;;;;~w~$~/~ staje się ~r~wrogi~/~!
+enemyUnawareFOV;~w~$~/~ попадает в поле зрения.;~w~$~/~ is spotted.;~w~$~/~进入视野。;~w~$~/~ wurde entdeckt.;;;;~w~$~/~ ujawnia się.
+enemyAlarmFOV;~w~$~/~ попадает в поле зрения. ~w~$~/~ рыщет в поисках персонажа.;~w~$~/~ is spotted. ~w~$~/~ is alarmed.;~w~$~/~进入视野，~w~$~/~有所警觉。;~w~$~/~ wurde entdeckt. ~w~$~/~ ist alarmiert.;;;;~w~$~/~ ujawnia się. ~w~$~/~ jest zaalarmowany.
+enemyHostileFOV;~w~$~/~ попадает в поле зрения. ~w~$~/~ замечает персонажа!;~w~$~/~ is spotted. ~w~$~/~ is hostile!;~w~$~/~进入视野，~w~$~/~产生敌意。;~w~$~/~ wurde entdeckt. ~w~$~/~ ist feindlich!;;;;~w~$~/~ ujawnia się. ~w~$~/~ staje się wrogi.
+playerPickupItem;~w~$~/~ поднимает ~w~$~/~.;~w~$~/~ picks up ~w~$~/~.;~w~$~/~捡起了~w~$~/~。;~w~$~/~ hebt ~w~$~/~ auf.;;;;~w~$~/~ podnosi ~w~$~/~.
+playerDropItem;~w~$~/~ выбрасывает ~lg~$~/~.;~w~$~/~ throws away ~lg~$~/~.;~w~$~/~扔掉了~lg~$~/~。;~w~$~/~ wirft ~lg~$~/~ weg.;;;;~w~$~/~ wyrzuca ~lg~$~/~.
+drop;Из контейнера (~w~$~/~) выпадает:;~w~$~/~ drops:;~w~$~/~掉落：;~w~$~/~ lässt fallen:;;;;~w~$~/~ upuszcza:
+useSkill;~w~$~/~ использует умение ~g~$~/~.;~w~$~/~ uses ~g~$~/~.;~w~$~/~使用了~g~$~/~。;~w~$~/~ verwendet ~g~$~/~.;;;;~w~$~/~ używa ~g~$~/~.
+useSkillTarget;~w~$~/~ использует умение ~g~$~/~. Цель - ~w~$~/~.;~w~$~/~ uses ~g~$~/~ on ~w~$~/~.;~w~$~/~使用了~g~$~/~，目标：~w~$~/~。;~w~$~/~ verwendet ~g~$~/~ an ~w~$~/~.;;;;~w~$~/~ używa ~g~$~/~ na ~w~$~/~.
+skillAttack;~w~$~/~ теряет ~w~$~/~ $ от умения ~g~$~/~;~w~$~/~ loses ~w~$~/~ $ from ~g~$~/~;~w~$~/~失去了~w~$~/~点$，原因：~g~$~/~;~w~$~/~ verliert ~w~$~/~ $ von ~g~$~/~;;;;~w~$~/~ traci ~w~$~/~ $ od ~g~$~/~
+level;~w~$~/~ получает ~y~$~/~ уровень.;~w~$~/~ level ups to ~y~$~/~ level.;~w~$~/~升到了~y~$~/~级。;~w~$~/~ steigt auf Stufe ~y~$~/~ auf.;;;;~w~$~/~ awansuje na ~y~$~/~ poziom.
+speech;~w~$~/~ говорит: ~ly~$~/~.;~w~$~/~ says: ~ly~$~/~.;~w~$~/~说：~ly~$~/~。;~w~$~/~ sagt: ~ly~$~/~.;;;;~w~$~/~ mówi: ~ly~$~/~.
+shout;~w~$~/~ кричит: ~ly~$~/~.;~w~$~/~ shouts: ~ly~$~/~.;~w~$~/~大喊：~ly~$~/~。;~w~$~/~ ruft: ~ly~$~/~.;;;;~w~$~/~ krzyczy: ~ly~$~/~.
+useItem;~w~$~/~ $ ~lg~$~/~.;~w~$~/~ $ ~lg~$~/~.;~w~$~/~$~lg~$~/~。;~w~$~/~ $ ~lg~$~/~.;;;;~w~$~/~ $ ~lg~$~/~.
+openDoor;~w~$~/~ открывает ~w~$~/~.;~w~$~/~ opens ~w~$~/~.;~w~$~/~打开了~w~$~/~。;~w~$~/~ öffnet ~w~$~/~.;;;;~w~$~/~ otwiera ~w~$~/~.
+closeDoor;~w~$~/~ закрывает ~w~$~/~.;~w~$~/~ closed ~w~$~/~.;~w~$~/~关上了~w~$~/~。;~w~$~/~ schließt ~w~$~/~.;;;;~w~$~/~ zamyka ~w~$~/~.
+breakDoor;~w~$~/~ сломалась.;~w~$~/~ is broken.;~w~$~/~坏了。;~w~$~/~ ist kaputt.;;;;~w~$~/~ zostaje uszkodzony.
+location;~w~$~/~ переходит в другую локацию: ~w~$~/~.;~w~$~/~ enters ~w~$~/~.;~w~$~/~走进了~w~$~/~。;~w~$~/~ betritt ~w~$~/~.;;;;~w~$~/~ wchodzi do ~w~$~/~.
+locationFloor;~w~$~/~ переходит в другую локацию: ~w~$~/~ (этаж ~w~$~/~).;~w~$~/~ enters ~w~$~/~ (floor ~w~$~/~).;~w~$~/~走进了~w~$~/~（第~w~$~/~层）。;~w~$~/~ betritt ~w~$~/~ (Ebene ~w~$~/~).;;;;~w~$~/~ wchodzi do ~w~$~/~ (~w~$~/~ piętro).
+healthLoss;~w~$~/~ теряет ~w~$~/~ $;~w~$~/~ loses ~w~$~/~ $;~w~$~/~失去了~w~$~/~点$;~w~$~/~ verliert~w~$~/~ $;;;;~w~$~/~ traci ~w~$~/~ $
+healthLossBleeding;~w~$~/~ теряет ~w~$~/~ $ (кровотечение).;~w~$~/~ loses ~w~$~/~ $ to bleeding.;~w~$~/~由于出血失去了~w~$~/~点$。;~w~$~/~ verliert ~w~$~/~ $ durch Bluten.;;;;~w~$~/~ traci ~w~$~/~ $ przez krwawienie.
+healthRestore;~w~$~/~ восстанавливает ~lg~$~/~ здоровья (~w~$~/~).;~w~$~/~ restores ~lg~$~/~ health (~w~$~/~).;~w~$~/~恢复了~lg~$~/~点生命（~w~$~/~）。;~w~$~/~ stellt ~lg~$~/~ Gesundheit (~w~$~/~) wieder her.;;;;~w~$~/~ odnawia ~lg~$~/~ zdrowia (~w~$~/~).
+energyRestore;~w~$~/~ восстанавливает ~c~$~/~ энергии (~w~$~/~).;~w~$~/~ restores ~c~$~/~ energy (~w~$~/~).;~w~$~/~恢复了~lg~$~/~点精力（~w~$~/~）。;~w~$~/~ stellt ~c~$~/~ Energie (~w~$~/~) wieder her.;;;;~w~$~/~ odnawia ~c~$~/~ energii (~w~$~/~).
+penaltyAttack;~w~$~/~ отступает, подставляясь под штрафной удар.;~w~$~/~ retreats, provoking attack of opportunity.;~w~$~/~撤退，送给对方趁机攻击的机会。;~w~$~/~ zieht sich zurück, eröffnet Chance für Gelegenheitsangriff.;;;;~w~$~/~ wycofuje się, prowokując do ataku.
+skipTurn;~w~$~/~ выжидает.;~w~$~/~ does nothing.;~w~$~/~什么事情都没做。;~w~$~/~ tut nichts.;;;;~w~$~/~ nic nie robi.
+knockback;~w~$~/~ отлетает назад.;~w~$~/~ is knocked back.;~w~$~/~被击退。;~w~$~/~ wird zurückgestoßen.;;;;~w~$~/~ zostaje odrzucony.
+knockbackDamage;~w~$~/~ отлетает назад и получает ~w~$~/~ урона.;~w~$~/~ is knocked back and takes ~w~$~/~ damage.;~w~$~/~被击退，受到~w~$~/~点伤害。;~w~$~/~ wird zurückgestoßen und erleidet ~w~$~/~ Schaden.;;;;~w~$~/~ zostaje odrzucony i otrzymuje ~w~$~/~ obrażeń.
+knockbackDamageObject;~w~$~/~ отлетает на объект ~w~$~/~ и получает ~w~$~/~ урона.;~w~$~/~ is knocked back against the ~w~$~/~ and takes ~w~$~/~ damage.;~w~$~/~因为击退而撞在了~w~$~/~上，受到~w~$~/~点伤害。;~w~$~/~ wird gegen ~w~$~/~ zurückgestoßen und erleidet ~w~$~/~ Schaden.;;;;~w~$~/~ zostaje odrzucony na ~w~$~/~ i otrzymuje ~w~$~/~ obrażeń.
+knockbackCollide;~w~$~/~ сталкивается с объектом ~w~$~/~, нанося ~w~$~/~ урона.;~w~$~/~ collides with ~w~$~/~, dealing ~w~$~/~ damage.;~w~$~/~与~w~$~/~相撞，造成了w~$~/~点伤害。;~w~$~/~ kollidiert mit ~w~$~/~, und verursacht ~w~$~/~ Schaden.;;;;~w~$~/~ zderza się z ~w~$~/~, zadając ~w~$~/~ obrażeń.
+reflectDamage;~w~$~/~ отражает ~w~$~/~ урона.;~w~$~/~ reflects ~w~$~/~ damage.;~w~$~/~造成了~w~$~/~点反伤。;~w~$~/~ reflektiert ~w~$~/~ Schaden.;;;;~w~$~/~ odbija ~w~$~/~ obrażeń.
+restEnter;~w~$~/~ отдыхает.;~w~$~/~ rests.;~w~$~/~正在休息。;~w~$~/~ ruht.;;;;~w~$~/~ odpoczywa.
+restExit;~w~$~/~ перестаёт отдыхать.;~w~$~/~ stops resting.;~w~$~/~休息结束。;~w~$~/~ ruht nicht mehr.;;;;~w~$~/~ przestaje odpoczywać.
+restEnemy;~w~$~/~ не может отдыхать (враг поблизости).;~w~$~/~ сan't rest (enemies are nearby).;附近有敌人，~w~$~/~无法休息。;~w~$~/~ kann nicht ruhen (Feinde in der Nähe).;;;;~w~$~/~ nie może odpoczywać (przeciwnicy w okolicy).
+restThreat;~w~$~/~ не может отдыхать (жизнь под угрозой).;~w~$~/~ сan't rest (life's under threat).;~w~$~/~即将性命不保，无法休息。;~w~$~/~ kann nicht ruhen (Leben in Gefahr).;;;;~w~$~/~ nie może odpoczywać (życie jest zagrożone).
+stealthEnter;~w~$~/~ начинает красться.;~w~$~/~ starts sneaking.;~w~$~/~开始潜行。;~w~$~/~ schleicht.;;;;~w~$~/~ zaczyna się skradać.
+stealthExit;~w~$~/~ перестаёт красться.;~w~$~/~ stops sneaking.;~w~$~/~结束潜行。;~w~$~/~ schleicht nicht mehr.;;;;~w~$~/~ przestaje się skradać.
+stealthSpot;~w~$~/~ не может красться (враг поднял тревогу).;~w~$~/~ can no longer sneak (the alarm was raised);敌人已经有所察觉，~w~$~/~无法继续潜行。;~w~$~/~ kann nicht mehr schleichen (Alarm wurde ausgelöst);;;;~w~$~/~ nie może się skradać (podniesiono alarm).
+npcTalk;~w~$~/~ и ~w~$~/~ заводят разговор.;~w~$~/~ and ~w~$~/~ strike a conversation.;~w~$~/~和~w~$~/~聊了起来。;~w~$~/~ und ~w~$~/~ führen eine Unterhaltung.;;;;~w~$~/~ i ~w~$~/~ rozpoczęli rozmowę.
+npcTrade;~w~$~/~ и ~w~$~/~ торгуют.;~w~$~/~ and ~w~$~/~ start trading.;~w~$~/~和~w~$~/~做起了买卖。;~w~$~/~ und ~w~$~/~ starten einen Handel.;;;;~w~$~/~ i ~w~$~/~ rozpoczęli wymianę.
+loadout;~w~$~/~ меняет вооружение.;~w~$~/~ switches loadout.;~w~$~/~切换了武器组合。;~w~$~/~ wechselt die Ausrüstung.;;;;~w~$~/~ zmienia wyposażenie.
+drinkWell;~w~$~/~ пьёт из $.;~w~$~/~ drinks from the $.;~w~$~/~喝了$的水。;~w~$~/~ trinkt aus dem $.;;;;~w~$~/~ pije z $.
+refillWell;~w~$~/~ наполняет бурдюк из $.;~w~$~/~ refills the waterskin at the $.;~w~$~/~在$灌满了水囊。;~w~$~/~ füllt den Wasserschlauch im $ wieder auf.;;;;~w~$~/~ napełnia bukłak z $.
+disturbEternalRest;~w~$~/~ тревожит вечный сон умертвия!;~w~$~/~ has disturbed Wraith's eternal rest!;~w~$~/~搅扰了长眠的幽魂！;~w~$~/~ hat den ewigen Schlaf eines Gespenstes gestört!;;;;~w~$~/~ sprawia, że wieczny spoczynek został naruszony!
+bonfireOn;~w~$~/~ разводит огонь.;~w~$~/~ lights a fire.;~w~$~/~生起了火。;~w~$~/~ entfacht ein Feuer.;;;;~w~$~/~ rozpala ogień.
+bonfireOff;~w~$~/~ тушит огонь.;~w~$~/~ extinguishes a fire.;~w~$~/~扑灭了火。;~w~$~/~ löscht ein Feuer.;;;;~w~$~/~ gasi ogień.
+hunger0;~w~$~/~ чувствует приятную сытость.;~w~$~/~ feels pleasantly satiated.;~w~$~/~十分满足。;~w~$~/~ fühlt sich gut gesättigt.;;;;~w~$~/~ czuje, że bebech jest pełen.
+hunger1;~w~$~/~ не прочь перекусить.;~w~$~/~ would like to have a snack.;~w~$~/~想吃点东西。;~w~$~/~ könnte einen Snack vertragen.;;;;~w~$~/~ czuje lekkie burczenie w brzuchu.
+hunger2;~w~$~/~ испытывает сильный голод.;~w~$~/~ suffers from severe hunger.;~w~$~/~饥肠辘辘。;~w~$~/~ leidet unter starkem Hunger.;;;;~w~$~/~ cierpi z głodu.
+hunger3;~w~$~/~ испытывает смертельный голод!;~w~$~/~ is about to starve to death!;~w~$~/~马上就要饿死了！;~w~$~/~ ist dem Hungertod nahe!;;;;~w~$~/~ wkrótce umrze z głodu!
+thirst1;~w~$~/~ испытывает жажду.;~w~$~/~ is thirsty.;~w~$~/~渴了。;~w~$~/~ ist durstig.;;;;~w~$~/~ ma lekko sucho w gardle.
+thirst2;~w~$~/~ испытывает сильную жажду.;~w~$~/~ suffers from severe thirst.;~w~$~/~口渴难耐。;~w~$~/~ leidet unter starkem Durst.;;;;~w~$~/~ czuje mocną suchość w gardle.
+thirst3;~w~$~/~ испытывает обезвоживание;~w~$~/~ is about to die from dehydration.;~w~$~/~马上就要渴死了！;~w~$~/~ steht vor dem Tod durch Dehydrierung.;;;;~w~$~/~ wkrótce umrze z pragnienia!
+pain1;~w~$~/~ испытывает боль.;~w~$~/~ is in pain.;~w~$~/~身上有些痛。;~w~$~/~ hat Schmerzen.;;;;~w~$~/~ czuje ból.
+pain2;~w~$~/~ испытывает сильную боль.;~w~$~/~ suffers from severe pain.;~w~$~/~剧痛难忍。;~w~$~/~ leidet unter starken Schmerzen.;;;;~w~$~/~ cierpi z powodu ciężkiego bólu.
+pain3;~w~$~/~ испытывает болевой шока!;~w~$~/~ suffers from pain shock!;~w~$~/~出现疼痛休克！;~w~$~/~ leidet unter Schmerzschock!;;;;~w~$~/~ cierpi na szok bólowy.
+toxic1;~w~$~/~ испытывает лёгкую интоксикацию.;~w~$~/~ feels slightly intoxicated.;~w~$~/~感觉自己稍微有些迷醉。;~w~$~/~ fühlt sich leicht vergiftet.;;;;~w~$~/~ czuje lekkie zatrucie.
+toxic2;~w~$~/~ испытывает тяжёлую интоксикацию.;~w~$~/~ is heavily intoxicated.;~w~$~/~出现明显迷醉。;~w~$~/~ ist schwer vergiftetet.;;;;~w~$~/~ cierpi na poważne zatrucie.
+toxic3;~w~$~/~ смертельно интоксицирован!;~w~$~/~ is critically intoxicated!;~w~$~/~严重迷醉。;~w~$~/~ ist kritisch vergiftet!;;;;~w~$~/~ wykańcza zatrucie!
+hungerDamage;~w~$~/~ ~r~слабеет~/~ от смертельного голода!;~w~$~/~ ~r~grows weaker~/~ from starvation!;~w~$~/~因为饥饿，身体有所虚弱。;~w~$~/~ ~r~wird schwächer~/~ vom Verhungern!;;;;~w~$~/~ ~r~ słabnie ~/~ przez głód!
+thirstDamage;~w~$~/~ ~r~слабеет~/~ от смертельной жажды!;~w~$~/~ ~r~grows weaker~/~ from dehydration!;~w~$~/~因为脱水，身体有所虚弱。;~w~$~/~ ~r~wird schwächer~/~ vom Wassermangel!;;;;~w~$~/~ ~r~ słabnie~/~ przez odwodnienie!
+painDamage;~w~$~/~ ~r~слабеет~/~ от смертельной боли!;~w~$~/~ ~r~grows weaker~/~ from extreme pain!;~w~$~/~因为极度疼痛，身体有所虚弱。;~w~$~/~ ~r~wird schwächer~/~ von extremen Schmerzen!;;;;~w~$~/~ ~r~słabnie~/~ w wyniku silnego bólu!
+toxicDamage;~w~$~/~ ~r~слабеет~/~ от смертельной интоксикации!;~w~$~/~ ~r~grows weaker~/~ from critical intoxication!;~w~$~/~因为严重迷醉，身体有所虚弱。;~w~$~/~ ~r~wird schwächer~/~ von der kritischen Vergiftung!;;;;~w~$~/~ ~r~słabnie~/~ przez silne zatrucie!
+heroism;~w~$~/~ испытывает прилив отваги.;~w~$~/~ feels courageous!;~w~$~/~无所畏惧！;~w~$~/~ fühlt sich mutig!;;;;~w~$~/~ czuje odwagę!
+secondWind;~w~$~/~ чувствует второе дыхание!;~w~$~/~ gets a second wind!;~w~$~/~元气恢复！;~w~$~/~ ist im Aufwind!;;;;~w~$~/~ dostaje drugą szansę!
+optimism;~w~$~/~ начинает надеяться на лучшее.;~w~$~/~ hopes for the best.;~w~$~/~斗志昂扬！;~w~$~/~ hofft auf das Beste.;;;;~w~$~/~ ma dobre nadzieje.
+prudence;~w~$~/~ решает действовать благоразумно.;~w~$~/~ decides to be prudent.;~w~$~/~决定谨慎一点。;~w~$~/~ beschließt, vorsichtig zu sein.;;;;~w~$~/~ decyduje się na ostrożność.
+sadism;~w~$~/~ наслаждается чужими страданиями.;~w~$~/~ enjoys bringing pain.;~w~$~/~喜欢让人痛苦。;~w~$~/~ genießt es, Schmerzen zu bringen.;;;;~w~$~/~ cieszy się z zadawania bólu.
+masochism;~w~$~/~ наслаждается собственной болью.;~w~$~/~ enjoys their own suffering.;~w~$~/~享受自己的痛苦。;~w~$~/~ genießen ihr eigenes Leiden.;;;;~w~$~/~ cieszy się z cierpienia.
+frenzy;~w~$~/~ теряет контроль в приступе ярости!;~w~$~/~ throws a tantrum!;~w~$~/~恼羞成怒！;~w~$~/~ hat einen Wutanfall!;;;;~w~$~/~ rzuca się z furią!
+megalomania;~w~$~/~ внезапно осознаёт всё свое величие.;~w~$~/~ suddenly realizes their own magnificence.;~w~$~/~突然意识到自己;~w~$~/~ erkennt plötzlich seine eigene Großartigkeit.;;;;~w~$~/~ nagle uświadamia sobie swoją niesamowitość.
+apathy;~w~$~/~ впадает в апатию.;~w~$~/~ becomes apathetic.;~w~$~/~无精打采。;~w~$~/~ wird gleichgültig.;;;;~w~$~/~ jest apatyczny.
+anxiety;~w~$~/~ начинает тосковать.;~w~$~/~ suffers from anxiety.;~w~$~/~十分焦虑。;~w~$~/~ leidet unter Angstzuständen.;;;;~w~$~/~ czuje niepokój.
+despair;~w~$~/~ впадает в отчаянье.;~w~$~/~ falls into despair.;~w~$~/~陷入绝望。;~w~$~/~ gerät in Verzweiflung.;;;;~w~$~/~ wpada w desperację.
+hypochondria;~w~$~/~ становится ипохондриком.;~w~$~/~ becomes hypochondriac.;~w~$~/~总感觉自己得了重病。;~w~$~/~ wird zum Hypochonder.;;;;~w~$~/~ staje się hipochondrykiem.
+coma;~w~$~/~ впадает в кому.;~w~$~/~ is comatose.;~w~$~/~昏了过去。;~w~$~/~ ist komatös.;;;;~w~$~/~ wpada w śpiączkę.
+stun;~w~$~/~ получает оглушение.;~w~$~/~ is stunned.;~w~$~/~出现硬直。;~w~$~/~ ist betäubt.;;;;~w~$~/~ pada ofiarą ogłuszenia.
+daze;~w~$~/~ получает ошеломление.;~w~$~/~ is dazed.;~w~$~/~被击晕了。;~w~$~/~ ist benommen.;;;;~w~$~/~ pada ofiarą oszołomienia.
+sleep;~w~$~/~ засыпает.;~w~$~/~ falls asleep.;~w~$~/~睡着了。;~w~$~/~ schläft ein.;;;;~w~$~/~ zasypia.
+poison;~w~$~/~ получает отравление.;~w~$~/~ is poisoned.;~w~$~/~中毒了。;~w~$~/~ ist vergiftet.;;;;~w~$~/~ czuje truciznę w ustach.
+bleeding;~w~$~/~ ~r~начинает истекать кровью~/~ (~w~$~/~).;~w~$~/~ ~r~starts bleeding~/~ (~w~$~/~).;~w~$~/~~r~开始出血~/~（~w~$~/~）。;~w~$~/~ ~r~ beginnt zu bluten~/~ (~w~$~/~).;;;;~w~$~/~ ~r~zaczyna krwawić~/~ (~w~$~/~).
+fire;~w~$~/~ в огне!;~w~$~/~ is on fire!;~w~$~/~身上着火了！;~w~$~/~ steht in Flammen!;;;;~w~$~/~ stoi w ogniu!
+immob;~w~$~/~ не может пошевелиться.;~w~$~/~ can't move.;~w~$~/~不能移动。;~w~$~/~ kann sich nicht bewegen.;;;;~w~$~/~ nie może się poruszać.
+confused;~w~$~/~ в замешательстве.;~w~$~/~ is confused.;~w~$~/~迷迷糊糊。;~w~$~/~ ist verwirrt.;;;;~w~$~/~ nie ogarnia, co się dzieje.
+nausea;~w~$~/~ страдает от рвоты.;~w~$~/~ vomits.;~w~$~/~吐了。;~w~$~/~ übergibt sich.;;;;~w~$~/~ wymiotuje.
+psyIncrease;~w~$~/~ повышается...;~w~$~/~ increases...;~w~$~/~有所提升……;~w~$~/~ erhöht sich...;;;;~w~$~/~ rośnie...
+psyDecrease;~w~$~/~ падает...;~w~$~/~ decreases...;~w~$~/~有所降低……;~w~$~/~ verringert sich...;;;;~w~$~/~ spada...
+sleepDebuff;~w~$~/~ не может спать (жизнь под угрозой).;~w~$~/~ can't sleep (life's under threat).;~w~$~/~性命不保，无法入睡。;~w~$~/~ kann nicht schlafen (das Leben ist in Gefahr).;;;;~w~$~/~ nie może zasnąć (życie jest zagrożone).
+sleepSave;~w~$~/~ засыпает. Игра сохранена.;~w~$~/~ falls asleep. Game's saved.;~w~$~/~睡着了，游戏进度已保存。;~w~$~/~ schläft ein. Das Spiel wurde gespeichert.;;;;~w~$~/~ słodko śpi. Stan gry zapisany.
+sleepWake;~w~$~/~ пробуждается.;~w~$~/~ wakes up.;~w~$~/~醒了。;~w~$~/~ wacht auf.;;;;~w~$~/~ budzi się.
+injury1;~w~$~/~ получает лёгкую травму (~w~$~/~).;~w~$~/~ $ is mildly injured.;~w~$~/~的$受了一点伤。;~w~$~/~ $ ist leicht verletzt.;;;;~w~$~/~ $ ma lekkie rany.
+injury2;~w~$~/~ получает среднюю травму (~w~$~/~).;~w~$~/~ $ is moderately injured.;~w~$~/~的$受伤了。;~w~$~/~ $ ist mäßig verletzt.;;;;~w~$~/~ $ ma średnie rany.
+injury3;~w~$~/~ получает тяжелую травму (~w~$~/~).;~w~$~/~ $ is severely injured.;~w~$~/~的$受了重伤。;~w~$~/~ $ ist schwer verletzt.;;;;~w~$~/~ $ ma poważne rany.
+injuryStabil1;~w~$~/~ стабилизирует лёгкую травму (~w~$~/~).;~w~$~/~ stabilizes slightly injured $.;~w~$~/~稳定了$的轻伤。;~w~$~/~ stabilisiert leicht verletzte(n) $.;;;;~w~$~/~ stabilizuje lekko ranną część ciała - $.
+injuryStabil2;~w~$~/~ стабилизирует среднюю травму (~w~$~/~).;~w~$~/~ stabilizes moderately injured $.;~w~$~/~稳定了$不是非常严重的伤情。;~w~$~/~ stabilisiert mäßig verletzte(n) $.;;;;~w~$~/~ stabilizuje średnio ranną część ciała - $.
+injuryStabil3;~w~$~/~ стабилизирует тяжелую травму (~w~$~/~).;~w~$~/~ stabilizes severely injured $.;~w~$~/~稳定了$严重的伤情。;~w~$~/~ stabilisiert schwer verletzte(n) $.;;;;~w~$~/~ stabilizuje ciężko ranną część ciała - $.
+foodSpoliageSoon;~lg~$~/~ скоро испортится.;~lg~$~/~ is about to spoil.;~lg~$~/~快要变质了。;~lg~$~/~ ist dabei, zu verderben.;;;;~lg~$~/~ zaraz się zepsuje.
+foodSpoliage;~lg~$~/~ сгнивает.;~lg~$~/~ spoils.;~lg~$~/~变质了。;~lg~$~/~ verdirbt.;;;;~lg~$~/~ nie nadaje się do jedzenia.
+weaponBreakSoon;~lg~$~/~ начинает приходить в негодность.;~lg~$~/~ is about to break.;~lg~$~/~快要坏了。;~lg~$~/~ geht bald kaputt.;;;;~lg~$~/~ wkrótce się zepsuje.
+weaponBreak;~lg~$~/~ приходит в негодность.;~lg~$~/~ breaks.;~lg~$~/~坏了。;~lg~$~/~ geht kaputt.;;;;~lg~$~/~ nie nadaje się do użytku.
+bedUnpaid;~w~$~/~ не может спать на неоплаченной кровати.;~w~$~/~ can't sleep in the bed unless it's paid for.;~w~$~/~还没有付房钱，不能上床睡觉。;~w~$~/~ kann nicht im Bett schlafen, wenn es nicht bezahlt ist.;;;;~w~$~/~ nie może spać w łóżku, które nie jest wynajęte.
+cook;~w~$~/~ готовит:;~w~$~/~ cooks:;~w~$~/~做了：;~w~$~/~ kocht:;;;;~w~$~/~ gotuje:
+repVillageUp;Репутация с населением ~w~$~/~ растёт!;Your reputation with ~w~$~/~ has improved!;你在~w~$~/~那里的声誉提升了！;Dein Ruf bei ~w~$~/~ hat sich verbessert!;;;;Twoja reputacja wobec frakcji ~w~$~/~ wzrosła!
+repVillageDown;Репутация с населением ~w~$~/~ ухудшается...;Your reputation with ~w~$~/~ has decreased...;你在~w~$~/~那里的声誉下降了……;Dein Ruf bei ~w~$~/~ hat sich verschlechtert!;;;;Twoja reputacja wobec frakcji ~w~$~/~ spadła...
+repVillageTier;Репутация с населением ~w~$~/~ достигла отметки ~y~$~/~.;Your reputation with ~w~$~/~ has reached the point of ~y~$~/~.;你和~w~$~/~的关系变成了“~y~$~/~”。;Dein Ruf bei ~w~$~/~ hat den Punkt von ~y~$~/~ erreicht.;;;;Twoja reputacja wobec frakcji ~w~$~/~ uzyskała poziom ~y~$~/~.
+repFactionUp;Репутация с фракцией ~w~$~/~ растёт!;Your reputation with ~w~$~/~ has improved!;你在~w~$~/~那里的声誉提升了！;Dein Ruf bei ~w~$~/~ hat sich verbessert!;;;;Twoja reputacja wobec frakcji ~w~$~/~ wzrosła!
+repFactionDown;Репутация с фракцией ~w~$~/~ ухудшается...;Your reputation with ~w~$~/~ has decreased...;你在~w~$~/~那里的声誉下降了……;Dein Ruf bei ~w~$~/~ hat sich verbessert!;;;;Twoja reputacja wobec frakcji ~w~$~/~ spadła...
+repFactionTier;Репутация с фракции ~w~$~/~ достигла отметки ~y~$~/~.;Your reputation with ~w~$~/~ has reached the point of ~y~$~/~.;你和~w~$~/~的关系变成了“~y~$~/~”。;Dein Ruf bei ~w~$~/~ hat den Punkt von ~y~$~/~ erreicht.;;;;Twoja reputacja wobec frakcji ~w~$~/~ uzyskała poziom ~y~$~/~.
+sleepDanger;Сон здесь небезопасен: неподалёку враги.;It's not safe to sleep here: the enemies are nearby.;附近有敌人，睡觉太危险。;Es ist nicht sicher, um hier zu schlafen: Feinde sind in der Nähe.;;;;Odpoczynek w tym miejscu jest niebezpieczny : przeciwnicy są w pobliżu.
+;text_end;text_end;text_end;text_end;;;;text_end
+;;;;;;;;
+;words;words;words;words;;;;words
+attack;атакует;attacks;攻击;attackiert;;;;atakuje
+counterAttack;контратакует;counterattacks;反击;kontert;;;;kontratakuje
+health;здоровья;health;生命;Gesundheit;;;;zdrowia
+durability;прочности;durability;耐久;Haltbarkeit;;;;wytrzymałości
+morale;Мораль;Morale;斗志;Moral;;;;Morale
+sanity;Рассудок;Sanity;神智;geistige Gesundheit;;;;Zdrowia Psychicznego
+regeneration;регенерация;restoration;恢复;Regeneration;;;;odnawia
+lifeSteal;похищение здоровья;life drain;生命吸取;Lebensentzug;;;;wykrada zdrowia
+energySteal;похищение энергии;energy drain;精力吸取;Energieentzug;;;;wykrada energii
+gold;золото;gold;黄金;Gold;;;;złota
+unaware;теряет след персонажа;loses track of your character;被你甩掉了;verliert den Kontakt zu deinem Charakter;;;;traci twoją postać ze wzroku
+alarm;настораживается;alarmed;警觉;alarmiert;;;;zaalarmowany
+hostile;замечает персонажа;hostile;敌意;feindlich;;;;wrogi
+crit;критическую атаку;critical hit;暴击;krit. Treffer;;;;krytyczny cios
+xp;опыта;XP;点经验;XP;;;;XP
+leftHand;левая рука;left hand;左手;linke Hand;;;;lewa ręka
+rightHand;правая рука;right hand;右手;rechte Hand;;;;prawa ręka
+paw;лапа;paw;手掌;Pfote;;;;łapa
+leftLeg;левая нога;left leg;左腿;linkes Bein;;;;lewa noga
+rightLeg;правая нога;right leg;右腿;rechtes Bein;;;;prawa noga
+head;голова;head;头部;Kopf;;;;głowa
+torso;торс;torso;躯干;Rumpf;;;;tułów
+well;колодца;well;水井;Brunnen;;;;studni
+waterfall;водопада;waterfall;瀑布;Wasserfall;;;;wodospadu
+hatred;Ненависть;Hatred;敌对;Verhasst;;;;znienawidzony
+dislike;Неприязнь;Resentment;反感;Abneigung;;;;zły
+neutral;Нейтралитет;Neutrality;不好不坏;Neutral;;;;neutralny
+admiration;Благосклонность;Benevolence;友好;Wohlwollen;;;;życzliwy
+amity;Дружелюбие;Amity;和睦;Freundschaft;;;;przyjazny
+respect;Уважение;Respect;敬重;Respekt;;;;szanuje cię
+;words_end;words_end;words_end;words_end;;;;words_end
+;;;;;;;;
+;actions;actions;actions;actions;;;;actions
+food;ест;eats;吃了;isst;;;;je
+drink;пьёт:;drinks;喝了;trinkt;;;;pije
+tool;применяет;applies;用了;benutzt;;;;nakłada
+drug;употребляет;uses;用了;nimmt;;;;używa
+treatise;изучает;studies;学了;studiert;;;;czyta
+other;использует;uses;用了;benutzt;;;;używa
+;actions_end;actions_end;actions_end;actions_end;;;;actions_end
+;;;;;;;;
+;damages;damages;damages;damages;;;;damages
+Slashing;рубящего;slashing;点劈砍;schlitzend;;;;Przecinających
+Piercing;колющего;piercing;点穿刺;stechend;;;;Przebijających
+Blunt;дробящего;crushing;点钝器;schmetternd;;;;Obalających
+Rending;разрывающего;rending;点撕裂;reißend;;;;Rozcinających
+Fire;огненного;fire;点灼烧;feuer;;;;od Ognia
+Frost;морозного;frost;点霜冻;frost;;;;od Zamrożenia
+Shock;электрического;shock;点电击;schock;;;;od Porażenia
+Poison;ядовитого;poison;点中毒;gift;;;;od Trucizn
+Caustic;разъедающего;caustic;点腐蚀;säure;;;;od Kwasów
+Psionic;псионического;psionic;点灵术;psionisch;;;;Psychicznych
+Arcane;арканического;arcane;点秘术;arkan;;;;Tajemnych
+Sacred;священного;sacred;点神圣;heilig;;;;Świętych
+Unholy;нечестивого;unholy;点邪术;unheilig;;;;Przeklętych
+;damages_end;damages_end;damages_end;damages_end;;;;damages_end
+;;;;;;;;
+;symbols;symbols;symbols;symbols;;;;symbols
+dot;.;.;。;.;;;;.
+question;?;?;？;?;;;;?
+ellipsis;...;…;……;…;;;;…
+comma;,;,;，;,;;;;,
+commaEnum;,;,;、;,;;;;,
+openRoundBracket;(;(;（;(;;;;(
+closeRoundBracket;););）;);;;;)
+colon;:;:;：;:;;;;:
+openQuote;";";“;";;;;"
+closeQuote;";";”;";;;;"
+;symbols_end;symbols_end;symbols_end;symbols_end;;;;symbols_end

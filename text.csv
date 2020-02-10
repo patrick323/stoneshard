@@ -1,0 +1,637 @@
+«;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
+специальные теги, не удалять, не изменять, при добавлении переносить вниз;Char_panel;Char_panel;Char_panel;Char_panel;;;;Char_panel
+1;ПЕРСОНАЖ;CHARACTER;人物;CHARAKTER;;;;POSTAĆ
+2;Сила;Strength;力量;Stärke;;;;Siła
+3;Ловкость;Agility;敏捷;Beweglichkeit;;;;Zręczność
+4;Восприятие;Perception;感知;Wahrnehmung;;;;Percepcja
+5;Живучесть;Vitality;活力;Vitalität;;;;Witalność
+6;Опыт:;XP:;经验：;EP:;;;;XP:
+7;Уровень;Level;等级;Stufe;;;;Poziom
+8;ОА;AP;属性点;AP;;;;AP
+9;БОЙ;COMBAT;战斗;KAMPF;;;;WALKA
+10;МАГИЯ;MAGIC;魔法;MAGIE;;;;MAGIA
+11;ВЫЖИВАНИЕ;SURVIVAL;生存;ÜBERLEBEN;;;;PRZETRWANIE
+12;ПРОЧЕЕ;OTHER;其他;ANDERES;;;;INNE
+13;СОПРОТИВЛЯЕМОСТЬ УРОНУ;DAMAGE RESISTANCE;伤害抗性;SCHADENSRESISTENZ;;;;ODP. NA OBRAŻENIA
+14;Веррен;Verren;维伦;Verren;;;;Verren
+15;Воля;Willpower;意志;Willenskraft;;;;Siła woli
+16;ОС;SP;技能点;FP;;;;SP
+17;ЗДОРОВЬЕ;HEALTH;生命;GESUNDHEIT;;;;ZDROWIE
+18;ПСИХИКА;PSYCHE;精神;PSYCHE;;;;PSYCHIKA
+19;БОЛЕЗНИ;MALADIES;负面状态;KRANKHEITEN;;;;DOLEGLIWOŚCI
+20;Голова;Head;头部;Kopf;;;;Głowa
+21;Торс;Torso;躯干;Rumpf;;;;Korpus
+22;Л. Рука;L. Hand;左手;L. Hand;;;;L. Ręka
+23;П. Рука;R. Hand;右手;R. Hand;;;;P. Ręka
+24;Л. Нога;L. Leg;左腿;L. Bein;;;;L. Noga
+25;П. Нога;R. Leg;右腿;R. Bein;;;;P. Noga
+26;ЭНЕРГИЯ;ENERGY;精力;ENERGIE;;;;ENERGIA
+;Char_panel_end;Char_panel_end;Char_panel_end;Char_panel_end;;;;Char_panel_end
+;;;;;;;;
+;Invent;Invent;Invent;Invent;;;;Invent
+1;ИНВЕНТАРЬ;INVENTORY;物品栏;INVENTAR;;;;EKWIPUNEK
+2;Добыча;Loot;战利;Beute;;;;Zdobycz
+3;Сундук;Chest;箱子;Truhe;;;;Skrzynia
+4;Саркофаг;Sarcophagus;石棺;Sarkrophag;;;;Sarkofag
+5;Котелок;Cauldron;大锅;Kessel;;;;Gar
+6;Пень;Trunk;箱子;Stamm;;;;Kufer
+7;Сервант;Cupboard;碗橱;Schrank;;;;Kredens
+8;Шкаф;Wardrobe;衣柜;Kleiderschrank;;;;Szafa
+9;Тумбочка;Nightstand;床头柜;Nachttisch;;;;Stolik nocny
+10;Полка;Shelf;架子;Regal;;;;Półka
+11;Ключ;Key Holder;钥匙挂架;Schlüsselbrett;;;;Hak na klucz
+12;Труп;Corpse;尸体;Leiche;;;;Ciało
+13;Лук;Bow;弓;Bogen;;;;Łuk
+14;Ящик;Crate;木箱;Kiste;;;;Skrzynka
+15;Тело Лока;Locke's Body;洛克的尸体;Locke's Körper;;;;Ciało Lockego
+16;Стол;Table;桌子;Tisch;;;;Stół
+17;Скамья;Bench;长凳;Bank;;;;Ławka
+18;Рюкзак;Backpack;背包;Rucksack;;;;Plecak
+19;ТОРГОВЛЯ;TRADING;交易;HANDELN;;;;HANDEL
+20;НАГРАДА;REWARD;报酬;BELOHNUNG;;;;NAGRODA
+21;АВАНС;ADVANCE;预付;FORTSCHRITT;;;;AWANS
+22;Тюки;Sacks;口袋;Säcke;;;;Worki
+23;Бочка;Barrel;木桶;Fass;;;;Beczka
+24;Стойка;Rack;架子;Gestell;;;;Stojak
+25;Шкаф;Bookcase;书柜;Bücherregal;;;;Biblioteczka
+26;Капкан;Bear Trap;捕熊陷阱;Bärenfalle;;;;Pułapka na niedźwiedzia
+27;Шипы;Spike Trap;突刺陷阱;Dornenfalle;;;;Pułapka z kolcami
+28;Ваза;Vase;瓶子;Vase;;;;Waza
+29;Бочка;Barrel;木桶;Fass;;;;Beczka
+30;Дверь;Door;门;Tür;;;;Drzwi
+31;Пьедестал;Pedestal;台座;Sockel;;;;Piedestał
+32;Каменный стол;Stone Table;石桌;Steintisch;;;;Kamienny Stół
+33;Гроб;Coffin;棺材;Sarg;;;;Trumna
+34;Нечестивый алтарь;Unholy Altar;邪术祭坛;Unheiliger Altar;;;;Splugawiony Ołtarz
+35;Телега;Cart;推车;Karren;;;;Wózek
+36;Статуя;Statue;雕像;Statue;;;;Posąg
+37;Железная дева;Iron Maiden;铁处女;Eiserne Jungfrau;;;;Żelazna Dziewica
+38;Дыба;Torture Rack;刑具架;Folterbank;;;;Stojak Tortur
+39;Колодки;Stocks;枷锁;Vorräte;;;;Dyby
+40;Клетка;Cage;笼子;Käfig;;;;Klatka
+41;Пыточный стул;Torture Chair;刑椅;Folterstuhl;;;;Krzesło Tortur
+42;Стул;Chair;椅子;Stuhl;;;;Krzesło
+43;Кровать;Bed;床;Bett;;;;Łóżko
+44;Груда бочек;Stack of Barrels;几个木桶;Stapel Fässer;;;;Sterta beczek
+45;Груда ящиков;Stack of Crates;几个木箱;Stapel Kisten;;;;Sterta skrzynek
+46;Бадья;Tub;浴桶;Waschzuber;;;;Wanna
+47;Нужник;Latrine;便坑;Latrine;;;;Latryna
+;Invent_end;Invent_end;Invent_end;Invent_end;;;;Invent_end
+;;;;;;;;
+;;;;;;;;
+;Skill_menu;Skill_menu;Skill_menu;Skill_menu;;;;Skill_menu
+1;СПОСОБНОСТИ;SKILLS;技能;FERTIGKEITEN;;;;ZDOLNOŚCI
+2;Ступень;Tier;类别;Rang;;;;Poziom
+3;Активные;Active;主动;Aktiv;;;;Aktywne
+4;Пассивные;Passive;被动;Passiv;;;;Pasywne
+5;Вы собираетесь изучить;You're about to learn;你即将学会;Du lernst;;;;Chcesz nauczyć się zdolności
+6;Ступени;Tier;类别;Rang;;;;Poziom
+7;ОРУЖИЕ;WEAPONS;武器;WAFFEN;;;;BRONIE
+8;НАВЫКИ;UTILITY;常规;WERKZEUG;;;;DODATKI
+9;МАГИЯ;SORCERY;法术;MAGIE;;;;MAGIA
+10;ПРИНЯТЬ;CONFIRM;确认;BESTÄTIGEN;;;;POTWIERDŹ
+11;ОТМЕНА;CANCEL;取消;ABBRUCH;;;;ANULUJ
+;Skill_menu_end;Skill_menu_end;Skill_menu_end;Skill_menu_end;;;;Skill_menu_end
+;;;;;;;;
+;Journal_menu;Journal_menu;Journal_menu;Journal_menu;;;;Journal_menu
+1;ЖУРНАЛ;JOURNAL;日志;TAGEBUCH;;;;DZIENNIK
+2;ЗАДАНИЯ;QUESTS;任务;AUFGABEN;;;;ZADANIA
+3;КАРТА;MAP;地图;KARTE;;;;MAPA
+4;РЕПУТАЦИЯ;REPUTATION;声誉;RUF;;;;REPUTACJA
+5;СЛУХИ;RUMORS;传言;GERÜCHTE;;;;PLOTKI
+6;БЕСТИАРИЙ;BESTIARY;敌人图鉴;BESTIARIUM;;;;BESTIARIUSZ
+7;ЗАДАНИЯ;QUESTS;任务;AUFTRÄGE;;;;ZADANIA
+8;КОНТРАКТЫ;BOUNTIES;赏金;KOPFGELDER;;;;ZLECENIA
+9;Ход выполнения:;Progress:;进度：;Fortschritt:;;;;Progres:
+10;Награда:;Reward:;报酬：;Belohnung:;;;;Nagroda:
+11;ВЫПОЛНЕННЫЕ;COMPLETED;完成;ERLEDIGT;;;;UKOŃCZONE
+12;ПРОВАЛЕННЫЕ;FAILED;失败;FEHLGESCHLAGEN;;;;PORAŻKI
+;Journal_menu_end;Journal_menu_end;Journal_menu_end;Journal_menu_end;;;;Journal_menu_end
+;;;;;;;;
+;Tier_name;Tier_name;Tier_name;Tier_name;;;;Tier_name
+Swords;Мечи;Swords;剑;Schwerter;;;;Miecze
+Axes;Топоры;Axes;斧;Äxte;;;;Topory
+Maces;Булавы;Maces;钉头锤;Streitkolben;;;;Buławy
+Daggers;Кинжалы;Daggers;匕首;Dolche;;;;Sztylety
+Greatswords;Двуручные мечи;Greatswords;大剑;Großschwerter;;;;Wielkie Miecze
+Bows;Стрельба;Ranged Weapons;远程武器;Fernkampfwaffen;;;;Bronie Dystansowe
+Shields;Щиты;Shields;盾牌;Schilde;;;;Tarcze
+Armor;Ношение брони;Armor;盔甲;Rüstung;;;;Pancerze
+Dual Wielding;Парное оружие;Dual Wielding;双持武器;Zwei Waffen;;;;Dwie Bronie Jednocześnie
+Sabotage;Саботаж;Sabotage;破坏;Sabotage;;;;Sabotaż
+Medicine;Медицина;Medicine;医药;Medizin;;;;Medycyna
+Pyromancy;Пиромантия;Pyromancy;炎术;Pyromantie;;;;Piromancja
+Electromancy;Электромантия;Electromancy;电术;Elektromantie;;;;Elektromancja
+Basic Skills;Основные навыки;Basic Skills;基础技能;Basisfertigkeiten;;;;Podstawowe
+Class Skills;Классовые навыки;Class Skills;职业技能;Klassenfertigkeiten;;;;Klasowe
+Greataxes;Двуручные топоры;Greataxes;大斧;Großäxte;;;;Wielkie Topory
+Greatmauls;Двуручные молоты;Greatmauls;大锤;Großhämmer;;;;Wielkie Buławy
+Polearms;Древковое оружие;Polearms;长柄武器;Stangenwaffen;;;;Broń Drzewcowa
+Crossbows;Арбалеты;Crossbows;弩;Armbrüste;;;;Kusze
+Staves;Посохи;Staffs;长杖;Stäbe;;;;Laski
+Wands;Жезлы;Wands;短杖;Zauberstäbe;;;;Różdżki
+Survival;Выживание;Survival;生存;Überleben;;;;Przeżycie
+Alchemy;Алхимия;Alchemy;炼金;Alchemie;;;;Alchemia
+Combat;Ведение боя;Combat Mastery;战斗;Kampfmeisterschaft;;;;Mistrzostwo Walki
+Mastery of magic;Искусство магии;Magic Mastery;魔法;Magiemeisterschaft;;;;Mistrzostwo Magii
+Venomancy;Веномантия;Venomancy;用毒;Venomantie;;;;Truciznmancja
+Geomancy;Геомантия;Geomancy;地术;Geomantie;;;;Geomancja
+Psymancy;Псимантия;Psymancy;灵术;Psychomantie;;;;Psychomancja
+Astromancy;Астромантия;Astromancy;星术;Astromantie;;;;Astromancja
+Chronomancy;Хрономантия;Chronomancy;命术;Chronomantie;;;;Chronomancja
+Arcanistics;Арканистика;Arcanistics;秘术;Arkanistik;;;;Arkanizm
+Athletics;Атлетика;Athletics;肢体活动;Athletik;;;;Atletyka
+Cryomancy;Криомантия;Cryomancy;冰术;Kryomantie;;;;Cryomancja
+;Tier_name_end;Tier_name_end;Tier_name_end;Tier_name_end;;;;Tier_name_end
+;;;;;;;;
+;;;;;;;;
+;rarity;rarity;rarity;rarity;;;;rarity
+1;обычный / обычная / обычное / обычные;Common;普通;Gewöhnlicher / Gewöhnliche / Gewöhnliches / Gewöhnliche;;;;Zwykły / Zwykła / Zwykłe / Zwykłe
+2;зачарованный / зачарованная / зачарованное / зачарованные;Enchanted;附魔;Verzauberter / Verzauberte / Verzaubertes / Verzauberte;;;;Zaklęte / Zaklęta / Zaklęte / Zaklęte
+3;магический / магическая / магическое / магические;Magical;魔法;Magischer / Magische / Magisches / Magische;;;;Magiczny / Magiczna / Magiczne / Magiczne
+4;легендарный / легендарная / легендарное / легендарные;Legendary;传说;Legendärer / Legendäre / Legendäres / Legendäre;;;;Legendarny / Legendarna / Legendarne / Legendarne
+5;проклятый / проклятая / проклятое / проклятые;Cursed;诅咒;Verfluchter / Verfluchte / Verfluchtes / Verfluchte;;;;Przeklęty / Przeklęta / Przeklęte / Przeklęte
+6;уникальный / уникальная / уникальное / уникальные;Unique;独一无二;Einmaliger / Einmalige / Einmaliges / Einmalige;;;;Unikalny / Unikalna / Unikalne / Unikalne
+;rarity_end;rarity_end;rarity_end;rarity_end;;;;rarity_end
+;;;;;;;;
+;prefix;prefix;prefix;prefix;;;;prefix
+Bleeding_Chance;Зазубренный / Зазубренная / Зазубренное / Зазубренные;Barbed;倒钩;Stachliger / Stachlige / Stachliges / Stachlige;;;;Zaostrzony / Zaostrzona / Zaostrzone / Zaostrzone
+Fire_Damage;Пламенеющий / Пламенеющая / Пламенеющее / Пламенеющие;Flaming;烈焰;Flammender / Flammende / Flammendes / Flammende;;;;Płonący / Płonąca / Płonące / Płonące
+Frost_Damage;Морозный / Морозная / Морозное / Морозные;Chilling;寒冰;Kühlender / Kühlende / Kühlendes / Kühlende;;;;Chłodzący / Chłodząca / Chłodzące / Chłodzące
+Poison_Damage;Ядовитый / Ядовитая / Ядовитое / Ядовитые;Venomous;剧毒;Giftiger / Giftige / Giftiges / Giftige;;;;Otruwający / Otruwająca / Otruwające / Otruwające
+HP;Укрепляющий / Укрепляющая / Укрепляющее / Укрепляющие;Fortifying;强身;Stärkender / Stärkende / Stärkendes / Stärkende;;;;Fortyfikujący / Fortyfikująca / Fortyfikujące / Fortyfikujące
+PRR;Устойчивый / Устойчивая / Устойчивое / Устойчивые;Steady;稳定;Stetiger / Stetige / Stetiges / Stetige;;;;Spokojny / Spokojna / Spokojne / Spokojne
+Shock_Damage;Электризованный / Электризованная / Электризованное / Электризованные;Electrified;带电;Elektrifizierter / Elektrifizierte / Elektrifiziertes / Elektrifizierte;;;;Elektryzujący / Elektryzująca / Elektryzujące / Elektryzujące
+EVS;Уклончивый / Уклончивая / Уклончивое / Уклончивые;Elusive;灵敏;Flüchtiger / Flüchtige / Flüchtiges / Flüchtige;;;;Nieuchwytny / Nieuchwytna / Nieuchwytne / Nieuchwytne
+CTA;Дуэльный / Дуэльная / Дуэльное / Дуэльные;Dueling;对决;Duellierender / Duellierende / Duellierendes / Duellierende;;;;Podwójny / Podwójna / Podwójne / Podwójne
+10;Магический / Магическая / Магическое / Магические;Arcane;秘术;Arkaner / Arkane / Arkanes / Arkane;;;;Tajemny / Tajemna / Tajemne / Tajemne
+Magic_Power;Заряженный / Заряженная / Заряженное / Заряженные;Charged;魔能;Geladener / Geladene / Geladenes / Geladene;;;;Naładowany / Naładowana / Naładowane / Naładowane
+Caustic_Damage;Кислотный / Кислотная / Кислотное / Кислотные;Acidic;酸性;Ätzender / Ätzende / Ätzendes / Ätzende;;;;Toksyczny / Toksyczna / Toksyczne / Toksyczne
+MP_Restoration;Восстанавливающий / Восстанавливающая / Восстанавливающее / Восстанавливающие;Restorative;回神;Wiederherstellender / Wiederherstellende / Wiederherstellendes / Wiederherstellende;;;;Odnawiający / Odnawiająca / Odnawiające / Odnawiające
+Hit_Chance;Сбалансированный / Сбалансированная / Сбалансированное / Сбалансированные;Balanced;均衡;Ausgeglichener / Ausgeglichene / Ausgeglichenes / Ausgeglichene;;;;Balansowany / Balansowana / Balansowane / Balansowane
+Weapon_Damage;Смертоносный / Смертоносная / Смертоносное / Смертоносные;Deadly;致命;Tödlicher / Tödliche / Tödliches / Tödliche;;;;Śmiertelny / Śmiertelna / Śmiertelne / Śmiertelne
+DEF;Крепкий / Крепкая / Крепкое / Крепкие;Sturdy;健壮;Robuster / Robuste / Robustes / Robuste;;;;Krzepki / Krzepka / Krzepkie / Krzepkie
+Damage_Received;Оберегающий / Оберегающая / Оберегающее / Оберегающие;Protecting;防护;Schützender / Schützende / Schützendes / Schützende;;;;Ochronny / Ochronna / Ochronne / Ochronne
+Savvy;Рабочий / Рабочая / Рабочее / Рабочие;Crafty;睿智;Geschickter / Geschickte / Geschicktes / Geschickte;;;;Chytry / Chytra / Chytre / Chytre
+VSN;Зоркий / Зоркая / Зоркое / Зоркие;Watchful;敏锐;Aufmerksamer / Aufmerksame / Aufmerksames / Aufmerksame;;;;Czujny / Czujna / Czujne / Czujne
+20;Осторожный / Осторожная / Осторожное / Осторожные;Cautious;谨慎;Vorsichtiger / Vorsichtige / Vorsichtiges / Vorsichtige;;;;Ostrożny / Ostrożna / Ostrożne / Ostrożne
+CRTD;Убийственный / Убийственная / Убийственное / Убийственные;Slaying;杀手;Mordender / Mordende / Mordendes / Mordende;;;;Siekający / Siekająca / Siekające / Siekające
+FMB;Удобный / Удобная / Удобное / Удобные;Handy;稳健;Handlicher / Handliche / Handliches / Handliche;;;;Poręczny / Poręczna / Poręczne / Poręczne
+23;Взламывающий / Выламывающая / Выламывающее / Выламывающие;Burglarious;盗贼;Einbrechender / Einbrechende / Einbrechendes / Einbrechende;;;;Łamiący / Łamiąca / Łamiące / Łamiące
+STL;Скрытный / Скрытная / Скрытное / Скрытные;Stealthy;潜行;Heimlicher / Heimliche / Heimliches / Heimliche;;;;Skryty / Skryta / Skryte / Skryte
+25;Закалённый / Закаленная / Закаленное / Закаленные;Hardened;硬化;Gehärteter / Gehärtete / Gehärtetes / Gehärtete;;;;Utwardzony / Utwardzona / Utwardzone / Utwardzone
+Lifesteal;Вампирический / Вампиричиеская / Вампирическое / Вампиричиеское;Vampiric;吸血;Vampirischer / Vampirische / Vampirisches / Vampirische;;;;Wampiryczny / Wampiryczna / Wampiryczne / Wampiryczne
+Damage_Returned;Бдительный / Бдительная / Бдительное / Бдительные;Vigilant;警觉;Wachsamer / Wachsame / Wachsames / Wachsame;;;;Obserwujący / Obserwująca / Obserwujące / Obserwujące
+Slaying_Chance;Обезглавливающий / Обезглавливающая / Обезглавливающее / Обезглавливающие;Decapitating;夺命;Köpfender / Köpfende / Köpfendes / Köpfende;;;;Odcinający / Odcinająca / Odcinające / Odcinające
+Manasteal;Поглощающий / Поглощающая / Поглощающее / Поглощающие;Leeching;精力吸取;Blutsaugender / Blutsaugende / Blutsaugendes / Blutsaugende;;;;Wykradający / Wykradająca / Wykradające / Wykradające
+Health_Restoration;Целебный / Целебная / Целебное / Целебные;Healing;疗伤;Heilender / Heilende / Heilendes / Heilende;;;;Leczący / Lecząca / Leczące / Leczące
+31;Шипованный / Шипованная / Шипованное / Шипованные;Studded;带钉;Beschlagener / Beschlagene / Beschlagenes / Beschlagene;;;;Ćwiekowany / Ćwiekowana / Ćwiekowane / Ćwiekowane
+Injury_Chance;Сокрушительный / Сокрушительная / Сокрушительное / Сокрушительные;Crippling;致残;Verkrüppelnder / Verkrüppelnde / Verkrüppelndes / Verkrüppelnde;;;;Okaleczający / Okaleczająca / Okaleczające / Okaleczające
+Armor_Piercing;Бронебойный / Бронебойная / Бронебойное / Бронебойные;Armor-Piercing;穿甲;Durchbohrender / Durchbohrende / Durchbohrendes / Durchbohrende;;;;Przebijający / Przebijająca / Przebijające / Przebijające
+34;Очищающий / Очищающая / Очищающее / Очищающие;Purifying;净化;Reinigender / Reinigende / Reinigendes / Reinigende;;;;Oczyszczający / Oczyszczająca / Oczyszczające / Oczyszczające
+35;Разумный / Разумная / Разумное / Разумные;Reasonable;合理;Vernünftiger / Vernünftige / Vernünftiges / Vernünftige;;;;Rozsądny / Rozsądna / Rozsądne / Rozsądne
+MP;Энергичный / Энергичная / Энергичное / Энергичные;Vigouros;活力;Ernergischer / Energische / Energisches / Energische;;;;Energiczny / Energiczna / Energiczne / Energiczne
+Skills_Energy_Cost;Эффективный / Эффективная / Эффективное / Эффективные;Effective;效率;Effektiver / Effektive / Effektives / Effektive;;;;Efektywne / Efektywna / Efektywne / Efektywne
+CRT;Беспощадный / Беспощадная / Беспощадное / Беспощадные;Merciless;无情;Erbarmungsloser / Erbarmungslose / Erbarmungsloses Erbarmungslose;;;;Bezlitowny / Bezlitosna / Bezlitosne / Bezlitosne
+Bonus_Range;Дальнобойный / Дальнобойная / Дальнобойное / Дальнобойные;Long-Range;远程;Weitrechender / Weitreichende / Weitreichendes / Weitreichende;;;;Dystansowy / Dystansowna / Dystansowne / Dystansowne
+Fortitude;Бесстрашный / Бесстрашная / Бесстрашное / Бесстрашные;Fearless;无畏;Furchtloser / Furchtlose / Furchtloses / Furchtlose;;;;Nieustraszony / Nieustraszona / Nieustraszone / Nieustraszone
+Noise_Produced;Бесшумный / Бесшумная / Бесшумное / Бесшумные;Noiseless;无声;Geräuschloser / Geräuschlose / Geräuschloses / Geräuschlose;;;;Bezgłośny / Bezgłośna / Bezgłośne / Bezgłośne
+Loot_Find;Мародерский / Мародерская / Мародерское / Мародерские;Marauding;劫掠;Marodierender / Marodierende / Marodierendes / Marodierende;;;;Łupiący / Łupiąca / Łupiące / Łupiące
+Gold_Find;Алчный / Алчная / Алчное / Алчные;Greedy;贪婪;Gieriger / Gierige / Gieriges / Gierige;;;;Chciwy / Chciwa / Chciwe / Chciwe
+Healing_Received;Метаболический / Метаболическая / Метаболическое / Метаболические;Metabolic;代谢;Metabolischer / Metabolische / Metabolisches / Metabolische;;;;Metaboliczny / Metaboliczna / Metaboliczne / Metaboliczne
+Received_XP;Вдохновляющий / Вдохновляющая / Вдохновляющее / Вдохновляющая;Inspiring;鼓舞;Inspirierender / Inspirierende / Inspirierendes / Inspirierende;;;;Inspirujące / Inspirująca / Inspirujące / Inspirujące
+Slashing_Resistance;Непробиваемый / Непробиваемая / Непробиваемое / Непробиваемые;Impenetrable;坚韧;Undurchdringlicher / Undurchdringliche / Undurchdringliches / Unduchdringliche;;;;Nieprzebijalny / Nieprzebijalna / Nieprzebijalne / Nieprzebijalne
+Piercing_Resistance;Непробиваемый / Непробиваемая / Непробиваемое / Непробиваемые;Impenetrable;坚韧;Undurchdringlicher / Undurchdringliche / Undurchdringliches / Unduchdringliche;;;;Nieprzebijalny / Nieprzebijalna / Nieprzebijalne / Nieprzebijalne
+Blunt_Resistance;Ударостойкий / Ударостойкая / Ударостойкое / Ударостойкие;Impact-resistant;防震;Schlagresistenter / Schlagresistente / Schlagresistentes / Schlagresistente;;;;Twardy / Twarda / Twarde / Twarde
+Rending_Resistance;Охотничий / Охотничья / Охотничье / Охотничье;Hunting;狩猎;Jagender / Jagende / Jagendes / Jagende;;;;Polujący / Polująca / Polujące / Polujące
+Fire_Resistance;Огнеупорный / Огнеупорная / Огнеупорное / Огнеупорные;Fireproof;防火;Feuerfester / Feuerfeste / Feuerfestes / Feuerfeste;;;;Ognioodporny / Ognioodporna / Ognioodporne / Ognioodporne
+Frost_Resistance;Утеплённый / Утепленная / Утепленное / Утепленные;Insulated;保暖;Isolierter / Isolierte / Isoliertes / Isolierte;;;;Odludny / Odludna / Odludne / Odludne
+Shock_Resistance;Заземленный / Заземленная / Заземленное / Заземленные;Grounded;接地;Geerdeter / Geerdete / Geerdetes / Geerdete;;;;Uziemiony / Uziemiona / Uziemiona
+Caustic_Resistance;Антикислотный / Антикислотная / Антикислотное / Антикислотные;Acidproof;防酸;Säurefester / Säurefeste / Säurefestes / Säurefeste;;;;Kwasoodporny / Kwasoodporna / Kwasoodporne / Kwasoodporne
+Poison_Resistance;Противоядный / Противоядная / Противоядное / Противоядные;Antivenom;防毒;Giftfester / Giftfeste / Giftfestes / Giftfeste;;;;Toksycznoodporny / Toksycznoodporna / Toksycznoodporne / Toksycznoodporne
+Arcane_Resistance;Противомагический / Противомагическая / Противомагическое / Противомагические;Antimagic;防魔;Antimagischer / Antimagische / Anitmagsiches / Antimagische;;;;Antymagiczny / Antymagiczna / Antymagiczne / Antymagiczne
+56;Оскверненный / Оскверненная / Оскверненное / Оскверненные;Corrupted;堕落;Korrumpierter / Korrumpierte / Korrumpiertes / Korrumpierte;;;;Przeklęty / Przeklęta / Przeklęte / Przeklęte
+Unholy_Resistance;Священный / Священная / Священное / Священные;Blessed;庇佑;Gesegneter / Gesegnete / Gesegnetes / Gesegnete;;;;Błogosławiony / Błogosławiona / Błogosławione / Błogosławione
+Psionic_Resistance;Антипсионический / Антипсионическая / Антипсионическое / Антипсионические;Antipsionic;防灵;Antipsionischer / Antipsionische / Antipsioniesches / Antipsionische;;;;Antypsychiczny / Antypsychiczna / Antypsychiczne / Antypsychiczne
+Block_Power;Устойчивый / Устойчивая / Устойчивое / Устойчивые;Steady;稳固;Stetiger / Stetgie / Stetiges / Stetige;;;;Opanowany / Opanowana / Opanowane / Opanowane
+Spells_Energy_Cost;Стабилизированный / Стабилизированная / Стабилизированное / Стабилизированные;Stabilized;稳定;Stabilisierter / Stabilisierte / Stabilisiertes / Stabilisierte;;;;Stabilizowany / Stabilizowana / Stabilizowane / Stabilizowane
+Skills_Energy_Cost;Облегчённый / Облегчённая / Облегчённое / Облегчённые;Lightweight;轻便;Leichtgewichtiger / Leichtgewichtige / Leichgewichtiges / Leichtgewichtige;;;;Lekki / Lekka / Lekkie / Lekkie
+;prefix_end;prefix_end;prefix_end;prefix_end;;;;prefix_end
+;;;;;;;;
+;weap_param;weap_param;weap_param;weap_param;;;;weap_param
+1;Прочность;Durability;耐久;Haltbarkeit;;;;Wytrzymałość
+2;Уровень;Level;等级;Stufe;;;;Poziom
+3;ЭКИПИРОВАНО;EQUIPPED;已经装备;AUSGERÜSTET;;;;ZAŁOŻONE
+;weap_param_end;weap_param_end;weap_param_end;weap_param_end;;;;weap_param_end
+;;;;;;;;
+;other_hover;other_hover;other_hover;other_hover;;;;other_hover
+1;/// ходов для применения;/// turns to use;/// turns to use;/// Runden zum Benutzen;;;;/// tur do użycia
+2;Использований:;Uses:;使用次数：;Verwendungen:;;;;Użyć:
+3;Выполнение действий невозможно;Cannot perform any actions.;无法进行任何行动。;Kann keine Aktionen ausführen.;;;;Nie można wykonywać akcji
+4;Активация занимает один ход;/// Takes one turn to activate;/// Takes one turn to activate;/// Benötigt eine Runde zum Aktivieren;;;;/// Zabiera jedną turę, by aktywować
+5;/// ВЫБЕРИТЕ КЛАСС;/// CHOOSE YOUR CLASS;/// CHOOSE YOUR CLASS;/// WÄHLE DEINE KLASSE;;;;/// WYBIERZ KLASĘ
+6;Состояние;State;状态;Status;;;;Stan
+7;зелье;potion;药剂;trank;;;;mikstura
+8;Зелье;Potion;药剂;Trank;;;;Mikstura
+9;каждый ход;each turn;每回合;jede Runde;;;;każdej tury
+10;Для взлома нужны отмычки.;You need a lockpick.;你需要开锁工具。;Du brauchst einen Dietrich;;;;Potrzebujesz wytrychów
+11;Для починки нужен ремонтный набор.;You need a repair kit.;你需要维修工具。;Du brauchst ein Reparaturset;;;;Potrzebujesz zestawu narzędzi
+12;Неопределённое зелье;Unidentified Potion;未经鉴定的药剂;Unidentifizierter Trank.;;;;Niezidentyfikowana mikstura
+13;Свойства этого зелья неизвестны. Требуется определение.;The properties of this potion are unknown. Identification is required.;这个药剂属性不明，有待鉴定。;Die Eigenschaften dieses Tranks sind unbekannt. Eine Identifizierung ist erforderlich.;;;;Skutki działania tej mikstury są niezbadane. Należy użyć zwoju identyfikacji.
+14;Неопознанный / Неопознанная / Неопознанное / Неопознанные;Undefined;未经鉴定的;Unbekannt:;;;;Niezidentyfikowane
+15;Свойства этого предмета неизвестны. Требуется определение.;The properties of this item are unknown. Identification is required.;这件物品属性不明，有待鉴定。;Die Eigenschaften dieses Gegenstands sind unbekannt. Eine Identifizierung ist erforderlich.;;;;Parametry tego przedmiotu są nieznane. Należy użyć zwoju identyfikacji.
+16;Требуется свиток определения.;You need an identification scroll to identify this item.;鉴定这件物品需要鉴定卷轴。;Du brauchst eine Identifizieren-Spruchrolle, um dieses Element zu identifizieren.;;;;Potrzebujesz zwoju identyfikacji, by poznać co kryje się w tym przedmiocie.
+17;Вы не можете снять проклятый предмет.;You can not unequip a cursed item.;诅咒物品装备之后无法取下。;Du kannst einen verfluchten Gegenstand nicht ablegen.;;;;Nie możesz zdjąć przeklętego przedmiotu.
+18;Слот занят проклятым предметом.;This slot is occupied by a cursed item.;这里已被诅咒物品占据。;Dieser Platz ist mit einem verfluchten Gegenstand belegt.;;;;Te miejsce w ekwipunku zajmuje przeklęty przedmiot.
+19;/// Free action every 5th turn;/// Free action every 5th turn;/// Free action every 5th turn;/// Freie Aktion jede 5. Runde;;;;/// Darmowa akcja, co 5-tą turę.
+20;~gr~Необходимые условия:~/~ отсутствие враждебных противников в зоне видимости.#Обнаружение персонажа выводит из режима скрытности.;~gr~Prerequisites :~/~ no hostile enemies within your Vision.#If the character is detected, the stealth mode ends.;~gr~前提：~/~视野内没有出现敌意的敌人。 #如果你被发现，潜行模式就会终止。;~gr~Voraussetzungen :~/~ keine feindseligen Gegner innerhalb deines Sichtfelds.#Wenn der Charakter entdeckt wird, endet der Schleichmodus.;;;;~gr~Wymagania :~/~ brak przeciwników w zasięgu Wzroku.#Jeżeli postać zostanie wykryta, tryb skradania zostanie wyłączony.
+21;~gr~Необходимые условия:~/~ отсутствие врагов в зоне видимости.#Получение урона или появление смертельного эффекта прекращают отдых.##Отдых увеличивает скорость накопления голода и жажды.;~gr~Prerequisites :~/~ no enemies within your Vision.#Taking damage or receiving a deadly debuff cancels this mode.##Resting increases hunger and thirst accumulation.;~gr~前提：~/~视野内没有敌人。#一旦受到伤害或者致命减益，这一状态就会终止。##休息期间，饥饿和口渴加剧速度更快。;~gr~Voraussetzungen :~/~ keine Gegner in deinem Sichtfeld.#Schaden oder ein tödlicher Schwächungszauber heben diesen Modus auf.##Ausruhen erhöht den Hunger und die Durstbildung.;;;;~gr~Wymagania :~/~ brak przeciników w zasięgu Wzroku.#Otrzymanie obrażeń lub otrzymanie ciężkiego efektu negatywnego wyłącza ten tryb.## Odpoczywanie zwiększa prędkość z jaką generuje się Głód i Pragnienie.
+22;ЗАГРУЗКА;LOADING;正在加载;LADE;;;;WCZYTYWANIE
+23;Разблокировано:;Unlocked:;解锁：;Aufgeschlossen:;;;;Odblokowane:
+24;Разблокировано:#Основные навыки ступень I;Unlocked:#Basic Skills tier I;解锁：#I类基础技能;Aufgeschlossen: #Grundfertigkeiten Rang 1;;;;Odblokowane:#Umiejętności Podstawowe Tier I
+25;Открыто;Opened;打开了;Geöffnet;;;;Otwarto
+26;Неудача;Failed;失败;Fehlgeschlagen;;;;Niepowodzenie
+27;Обезврежено;Disarmed;拆除了;Entschärft;;;;Rozbrojono
+28;Избегание;Avoided;躲开了;Ausgewichen;;;;Ominięto
+29;Заперто;Locked;锁上了;Verschlossen;;;;Zamknięte
+30;НАЖМИТЕ ESCAPE ДЛЯ ПЕРЕЗАПУСКА;PRESS ESCAPE TO RESTART;按ESC键重新开始;DRÜCKE ESC FÜR NEUSTART;;;;WCIŚNIJ ESCAPE, BY ZRESTARTOWAĆ
+31;Промах;Missed;未击中;Verfehlt;;;;Pudło
+32;Уклонение;Dodged;闪开了;Ausgewichen;;;;Uniknięto
+33;Неудача;Fumbled;失手了;Ungeschickt gewesen;;;;Spartaczono
+34;Блок;Blocked;挡住了;Geblockt;;;;Zablokowano
+35;Не подозревающий;Unaware;没有察觉;Ahnungslos;;;;Niespodziewający się
+36;Потревожен;Suspicious;怀疑;Suspekt;;;;Podejrzliwy
+37;Враждебен;Hostile;敌意;Feindlich;;;;Wrogi
+38;Эффекты;Effects;效果;Effekte;;;;Efekty
+39;Способности;Skills;技能;Fertigkeiten;;;;Umiejętności
+40;Сопротивляемости;Resistances;抗性;Resistenzen;;;;Odporności
+41;//// Требуется 15 силы;/// Requires 15 Strength;/// Requires 15 Strength;/// Benötigt Stärke 15;;;;/// Wymaga 15 siły
+42;Ремонт;Repair;修理;Reparatur;;;;Naprawa
+43;Свойства;Properties;属性;Eigenschaften;;;;Parametry
+44;Контракт выполнен!;Contract's completed!;契据约定任务完成！;Auftrag erfüllt!;;;;Kontrakt ukończony!
+45;Обмен [недоступен в бете];Barter [not available in Beta];以物易物[测试版本不可用];Tauschen [nicht in der Beta];;;;Wymiana [niedostępne w Becie]
+46;Выберите цель;Choose Target;选择目标;Ziel wählen;;;;Wybierz cel
+47;Смена разрешения экрана доступна в главном меню.;You can change screen resolution in the main menu.;你可以通过主菜单更改画面分辨率。;Du kannst die Bildschirmauflösung im Hauptmenü ändern.;;;;Możesz zmienić rozdzielczość ekranu w opcjach.
+48;Вне зоны действия;Out of range;距离太远;Außer Reichweite;;;;Poza zasięgiem
+49;Экипированные проклятые предметы нельзя продать.;Equipped cursed items cannot be sold.;诅咒物品装备之后，无法出售。;Ausgerüstete verfluchte Gegenstände können nicht verkauft werden.;;;;Założone przedmioty przeklęte nie mogą być sprzedane.
+50;Вы не можете продать предмет из-за тяжелой травмы.;Severe injury prevents you from selling this item.;你身受重伤，无法出售这件物品。;Eine schwere Verletzung hindert dich daran, diesen Gegenstand zu verkaufen.;;;;Ciężkie rany uniemożliwiają ci sprzedanie tego przedmiotu.
+51;Вы не можете снять предмет из-за тяжелой травмы.;Severe injury prevents you from unequipping this item.;你身受重伤，无法摘下这件物品。;Eine schwere Verletzung hindert dich daran, diesen Gegenstand auszurüsten.;;;;Ciężkie rany uniemożliwiają ci zdjęcie tego przedmiotu.
+52;Испортится через;Will spoil in;保存期限：;Verdirbt in;;;;Zacznie gnić po
+53;день / дня / дней;day / days;天;Tag / Tagen;;;;dniach / dniach
+54;Недоступно в бете;Not available in Beta;测试版本不可用;In der Beta nicht verfügbar;;;;Niedostępne w becie
+55;Недоступно в Прологе;Not available in the Prologue;序章版本不可用;Im Prolog nicht verfügbar;;;;Niedostępne w wersji Prolog
+56;крона / кроны / крон;crown / crowns;冠;Krone / Kronen;;;;koron / koron
+;other_hover_end;other_hover_end;other_hover_end;other_hover_end;;;;other_hover_end
+;;;;;;;;
+;attitude_name;attitude_name;attitude_name;attitude_name;;;;attitude_name
+1;Режим скрытности;Stealth Mode;潜行模式;Schleichmodus;;;;Tryb Skradania
+2;Режим отдыха;Rest Mode;休息模式;Ruhemodus;;;;Tryb Odpoczynku
+3;Режим атаки;Attack Mode;攻击模式;Angriffsmodus;;;;Tryb Ataku
+;attitude_name_end;attitude_name_end;attitude_name_end;attitude_name_end;;;;attitude_name_end
+;;;;;;;;
+;attitude_desc;attitude_desc;attitude_desc;attitude_desc;;;;attitude_desc
+1;Используйте, чтобы застать врагов врасплох.;Use this mode to surprise enemies.;这个模式可对敌人发动奇袭。;Nutze diesen Modus, um Gegner zu überraschen.;;;;Użyj tego, by zaskoczyć przeciwników.
+2;Используйте для восстановления здоровья и энергии.;Use this mode to recover health and energy.;这个模式可以恢复生命和精力。;Nutze diesen Modus, um Gesundheit und Energie zu regenierieren.;;;;Użyj tego, by odnowić zdrowie i energię.
+3;Используйте, чтобы атаковать окружение. Включается при зажатии CTRL.;Use this mode to attack your surroundings. Press CTRL to activate.;这个模式会攻击身边的物品和生物，按CTRL启用。;Nutze diesen Modus, um deine Umgebung anzugreifen. Drücke STRG, um ihn zu aktivieren.;;;;Użyj tego, by zaatakować swoje otoczenie. Wciśnij CTRL, by aktywować.
+;attitude_desc_end;attitude_desc_end;attitude_desc_end;attitude_desc_end;;;;attitude_desc_end
+;;;;;;;;
+;class_desc;class_desc;class_desc;class_desc;;;;class_desc
+RelicSeeker;Веррен - один из самых известных в Альдоре искателей артефактов и реликвий. За годы работы он прослыл надёжным человеком, для которого не существует невыполнимых контрактов. Несмотря на возраст, Веррен сохранил незаурядную физическую силу и бодрость духа - однако последние годы мысли о том, чтобы уйти на покой, посещают его всё чаще.##Перед тем, как принять окончательное решение, он решился на последний, самый крупный контракт - и отправился на поиски таинственных Осколков по заказу алхимика Гвиннела.;Verren is one of the most famous artifact and relic hunters in Aldor. Over the years he earned himself a reputation of a reliable contractor, who had never failed in his task. Despite his age, Verren retained exceptional strength and vigor, but the thoughts of retirement visit him more and more often.##Before making his final decision, he decided to take the last, the most lucrative contract, setting him on the chase after mysterious Stoneshards under the orders of Gwynnel the alchemist.;维伦是奥尔多寻宝探墓远近有名的好手，这么多年下来，他从来没失手过，所以大家都知道，请他做事肯定不会出岔子。别看他已过壮年，体力和精力却依然过人，不过他最近脑子里经常冒出洗手不干的念头。##他想着趁自己还没打定主意，干一票大的，就接了炼金术师葛文涅尔的委托，去找神秘的紫色晶石去了。;Verren ist einer der berühmtesten Artefakt- und Reliktjäger in Aldor. Im Laufe der Jahre erwarb er sich den Ruf eines zuverlässigen Auftragnehmers, der bei seiner Arbeit nie versagt hatte. Trotz seines Alters bewahrte sich Verren eine außergewöhnliche Stärke und Kraft, aber die Gedanken an den Ruhestand besuchen ihn immer öfter.##Vor seiner endgültigen Entscheidung entschied er sich für den letzten, den lukrativsten Auftrag, der ihn, unter dem Befehl des Alchemisten Gwynnel, auf die Jagd nach den geheimnisvollen Steinsplittern schickte.;;;;Varren jest jednym z najbardziej znanych poszukiwaczy artefaktów i reliktów w Aldor. Przez wiele lat zdobył sobie reputację jako ten, kto wypełnia kontrakty sumiennie i nigdy nie zawiódł swoich zleceniodawcó. Mimo swojego zaawansowanego wieku, Varren zachował wielką siłę i wigor, ale wizja emerytury nawiedza go coraz częściej. ##Przed podjęciem decyzji o wycofaniu się, uznał że warto wziąć ostatnie, najcięższe i najbardziej lukratywne zlecenie - poszukiwanie tajemniczych Stoneshardów, pod rozkazami alchemika Gwynnela.
+Reaver;Не так давно жители Альдора в ужасе замирали, едва услышав имя Тюра Одноглазого, легендарного предводителя фьялльских разбойников. Отряд Тюра заработал дурную славу своими дерзскими набегами на Северные рубежи - даже вооружённые до зубов дружины феодалов терпели от свирепых дварфов поражение за поражением. Одним из них был Йоргрим - лучший воин отряда, так и не проигравший ни единого поединка.##Однако чем дальше, тем чаще Тюр Одноглазый учинял в захваченных поселениях такие зверства, что даже многим дварфам становилось не по себе. Йоргрим особенно презирал это бессмысленное изуверство: он всегда считал, что жестокость по отношению к слабому и беззащитному недостойна настоящего воина.##Неизвестно, когда и как Тюр перешёл роковую черту, но однажды терпение Йоргрима лопнуло - и длинный список его трофеев пополнился скальпом его бывшего предводителя. Оставшись без лидера, дварфы разбрелись кто куда: часть вернулась во Фьялл, а часть - как Йоргрим - решили уйти на юг и попытать счастья в наёмничестве.;Not so long ago people of Aldor would shake in their boots the moment someone mentioned Tyr the One-eyed, a legendary leader of Fjall brigands. Tyr's band was infamous for their audacious raids on the northern border - even the well-armed troops of the local lords suffered defeat after defeat from these ferocious dwarfs. Jorgrim was one of them, the best warrior in the band, he hadn't lost a single battle in his life.##Yet as time went by, the One-eyed's brutality towards captured settlements became too unsettling even for his own underlings. Jorgrim was the one who despised unnecessary cruelty the most: he always held a belief that violence against the weak and defenseless is unworthy of a true warrior.##It's unknown when Tyr crossed the final line, but eventually Jorgrim's patience ran short and the brigand leader's scalp found its place in the dwarf's long list of trophies. Left without guidance, the band fell apart: some dwarfs returned to Fjall, while others, including Jorgrim, decided to go south and try their luck as mercenaries.;以前，奥尔多要是有人听到“独眼龙提尔”这个名字，肯定都会吓得直哆嗦。这家伙是个传奇人物，手下管着一帮菲欧土匪。这群矮人经常在北方边境活动，非常猖獗，非常彪悍，就连当地领主训练有素的军队也屡屡败在他们脚下。约戈里姆脱离这个匪帮之前，这些矮人谁都没他能打-----他从来没打过败仗。##匪帮每次攻下一个地方，独眼龙就要大肆烧杀。渐渐地，他自己的手下也看不下去了。约戈里姆还有几个矮人非常反感没有必要的暴虐，他觉得真正的勇士绝对不会残害手无寸铁的弱者。##不知道提尔是什么时候碰到了约戈里姆的底线，反正这个土匪头子的头皮最后成了约戈里姆众多战利品之中的一件。匪帮群龙无首，没过多久就散了，有的矮人回菲欧了，有的像约戈里姆一样，来到了南方，想碰碰运气，当个雇佣兵。;Vor nicht allzu langer Zeit zitterten die Menschen in Aldor in ihren Stiefeln, wenn jemand Tyr den Einäugige erwähnte, ein legendärer Anführer der Fjall-Banditen. Tyr's Bande war berüchtigt für ihre verwegenen Überfälle an der nördlichen Grenze - selbst die gut bewaffneten Truppen der örtlichen Herren erlitten eine Niederlage nach der anderen von diesen wilden Zwergen. Jorgrim war einer von ihnen, der beste Krieger in der Bande, er hatte in seinem Leben noch keine einzige Schlacht verloren.##Mit der Zeit wurde die Brutalität des Einäugigen gegenüber den eroberten Siedlungen selbst für seine eigenen Untergebenen zu erschreckend. Jorgrim war derjenige, der unnötige Grausamkeiten am meisten verachtete: Er war immer der Meinung, dass Gewalt gegen Schwache und Wehrlose eines wahren Kriegers unwürdig ist.##Es ist unbekannt, wann Tyr die Linie überschritt, aber schließlich ging Jorgrims Geduld zu Ende und der Skalp des Banditenanführers fand seinen Platz in der langen Liste der Trophäen des Zwerges. Ohne Führung verließ die Bande das Land und zerfiel: Einige Zwerge kehrten nach Fjall zurück, während andere, darunter Jorgrim, beschlossen, nach Süden zu gehen und ihr Glück als Söldner zu versuchen.;;;;Nie tak dawno ludność Aldoru trzęsłaby portkami gdyby tylko ktoś wspomniał Tyra Jednookiego, legendarnego przywódcę zbójców z Fjall. Drużyna Tyra okryła się niesławą po ich brutalnych najazdach na północne granice - nawet dobrze uzbrojone armie lokalnych lordów ponosiły klęskę za klęską, porażkę za porażką z rąk tych wściekłych krasnoludów.Jorgrim był jednym z nich, najlepszy wojownik w całej drużynie, nie przegrał ani jednej bitwy w swoim życiu.##Mijał czas, mijały lata. Brutalność Jednookiego przeciw podbitym osadom była niepokojąca dla jego własnych ludzi. Jorgrim nie akceptował niepotrzebnego okrucieństwa najbardziej, zawsze uważał inaczej - sądził, że przemoc wobec bezbronnych i słabych jest niegodna prawdziwego wojownika.##Nie wiadomo, kiedy Tyr przekroczył ostatnią granicę, jednak cierpliwość Jorgrima wyczerpała się szybko, a skalp z lidera grupy znalazł się na długiej liście trofeów krasnoluda. Nie mający przewodnika grupa rozpadła się. Część krasnolufów wróciła do Fjall, kiedy inna grupa wraz z Jorgrimem powędrowała na północ, szukając szczęścia jako niewolnicy.
+KnightMaiden;Немногие родословные в Альдоре могут похвастаться такой же длинной историей, как дом дер Вирнов. По закону рыцарский титул вместе с уделом могут передаваться только мужчине - поэтому нетрудно представить горе отца Арны, когда после стольких лет бесплодных попыток долгожданный наследник оказался дочерью.##Чтобы спасти род, отец Арны прибегнул к полузабытому обычаю Северных предгорий: Арна была воспитана как мальчик. Всё её детство и юность прошли сначала в бесконечных тренировках, а затем в услужении пажом в одной из знатных семей. Достигнув совершеннолетия, Арна была посвящена в рыцари и в нескольких турнирах заработала славу умелой воительницы.##Увы, Арна так и не смогла научиться совершенно незаменимому для альдорской знати навыку: плетению интриг. Вскоре после смерти отца Арна из-за козней недоброжелателей лишилась и титула, и удела, и наследства - род дер Вирнов перестал существовать. Потрясённая Арна дала клятву искупить это бесчестье великим подвигом и отправилась в бесконечное странствие по землям Альдора.;Few noble houses of Aldor can boast history as impressive as of the House of der Vyrne. By law, the title of a knight can only be passed down to a man, so it's not hard to imagine the chagrin of Arna's father, when after years of fruitless attempts his long awaited heir turned out to be a girl.##To save his house, Arna's father decided to invoke an ancient custom of the northern foothills: Arna was to be raised as a boy. Her entire childhood and youth were dedicated to rigorous training and serving as a page to one of the noble families. When she reached adulthood, Arna was knighted. Over multiple tournaments, she managed to earn herself a reputation as a skilled warrior.##Unfortunately Arna never had a knack for the most important skill to an Aldorian noble - scheming. Soon after her father's death, Arna lost her fief, her title and her inheritance - the House of der Vyrne ceased to exist. Shaken by these events, Arna gave an oath to redeem herself by a heroic deed and embarked on an endless journey into the lands of Aldor.;在奥尔多，没有几个名门贵族的历史像德·维尔恩家族那么精彩。阿娜的父亲盼了多少年，最后盼来了一个女儿。可是依据王法，骑士头衔传男不传女，所以不难他当时的郁闷之情。##为了保住家族，他决定遵循北方山麓地区的古老习俗，将阿娜当成男孩教育。不论在童年，还是少年时期，女孩一直都在接受严格的训练，服侍骑士。阿娜成年之后，获得了骑士的头衔。她参加过多场竞标赛，凭借不俗的成绩，成为了颇有名气的勇士。##然而，阿娜自始至终没有掌握奥尔多贵族最需要的一项技能-----勾心斗角，因此在她父亲过世之后，很快便丢掉了封地、头衔和她继承的所有东西-----德·维尔恩家族就此覆灭。阿娜备受打击，而后立下誓言，决定挽回自己曾经的荣光，于是踏上了一条无休无止的路。;Nur wenige Adelshäuser von Aldor können sich einer so beeindruckenden Geschichte rühmen wie das Haus der Vyrne. Der Titel eines Ritters kann per Gesetz nur an einen Mann weitergegeben werden, daher ist es nicht schwer, sich den Ärger von Arnas Vater vorzustellen, als sich nach Jahren vergeblicher Versuche sein lang ersehnter Erbe als Mädchen herausstellte.##Um sein Haus zu retten, beschloss Arnas Vater, sich auf einen alten Brauch der nördlichen Ausläufer zu berufen: Arna sollte als Junge aufgezogen werden. Ihre gesamte Kindheit und Jugend war einer strengen Ausbildung gewidmet, und sie diente als Page in einer der Adelsfamilien. Als sie das Erwachsenenalter erreichte, wurde Arna zum Ritter geschlagen. Über mehrere Turniere hinweg gelang es ihr, sich den Ruf einer geschickten Kriegerin zu erwerben.##Leider hatte Arna nie ein Händchen für die wichtigste Fähigkeit eines aldorianischen Adligen - Intrigen. Bald nach dem Tod ihres Vaters verlor Arna ihr Lehen, ihren Titel und ihr Erbe - das Haus der Vyrne hörte auf zu existieren. Erschüttert von diesen Ereignissen schwor Arna, sich durch eine Heldentat zu rehabilitieren und begab sich auf eine endlose Reise in die Länder Aldors.;;;;Tylko kilka szlachetnych domów z Aldor może pochwalić się tak imponującą historią jak Dom Vyrne. Prawo pozwala, by tytuł rycerza był przekazywany z pokolenia na pokolenie wyłącznie w linii męskiej, więc nie trudno było sobie wyobrazić zmartwienie ojca Arny, kiedy po latach prób i wyrzeczeń w końcu upragniony potomek okazał się dziewczynką.##By uratować przyszłość domu, ojciec Arny zdecydował się na starożytny obyczaj północnych krain - Arna miała być wychowywana jak chłopiec. Całe jej dziecińśtwo oraz młodość poświęcone było na rygorystyczne treningi i pracę jako giermek dla bogatych rodzin. Kiedy osiągnęła pełnoletność, Arna otrzymała tytuł rycerski. Po wielu turniejach zyskałę sławę jako zdolna wojowniczka.##Niestety, Arna nigdy nie posiadała nawet minimum tego, co cechuje szlachetnie urodzonych w Aldorze - wstydu. Krótko po tym jak zmarł jej ojciec, Arna utraciła majątek, tytuł oraz dziedzictwo - Dom Vyrne przestał istnieć. Wstrząśnięta tymi wydarzeniami, Arna przysięgła sobie, że heroicznymi czynami odzyska powagę w oczach mieszkańców świata niekończącą się podróżą przez ziemie Aldoru.
+Woodward;Дирвин всю жизнь верой и правдой служил покойному королю, неустанно патрулируя охотничьи угодья его величества. Стрелял он метко, лесные тропы знал как свои пять пальцев, и мало кто из браконьеров, орков или лесных чудищ переживал встречу с королевским стрелком. За годы службы Дирвин сделал на своём луке множество зарубок, избавив местные леса от бесчисленных опасностей.##Когда король Этберт умер, Королевские стрелки отказались участвовать в братоубийственной войне и подчиняться приказам Совета. В наказание подразделение было расформировано, и Дирвин, прихватив оружие, ушёл обратно в леса.##Всю войну он промышлял ровно тем же, чем и всегда - выполнением контрактов, охотой на опасных монстров и помощью крестьянам. Среди простого народа его знают как верного защитника.;Dirwin spent most of his life in loyal service to the late king, relentlessly patrolling the hunting grounds of his Majesty. He had great aim, knew the forest as the back of his hand and very few poachers, orcs and monsters survived their encounter with the royal ranger. Over his years of service, Dirwin eradicated countless dangers lurking in the woods, making one notch after another on his bow.##After King Etbert's death, the Royal Rangers disobeyed the Council's orders and refused to participate in the fratricidal war. As a punishment, the unit was disbanded, so Dirwin took his weapons and headed back into the woods.##During the war he continued to do what he always did: fulfill contracts and bounties, hunt dangerous monsters and help peasants. Common folks rightfully consider him their stalwart protector.;德温在皇家干了大半辈子，巡守先王狩猎的林苑，不分昼夜。他箭法很准，对树林也是了如指掌，没有几个盗猎者、奥克和怪物能活着从他眼前逃走。那些年里，德温一箭又一箭，不知道消灭了林苑里多少祸害。##艾斯伯特国王驾崩之后，派系之乱发生，皇苑卫队违抗议会之命，拒绝参与战争。议会解散皇苑卫队，以作惩戒。于是，德温带着他的兵器，回到了树林里。##战乱期间，他的生活并没有改变，依旧是完成他人委托的事情，领取赏金，追杀凶险的怪物，帮助农家。正因如此，老百姓都觉得有他在，他们就不会有危险。;Dirwin verbrachte die meiste Zeit seines Lebens in loyalen Diensten des verstorbenen Königs und patrouillierte unerbittlich in den Jagdgründen seiner Majestät. Er hatte ein großes Ziel, kannte den Wald wie seine Westentasche und nur sehr wenige Wilderer, Orks und Monster überlebten die Begegnung mit dem königlichen Förster. Im Laufe seiner Dienstjahre beseitigte Dirwin unzählige Gefahren, die im Wald lauerten, und machte eine Kerbe nach der anderen an seinem Bogen.##Nach dem Tod von König Etbert widersetzten sich die Königlichen Waldhüter den Befehlen des Rates und weigerten sich, an dem brudermörderischen Krieg teilzunehmen. Zur Strafe wurde die Einheit aufgelöst, so dass Dirwin seine Waffen nahm und zurück in den Wald ging.##Während des Krieges tat er weiterhin das, was er immer tat: Aufträge und Kopfgelder erfüllen, gefährliche Monster jagen und Bauern helfen. Das gemeine Volk betrachtet ihn zu Recht als ihren unerschütterlichen Beschützer.;;;;Dirwin spędził większość swojego życia w służbie ostatniego króla, stale patrolując najeżdżane ziemie jego Wysokości. Doskonale władał łukiem, a lasy znał jak własną kieszeń oraz niewielu kłusowników, orków lub potworów przetrwało starcie z królewskim łowczym. Przez lata służby, Dirwin wykorzenił z okolic niezliczoną ilość zagrożeń przemierzając lasy, robiąc kolejne i kolejne nacięcie na swoim łuku.##Po śmierci króla Etberta, królewscy łowczy nie zaakceptowali rozkazów Rady i odmówili walki w bratobójczej wojnie. Karą było rozformowanie jednostki, więc Darwin zebrał swoją broń i udał się ponownie w las.##W trakcie wojny robił to, co robił najlepiej - wypełniał kontrakty i zlecenia, polował na groźne potwory oraz pomagał wieśniakom. Prosty lud swoim niepisanym prawem uznał go za dzielnego obrońcę.
+RunawaySorceress;В Альдоре издревле считалось, что женщины и магия - сочетание дурное и ничего хорошего не предвещающее. Лекторы Академии это предубеждение полностью разделяли, и потому женщин в ряды будущих магов принимали неохотно - однако чародейский талант Йонны был настолько неоспорим, что для неё было сделано исключение.##После блестяще оконченного обучения Йонна подалась в придворные чародейки к одному из альдорских феодалов. Увы, нрав у её лорда оказался прескверным - но и сама Йонна никому спуску не давала. Когда одним утром прислуга сначала обнаружила обугленное тело своего хозяина, а затем - внезапное исчезновение чародейки, сопоставить эти два события было делом нехитрым.##Если бы не внезапно разразившаяся война, Йонну бы наверняка поймали и отправили на костёр, однако в хаосе Раздора ей удалось затеряться, примкнув к одному из отрядов наёмников.;Since ancient times there is a strong belief in Aldor that women and magic don't go well together and can only bode ill. Lectors of the Academy fully shared this prejudice, rarely eager to accept women for magic training. However, Jonna's talent for magic was so great, that they decided to make an exception.##After completing her training with flying colors, Jonna became a court sorceress to one of the Aldorian nobles. Unfortunately, her lord had a rather foul temper, something Jonna wouldn't put up with. One morning servants discovered their master's body burned to a crisp. The sorceress' sudden escape didn't leave much room for interpretation.##If it wasn't for the war breaking out, Jonna would have likely been caught and burned at the stake, but in the chaos of the Strife she managed to elude the chase by joining a mercenary band.;自古以来，奥尔多的人就坚信，魔法碰见女人，一准没有好事。学院的老师也深信不疑，所以很少接收女学生，更不会欢迎女生入院修习魔法。可是，约娜实在天赋异禀，所以他们决定破例将她收入学院。##约娜以优异的成绩毕业之后，便成了奥尔多某位贵族的家内法师。然而，这位大人脾气十分火爆，约娜实在无法忍受。某天早晨，佣人发现大人已被烧成了焦尸，而且这位法师突然失踪，其中联系显而易见。##约娜后来和一群雇佣兵混在了一起，所以逃过了追捕。如果不是战争突然爆发，她早就被挂上刑柱活活烧死了。;Seit alten Zeiten gibt es in Aldor den festen Glauben, dass Frauen und Magie nicht gut zusammenpassen und nur ein schlechtes Zeichen sein können. Die Dozenten der Akademie teilten dieses Vorurteil voll und ganz und waren nur selten bereit, Frauen für die Ausbildung in der Magie zu akzeptieren. Jonnas Talent für die Magie war jedoch so groß, dass sie beschlossen, eine Ausnahme zu machen.##Nach dem Abschluss ihrer Ausbildung mit Bravour wurde Jonna für einen der aldorianischen Adligen zur Hofzaubererin. Leider hatte ihr Fürst ein ziemlich übles Temperament, etwas, das Jonna nicht dulden konnte. Eines Morgens entdeckten die Diener den Körper ihres Herrn, der bis auf die Knochen verbrannt war. Die plötzliche Flucht der Zauberin ließ nicht viel Raum für Interpretationen.##Wenn der Krieg nicht ausgebrochen wäre, wäre Jonna wahrscheinlich gefangen und auf dem Scheiterhaufen verbrannt worden, aber in dem Chaos des Kampfes gelang es ihr, sich der Verfolgung zu entziehen, indem sie sich einer Söldnerbande anschloss.;;;;Od starożytnych czasów w Aldor panuje przekonanie, że kobieta i magia nigdy nie idą w parze i jedyne, co mogą spowodować to chorobę. Lektorzy Akademii w pełni pochwalali to stanowisko, bardzo rzadko akceptując kobiety do magicznych szkoleń oraz nauk. Jednakże, talent magiczny Jonny był tak duży, że postanowili uczynić wyjatek.##Po ukończeniu treningu latających kolorów, Jonna została nadworną czarodziejką jednego z Aldoriańskich dostojników. Niestety, jej pan miał niezwykle podły charakter, z którym Jonna nie mogła wytrzymać. Wkrótce potem słudzy dostojnika znaleźli jego ciało zamienione w chrupiącą spaloną skorupę. Nagłe zniknięcie nadwornej czarodziejki nie wymagało komentarza.##Gdyby nie wybuch wojny, Jonna pewnie byłaby ścigana, złapana i spalona na stosie, ale chaos jaki zapanował sprawił, że uniknęła pościgu i dołączyła do grupy najemników.
+;class_desc_end;class_desc_end;class_desc_end;class_desc_end;;;;class_desc_end
+;;;;;;;;
+;class_name;class_name;class_name;class_name;;;;class_name
+placeholder;[недоступно в бете];[not available in Beta];[测试版本不可用];[in der Beta nicht verfügbar];;;;[niedostępny w becie]
+RelicSeeker;Искатель;Relic Seeker;寻宝高手;Reliktsucher;;;;Poszukiwacz Reliktów
+Reaver;Мародёр;Reaver;强盗;Plünderer;;;;Rozbójnik
+KnightMaiden;Дева-Рыцарь;Maiden Knight ;女骑士;Jungfernritterin;;;;Dama w Zbroi
+Woodward;Лесничий;Woodward;守林人;Waldwächter;;;;Wychowanek Lasu
+RunawaySorceress;Беглая Чародейка;Runaway Sorceress;流浪法师;Geflohene Zauberin;;;;Zbiegła Czarodziejka
+;class_name_end;class_name_end;class_name_end;class_name_end;;;;class_name_end
+;;;;;;;;
+;char_name;char_name;char_name;char_name;;;;char_name
+Verren;Веррен;Verren;维伦;Verren;;;;Verren
+Jorgrim;Йоргрим;Jorgrim;约戈里姆;Jorgrim;;;;Jorgrim
+Arna;Арна;Arna;阿娜;Arna;;;;Arna
+Dirwin;Дирвин;Dirwin;德温;Dirwin;;;;Dirwin
+Jonna;Йонна;Jonna;约娜;Jonna;;;;Jonna
+;char_name_end;char_name_end;char_name_end;char_name_end;;;;char_name_end
+;;;;;;;;
+;race_desc;race_desc;race_desc;race_desc;;;;race_desc
+Human;Несмотря на общую культуру, люди Альдора как никогда разобщены - множество сословных и политических противоречий привели к затяжной гражданской войне, остановленной шатким перемирием.;Despite sharing a common culture, humans of Aldor are now more divided than ever. A multitude of political conflicts between its estates lead the country to a prolonged civil war, barely contained by a shaky truce.##Different races don't offer any advantages or disadvantages, instead providing unique origins.;奥尔多的人族尽管文化相同，但现在却四分五裂。由于各地政治冲突四起，整个国家陷入旷日持久的内战，目前仅靠脆弱的休战协议维持。##各个种族并没有优劣之分，只是出身不同。;Trotz einer gemeinsamen Kultur sind die Menschen in Aldor heute gespaltener denn je. Eine Vielzahl politischer Konflikte zwischen den Ständen führt das Land in einen langen Bürgerkrieg, der kaum durch einen wackeligen Waffenstillstand eingedämmt wird.##Die verschiedenen Rassen bieten keine Vor- oder Nachteile, sondern bieten stattdessen eine einzigartige Herkunft.;;;;Mimo tego, że ludzi żyjących w Aldor łączy wspólna kultura, dziś są mocniej podzieleni niż kiedykolwiek wcześniej. Ciągłe polityczne podziały i konflikty doprowadziły państwa ludzi do wojen domowych, ledwie zażegnane przez chwiejny rozejm.##Inne rasy nie dają żadnych pozytywnych lub negatywnych cech, jedynie unikalne pochodzenie.
+Dwarf;Дварфы - исконные обитатели Фьялльских гор. Этот суровый полуварварский народ заработал в Альдоре дурную славу своими постоянными набегами.;Dwarfes are natives of the Fjall Mountains. These stern, half-barbarous people earned themselves a bad reputation in Aldor due to constant raids.##Different races don't offer any advantages or disadvantages, instead providing unique origins.;矮人住在菲欧山脉。这个民族不苟言笑，还有一些野蛮。他们因为时常抢劫，所以在奥尔多的名声不好。##各个种族没有优劣之分，只是出身不同。;Zwerge sind im Fjallgebirge heimisch. Dieses strenge, halbwüchsige Volk hat sich in Aldor durch ständige Raubzüge einen schlechten Ruf erworben.##Die verschiedenen Rassen bringen keine Vor- oder Nachteile mit sich, sondern bieten eine einzigartige Herkunft.;;;;Krasnoludy to rdzenni mieszkańcy gór Fjall. Ci prości pół-barbarzyńcy zdobyli sobie złą reputację w Aldor przez regularne najazdy.##Inne rasy nie dają żadnych pozytywnych lub negatywnych cech, jedynie unikalne pochodzenie.
+Elf;Эльфы населяют обширные земли Яхонтовых царств. Небольшая эльфийская диаспора есть и в Альдоре - однако к ней тут относятся настороженно, считая чужаками и заговорщиками.;Elves inhabit vast lands of the Jacinth Kingdoms. There is a small elven diaspora in Aldor as well, but they are treated with wariness, regarded as outsiders and schemers.##Different races don't offer any advantages or disadvantages, instead providing unique origins.;精灵住在地大物博的红锆王国，还有一小部分散落在奥尔多。不过，奥尔多人将这些精灵视为外族，认为他们心怀不轨，所以对他们不算友好。##各个种族没有优劣之分，只是出身不同。;Elfen bewohnen weite Landstriche der Jacinthischen Königreiche. Es gibt auch eine kleine elfische Diaspora in Aldor, aber sie werden mit Vorsicht behandelt, als Außenseiter und Intriganten angesehen.##Die verschiedenen Rassen bringen keine Vor- oder Nachteile mit sich, sondern bieten stattdessen eine einzigartige Herkunft.;;;;Elfy zamieszkują odległe tereny Królestwa Jacinth. W Aldor istnieje mała diaspora elfów, jednak wszyscy podchodzą do nich z ostrożnością - uznając ich za wyrzutków i intrygantów.##Inne rasy nie dają żadnych pozytywnych lub negatywnych cech, jedynie unikalne pochodzenie.
+;race_desc_end;race_desc_end;race_desc_end;race_desc_end;;;;race_desc_end
+;;;;;;;;
+;race_name;race_name;race_name;race_name;;;;race_name
+Human;Человек (Альдор);Human (Aldor);人族（奥尔多）;Mensch (Aldor);;;;Człowiek (Aldor)
+Dwarf;Дварф;Dwarf;矮人;Zwerg;;;;Krasnolud
+Elf;Эльф;Elf;精灵;Elf;;;;Elf
+;race_name_end;race_name_end;race_name_end;race_name_end;;;;race_name_end
+;;;;;;;;
+;sex_desc;sex_desc;sex_desc;sex_desc;;;;sex_desc
+Male;Пол влияет на некоторые диалоговые опции.;Gender can change some of the dialogues.;有些对话会因人物性别而异。;Das Geschlecht kann einige der Dialoge verändern.;;;;Płeć może zmienić część dialogów.
+Female;Пол влияет на некоторые диалоговые опции.;Gender can change some of the dialogues.;有些对话会因人物性别而异。;Das Geschlecht kann einige der Dialoge verändern.;;;;Płeć może zmienić część dialogów.
+;sex_desc_end;sex_desc_end;sex_desc_end;sex_desc_end;;;;sex_desc_end
+;;;;;;;;
+;sex_name;sex_name;sex_name;sex_name;;;;sex_name
+Male;Мужчина;Male;男;Männlich;;;;Mężczyzna
+Female;Женщина;Female;女;Weiblich;;;;Kobieta
+;sex_name_end;sex_name_end;sex_name_end;sex_name_end;;;;sex_name_end
+;;;;;;;;
+;psychic_name;psychic_name;psychic_name;psychic_name;;;;psychic_name
+1;Оптимизм;Optimism;乐观;Optimismus;;;;Optymizm
+2;Героизм;Heroism;勇敢;Heldentum;;;;Heroizm
+3;Второе дыхание;Second Wind;元气恢复;Zweiter Wind;;;;Druga Szansa
+4;Благоразумие;Prudence;慎重;Besonnenheit;;;;Roztropność
+5;Мегаломания;Megalomania;自大;Megalomanie;;;;Megalomania
+6;Садизм;Sadism;虐待狂;Sadismus;;;;Sadyzm
+7;Мазохизм;Masochism;受虐狂;Masochismus;;;;Masochizm
+8;Ярость;Frenzy;狂乱;Raserei;;;;Szał
+9;Апатия;Apathy;漠然;Apathie;;;;Apatia
+10;Тревога;Anxiety;焦虑;Angst;;;;Niepokój
+11;Отчаяние;Despair;绝望;Verzweiflung;;;;Desperacja
+12;Ипохондрия;Hypochondria;疑病症;Hypochondrie;;;;Hipochondria
+;psychic_name_end;psychic_name_end;psychic_name_end;psychic_name_end;;;;psychic_name_end
+;;;;;;;;
+;psychic_mid_text;psychic_mid_text;psychic_mid_text;psychic_mid_text;;;;psychic_mid_text
+1;None;None;None;None;;;;None
+2;None;None;None;None;;;;None
+3;Здоровье и энергия восполнены.#Все физические и ментальные негативные эффекты временно сброшены.;Health and energy are replenished.#All negative status effects are temporary negated.;生命和精力恢复。#所有负面状态的效果暂时抵消。;Gesundheit und Energie werden wieder aufgefüllt.#Alle negativen Statuseffekte werden vorübergehend negiert.;;;;Zdrowie i Energia zostają odnowione.#Wszystkie negatywne efekty są tymczasowo wstrzymane.
+4;None;None;None;None;;;;None
+5;Вы несколько переоцениваете собственные силы.;You might be overestimating your abilities.;你可能高估了自己的实力。;Vielleicht überschätzt du deine Fähigkeiten.;;;;Być może przeceniasz swoje umiejętności.
+6;None;None;None;None;;;;None
+7;Чем больше уровень боли, тем меньше энергии тратят умения.#Боль восстанавливает энергию в конце хода.;The higher your pain, the less energy you spend on your abilities.#Pain restores energy at the end of each turn.;你越痛苦，能力消耗的精力越少。#每个回合结束时，痛苦会恢复精力。;Je höher dein Schmerz ist, desto weniger Energie wendest du für deine Fertigkeiten auf.#Schmerz stellt am Ende jeder Runde Energie wieder her.;;;;Im silniejszy ból tym mniej Energii zużywasz na swoje zdolności.#Ból regeneruje energię na koniec każdej tury.
+8;None;None;None;None;;;;None
+9;None;None;None;None;;;;None
+10;None;None;None;None;;;;None
+11;None;None;None;None;;;;None
+12;None;None;None;None;;;;None
+;psychic_mid_text_end;psychic_mid_text_end;psychic_mid_text_end;psychic_mid_text_end;;;;psychic_mid_text_end
+;;;;;;;;
+;;;;;;;;
+;psychic_info;psychic_info;psychic_info;psychic_info;;;;psychic_info
+1;None;None;None;None;;;;None
+2;None;None;None;None;;;;None
+3;None;None;None;None;;;;None
+4;None;None;None;None;;;;None
+5;None;None;None;None;;;;None
+6;None;None;None;None;;;;None
+7;None;None;None;None;;;;None
+8;None;None;None;None;;;;None
+9;None;None;None;None;;;;None
+10;None;None;None;None;;;;None
+11;None;None;None;None;;;;None
+12;None;None;None;None;;;;None
+;psychic_info_end;psychic_info_end;psychic_info_end;psychic_info_end;;;;psychic_info_end
+;;;;;;;;
+;psychic_desc;psychic_desc;psychic_desc;psychic_desc;;;;psychic_desc
+1;Главное - верить в себя.;Believing in yourself is the most important thing.;人最重要的就是相信自己。;Der Glaube an sich selbst ist das Wichtigste.;;;;Wiara w siebie to najważniejsza sprawa.
+2;Вы чувствуете, как в вас закипает праведный гнев.;You feel the righteous fury rising within you.;你感觉正义的愤怒在自己体内升腾。;Du fühlst, wie die Wut der Rechtschaffenheit in dir aufsteigt.;;;;Czujesz, jak rośnie w tobie sprawiedliwa furia.
+3;Гибель? Только не сегодня!;Certain doom? Not today!;我的死期还没到！;Todsicheres Verderben? Heute nicht!;;;;Pewny zgon? Nie tym razem!
+4;Иногда выдержка и осторожность куда полезней отваги.;Sometimes patience and caution are much more helpful than courage.;耐心和谨慎有时候比勇气更重要。;Manchmal sind Geduld und Vorsicht viel hilfreicher als Mut.;;;;Czasami cierpliwość i ostrożność są o wiele bardziej pomocne niż odwaga.
+5;Вы внезапно осознали всё свое великолепие.;You suddenly realize your actual magnificence.;你突然感觉自己其实十分强大。;Du erkennst plötzlich deine eigentliche Großartigkeit;;;;Nagle uświadamiasz sobie swoją prawdziwą wspaniałość.
+6;Вы находите извращенное удовольствие в причинении страданий.;You take perverse pleasure in the suffering of others.;他人痛苦会令你产生不合常理的快感。;Du hast eine perverse Freude am Leiden anderer.;;;;Czujesz perwersyjną przyjemność, kiedy inni cierpią.
+7;Вы без ума от боли.;You are crazy about pain.;你沉迷疼痛，不能自拔。;Du bist verrückt nach Schmerzen.;;;;Czujesz szaleną przyjemność odczuwając ból.
+8;Последнее, что вы помните - это кровь, приливающая к голове.;The last thing you remember is blood rushing to your head.;血液涌入你的大脑，后面的事情你完全不记得了。;Das Letzte, woran du dich erinnerst, ist das Blut, das dir in den Kopf schießt.;;;;Ostatnie, co pamiętasz to napływającą do głowy krew.
+9;Как будто в один миг жизнь лишилась всех красок.;As if in a single instant life lost its colors.;这具躯体的苦痛似乎与你无关。;Als hätte das Leben in einem einzigen Augenblick seine Farben verloren.;;;;Jakby w ciągu jednej chwili życie straciło kolory.
+10;Вам кажется, будто скоро случится нечто ужасное...;You feel like something terrible is about to happen...;你总感觉马上就要出什么事情……;Du hast das Gefühl, dass etwas Schreckliches passieren wird...;;;;Czujesz jakby lada moment miało stać się coś bardzo złego...
+11;Всё кончено. Впереди только гибель, и вы прекрасно это осознаете.;It's all over. Only death lies ahead, you see it clearly now.;完了，前方只有死亡，它好像正在向你挥手。;Es ist alles vorbei. Nur der Tod liegt noch vor uns, das siehst du jetzt deutlich.;;;;To koniec. Przed sobą widzisz nieuniknioną śmierć.
+12;Мысли о том, что вы смертельно больны, посещают вас всё чаще.;Thoughts of deadly diseases come to your mind more often than usual.;你满脑子都是能够置人于死地的疾病。;Die Gedanken an tödliche Krankheiten kommen dir öfter als sonst in den Sinn.;;;;Myśli o ciężkich i śmiertelnych chorobach nawiedzają cię coraz częściej.
+;psychic_desc_end;psychic_desc_end;psychic_desc_end;psychic_desc_end;;;;psychic_desc_end
+;;;;;;;;
+;context_menu;context_menu;context_menu;context_menu;;;;context_menu
+1;Открыть;Open;打开;Öffnen;;;;Otwórz
+2;Закрыть;Close;关上;Schließen;;;;Zamknij
+3;Атаковать;Attack;攻击;Angreifen;;;;Atakuj
+4;Взломать;Pick;开锁;Knacken;;;;Użyj Wytrychu
+5;Атаковать;Attack;攻击;Angreifen;;;;Atakuj
+6;Осмотреть;Inspect;查看;Untersuchen;;;;Sprawdź
+7;Поднять;Pick Up;拿起;Aufheben;;;;Podnieś
+8;Использовать;Use;使用;Benutzen;;;;Użyj
+9;Съесть;Eat;吃;Essen;;;;Zjedz
+10;Выпить;Drink;喝;Trinken;;;;Wypij
+11;Применить;Apply;使用;Anwenden;;;;Nałóż
+12;Использовать;Use;使用;Benutzen;;;;Użyj
+13;Выбросить;Drop;丢弃;Ablegen;;;;Wyrzuć
+14;Взаимодействовать;Interact;互动;Interagieren;;;;Interakcja
+15;Экипировать;Equip;装备;Ausrüsten;;;;Wyposaż
+16;Починить;Repair;修理;Reparieren;;;;Napraw
+17;Снять;Remove;移除;Entfernen;;;;Usuń
+18;Обезвредить;Disarm;拆除;Entschärfen;;;;Rozbrój
+19;Проскочить;Avoid;躲避;Vermeiden;;;;Omiń
+20;Открыть (ключ);Open (Key);打开（钥匙）;Öffnen (Schlüssel);;;;Otwórz (Kluczem)
+21;Изучить;Inspect;查看;Untersuchen;;;;Sprawdź
+22;Опознать;Identify;鉴定;Identifizieren;;;;Identyfikuj
+23;Прочесть;Read;阅读;Lesen;;;;Czytaj
+24;Шанс проскочить:;Chance to avoid:;躲避几率：;Ausweichen-Chance:;;;;Szansa na uniknięcie:
+25;Шанс обезвредить:;Disarm chance:;拆除几率：;Entschärfen-Chance;;;;Szansa na rozbrojenie:
+26;Объединить;Merge;归拢;Zusammenführen;;;;Połącz
+27;Переместить;Move;移动;Bewegen;;;;Przenieś
+28;Осмотреть;Inspect;查看;Untersuchen;;;;Sprawdź
+29;Крикнуть;Shout;高喊;Rufen;;;;Krzycz
+30;Отдыхать;Rest;休息;Ruhen;;;;Odpocznij
+31;Режим скрытности;Enter Stealth;开始潜行;Schleichen aktivieren;;;;Skradaj się
+32;Режим атаки;Attack Mode;攻击模式;Angriffsmodus;;;;Tryb Ataku
+33;Торговец ещё не открыл свою лавку;This store is not open yet;商店还没开始营业;Der Laden ist noch geschlossen;;;;Ten sklep nie jest jeszcze otwarty
+34;Метнуть;Throw;投掷;Werfen;;;;Rzuć
+35;Говорить;Talk;交谈;Reden;;;;Rozmawiaj
+36;Не хватает денег;Not enough money;钱不够;Nicht genug Geld;;;;Za mało pieniędzy
+37;Персонажу неинтересны товары этой категории;This character is not interested in this type of goods;这个人对这种东西不感兴趣;Dieser Charakter ist an diese Art von Waren nicht interessiert;;;;Ta postać nie jest zainteresowana tego typu przedmiotami
+38;У персонажа не хватает денег;This character doesn't have enough money;这个人没有那么多钱;Dieser Charakter hat nicht genug Geld;;;;Ta postać nie ma wystarczająco pieniędzy
+39;Торговать;Trade;交易;Handeln;;;;Handluj
+40;Купить;Buy;买;Kaufen;;;;Kup
+41;Продать;Sell;卖;Verkaufen;;;;Sprzedaj
+42;Взять всё;Take All;全部拿走;Alles Nehmen;;;;Weź wszystko
+43;Взять;Take;拿走;Nehmen;;;;Weź
+44;Попить;Drink;喝;Trinken;;;;Pij
+45;Наполнить бурдюк;Fill the waterskin;给水囊灌水;Wasserschlauch füllen;;;;Napełnij bukłak
+46;Уничтожить;Destroy;摧毁;Zerstören;;;;Zniszcz
+47;Провести ритуал;Perform a ritual;举行仪式;Ein Ritual durchführen;;;;Odpraw rytuał
+48;Недостаточно места;Not enough space;空间不够;Nicht genug Platz;;;;Za mało miejsca
+49;Перейти;Venture forth;勇敢向前;Vorwärts wagen;;;;Zaryzykuj
+50;Войти;Enter;进入;Betreten;;;;Wejdź
+51;Выйти;Leave;离开;Verlassen;;;;Wejdź
+52;Подняться;Go upstairs;上楼;Nach oben gehen;;;;Do góry
+53;Спуститься;Go downstairs;下楼;Nacht unten gehen;;;;Na dół
+54;Разделить;Split stack;分堆;Stapel teilen;;;;Rozdziel
+55;Перевязать;Bandage;绷带;Verband;;;;Bandażuj
+56;Использовать мазь;Apply healing salve;使用疗伤药膏;Heilsalbe anwenden;;;;Nałóż maść leczącą
+57;Наложить шину;Apply splint;使用夹板;Schiene anwenden;;;;Nałóż stabilizator
+58;Прооперировать;Perform surgery;动手术;Operation durchführen;;;;Wykonaj operację
+59;Лечить пиявками;Apply leeches;使用水蛭;Blutegel anwenden;;;;Nałóż pijawki
+60;Нет расходников;No consumables;没有消耗品;Keine Verbrauchsgegenstände;;;;Brak używalnych przedmiotów
+61;Нельзя использовать при кровотечении;Cannot be used on bleeding body parts;出血部位不能使用;Kann nicht an blutenden Körperteilen verwendet werden;;;;Nie można użyć na krwawiących częściach ciała
+62;Эта часть тела не нуждается в лечении.;This body part doesn't require treatment.;这个部位无需治疗;Dieser Körperteil benötigt keine Behandlung.;;;;Ta część ciała nie wymaga leczenia lub zabiegów.
+63;Нет травмы;No injuries;没有受伤;Keine Verletzungen;;;;Brak ran
+64;Нет кровотечения;No bleeding;没有出血;Keine Blutungen;;;;Brak krwawienia
+65;Поменяться местами;Swap;对调;Tauschen;;;;Zamień
+66;Прекратить отдых;Stop Resting;休息结束;Ruhen beenden;;;;Zakończ odpoczynek
+67;Спать;Sleep;睡觉;Schlafen;;;;Śpij
+68;Вы не можете спать со смертельными эффектами.;You can't sleep when suffering from deadly debuffs.;不能睡觉，致命的负面状态正在影响你。;Du kannst nicht schlafen, wenn du unter tödlichen Schwächeanfällen leidest.;;;;Nie możesz spać cierpiąc na śmiertelne efekty negatywne.
+69;Осмотреть содержимое;Look inside;看看里面;Hinein schauen;;;;Zajrzyj do środka
+70;Вы не можете переместить сюда предмет этого типа;Items of this type can't be moved here;这种物品不能移到这里;Gegenstände dieser Art können nicht hierher bewegt werden;;;;Przedmioty tego typu nie mogą zostać umieszczone tutaj.
+71;Зажечь;Start a fire;生火;Ein Feuer entzünden;;;;Rozpal ognisko
+72;Потушить;Put out;扑灭;Ausmachen;;;;Zgaś
+73;Готовить;Cook;做饭;Kochen;;;;Gotuj
+74;Требуется развести огонь;You need to start a fire ;你需要生火;Du musst ein Feuer entzünden;;;;Musisz rozpalić ogień
+75;Разрушить валун;Destroy the boulder;摧毁巨石;Zerstöre den Stein;;;;Zniszcz głazy
+76;Чтобы воспользоваться кроватью, снимите комнату у трактирщика;To use the bed, rent the room from the innkeeper.;先去酒馆老板那里付了房钱，才能上床睡觉。;Um das Bett zu benutzen, musst du den Raum vom Gastwirt mieten;;;;Chcąc używać łóżka musisz je najpierw wynająć u karczmarza.
+77;Нет подходящих ингредиентов;You don't have appropriate ingredients;原料不对;Du hast nicht die passenden Zutaten;;;;Nie masz odpowiednich składników.
+;context_menu_end;context_menu_end;context_menu_end;context_menu_end;;;;context_menu_end
+;;;;;;;;
+;button_hover;button_hover;button_hover;button_hover;;;;button_hover
+1;Меню игры;Game Menu;游戏目录;Spielmenü;;;;Menu Główne
+2;Карта проходимости;Grid Map;网格地图;Gitterkarte;;;;Mapa Pól
+3;Карта шума;Noise Map;声响地图;Geräuschkarte;;;;Mapa Hałasu
+4;Глобальная карта;Global Map;世界地图;Globale Karte;;;;Mapa Globalna
+5;Режимы;Modes;模式;Modi;;;;Tryby
+6;Пропуск хода;Skip Turn;跳过回合;Runde überspringen;;;;Pomiń Turę
+7;Инвентарь;Inventory;物品栏;Inventar;;;;Ekwipunek
+8;Умения;Skills;技能;Fertigkeiten;;;;Umiejętności
+9;Задания;Quests;任务;Aufträge;;;;Zadania
+10;Параметры игрока;Character Panel;人物面板;Charakterfenster;;;;Panel Postaci
+11;Сменить вооружение;Switch Weapons;切换武器;Waffen wechseln;;;;Zmień Bronie
+12;Сменить панель;Switch Hotbar;切换快捷栏;Schnellzugriffsleiste wechseln;;;;Zmień Pasek
+13;ИГРАТЬ;PLAY;开始游戏;SPIELEN;;;;GRAJ
+14;НАСТРОЙКИ;SETTINGS;游戏设置;EINSTELLUNGEN;;;;USTAWIENIA
+15;ВЫХОД;EXIT;退出;BEENDEN;;;;WYJDŹ
+16;Нажмите ENTER, чтобы покинуть игру#Нажмите ESCAPE, чтобы вернуться назад;Press ENTER to exit the game#Press ESCAPE to continue playing;按ENTER键退出游戏#按ESC键继续游戏;Drücke ENTER, um das Spiel zu verlassen.#Drücke ESC, um weiter zu spielen.;;;;Wciśnij ENTER by wyjść z gry#Wciśnij ESCAPE, by kontynuować
+17;НАЗАД;BACK;返回;ZURÜCK;;;;WRÓĆ
+18;РУССКИЙ;Русский;Русский;RUSSISCH;;;;ROSYJSKI
+19;АНГЛИЙСКИЙ;ENGLISH;English;ENGLISCH;;;;ANGIELSKI
+20;НОВАЯ ИГРА;NEW GAME;新的游戏;NEUES SPIEL;;;;NOWA GRA
+21;ПРОДОЛЖИТЬ;CONTINUE;继续游戏;WEITER;;;;KONTYNUUJ
+22;Закрыть;Close;关闭;Schließen;;;;Zamknij
+23;Взять все;Take All;全部拿走;Alles nehmen;;;;Zbierz wszystko
+24;Общая громкость;Master Volume;主音量;Gesamtlautstärke;;;;Głośność całkowita
+25;Громкость музыки;Music;音乐;Musik;;;;Muzyka
+26;Громкость звуков;SFX;声效;Soundeffekte;;;;Efekty dźwiękowe
+27;Громкость диалогов;Dialogues;对话;Dialoge;;;;Dialogi
+28;Громкость окружения;Ambience;环境;Umgebung;;;;Otoczenie
+29;Покачивание спрайтов;Sprite Wobbling;立绘摇晃;Spritewackeln;;;;Animacje sprite
+30;Всплывающие надписи;Pop-up Inscriptions;弹出文字;Pop-up Instruktionen;;;;Opisy typu pop-up
+31;Числа урона;Damage Numbers;伤害数值;Schadenszahlen;;;;Liczby obrażeń
+32;Тряска экрана;Screen Shake;屏幕振动;Bildschirmwackeln;;;;Wstrząsy kamery
+33;Полный экран;Fullscreen;全屏;Vollbild;;;;Pełen ekran
+34;Закрытие инвентаря при закрытии контейнера;Close Inventory after closing loot window;关闭战利窗口自动关闭物品栏;Inventar schließen, nachdem Beutefenster geschlossen wurde;;;;Zamknij ekwipunek po otwarciu łupu
+35;ИГРА;GAME;游戏;SPIEL;;;;GRA
+36;ЗВУК;SOUND;声音;SOUND;;;;DŹWIĘKI
+37;ВИДЕО;VIDEO;图像;VIDEO;;;;GRAFIKA
+38;УПРАВЛЕНИЕ;CONTROLS;键位;STEUERUNG;;;;STEROWANIE
+39;ПРИМЕНИТЬ;APPLY;应用;ANWENDEN;;;;AKCEPTUJ
+40;ОТМЕНА;CANCEL;取消;ABBRUCH;;;;ANULUJ
+41;ПО УМОЛЧАНИЮ;DEFAULTS;恢复默认;STANDARD;;;;DOMYŚLNE
+42;Разрешение;Resolution;分辨率;Auflösung;;;;Rodzielczość
+43;Поддержка других разрешений будет добавлена позже.;Other resolutions support will be added later.;未来将支持其他的分辨率。;Unterstützung für andere Auflösungen kommt später.;;;;Inne rozdzielczości będą obsługiwane wkrótce.
+44;Язык;Language;语言;Sprache;;;;Język
+45;ГЛАВНОЕ МЕНЮ;MAIN MENU;主菜单;HAUPTMENÜ;;;;MENU GŁÓWNE
+46;Выйти в главное меню?;Return to the main menu?;返回主菜单？;Zurück zum Hauptmenü?;;;;Powrócić do menu głównego?
+47;Выйти из игры?;Exit game?;退出游戏？;Spiel verlassen?;;;;Wyjść z gry?
+48;Игра находится в ранней бета-версии.#Многие аспекты игры ещё не реализованы.#Некоторые механики и системы будут изменены и доработаны.;This game is in the early Beta stage.#Many aspects of gameplay have not been implemented yet.#Present features may be a subject to change.;游戏目前处于早期Beta测试阶段#游戏的许多玩法未来将会陆续实现#现有机制以后可能有所调整;Dieses Spiel befindet sich in der frühen Beta-Phase.#Viele Aspekte des Gameplays wurden noch nicht implementiert.#Vorhandene Funktionen können sich ändern.;;;;Ta gra znajduje się we wczesnej fazie Beta.#Wiele elementów mechaniki gry nie zostało ukończonych.#Aktualna treść gry może ulec zmianie.
+49;Вы действительно хотите выйти?;Do you really want to cancel?;确定取消？;Möchtest du wirklich abbrechen?;;;;Na pewno chcesz anulować?
+50;Восстановить значения по умолчанию?;Restore defaults?;确定恢复默认设置？;Standards wieder herstellen?;;;;Przywrócić ustawienia domyślne?
+51;АВТОРЫ;CREDITS;制作人员;CREDITS;;;;LISTA TWÓRCÓW
+52;Сортировка;Autosort;自动整理;Autosort;;;;Automatyczne sortowanie
+53;Ремонт предметов из металла;Repair metal items;修理金属物品;Metallgegenstände reparieren;;;;Napraw metalowe przedmioty
+54;Ремонт предметов из дерева;Repair wooden items;修理木质物品;Holzgegenstände reparieren;;;;Napraw drewniane przedmioty
+55;Ремонт предметов из кожи и ткани;Repair leather & cloth items;修补皮革和布类物品;Leder- und Stoffgegenstände reparieren;;;;Napraw skórzane i płócienne przedmioty
+56;ЛОГ;LOG;游戏日志;LOG;;;;DZIENNIK
+57;Скрытие крон деревьев при наведении;Hide tree crowns upon hovering;鼠标移至树木上方，树冠隐藏;Blende Baumkronen aus, wenn der Mauszeiger über ihnen ist;;;;Ukryj korony drzew po najechaniu kursorem
+58;НАЖМИТЕ ЛЮБУЮ КНОПКУ;PRESS ANY BUTTON;按任意按键;DRÜCKE EINE TASTE;;;;NACIŚNIJ DOWOLNY KLAWISZ
+59;ЗАГРУЗКА;LOAD GAME;加载游戏;SPIEL LADEN;;;;WCZYTAJ GRĘ
+60;Предыдущий прогресс будет утерян, начать новую игру?;Previous progress will be lost, do you want to start new game?;此前保存的进度将丢失，确定开始新的游戏？;Gemachter Fortschritt geht verloren. Möchtest du ein neues Spiel starten?;;;;Poprzednia przygoda zostanie porzucona. Chcesz rozpocząć nową?
+61;V-sync;V-sync;垂直同步;V-Sync;;;;V-sync
+62;СПАТЬ;SLEEP;睡觉;SCHLAF;;;;SEN
+63;Эффекты;Effects;效果;Effekte;;;;Efekty
+64;Низкие;Low;低;Niedrig;;;;Niskie
+65;Средние;Medium;中;Mittel;;;;Średnie
+66;Высокие;High;高;Hoch;;;;Wysokie
+67;Атрибуты;Attributes;属性;Attribute;;;;Atrybuty
+68;Здоровье;Health;生命;Gesundheit;;;;Zdrowie
+69;Черты;Traits;特点;Eigenschaften;;;;Dodatki
+70;Биография;Bio;介绍;Biographie;;;;Biografia
+71;Вы погибли;You Are Dead;你已死亡;Du Bist Tot;;;;Jesteś martwy
+72;УЖЕ ДОСТУПНО;NOW AVAILABLE;现已发售;JETZT VERFÜGBAR;;;;DODAJ GRĘ DO LISTY ŻYCZEŃ
+73;Создано на;Powered by;游戏引擎;Angetrieben von;;;;Napędzane przez
+74;Показывать подсказки;Show hints;显示提示;Tipps an/aus;;;;Włącz podpowiedzi
+75;СОЗДАТЬ ПЕРСОНАЖА;CREATE CHARACTER;创建人物;CHARAKTER ERSTELLEN;;;;STWÓRZ
+76;ВЫБОР ПЕРСОНАЖА;SELECT CHARACTER;选择人物;CHARAKTER AUSWÄHLEN;;;;WYBIERZ
+77;СКЛОННОСТИ;AFFINITY;擅用武器;AFFINITÄT;;;;POWIĄZANIE
+78;БИОГРАФИЯ;STORY;生平事迹;GESCHICHTE;;;;HISTORIA
+79;Уникальная черта;Unique Trait;独有个性;Einzigartige Eigenschaft;;;;Unikalny dodatek
+80;ЧЕРТЫ;TRAITS;个性;EIGENSCHAFTEN;;;;DODATKI
+81;ПРОЛОГ;PROLOGUE;序章;PROLOG;;;;PROLOG
+82;ПРИКЛЮЧЕНИЕ;ADVENTURE;冒险模式;ABENTEUER;;;;PRZYGODA
+83;Режим пермасмерти;Permadeath Mode;真实模式;Permadeath-Modus;;;;Tryb Permadeath
+84;Пройдите ~w~обучение~/~ и узнайте предысторию основной игры.;Complete the ~w~tutorial~/~ and learn the backstory for the main game.;完成~w~教程~/~，了解游戏的背景故事。;Beende das ~w~Tutorial~/~ und lerne mehr über die Hintergrundgeschichte des Hauptspiels.;;;;Ukończ ~w~samouczek~/~ i naucz się historii, by rozpocząć pełną przygodę.
+85;~w~Стандартный режим игры~/~. Выберите наёмника и путешествуйте по миру, исследуя подземелья и выполняя контракты.;The ~w~standard game mode~/~. Chose a mercenary and travel the world, exploring dungeons and fulfilling contracts.;~w~标准游戏模式~/~。选择一个雇佣兵，游历世界，探索各地的地城和洞穴，完成赏金任务。;Der ~w~Standardspielmodus~/~. Wähle einen Söldner und reise durch die Welt, erkunde Dungeons und erfülle Aufträge.;;;;~w~Standardowy tryb gry~/~. Wybierz najemnika i rusz na eksplorację świata oraz podziemi wypełniając kontrakty.
+86;В случае смерти вашего персонажа, вы сможете продолжить игру с момента сохранения.#Однако в режиме ~r~пермасмерти~/~ ваше сохранение будет навсегда удалено.;If you die during your adventures, you can resume the game from your save.#However, in ~r~permadeath~/~ mode your saves are irreversibly erased on death.;如果你在冒险途中死亡，可以接着保存的进度继续游戏。#不过，如果选择~r~真实~/~模式，你一旦死亡，游戏存档便永久删除。;Wenn du während deines Abenteuers stirbst, kannst du das Spiel von deinem Spielstand aus wieder aufnehmen, aber im ~r~Permadeath~/~ Modus werden deine Spielstände beim Tod unwiderruflich gelöscht.;;;;Jeżeli zginiesz w trakcie przygody, możesz ją kontynuować cofając się do ostatniego zapisu.#Jednak w ~r~trybie permadeath~/~ twój zapis gry zostanie usunięty, gdy postać zginie.
+87;Осбрук, неделю спустя...;Osbrook, one week later...;奥斯布鲁克，一周之后……;Osbrook, eine Woche später...;;;;Osbrook, tydzień później...
+88;Ваше сохранение несовместимо с этой версией игры.##Откатитесь на предыдущую версию в настройках игры в Steam или же начните новую игру.;Your save is incompatible with the current version of the game.##Rollback to the previous version via Steam game options or start a new game.;你的存档与游戏当前版本不符。##请通过Steam的游戏选项回滚至前一版本，或者开始新的游戏。;Der Spieltand ist nicht mit der aktuellen Version des Spiels kompatibel.##Mache ein Rollback zur vorherigen Version des Spiels über die Steam-Spieloptionen, oder starte ein neues Spiel.;;;;Twój zapis jest niekompatybilny z aktualną wersją gry.##Cofnij wersję gry w ustawieniach Stoneshard na Steam lub rozpocznij nową grę.
+89;Аппаратный курсор;Native cursor;Native cursor;Native cursor;;;;Native cursor
+;button_hover_end;button_hover_end;button_hover_end;button_hover_end;;;;button_hover_end
+;;;;;;;;
+;control_buttons;control_buttons;control_buttons;control_buttons;;;;control_buttons
+1;Вверх;Up;上;Hoch;;;;W górę
+2;Вниз;Down;下;Runter;;;;W dół
+3;Влево;Left;左;Links;;;;Lewo
+4;Вправо;Right;右;Rechts;;;;Prawo
+5;Вправо и вверх;Right Up;右上;Rechts Hoch;;;;Prawa Góa
+6;Влево и вверх;Left Up;左上;Links Hoch;;;;Lewa Góra
+7;Вправо и вниз;Right Down;右下;Rechts Runter;;;;Prawy Dół
+8;Влево и вниз;Left Down;左下;Links Runter;;;;Lewy Dół
+9;Пропуск хода;Skip Turn;跳过回合;Runde überspringen;;;;Pomiń Turę
+10;Режим взаимодействия;Interaction Mode;互动模式;Interaktionsmodus;;;;Tryb Interakcji
+11;Вариант вооружения;Weapon Loadout;武器组合;Bewaffnung;;;;Wyposażenie
+12;Режим атаки;Attack Mode;攻击模式;Angriffsmodus;;;;Tryb Ataku
+13;Меню персонажа;Character Menu;人物窗口;Charaktermenü;;;;Menu Postaci
+14;Инвентарь;Inventory;物品栏;Inventar;;;;Ekwipunek
+15;Меню способностей;Skill Menu;技能窗口;Fertigkeitenmenü;;;;Menu Umiejętności
+16;Меню режимов;Mode Menu;模式窗口;Modusmenü;;;;Menu Trybów
+17;Показать добычу;Loot Hovers;显示战利品;Beute hervorheben;;;;Informacje o łupie
+18;Взять всё;Take All;全部拿走;Alles nehmen;;;;Weź wszystko
+19;Режим отдыха;Rest Mode;休息模式;Ruhemodus;;;;Tryb Odpoczynku
+20;Журнал;Journal;日志;Tagebuch;;;;Dziennik
+21;Карта;Map;地图;Karte;;;;Mapa
+;control_buttons_end;control_buttons_end;control_buttons_end;control_buttons_end;;;;control_buttons_end
+;;;;;;;;
+;trade_category;trade_category;trade_category;trade_category;;;;trade_category
+1;Всё;Everything;所有东西;Alles;;;;Wszystko
+2;Оружие;Weapons;武器;Waffen;;;;Bronie
+3;Броня;Armor;护具;Rüstung;;;;Pancerze
+4;Украшения;Jewelry;首饰;Schmuck;;;;Amulety i Pierścienie
+5;Медицина;Medicine;药品;Medizin;;;;Medykamenty
+6;Съестное и напитки;Food & Drinks;饮食;Essen & Getränke;;;;Napoje i Jedzenie
+7;Инструменты;Tools;工具;Werkzeuge;;;;Narzędzia
+8;Зелья;Potions;药剂;Tränke;;;;Mikstury
+9;Свитки и книги;Scrolls & Books;书卷;Spruchrollen & Bücher;;;;Zwoje i Księgi
+10;Материалы и реагенты;Reagents & Materials;材料;Reagenzien & Materialien;;;;Reagenty i Materiały
+11;Драгоценности;Valuables;贵重物品;Wertvolles;;;;Kosztowności
+12;Другое;Other;其他;Sonstiges;;;;Inne
+;trade_category_end;trade_category_end;trade_category_end;trade_category_end;;;;trade_category_end
+;;;;;;;;
+;map;map;map;map;;;;map
+1;Осбрук;Osbrook;奥斯布鲁克;Osbrook;;;;Osbrook
+2;Манншир;Mannshire;曼郡;Mannshire;;;;Mannshire
+3;Бастион;Bastion;棱堡;Bastion;;;;Bastion
+4;Склеп;Crypt;墓穴;Krypta;;;;Krypta
+5;Катакомбы;Catacombs;墓道;Katakomben;;;;Katakumby
+6;Лагерь;Camp;营地;Lager;;;;Obóz
+7;Хижина ведьмы;Witch's Hut;女巫小屋;Hexenhütte;;;;Chata Wiedźmy
+8;Винокурня;Winery;酒厂;Weingut;;;;Winiarnia
+9;Мельница;Mill;磨坊;Mühle;;;;Młyn
+10;Поле;Field;田野;Feld;;;;Pola
+11;Лес;Forest;树林;Wald;;;;Lasy
+12;с дорогой;with a road;（有路）;mit Straße;;;;z drogą
+13;Аббатство Святого Откровения;Abbey of the Holy Revelation;圣示修院;Abtei der Heiligen Offenbarung;;;;Opactwo Świętego Objawienia
+14;Точка интереса;Point of Interest;地点;Interessanter Ort;;;;Interesujące Miejsca
+15;Опасность;Danger;危险程度;Gefahr;;;;Niebezpieczeństwo
+16;Низкая;Low;低;Niedrig;;;;Niskie
+17;Средняя;Average;中;Durchschnittlich;;;;Średnie
+18;Высокая;High;高;Hoch;;;;Wysokie
+19;Очень высокая;Very High;很高;Sehr Hoch;;;;Bardzo Wysokie
+;map_end;map_end;map_end;map_end;;;;map_end

@@ -1,0 +1,53 @@
+тип;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
+;text;text;text;text;;;;text
+;;;;;;;;
+Escape the Dungeon;Выбраться из темницы;Escape the Dungeon;逃离地牢;Fliehe aus dem Dungeon;;;;Wydostań się z Podziemi
+Open Inventory;Открыть инвентарь;Open the Inventory;打开物品栏;Öffne das Inventar;;;;Otwórz Ekwipunek
+Take Off Shackles;Снять кандалы;Take Off Your Shackles;摘下镣铐;Entferne deine Fessln;;;;Zdejmij Kajdany
+Examine the Cell;Осмотреть камеру;Examine the Cell;查看牢房;Untersuche die Zelle;;;;Rozejrzyj się po celi
+Search Locke's Body;Обыскать тело Лока;Search Locke's Body;翻找洛克的尸体;Durchsuche Locke's Körper;;;;Przeszukaj ciało Lockego
+Take Items;Забрать вещи;Pick Up the Items;捡起物品;Nimm die Gegenstände;;;;Podnieś przedmioty
+Satiate Hunger & Thirst;Утолить голод и жажду;Sate Your Hunger & Thirst;消除饥渴;Stille deinen Hunger und Durst;;;;Zaspokój Głód i Pragnienie
+Escape the Cell;Выбраться из камеры;Escape From the Cell;逃出牢房;Fliehe aus der Zelle;;;;Wydostań się z Celi
+Pick the Lock;Взломать решетку;Pick the Lock;打开锁头;Knacke das Schloss;;;;Otwórz zamek
+Find the Exit;Найти выход;Find the Way Out;找到出路;Finde einen Weg hinaus;;;;Znajdź drogę ucieczki
+Kill the Guard;Убить стражника;Kill the Guard;杀死护卫;Töte die Wache;;;;Zabij strażnika
+Examine the Hallway;Осмотреть коридор;Examine the Hallway;查看外面的走廊;Untersuche den Gang;;;;Rozejrzyj się w korytarzu
+Disarm the Trap;Обезвредить ловушку;Disarm the Trap;拆除陷阱;Entschärfe die Falle;;;;Rozbrój pułapkę
+Go Further;Пройти дальше;Go Further Ahead;继续向前;Gehe weiter;;;;Eksploruj dalej
+Search the Stockroom;Обыскать склад;Search the Storage Room;翻找储物室;Durchsuche den Lagerraum;;;;Przeszukaj magazyn
+Open Health Tab;Открыть вкладку здоровья;Open the Health Tab;打开人物面板的生命窗口;Öffene die Gesundheits-Registerkarte;;;;Otwórz zakładkę Zdrowia
+Stabilize Injury;Стабилизировать травму;Stabilize the Injury;稳定伤情;Staibilisiere die Verletzung;;;;Ustabilizuj rany
+Use Salve;Применить мазь;Use a Healing Salve;使用疗伤药膏;Verwende eine Heilsalbe;;;;Użyj Maści Leczącej
+Get Rid of Pain;Снять боль;Relieve the Pain;缓解疼痛;Lindere den Schmerz;;;;Pozbadź się Bólu
+Get Rid of Toxicity;Вывести токсины;Remove the Intoxication;摆脱迷醉状态;Entferne die Vergiftung;;;;Usuń Zatrucie
+Rest;Отдохнуть;Have Some Rest;休息一下;Ruhe dich etwas aus;;;;Odpocznij
+Pick Up the Equipment;Подобрать снаряжение;Pick Up the Equipment;捡起装备;Nimm die Ausrüstung;;;;Podnieś wyposażenie
+Open the Gates;Открыть ворота;Open the Gates;打开大门;Öffne die Tore;;;;Otwórz Bramy
+Go Further1;Пройти коридор;Go Through the Hallway;穿过走廊;Gehe durch den Gang;;;;Przejdź korytarzem
+Pick Up the Treatise;Подобрать трактат;Pick Up the Treatise;拿起文献;Hebe die Abhandlung auf;;;;Podnieś Podręcznik
+Read the Treatise;Прочесть трактат;Read the Treatise;阅读文献;Lies die Abhandlung;;;;Przeczytaj Podręcznik
+Learn Fire Barrage Spell;Изучить заклинание "Огненный залп";Learn the "Fire Barrage" Spell;学习法术“连发火球”;Lerne den "Feuersperre"-Spruch;;;;Naucz się czaru "Ognista Zapora"
+Move to the Next Room;Перейти в следующую комнату;Move to the Next Room;前往隔壁房间;Gehe in den nächsten Raum;;;;Udaj się do kolejnych pomieszczeń
+Search the Shelves;Обыскать полки;Search the Shelves;翻找架子;Durchsuche die Regale;;;;Przeszukaj półki
+Move Onward;Продолжить путь;Keep Going;继续前进;Mach weiter;;;;Eksploruj dalej
+Find the Transition;Найти переход на другой этаж;Find the Way to the Next Floor;找到前往下一层的路;Finde einen Weg zur nächsten Ebene;;;;Odnajdź drogę na kolejne piętro
+Explore the Chapel;Исследовать часовню;Explore the Chapel;探索教堂;Erkunde die Kapelle;;;;Zbadaj Kaplicę
+Destroy Statues;Уничтожить статуи;Destroy the Statues;摧毁雕像;Zerstöre die Statuen;;;;Zniszcz Posągi
+Kill Archon;Убить Архонта;Kill the Archon;杀死统领;Töte den Archonten;;;;Zabij Archona
+Pick Up the Stoneshard;Подобрать Осколок;Pick Up the Stoneshard;捡起紫色晶石;Nimm den Steinsplitter;;;;Podnieś Stoneshard
+Talk with Companions;Поговорить с компаньонами;Talk with your Companions;与同伴交谈;Rede mit deinen Kompagnons;;;;Porozmawiaj z kompanami
+Main quest;Сбор каравана;Gathering the Caravan;找回探宝队成员;Sammeln der Karawane;;;;Zbierz Karawanę
+Complete three contracts;Выполнить три контракта;Complete Three Contracts;完成三个契据的任务;Erfülle drei Aufträge;;;;Ukończ trzy Kontrakty
+Return to Verren;Вернуться к Веррену;Return to Verren;找到维伦;Kehre zu Verren zurück;;;;Wróć do Varrena
+Meet Veren at the camp;Встретиться с Верреном в лагере;Meet Verren in the Camp;和维伦在营地见面;Triff Verren im Lager;;;;Spotkaj się z Varrenem w obozie
+Go to Mannshire;Отправиться в Манншир;Go to Mannshire;前往曼郡;Geh nach Mannshire;;;;Udaj się do Mannshire
+Get Bounty;Показать старейшине контракт;Show the Contract to the Elder;带着契据去见村长;Zeige den Auftrag dem Ältesten;;;;Pokaż Kontrakt starszemu
+Return to Verren;Вернуться к Веррену;Return to Verren;找到维伦;Kehre zu Verren zurück;;;;Powróć do Varrena
+Talk to Elder;Поговорить со старейшиной Осбрука;Talk to the Osbrook's Elder;与村长对话;Sprich mit dem Ältesten;;;;Porozmawiaj ze starszym
+Find Mannshire's Elder;Найти старейшину Маншира;Find Mannshire's Elder;找到曼郡村长;Finde den Ältesten von Mannshire;;;;Odnajdź starszego Mannshire
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;text_end;text_end;text_end;text_end;;;;text_end

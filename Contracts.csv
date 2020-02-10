@@ -1,0 +1,17 @@
+Position;Name;Amount;Category;Faction;Time;Dungeon Type;Script;Gold;Village_Type;Rep Village;Rep Faction;Bad Rep Village;Bad Rep Faction;Bad Dange Mod;;;;Mod time
+1;Спасти крестьянина;1;Спасение ;o_Bandit;3;BanditFortress;scr_contract_1;250;r_Osbrook;100;25;-300;-100;;;;;21
+2;Спасти купца;1;Спасение ;o_Bandit;3;BanditFortress;scr_contract_2;300;r_Osbrook;125;25;-375;-100;;;;;
+3;Спасти посланника;1;Спасение ;o_Bandit;3;BanditFortress;scr_contract_3;350;r_Osbrook;150;100;-450;-400;;;;;
+4;Убить некроманта;1;Убийство ;o_skeleton;4;Crypt;scr_contract_4;300;all;100;25;-300;-100;;;;;
+5;Убить некроманта2;1;Убийство ;o_skeleton;4;Crypt;scr_contract_5;350;all;100;50;-300;-200;;;;;
+6;Найти утраченную реликвию;1;Поиск ;o_skeleton;5;Crypt;scr_contract_6;325;all;150;25;-450;-100;;;;;
+7;Найти языческий артефакт;1;Поиск ;o_vamp;4;Dungeon;scr_contract_7;300;all;125;25;-375;-100;;;;;
+8;Уничтожить Хранилище душ;1;Взаимодействие ;o_skeleton;4;Crypt;scr_contract_8;300;all;125;25;-375;-100;;;;;
+9;Уничтожить нечестивые фолианты;3;Взаимодействие ;o_skeleton;4;Crypt;scr_contract_9;350;all;150;25;-450;-100;;;;;
+10;Убить главаря бандитов;1;Убийство;o_Bandit;4;BanditFortress;scr_contract_10;250;all;125;25;-375;-100;;;;;
+11;Убить предводителя культа;1;Убийство;o_vamp;5;Dungeon;scr_contract_11;350;all;150;25;-450;-100;;;;;
+12;Найти украденные мешки;1;Убийство;o_Bandit;3;BanditFortress;scr_contract_12;300;r_Osbrook;125;25;-375;-100;;;;;
+13;Найти донесения;2;Убийство;o_Bandit;3;BanditFortress;scr_contract_13;350;all;150;25;-450;-100;;;;;
+14;Найти алхимический набор;3;Убийство;o_Bandit;4;BanditFortress;scr_contract_14;300;all;100;50;-300;-200;;;;;
+15;Голова беглеца;4;Убийство;o_Bandit;4;BanditFortress;scr_contract_15;300;all;100;75;-300;-375;;;;;
+16;Найти реликварий;5;Убийство;o_Bandit;4;BanditFortress;scr_contract_16;350;all;125;25;-375;-100;;;;;

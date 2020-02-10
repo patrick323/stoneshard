@@ -1,0 +1,246 @@
+Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
+специальные теги, не удалять, не изменять, при добавлении переносить вниз;buff_name;buff_name;buff_name;buff_name;;;;buff_name
+1;Кислотная ванна;Acid Bath;酸浴;Säurebad;;;;Kwasowa Kąpiel
+2;Агония;Agony;痛苦难耐;Agonie;;;;Agonia
+3;Приход;Bad Trip;惊慌失措;Horrortrip;;;;Urwany Film
+4;Кровотечение;Bleeding;出血;Bluten;;;;Krwawienie
+5;Слепота;Blind;盲目;Blindheit;;;;Ślepota
+6;Крепость;Sturdy;矫健;Robust;;;;Krzepkość
+7;Неуклюжесть;Clumsy;行动笨拙;Ungeschickt;;;;Niezdarność
+8;Замешательство;Confusion;迷惑;Verwirrung;;;;Dezorientacja
+9;Боевой раж;Battle Rage;战怒;Kampfwut;;;;Szał Bitewny
+10;Обезвоживание;Dehydration;脱水;Dehydriert;;;;Odwodnienie
+11;Промокание;Wet;潮湿;Nass;;;;Wilgoć
+12;Опьянение;Drunk;醉酒;Betrunken;;;;Pijaństwo
+13;Неуловимость;Elusive;灵敏;Flüchtig;;;;Nieuchwytność
+14;Разъяренность;Fury;暴怒;Raserei;;;;Furia
+15;Потрясающая точность;Exceptional Precision;格外精准;Außergewöhnliche Präzision;;;;Niesamowita Precyzja
+16;Мучительный голод;Terrible Hunger;非常饥饿;Schrecklicher Hunger;;;;Wielki Głód
+17;Хрупкость;Frail;脆弱;Gebrechlich;;;;Wątłość
+18;Бодрость;Fresh;神清气爽;Erfrischt;;;;Świeżość
+19;Оледенение;Frozen;冻僵;Gefroren;;;;Zamrożenie
+20;Голод;Hunger;饥饿;Hunger;;;;Głod
+21;Боль;Pain;疼痛;Schmerz;;;;Ból
+22;Сильная боль;Strong Pain;剧痛;Starker Schmerz;;;;Mocny Ból
+23;Тошнота;Nausea;恶心;Übelkeit;;;;Wymioty
+24;Поимка в сеть;Netted;动弹不得;Eingefangen;;;;W Sieci
+25;Горение;Burning;着火;Brennend;;;;Podpalenie
+26;Жертвенная кровь;Sacrificial Blood;血祭;Opferblut;;;;Poświęcona Krew
+27;Сытость;Satiety;满足;Sättigung;;;;Najedzenie
+28;Легкий голод;Light Hunger;略微饥饿;Leichter Hunger;;;;Mały Głód
+29;Окаменение;Petrification;石化;Versteinerung;;;;Petryfikacja
+30;Отравление;Poisoning;中毒;Vergiftung;;;;Zatrucie
+31;Одержимость;Possession;中邪;Besessen;;;;Przechwycenie
+32;Ускоренная регенерация;Rapid Restoration;恢复迅速;Rapide Regeneration;;;;Szybka Regeneracja
+33;Болевой шок;Pain Shock;疼痛休克;Schmerzschock;;;;Szok Bólowy
+34;Сон;Sleep;睡觉;Schlaf;;;;Sen
+35;Голодная смерть;Starvation;饥饿难耐;Verhungernd;;;;Głodówka
+36;Каменная кожа;Stone Skin;石肤;Steinhaut;;;;Kamienna Skóra
+37;Оглушение;Stun;硬直;Betäubt;;;;Ogłuszenie
+38;Жажда;Thirst;口渴;Durst;;;;Pragnienie
+39;Нестабильность;Instability;行动不稳;Instabilität;;;;Niestabilność
+40;Ослабление;Weakened;虚弱;Geschwächt;;;;Osłąbienie
+41;Восприимчивость;Receptive;好奇;Empfänglich;;;;Podatność
+42;//Золотое касание//;//Golden Touch//;//Golden Touch//;//Golden Touch//;;;;//Złoty Dotyk//
+43;Истинное виденье;True Sight;火眼金睛;Wahre Sicht;;;;Prawdziwy Wzrok
+44;Похищение жизни;Life Drain;吸血;Lebensentzug;;;;Wykradanie Zdrowia
+45;Похищение энергии;Energy Drain;吸取精力;Energieentzug;;;;Wykradanie Energii
+46;//Сломанная броня//;//Broken Armor//;//Broken Armor//;//Broken Armor//;;;;//Złamany Pancerz//
+47;Ясное зрение;Clear Vision;眼观八方;Klare Sicht;;;;Czysta Wizja
+48;Легкая жажда;Light Dehydration;轻微脱水;Leichte Dehydrierung;;;;Lekkie Odwodnienie
+49;Жажда;Dehydration;脱水;Dehydrierung;;;;Odwodnienie
+50;Страшная жажда;Deadly Dehydration;严重脱水;Tödliche Dehydrierung;;;;Śmiertelne Odwodnienie
+51;Легкая травма руки;Mild Hand Injury;手部轻伤;Leichte Handverletzung;;;;Lekka Rana Głowy
+52;Травма руки;Hand Injury;手部受伤;Handverletzung;;;;Rana Ręki
+53;Тяжелая травма руки;Severe Hand Injury;手部重伤;Schwere Handverletzung;;;;Poważna Rana Ręki
+54;Легкая травма ноги;Mild Leg Injury;腿部轻伤;Leichte Beinverletzung;;;;Lekka Rana Nogi
+55;Травма ноги;Leg Injury;腿部受伤;Beinverletzung;;;;Rana Nogi
+56;Тяжелая травма ноги;Severe Leg Injury;腿部重伤;Schwere Beinverletzung;;;;Poważna Rana Nogi
+57;Легкая травма головы;Mild Head Injury;头部轻伤;Leichte Kopfverletzung;;;;Lekka Rana Głowy
+58;Травма головы;Head Injury;头部受伤;Kopfverletzung;;;;Rana Głowy
+59;Тяжелая травма головы;Severe Head Injury;头部重伤;Schwere Kopfverletzung;;;;Ciężka Rana Głowy
+60;Легкая травма торса;Mild Torso Injury;躯干轻伤;Leichte Rumpfverletzung;;;;Lekka Rana Tułowia
+61;Травма торса;Torso Injury;躯干受伤;Rumpfverletzung;;;;Rana Tułowia
+62;Тяжелая травма торса;Severe Torso Injury;躯干重伤;Schwere Rumpfverletzung;;;;Poważna Rana Tułowia
+63;Легкая интоксикация;Light Intoxication;轻度迷醉;Leichte Vergiftung;;;;Lekkie Zatrucie
+64;Интоксикация;Intoxication;迷醉;Vergiftung;;;;Zatrucie
+65;Тяжелая интоксикация;Severe Intoxication;重度迷醉;Schwere Vergiftung;;;;Poważne Zatrucie
+66;Смертельная интоксикация;Fatal Intoxication;迷醉濒死;Tödliche Vergiftung;;;;Śmiertelne Zatrucie
+67;//Вопреки всему//;//Against The Odds//;//Against The Odds//;//Against The Odds//;;;;//Przeciwko Wszystkiemu//
+68;//Удар милосердия//;//Coup De Grace//;//Coup De Grace//;//Coup De Grace//;;;;//Coup De Grace//
+69;//Тантрум//;//Tantrum//;//Tantrum//;//Tantrum//;;;;//Tantrum//
+70;Лечение пиявками;Leech Therapy;水蛭疗法;Blutegeltherapie;;;;Terapia Pijawkami
+71;Обездвиженность;Immobilization;无法移动;Immobilisierung;;;;Unieruchomienie
+72;Кома;Coma;昏迷;Koma;;;;Śpiączka
+73;Проклятие;Cursed;诅咒;Verflucht;;;;Klątwa
+74;Легкая травма руки (стабил.);Mild Hand Injury (Stabilized);手部轻伤（伤情稳定）;Leichte Handverletzung (stabilisert);;;;Lekka Rana Ręki (Ustabilizowana)
+75;Травма руки (стабил.);Hand Injury (Stabilized);手部受伤（伤情稳定）;Handverletzung (stabilisert);;;;Rana Ręki (Ustabilizowana)
+76;Тяжелая травма руки (стабил.);Severe Hand Injury (Stabilized);手部重伤（伤情稳定）;Schwere Handverletzung (stabilisert);;;;Poważna Rana Ręki (Ustabilizowana)
+77;Легкая травма ноги (стабил.);Mild Leg Injury (Stabilized);腿部轻伤（伤情稳定）;Leichte Beinverletzung (stabilisert);;;;Lekka Rana Nogi (Ustabilizowana)
+78;Травма ноги (стабил.);Leg Injury (Stabilized);腿部受伤（伤情稳定）;Beinverletzung (stabilisert);;;;Rana Nogi (Ustabilizowana)
+79;Тяжелая травма ноги (стабил.);Severe Leg Injury (Stabilized);腿部重伤（伤情稳定）;Schwere Beinverletzung (stabilisert);;;;Poważna Rana Nogi (Ustabilizowana)
+80;Легкая травма головы (стабил.);Mild Head Injury (Stabilized);头部轻伤（伤情稳定）;Leichter Kopfverletzung (stabilisert);;;;Lekka Rana Głowy (Ustabilizowana)
+81;Травма головы (стабил.);Head Injury (Stabilized);头部受伤（伤情稳定）;Kopfverletzung (stabilisert);;;;Rana Głowy (Ustabilizowana)
+82;Тяжелая травма головы (стабил.);Severe Head Injury (Stabilized);头部重伤（伤情稳定）;Schwere Kopfverletzung (stabilisert);;;;Poważna Rana Głowy (Ustabilizowana)
+83;Легкая травма торса (стабил.);Mild Torso Injury (Stabilized);躯干轻伤（伤情稳定）;Leichte Rumpfverletzung (stabilisert);;;;Lekka Rana Tułowia (Ustabilizowana)
+84;Травма торса (стабил.);Torso Injury (Stabilized);躯干受伤（伤情稳定）;Rumpfverletzung (stabilisert);;;;Rana Tułowia (Ustabilizowana)
+85;Тяжелая травма торса (стабил.);Severe Torso Injury (Stabilized);躯干重伤（伤情稳定）;Schwere Rumpfverletzung (stabilisert);;;;Poważna Rana Tułowia (Ustabilizowana)
+86;Щит поднят;Shield Raised;举盾;Erhobener Schild;;;;Podniesiona Tarcza
+87;Чары молний;Lightning Enchantment;闪电附魔;Blitzverzauberung;;;;Zaklęcie Piorunujące
+88;Метка пиршества;Mark of the Feast;在劫难逃;Zeichen das Festmahls;;;;Piętno Uczty
+89;Молниеносные рефлексы;Lightning Reflexes;眼疾手快;Blitzschnelle Reflexe;;;;Piorunujący Refleks
+90;Алый штандарт;Crimson Banner;绯红旌旗;Karmesinrotes Banner;;;;Karmazynowy Baner
+91;Кровавая клятва;Blood Vow;血誓;Blutschwur;;;;Krwawa Przysięga
+92;Нечестивое благословение;Unholy Blessing;邪术庇佑;Unheiliger Segen;;;;Przeklęte Błogosławieństwo
+93;Стойка фехтовальщика;Fencer's Stance;击剑站姿;Fechterhaltung;;;;Postawa Szermierza
+94;Каменная броня;Stone Armor;石甲;Steinrüstung;;;;Kamienny Pancerz
+95;Руническое усиление;Runic Empowerment;符文强化;Runische Verstärkung;;;;Runiczne Wzmocnienie
+96;Ошеломление;Daze;击晕;Benommen;;;;Oszołomienie
+97;Защитная стойка;Defensive Stance;防御站姿;Defensivhaltung;;;;Pozycja Obronna
+98;Резня;Massacre;大开杀戒;Massaker;;;;Masakra
+99;Молот и наковальня;Hammer & Anvil;锤和铁砧;Hammer & Amboss;;;;Młot i Kowadło
+100;Пиршество стали;Feast of Steel;刀剑无情;Festmahl des Stahls;;;;Uczta Stali
+101;Парирование;Parry;招架;Parieren;;;;Parowanie
+102;Легкая травма лап;Mild Paw Injury;爪部轻伤;Leichte Pfotenverletzung;;;;Lekka Rana Łapy
+103;Травма лапы;Paw Injury;爪部受伤;Pfotenverletzung;;;;Rana Łapy
+104;Тяжелая травма лапы;Severe Paw Injury;爪部重伤;Schwere Pfotenverletzung;;;;Poważna Rana Łapy
+105;Легкая травма лапы (стабил.);Mild Paw Injury (Stabilized);爪部轻伤（伤情稳定）;Leichte Pfotenverletzung (stabilisiert);;;;Lekka Rana Łapy (Ustabilizowana)
+106;Травма лапы (стабил.);Paw Injury (Stabilized);爪部受伤（伤情稳定）;Pfotenverletzung (stabilisiert);;;;Rana Łapy (Ustabilizowana)
+107;Тяжелая травма лапы (стабил.);Severe Paw Injury (Stabilized);爪部重伤（伤情稳定）;Schwere Pfotenverletzung (stabilisiert);;;;Poważna Rana Łapy (Ustabilizowana)
+108;Стойка непоколебимости;Unwavering Stance;不动不摇;Unbeugsame Haltung;;;;Niezachwiana Postawa
+109;Прицеливание;Taking Aim;瞄准;Anvisieren;;;;Obieranie Celu
+110;Подавление;Suppression;压制;Unterdrückung;;;;Stłumienie
+111;Болезненные удары;Painful Stabs;辣手利刃;Schmerzhafte Stiche;;;;Bolesne Dźgnięcia
+112;Метка охотника;Hunter's Mark;猎人印记;Zeichen des Jägers;;;;Piętno Łowcy
+113;Зияющая рана;Gaping Wound;破伤;Klaffende Wunde;;;;Otwarta Rana
+114;Вампирическая кровь;Vampiric Blood;嗜血;Vampirblut;;;;Wampirza Krew
+115;Кровавое безумие;Blood Craze;血狂;Blutrausch;;;;Krwawy Szał
+116;Добровольная жертва;Willing Sacrifice;自我奉献;Opferbereitschaft;;;;Umyślne Poświęcenie
+;buff_name_end;buff_name_end;buff_name_end;buff_name_end;;;;buff_name_end
+;;;;;;;;
+;buff_type;buff_type;buff_type;buff_type;;;;buff_type
+1;Физический;Physical;物理;Physisch;;;;Psychiczne
+2;Магический;Magical;魔法;Magisch;;;;Magiczne
+3;Ментальный;Mental;心智;Mental;;;;Mentalne
+4;Состояние;Condition;状态;Zustand;;;;Kondycja
+5;Ранение;Wound;受伤;Wunde;;;;Rana
+;buff_type_end;buff_type_end;buff_type_end;buff_type_end;;;;buff_type_end
+;;;;;;;;
+;buff_desc;buff_desc;buff_desc;buff_desc;;;;buff_desc
+1;None;None;None;None;;;;None
+2;~r~Ноги заплетаются~/~: шанс походить на случайную клетку при перемещении.#~r~Смерть близка~/~: каждые несколько ходов максимальное здоровье персонажа понижается.;~r~Stumbling~/~: a chance to walk to a random tile when moving.#~r~Near Death~/~: every few turns the character's Max Health is being reduced.;~r~踉跄~/~：移动的时候，有一定几率走到附近随机的一个方格上。#~r~濒临死亡~/~：每过几个回合，人物的生命上限就会有所降低。;~r~Stolpern~/~: Chance, zu einem zufälligen Feld zu gehen, wenn man sich bewegt.#~r~Dem Tod nahe~/~: alle paar Runden wird die maximale Gesundheit des Charakters reduziert.;;;;~r~Potknięcie~/~: szansa na wejście na losowe pole w trakcie poruszania się.#~r~Blisko Śmierci~/~: w każdej turze Maksymalne Zdrowie postaci zostaje zmniejszone.
+3;Невозможность получения положительных ментальных эффектов.;Can't receive positive mental effects.;无法获得正面的心智效果。;Kann keine positiven mentalen Effekte erhalten.;;;;Nie można otrzymać pozytywnych efektów mentalnych.
+4;Каждый ход ухудшает состояние части тела на ~r~1%~/~.;Each turn reduces the affected Body Part's condition by ~r~1%~/~.;相应身体部位的伤情每个回合恶化~r~1%~/~。;Jede Runde reduziert den Zustand des betroffenen Körperteils um ~r~1%~/~.;;;;W każdej turze zmniejsza kondycję dotkniętej Części Ciała o ~r~1%~/~.
+5;None;None;None;None;;;;None
+6;None;None;None;None;;;;None
+7;None;None;None;None;;;;None
+8;~r~Ноги заплетаются~/~: шанс походить на случайную клетку при перемещении.;~r~Stumbling~/~: a chance to walk to a random tile when moving.;~r~踉跄~/~：移动的时候，有一定几率走到附近随机的一个方格上。;~r~Stolpern~/~: Chance, zu einem zufälligen Feld zu gehen, wenn man sich bewegt.;;;;~r~Potknięcie~/~: szansa na wejście na losowe pole w trakcie poruszania się.
+9;None;None;None;None;;;;None
+10;None;None;None;None;;;;None
+11;None;None;None;None;;;;None
+12;~r~Ноги заплетаются~/~: шанс походить на случайную клетку при перемещении.;~r~Stumbling~/~: a chance to walk to a random tile when moving.;~r~踉跄~/~：移动的时候，有一定几率走到附近随机的一个方格上。;~r~Stolpern~/~: Chance, zu einem zufälligen Feld zu gehen, wenn man sich bewegt.;;;;~r~Potknięcie~/~: szansa na wejście na losowe pole w trakcie poruszania się.
+13;None;None;None;None;;;;None
+14;None;None;None;None;;;;None
+15;None;None;None;None;;;;None
+16;None;None;None;None;;;;None
+17;None;None;None;None;;;;None
+18;None;None;None;None;;;;None
+19;~r~Невозможность выполнения действий~/~.;~r~Can't perform any actions~/~.;~r~什么事情都做不了~/~。;~r~Kann keine Aktionen ausführen~/~.;;;;~r~Brak możliwości wykonywania akcji~/~.
+20;None;None;None;None;;;;None
+21;None;None;None;None;;;;None
+22;None;None;None;None;;;;None
+23;None;None;None;None;;;;None
+24;~r~Невозможность передвижения~/~.;~r~Can't move~/~.;~r~不能移动~/~。;~r~Kann sich nicht bewegen~/~.;;;;~r~Brak możliwości poruszania się~/~.
+25;None;None;None;None;;;;None
+26;Каждый процент здоровья, потерянный целью с модификатором, восполняет заклинателю ~bl~3%~/~ запаса энергии.##Каждый раз когда цели модификатора наносится урон:##Заклинатель получает ~lg~+10%~/~ к силе магии#Активные перезарядки его способностей уменьшаются на ~w~1~/~ ход;The caster replenishes ~bl~3%~/~ Max Energy for each missing percent of the affected target's Max Health..##Whenever the target affected by this modifier takes Damage:##The caster gains ~lg~+10%~/~ Magic Power#The caster's active Сooldowns are reduced by ~w~1~/~ turn.;攻击对象生命相较生命上限每少一个百分点，施法者便恢复精力上限~bl~3%~/~的精力。##每当这个状态影响的对象受到伤害：##施法者法力便增强~lg~+10%~/~#施法者当前正在冷却的能力冷却时长缩短~w~1~/~个回合。;Der Zaubernde füllt ~bl~3%~/~ max. Energie für jedes fehlende Prozent der max. Gesundheit des betroffenen Ziels auf...##Jedes Mal, wenn das von diesem Modifikator betroffene Ziel Schaden nimmt:##Der Zaubernde gewinnt ~lg~+10%~/~ Magische Kraft#Die aktiven Abklingzeiten des Zaubernden werden um ~w~1~/~ Runde reduziert.;;;;Rzucający odnawia ~bl~3%~/~ Maksymalnej Energii za każdy brakujący procent Maksymalnego Zdrowia celu.##Jak tylko cel tego efektu otrzyma Obrażenia:##Rzucający otrzymuje ~lg~+10%~/~ Mocy Magicznej#Trwające Czasy Odnowienia rzucającego są zmniejszone o ~w~1~/~ turę.
+27;None;None;None;None;;;;None
+28;Живот начинает слегка урчать.;The stomach starts rumbling.;肚子开始响了。;Der Magen beginnt zu knurren.;;;;Żołądek zaczyna burczeć.
+29;Невозможность получения физических эффектов.#~r~Невозможность выполнения действий~/~.;Cannot receive physical effects.#~r~Can't perform any actions~/~.;无法获得物理效果。#~r~什么事情都做不了~/~。;Kann keine physikalischen Effekte empfangen.#~r~Kann keine Aktionen durchführen~/~.;;;;Nie można otrzymać efektów fizycznych.#~r~Brak możliwości wykonywania akcji~/~.
+30;None;None;None;None;;;;None
+31;// Злой дух получил контроль над телом. //;// The evil spirit gained control over your body. //;// The evil spirit gained control over your body. //;// The evil spirit gained control over your body. //;;;;// Zły duch kontroluje twoje ciało //
+32;None;None;None;None;;;;None
+33;~r~Ноги заплетаются~/~: шанс походить на случайную клетку при перемещении.#~r~Смерть близка~/~: каждые несколько ходов максимальное здоровье персонажа понижается.;~r~Stumbling~/~: a chance to walk to a random tile when moving.#~r~Near Death~/~: every few turns the character's Max Health is being reduced.;~r~踉跄~/~：移动的时候，有一定几率走到附近随机的一个方格上。#~r~濒临死亡~/~：每过几个回合，人物的生命上限就会有所降低。;~r~Stolpern~/~: eine Chance, zu einem zufälligen Feld zu gehen, wenn man sich bewegt.#~r~Dem Tod nahe~/~: alle paar Runden wird die maximale Gesundheit des Charakters reduziert.;;;;
+34;~r~Невозможность выполнения действий~/~.;~r~Can't perform any actions~/~.;~r~什么事情都不能做~/~。;~r~Kann keine Aktionen ausführen~/~.;;;;~r~Brak możliwości wykonywania akcji~/~.
+35;~r~Смерть близка~/~: каждые несколько ходов максимальное здоровье снижается.;~r~Near Death~/~: every few turns the character's Max Health is being reduced.;~r~濒临死亡~/~：每过几个回合，人物的生命上限就会有所降低。;~r~Dem Tod nahe~/~: alle paar Runden wird die maximale Gesundheit des Charakters reduziert.;;;;~r~Potknięcie~/~: szansa na wejście na losowe pole w trakcie poruszania się.#~r~Blisko Śmierci~/~: w każdej turze Maksymalne Zdrowie postaci zostaje zmniejszone.
+36;None;None;None;None;;;;None
+37;~r~Невозможность выполнения действий~/~.;~r~Can't perform any actions~/~.;~r~什么事情都做不了~/~。;~r~Kann keine Aktionen ausführen~/~.;;;;~r~Brak możliwości wykonywania akcji~/~.
+38;None;None;None;None;;;;None
+39;// Перемещение становится непредсказуемым!//;//You move unpredictably!//;//You move unpredictably!//;//You move unpredictably!//;;;;//Poruszasz się nieprzewidywalnie//
+40;None;None;None;None;;;;None
+41;None;None;None;None;;;;None
+42;None;None;None;None;;;;None
+43;Возможность замечать невидимые цели.;Able to spot invisible targets.;能够看到隐形的目标。;In der Lage, unsichtbare Ziele zu erkennen.;;;;Daje umiejętność zobaczenia niewidzialnych.
+44;None;None;None;None;;;;None
+45;None;None;None;None;;;;None
+46;// Надетое снаряжение изнашивается быстрее. //;// Equipped gear wears down faster. //;// Equipped gear wears down faster. //;// Equipped gear wears down faster. //;;;;// Założone wyposażenie zużywa się szybciej //
+47;None;None;None;None;;;;None
+48;None;None;None;None;;;;None
+49;None;None;None;None;;;;None
+50;~r~Смерть близка~/~: каждые несколько ходов максимальное здоровье снижается.;~r~Near Death~/~: every few turns the character's Max Health is being reduced.;~r~濒临死亡~/~：每过几个回合，人物的生命上限就会有所降低。;~r~Dem Tod nahe~/~: alle paar Runden wird die maximale Gesundheit des Charakters reduziert.;;;;~r~Blisko Śmierci~/~: w każdej turze Maksymalne Zdrowie postaci zostaje zmniejszone.
+51;None;None;None;None;;;;None
+52;None;None;None;None;;;;None
+53;None;None;None;None;;;;None
+54;None;None;None;None;;;;None
+55;None;None;None;None;;;;None
+56;Передвижение иногда ~r~обездвиживает~/~.;Movement may cause ~r~Immobilization~/~.;继续移动可能导致~r~无法移动~/~。;Bewegung kann zu ~r~Immobilisierung~/~ führen.;;;;Poruszanie się może wywołać ~r~Unieruchomienie~/~.
+57;None;None;None;None;;;;None
+58;None;None;None;None;;;;None
+59;~r~Невозможность произнесения заклинаний~/~.;~r~Can't cast spells~/~.;~r~不能施放法术~/~。;~r~Kann nicht zaubern~/~.;;;;~r~None możliwości rzucania czarów~/~.
+60;None;None;None;None;;;;None
+61;None;None;None;None;;;;None
+62;Возможно ~r~кровотечение~/~.;Possible ~r~Bleeding~/~.;可能~r~出血~/~。;Mögliches ~r~Bluten~/~.;;;;Możliwe ~r~Krwawienie~/~.
+63;None;None;None;None;;;;None
+64;None;None;None;None;;;;None
+65;~r~Ноги заплетаются~/~: шанс походить на случайную клетку при перемещении.#Возможна ~r~тошнота~/~.;~r~Stumbling~/~: a chance to walk to a random tile when moving.#Possible ~r~Nausea~/~.;~r~踉跄~/~：移动的时候，有一定几率走到附近随机的一个方格上。#可能~r~干呕~/~。;~r~Stolpern~/~: eine Chance, zu einem zufälligen Feld zu gehen, wenn man sich bewegt.#Mögliche ~r~Übelkeit~/~.;;;;~r~Potknięcie~/~: szansa na wejście na losowe pole w trakcie poruszania się.#Możliwe ~r~Wymioty~/~.
+66;~r~Ноги заплетаются~/~: шанс походить на случайную клетку при перемещении.#Возможны ~r~тошнота~/~ или ~r~кома~/~.;~r~Stumbling~/~: a chance to walk to a random tile when moving.#Possible ~r~Nausea~/~ or ~r~Coma~/~..;~r~踉跄~/~：移动的时候，有一定几率走到附近随机的一个方格上。#可能~r~干呕~/~或~r~昏迷~/~。;~r~Stolpern~/~: eine Chance, zu einem zufälligen Feld zu gehen, wenn man sich bewegt.#Mögliche ~r~Übelkeit~/~ or ~r~Koma~/~...;;;;~r~Potknięcie~/~: szansa na wejście na losowe pole w trakcie poruszania się.#Możliwe ~r~Wymioty~/~ lub ~r~Śpiączka~/~.
+67;// Against The Odds //;// Against The Odds //;// Against The Odds //;// Against The Odds //;;;;// Against The Odds //
+68;none;none;None;none;;;;None
+69;//Сбрасывает боль по окончанию способности.//;/// Relieves all pain when the buff expires.//;/// Relieves all pain when the buff expires.//;/// Relieves all pain when the buff expires.//;;;;/// Relieves all pain when the buff expires.//
+70;None;None;None;None;;;;None
+71;~r~Невозможность передвижения~/~.;~r~Can't move~/~.;~r~不能移动~/~。;~r~Kann sich nicht bewegen~/~.;;;;~r~Brak możliwości poruszania się~/~.
+72;Иммунитет к получению ментальных эффектов.#~r~Невозможность передвижения~/~.#~r~Смерть близка~/~: каждые несколько ходов максимальное здоровье снижается.;Mental effects immunity.#~r~Can't move~/~.#~r~Near Death~/~: every few turns the character's Max Health is being reduced.;免疫所有心智效果。#~r~无法移动~/~。#~r~濒临死亡~/~：每过几个回合，人物的生命上限就会有所降低。;Mental beeinflußt Immunität.#~r~Kann sich nicht bewegen.~/~.#~r~Dem Tode nahe~/~: alle paar Runden wird die max. Gesundheit des Charakters reduziert.;;;;Odporność na efekty mentalne.#~r~Brak możliwości poruszania się~/~.#~r~Blisko Śmierci~/~: w każdej turze Maksymalne Zdrowie postaci zostaje zmniejszone.
+73;None;None;None;None;;;;None
+74;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+75;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+76;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+77;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+78;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+79;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+80;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+81;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+82;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+83;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+84;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+85;Травма стабилизирована и больше не копит боль.;Injury is stabilized and no longer causes pain to accumulate.;伤情已经稳定，疼痛不会继续加剧。;Die Verletzung ist stabilisiert und führt nicht mehr zur Anhäufung von Schmerzen.;;;;Rana jest ustabilizowana i nie sprawia, że Ból rośnie.
+86;None;None;None;None;;;;None
+87;None;None;None;None;;;;None
+88;Атаки по цели с модификатором получают ~lg~+50%~/~ к похищению жизни.;Attacks against targets under this effect receive ~lg~+50%~/~ Life Drain.;攻击受到这一效果影响的目标，生命吸取~lg~+50%~/~。;Angriffe gegen Ziele unter diesem Effekt erhalten ~lg~+50%~/~ Lebensentzug.;;;;Ataki przeciwko celom, które posiadają ten efekt otrzymują ~lg~+50%~/~ Wykradania Zdrowia.
+89;None;None;None;None;;;;None
+90;None;None;None;None;;;;None
+91;None;None;None;None;;;;None
+92;None;None;None;None;;;;None
+93;Каждое успешное попадание увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~1~/~ ход.;Each successful attack grants an additional stack of the effect (up to ~w~4~/~) and prolongs its duration by ~w~1~/~ turn.;每当攻击成功，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长~w~1~/~个回合。;Jeder erfolgreiche Angriff gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer um ~w~1~/~ Runde.;;;;Każdy udany atak daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie o ~w~1~/~ turę.
+94;None;None;None;None;;;;None
+95;None;None;None;None;;;;None
+96;~r~Невозможность использования способностей~/~.;~r~Can't use abilities~/~.;~r~不能发动能力~/~。;~r~Kann Fertigkeiten nicht verwenden~/~.;;;;~r~Brak możliwości używania zdolności~/~.
+97;Каждое полученное попадание увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~1~/~ ход.;Each received attack grants an additional stack of the effect (up to ~w~4~/~) and prolongs its duration by ~w~1~/~ turn.;每遭到一次攻击，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长~w~1~/~个回合。;Jeder erhaltene Angriff gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer um ~w~1~/~ Runde.;;;;Każdy udany atak daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie o ~w~1~/~ turę.
+98;Каждое успешное попадание увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~1~/~ ход.;Each successful attack grants an additional stack of the effect (up to ~w~4~/~) and prolongs its duration by ~w~1~/~ turn.;每当攻击成功，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长~w~1~/~个回合。;Jeder erfolgreiche Angriff gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer um ~w~1~/~ Runde.;;;;Każdy udany atak daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie o ~w~1~/~ turę.
+99;Каждое успешное попадание увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~1~/~ ход.;Each successful attack grants an additional stack of the effect (up to ~w~4~/~)and prolongs its duration.;每当攻击成功，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长。;Jeder erfolgreiche Angriff gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer um ~w~1~/~ Runde.;;;;Każdy udany atak daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie o ~w~1~/~ turę.
+100;Каждое убийство увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~2~/~ хода.;Each kill grants an additional stack of the effect (up to ~w~4~/~) and prolongs its duration by ~w~2~/~ turns.;每击杀一个敌人，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长~w~2~/~个回合。;Jede Tötung gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer um ~w~2~/~ Runden.;;;;Każde zabicie daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie o ~w~2~/~ tury.
+101;None;None;None;None;;;;None
+102;None;None;None;None;;;;None
+103;None;None;None;None;;;;None
+104;None;None;None;None;;;;None
+105;None;None;None;None;;;;None
+106;None;None;None;None;;;;None
+107;None;None;None;None;;;;None
+108;Каждое успешное попадание увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~1~/~ ход.;Each successful attack grants an additional stack of the effect (up to ~w~4~/~) and prolongs its duration by ~w~1~/~ turn.;每当攻击成功，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长~w~1~/~个回合。;Jeder erfolgreiche Angriff gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer um ~w~1~/~ Runde.;;;;Każdy udany atak daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie o ~w~1~/~ turę.
+109;None;None;None;None;;;;None
+110;Каждый успешный выстрел увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~2~/~ хода.;Each successful shot grants an additional stack of the effect (up to ~w~4~/~) and prolongs its duration by ~w~2~/~ turns.;每当射中，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长~w~2~/~个回合。;Jeder erfolgreiche Schuss gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer um ~w~2~/~ Runde.;;;;Każdy celny strzał daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie o ~w~2~/~ tury.
+111;Каждое успешное попадание увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~1~/~ ход.;Each successful attack grants an additional stack of the effect (up to ~w~4~/~) and prolongs its duration.;每当攻击成功，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长。;Jeder erfolgreiche Angriff gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer.;;;;Każdy udany atak daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie.
+112;None;None;None;None;;;;None
+113;Использование способностей открывает ~r~кровотечение~/~.;Using abilities causes ~r~Bleeding~/~.;发动能力会导致~r~出血~/~。;Der Einsatz von Fertigkeiten führt zu ~r~Bluten~/~.;;;;Używanie zdolności powoduje ~r~Krwawienie~/~.
+114;Восполняет ~lg~6%~/~ запаса здоровья и ~bl~12%~/~ запаса энергии каждый ход.;Replenishes ~lg~6%~/~ Max Health and ~bl~12%~/~ Max Energy per turn.;每个回合恢复生命上限~lg~6%~/~的生命和精力上限~bl~12%~/~的精力。;Füllt ~lg~6%~/~ max. Gesundheit und ~bl~12%~/~ max. Energie pro Runde auf.;;;;Odnawia ~lg~6%~/~ Maksymalnego Zdrowia i ~bl~/~ Maksymalnej Energi na turę.
+115;Каждое успешное попадание увеличивает степень эффекта (макс. ~w~4~/~) и продлевает его длительность на ~w~1~/~ ход.;Each successful attack grants an additional stack of the effect (up to ~w~4~/~) and prolongs its duration by ~w~1~/~ turn.;每当攻击成功，就会堆叠一层这个效果（最多~w~4~/~层），还会令其持续时间延长~w~1~/~个回合。;Jeder erfolgreiche Angriff gewährt eine zusätzliche Stapelung des Effekts (bis zu ~w~4~/~) und verlängert seine Dauer um ~w~1~/~ Runde.;;;;Każdy udany atak daje dodatkowy punkt do efektu (do ~w~4~/~) oraz wydłuża działanie o ~w~1~/~ turę.
+116;Каждый раз, когда заклинатель ~r~теряет~/~ здоровье, аналогичное количество здоровья ~lg~восстанавливается~/~ всем союзникам в его зоне видимости, а их активные перезарядки снижаются на ~w~1~/~ ход.;Each time the caster takes ~r~Damage~/~, the same amount of health is ~lg~replenished~/~ for their allies within the caster's Vision and their active Cooldowns are reduced by ~w~1~/~ turn.;每当施法者受到~r~伤害~/~，施法者视野内的战友便~lg~恢复~/~等量的生命，而且战友当前正在冷却的能力冷却时长会缩短~w~1~/~个回合。;Jedes Mal, wenn der Zaubernde ~r~Schaden~/~ nimmt, wird die gleiche Menge an Gesundheit für seine Verbündeten innerhalb des Sichtfeldes des Zaubernden ~lg~aufgefüllt~/~ und ihre aktiven Abklingzeiten werden um ~w~1~/~ Runde reduziert.;;;;Za każdym razem, gdy rzucający otrzyma ~r~Obrażenia~/~, ta sama ilość w Zdrowiu jest ~lg~odnowiona~/~ jego sojusznikom w zasięgu wzroku rzucającego. Ich aktywne Czasy Odnowień są zmniejszone o ~w~1~/~ turę.
+;buff_desc_end;buff_desc_end;buff_desc_end;buff_desc_end;;;;buff_desc_end

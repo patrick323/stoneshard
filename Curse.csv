@@ -1,0 +1,22 @@
+Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
+специальные теги, не удалять, не изменять, при добавлении переносить вниз;curse_name;curse_name;curse_name;curse_name;;;;curse_name
+Curse_of_Gorelust;Проклятие кровожадности;Curse of Gorelust;失血诅咒;Fluch der Blutgier;;;;Klątwa Krwawego Porządania
+Curse_of_Soulstealer;Проклятие изнеможения;Curse of Soulstealer;失魂诅咒;Fluch des Seenlendiebs;;;;Klątwa Złodzieja Duszy
+Curse_of_Mindwrecker;Проклятие гниющего разума;Curse of Mindwrecker;癫狂诅咒;Fluch des Verstandzerstörers;;;;Klątwa Szalonego Umysłu
+Curse_of_Everfear;Проклятие вечного ужаса;Curse of Everfear;惶恐诅咒;Fluch des Immerängstlichen;;;;Klątwa Wiecznego Strachu
+Curse_of_Gnawmaw;Проклятие жадной пасти;Curse of Gnawmaw;饥渴诅咒;Fluch des Nageschlunds;;;;Klątwa Pijanego Objadacza
+Curse_of_Sufferjoy;Проклятие истязания;Curse of Sufferjoy;剧痛诅咒;Fluch des Leidfreudigen;;;;Klątwa Bolących Stawów
+Curse_of_Loudmouth;Проклятие криков;Curse of Loudmouth;响动诅咒;Fluch des Lautmäuligen;;;;Klątwa Krzykliwego Gardła
+Curse_of_Goldhoarder;Проклятие стяжания;Curse of Goldhoarder;败财诅咒;Fluch des Goldhorters;;;;Klątwa Dziurawych Kieszeni
+;curse_name_end;curse_name_end;curse_name_end;curse_name_end;;;;curse_name_end
+;;;;;;;;
+;curse_desc;curse_desc;curse_desc;curse_desc;;;;curse_desc
+Curse_of_Gorelust;5% шанс потерять 3% здоровья каждый ход.#Убивайте врагов, чтобы снизить шанс.;5% chance to lose 3% Max Health each turn.#Kill enemies to reduce the chance.;每个回合有5%的几率损失生命上限3%的生命。#击杀敌人可以降低这一几率。;5 % Chance, in jeder Runde 3 % max. Gesundheit zu verlieren#Töte Gegner, um die Chance zu verringern.;;;;5% szansy na utratę 3% Maksymalnego Zdrowia w każdej turze.#Zabijaj przeciwników, by zmniejszyć szansę.
+Curse_of_Soulstealer;5% шанс потерять 4% энергии каждый ход.#Убивайте, чтобы снизить шанс.;5% chance to lose 4% Max Energy each turn.#Kill enemies to reduce the chance.;每个回合有5%的几率损失精力上限4%的精力。#击杀敌人可以降低这一几率。;5 % Chance, in jeder Runde 4 % der max. Energie zu verlieren.#Töte Gegner, um die Chance zu verringern.;;;;5% szansy na utratę 4% Maksymalnej Energii w każdej turze.#Zabijaj przeciwników, by zmniejszyć szansę.
+Curse_of_Mindwrecker;5% шанс снизить рассудок каждый ход.#Убивайте, чтобы снизить шанс;5% chance to lose Sanity each turn.#Kill enemies to reduce the chance.;每个回合有5%的几率损耗神智。#击杀敌人可以降低这一几率。;5 % Chance, in jeder Runde geistige Gesundheit zu verlieren.#Töte Gegner, um die Chance zu verringern.;;;;5% szansy na utratę Zdrowia Psychicznego w każdej turze.#Zabijaj przeciwników, by zmniejszyć szansę.
+Curse_of_Everfear;5% шанс снизить мораль каждый ход.#Убивайте, чтобы снизить шанс.;5% chance to lose Morale each turn.#Kill enemies to reduce the chance.;每个回合有5%的几率降低斗志。#击杀敌人可以降低这一几率。;5% Chance, Moral in jeder Runde zu verlieren.#Töte Gegner, um die Chance zu verringern.;;;;5% szansy na utratę Morale w każdej turze.#Zabijaj przeciwników, by zmniejszyć szansę.
+Curse_of_Gnawmaw;5% шанс увеличить голод или жажду каждый ход.#Убивайте, чтобы снизить шанс.;5% chance to increase Hunger and Thirst each turn.#Kill enemies to reduce the chance.;每个回合有5%的几率加剧饥饿。#击杀敌人可以降低这一几率。;5% Chance, Hunger und Durst in jeder Runde zu erhöhen.#Töte Gegner, um die Chance zu verringern.;;;;5% szansy na zwiększenie Głodu i Pragnienia w każdej turze.#Zabijaj przeciwników, by zmniejszyć szansę.
+Curse_of_Sufferjoy;5% шанс увеличить боль каждый ход.#Убивайте, чтобы снизить шанс.;5% chance to increase Pain each turn.#Kill enemies to reduce the chance.;每个回合有5%的几率加剧疼痛。#击杀敌人可以降低这一几率。;5% Chance, den Schmerz in jeder Runde zu erhöhen.#Töte Gegner, um die Chance zu verringern.;;;;5% szansy na zwiększenie Bólu w każdej turze.#Zabijaj przeciwników, by zmniejszyć szansę.
+Curse_of_Loudmouth;5% шанс произвести шум каждый ход.#Убивайте, чтобы снизить шанс.;5% chance to make noise each turn.#Kill enemies to reduce the chance.;每个回合有5%的几率发出声响。#击杀敌人可以降低这一几率。;5% Chance, in jeder Runde Lärm zu machen.#Töte Gegner, um die Chance zu verringern.;;;;5% szansy na wygenerowanie Hałasu w każdej turze.#Zabijaj przeciwników, by zmniejszyć szansę.
+Curse_of_Goldhoarder;5% шанс потерять немного монет каждый ход.#Убивайте, чтобы снизить шанс.;5% chance to lose gold each turn.#Kill enemies to reduce the chance.;每个回合有5%的几率遗失黄金。#击杀敌人可以降低这一几率。;5% Chance, in jeder Runde Gold zu verlieren.#Töte Gegner, um die Chance zu verringern.;;;;5% szansy na utratę złota w każdej turze.#Zabijaj przeciwników, by zmniejszyć szansę.
+;curse_desc_end;curse_desc_end;curse_desc_end;curse_desc_end;;;;curse_desc_end

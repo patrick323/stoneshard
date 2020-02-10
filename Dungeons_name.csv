@@ -1,0 +1,108 @@
+#-символ переноса строки, использовать вместо Entera;;;;;;;;
+Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
+специальные теги, не удалять, не изменять, при добавлении переносить вниз;crypt_prefix;crypt_prefix;crypt_prefix;crypt_prefix;;;;crypt_prefix
+;Безлюдный / Безлюдная / Безлюдное / Безлюдные;Deserted;荒废;Verlassener / Verlassene / Verlassenes / Verlassene;;;;Pustynny / Pustynna / Pustynne / Pustynne
+;Безмолвный / Безмолвная / Безмолвное / Безмолвные;Silent;寂静;Schweigender / Schweigende / Schweigendes / Schweigende;;;;Cichy / Cicha / Ciche / Ciche
+;Безымянный / Безымянная / Безымянное / Безымянные;Nameless;无名;Namenloser / Namenlose / Namenloses / Namenlose;;;;Bezimienny / Bezimienna / Bezimienne / Bezimienne
+;Брошенный / Брошенная / Брошенное / Брошенные;Abandoned;废弃;Verlassener / Verlassene / Verlassenes / Verlassene;;;;Opuszczony / Opuszczona / Opuszczone / Opuszczone
+;Бурый / Бурая / Бурое / Бурые;Brown;棕色;Brauner / Braune / Braunes / Braune;;;;Brunatny / Brunatna / Brunatne / Brunatne
+;Воющий / Воющая / Воющее / Воющие;Howling;呼啸;Heulender / Heulende / Heulendes / Heulende;;;;Wyjący / Wyjąca / Wyjące / Wyjące
+;Гибельный / Гибельная / Гибельное / Гибельные;Disastrous;灾祸;Verheerender / Verheerende / Verheerendes / Verheerende;;;;Zgubny / Zgubna / Zgubne / Zgubne
+;Глухой / Глухая / Глухое / Глухие;Deaf;笼子;Tauber / Taube / Taubes / Taube;;;;Głuchy / Głucha / Głuche / Głuche
+;Гнилой / Гнилая / Гнилое / Гнилые;Rotten;腐坏;Verfaulter / Verfaulte / Verfaultes / Verfaulte;;;;Gnijący / Gnijąca / Gnijące / Gnijące
+;Грозный / Грозная / Грозное / Грозные;Fearsome;骇人;Furchteinflößender / Furchteinflößende / Furchteinflößendes / Furchteinflößende;;;;Straszny / Straszna / Straszne / Straszne
+;Грязный / Грязная / Грязное / Грязные;Dirty;肮脏;Dreckiger / Dreckige / Dreckiges / Dreckige;;;;Brudny / Brudna / Brudne / Brudne
+;Дымный / Дымная / Дымное / Дымные;Smoky;烟雾;Verrauchter / Verrauchte / Verrauchtes / Verrauchte;;;;Dymny / Dymna / Dymne / Dymne
+;Жуткий / Жуткая / Жуткое / Жуткие;Creepy;恐怖;Unheimlicher / Unheimliche / Unheimliches / Unheimliche;;;;Przerażający / Przerażająca / Przerażające / Przerażające
+;Забытый / Забытая / Забытое / Забытые;Forgotten;遗忘;Vergessener / Vergessene / Vergessenes / Vergessene;;;;Zapomniany / Zapomniana / Zapomniane / Zapomniane
+;Замшелый / Замшелая / Замшелое / Замшелые;Mossy;青苔;Bemooster / Bemooste / Bemoostes / Bemooste;;;;Zmurszały / Zmurszała / Zmurszałe / Zmurszałe
+;Затерянный / Затерянная / Затерянное / Затерянные;Lost;失落;Verlorener / Verlorene / Verlorenes / Verlorene;;;;Utracony / Utracona / Utracone / Utracone
+;Затхлый / Затхлая / Затхлое / Затхлые;Musty;阴霉;Muffiger / Muffige / Muffiges / Muffige;;;;Stęchły / Stęchła / Stęchłe / Stęchłe
+;Зачахший / Зачахшая / Зачахшее / Зачахшие;Withered;干萎;Verdorrter / Verdorrte / Verdorrtes / Verdorrte;;;;Zatęchły / Zatęchła / Zatęchłe / Zatęchłe
+;Звенящий / Звенящая / Звенящее / Звенящие;Tinkling;叮当;Klingelnder / Klingelnde / Klingelndes / Klingelnde;;;;Brzęczący / Brzęcząca / Brzęczące / Brzęczące
+;Зловещий / Зловещая / Зловещее / Зловещие;Sinister;阴森;Finsterer / Finstere / Finsteres / Finstere;;;;Złowrogi / Złowroga / Złowrogie / Złowrogie
+;Зябкий / Зябкая / Зябкое / Зябкие;Chilly;阴冷;Kühler / Kühle / Kühles / Kühle;;;;Chłodzący / Chłodząca / Chłodzące / Chłodzące
+;Каменный / Каменная / Каменное / Каменные;Stone;岩石;Steinerner / Steinerne / Steinernes / Steinerne;;;;Kamienny / Kamienna / Kamienne / Kamienne
+;Мертвенный / Мертвенная / Мертвенное / Мертвенные;Deathly;夺命;Tödlicher / Tödliche / Tödliches / Tödliche;;;;Śmiertelny / Śmiertelna / Śmiertelne / Śmiertelne
+;Молчаливый / Молчаливая / Молчаливое / Молчаливые;Silent;寂静;Stummer / Stumme / Stummes / Stumme;;;;Bezgłośny / Bezgłośna / Bezgłośne / Bezgłośne
+;Мрачный / Мрачная / Мрачное / Мрачные;Gloomy;阴晦;Düsterer / Düstere / Düsteres / Düstere;;;;Ponury / Ponura / Ponure / Ponure
+;Мшистый / Мшистая / Мшистое / Мшистые;Mossy;青苔;Moosiger / Moosige / Moosiges / Moosige;;;;Omszony / Omszona / Omszone / Omszone
+;Неприметный / Неприметная / Неприметное / Неприметные;Hidden;隐秘;Verborgener / Verborgene / Verborgenes / Verborgene;;;;Ukryty / Ukryta / Ukryte / Ukryte
+;Одинокий / Одинокая / Одинокое / Одинокие;Lonely;孤寂;Einsamer / Einsame / Einsames / Einsame;;;;Samotny / Samotna / Samotne / Samotne
+;Омрачённый / Омрачённая / Омрачённое / Омрачённые;Darkened;阴暗;Verdunkelter / Verdunkelte / Verdunkeltes / Verdunkelte;;;;Ściemnony / Ściemniona / Ściemnione / Ściemnione
+;Покинутый / Покинутая / Покинутое / Покинутые;Forlorn;孤荒;Verzweifelter / Verzweifelte / Verzweifeltes / Verzweifelte;;;;Zostawiony / Zostawiona / Zostawione / Zostawione
+;Промозглый / Промозглая / Промозглое / Промозглые;Damp;湿潮;Klammer / Klamme / Klammes / Klamme;;;;Wilgotny / Wilgotna / Wilgotne / Wilgotne
+;Пыльный / Пыльная / Пыльное / Пыльные;Dusty;尘土;Staubiger / Staubige / Staubiges / Staubige;;;;Zakurzony / Zakurzona / Zakurzone / Zakurzone
+;Разрушенный / Разрушенная / Разрушенное / Разрушенные;Ruined;破败;Zerstörter / Zerstörte / Zerstörtes / Zerstörte;;;;Zrujnowany / Zrujnowana / Zrujnowane / Zrujnowane
+;Ржавый / Ржавая / Ржавое / Ржавые;Rusty;锈蚀;Rostig / Rostige / Rostiges / Rostige;;;;Zardzewiały / Zardzewiała / Zardzewiałe / Zardzewiały
+;Свистящий / Свистящая / Свистящее / Свистящие;Whistling;呼哨;Pfeifender / Pfeifende / Pfeifendes / Pfeifende;;;;Gwizdający / Gwizdająca / Gwizdające / Gwizdające
+;Осквернённый / Осквернённая / Осквернённое / Осквернённые;Corrupted;堕落;Verdorbener / Verdorbene / Verdorbenes / Verdorbene;;;;Przeklęty / Przeklęta / Przeklęte / Przeklęte
+;Старый / Старая / Старое / Старые;Old;破旧;Alter / Alte / Altes / Alte;;;;Stary / Stara / Stare / Stare
+;Сырой / Сырая / Сырое / Сырые;Moist;温润;Feuchter / Feuchte / Feuchtes / Feuchte;;;;Zgniły / Zgniła / Zgniłe / Zgniłe
+;Тихий / Тихая / Тихое / Тихие;Quiet;静谧;Stiller / Stille / Stilles / Stille;;;;Spokojny / Spokojna / Spokojne / Spokojne
+;Тусклый / Тусклая / Тусклое / Тусклые;Dim;昏暗;Trüber / Trübe / Trübes / Trübe;;;;Ciemny / Ciemna / Ciemne / Ciemne
+;Угрюмый / Угрюмая / Угрюмое / Угрюмые;Sullen;阴郁;Mürrischer / Mürrische / Mürrisches / Mürrische;;;;Posępny / Posępna / Posępne / Posępne
+;Хладный / Хладная / Хладное / Хладные;Wintry;凛冬;Winterlicher / Winterliche / Winterlichers / Winterliche;;;;Zimowy / Zimowa / Zimowe / Zimowe
+;Хмурый / Хмурая / Хмурое / Хмурые;Frowning;幽暗;Stirnrunzelnder / Stirnrunzelnde / Stirnrunzelndes / Stirnrunzelnde;;;;Zmarszczony / Zmarszczona / Zmarszczone / Zmarszczone
+;Холодный / Холодная / Холодное / Холодные;Cold;寒冷;Kalter / Kalte / Kaltes / Kalte;;;;Zimny / Zimna / Zimne / Zimne
+;Чахлый / Чахлая / Чахлое / Чахлые;Sickly;病害;Kränklicher / Kränkliche / Kränkliches / Kränkliche;;;;Chorowity / Chorowita / Chorowite / Chorowite
+;Чёрный / Чёрная / Чёрное / Чёрные;Black;黑色;Schwarzer / Schwarze / Schwarzes / Schwarze;;;;Czarny / Czarna / Czarne / Czarne
+;crypt_prefix_end;crypt_prefix_end;crypt_prefix_end;crypt_prefix_end;;;;crypt_prefix_end
+;;;;;;;;
+;bastion_prefix;bastion_prefix;bastion_prefix;bastion_prefix;;;;bastion_prefix
+;Форт;Fort;要塞;Fort;;;;Fort
+;Крепость;Fortress;城塞;Festung;;;;Forteca
+;Замок;Castle;城堡;Burg;;;;Zamek
+;Башня;Tower;塔楼;Turm;;;;Wieża
+;Бастион;Bastion;棱堡;Bastion;;;;Bastion
+;Застава;Outpost;哨所;Außenposten;;;;Posterunek
+;bastion_prefix_end;bastion_prefix_end;bastion_prefix_end;bastion_prefix_end;;;;bastion_prefix_end
+;;;;;;;;
+;//;//;//;//;;;;//
+;bastion_name;bastion_name;bastion_name;bastion_name;;;;bastion_name
+;Иннвер{1};Innver{1};印弗{1};Innver{1};;;;Innver{1}
+;Раветворт{1};Ravetwort{1};雷弗托特{1};Ravetwort{1};;;;Ravetwort{1}
+;Данбейн{1};Danbayne{1};丹贝恩{1};Danbayne{1};;;;Danbayne{1}
+;Ривстейн{1};Reevstayne{1};里弗斯丹{1};Reevstayne{1};;;;Reevstayne{1}
+;Нирвуст{1};Neervust{1};涅尔福斯特{1};Neervust{1};;;;Neervust{1}
+;Йормас{1};Jormas{1};约马斯{1};Jormas{1};;;;Jormas{1}
+;Рунфост{1};Runfost {1};隆佛斯特{1};Rumfost{1};;;;Runfost {1}
+;Иствер{1};Eestver{1};依斯特弗{1};Eestver{1};;;;Eestver{1}
+;bastion_name_end;bastion_name_end;bastion_name_end;bastion_name_end;;;;bastion_name_end
+;;;;;;;;
+;//;;;;;;;
+;crypt_name;crypt_name;crypt_name;crypt_name;;;;crypt_name
+;Склеп{1};Crypt{1};墓穴{1};Krypta{2};;;;Krypta{2}
+;Усыпальница{2};Shrine{2};坟墓{2};Schrein{1};;;;Kaplica{2}
+;Могильник{1};Burial{1};墓地{1};Grabstätte{2};;;;Pole Grobów{3}
+;Погост{1};Grave{1};墓园{1};Grab{3};;;;Grób{1}
+;Захоронение{3};Mound{3};坟丘{3};Hügel{1};;;;Kopiec{1}
+;Крипта {2};Vault{2};墓室{2};Gewölbe{3};;;;Skarbiec{1}
+;crypt_name_end;crypt_name_end;crypt_name_end;crypt_name_end;;;;crypt_name_end
+;;;;;;;;
+;;;;;;;;
+;//;//;//;//;;;;//
+;crypt_preset;crypt_preset;crypt_preset;crypt_preset;;;;crypt_preset
+;Последний Вздох;Last Breath;终末一息;Letzter Atem;;;;Ostatni Oddech
+;Вечный Сон;Eternal Sleep;永久安眠;Ewiger Schlaf;;;;Wieczny Sen
+;Чёрный Приют;Black Retreat;黑色静修;Schwarze Zuflucht;;;;Czarny Odwrót
+;Враний Холм;Raven Hill;鸦丘;Rabenhügel;;;;Wzgórze Kruków
+;Смех Мертвеца;Deadman's Grin;亡者含笑;Totengrinsen;;;;Uśmiech Wisielca
+;Старая Могила;Old Grave;旧坟;Altes Grab;;;;Stary Grobowiec
+;Костяной Курган;Bone Mound;骸骨丘茔;Knochenhügel;;;;Kopiec Kości
+;crypt_preset_end;crypt_preset_end;crypt_preset_end;crypt_preset_end;;;;crypt_preset_end
+;;;;;;;;
+;bastion_preset;bastion_preset;bastion_preset;bastion_preset;;;;bastion_preset
+;Форт Волчий Клык;Wolf Fang Fort ;狼牙要塞;Fort Wolfszahn;;;;Fort Wilczego Kła
+;Форт Сломанный Клинок;Broken Blade Fort ;断刃要塞;Fort Abgebrochene Klinge;;;;Fort Złamanego Ostrza
+;Форт Старая Башня;Old Tower Fort ;旧塔要塞;Fort Alter Turm;;;;Fort Starej Wieży
+;Форт Серый Сокол;Gray Falcon Fort;灰隼要塞;Fort Gauer Falke;;;;Fort Szarego Sokoła
+;Этбертов форт;Etbert's Fort ;艾斯伯特要塞;Etbert's Fort;;;;Fort Etberta
+;bastion_preset_end;bastion_preset_end;bastion_preset_end;bastion_preset_end;;;;bastion_preset_end
+;;;;;;;;
+;location_name;location_name;location_name;location_name;;;;location_name
+;Архивы;Archives;档案室;Archive;;;;Archiwa
+;Старые катакомбы;Old Catacombs;墓道;Alte Katakomben;;;;Stare Katakumby
+;Монастырские подвалы;Abbey Cellars;教堂地窖;Abteikeller;;;;Piwnice Opactwa
+;Осквернённая часовня;Corrupted Chapel;堕落教堂;Verderbte Kapelle;;;;Splugawiona Kaplica
+;location_name_end;location_name_end;location_name_end;location_name_end;;;;location_name_end
