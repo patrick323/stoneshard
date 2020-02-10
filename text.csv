@@ -595,6 +595,8 @@ Female;Женщина;Female;女;Weiblich;;;;Kobieta
 17;Показать добычу;Loot Hovers;显示战利品;Beute schwebt;;;;Informacje o łupie
 18;Взять всё;Take All;全部拿走;Alles nehmen;;;;Weź wszystko
 19;Режим отдыха;Rest Mode;休息模式;Ruhemodus;;;;Tryb Odpoczynku
+20;Журнал;Journal;日志;Tagebuch;;;;Dziennik
+21;Карта;Mapa;地图;KARTE;;;;MAPA
 ;control_buttons_end;control_buttons_end;control_buttons_end;control_buttons_end;;;;control_buttons_end
 ;;;;;;;;
 ;trade_category;trade_category;trade_category;trade_category;;;;trade_category
