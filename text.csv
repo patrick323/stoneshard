@@ -29,53 +29,53 @@
 ;Char_panel_end;Char_panel_end;Char_panel_end;Char_panel_end;;;;Char_panel_end
 ;;;;;;;;
 ;Invent;Invent;Invent;Invent;;;;Invent
-1;ИНВЕНТАРЬ;INVENTORY;物品栏;INVENTAR;;;;EKWIPUNEK
-2;Добыча;Loot;战利;Beute;;;;Zdobycz
-3;Сундук;Chest;箱子;Truhe;;;;Skrzynia
-4;Саркофаг;Sarcophagus;石棺;Sarkrophag;;;;Sarkofag
-5;Котелок;Cauldron;大锅;Kessel;;;;Gar
-6;Пень;Trunk;箱子;Stamm;;;;Kufer
-7;Сервант;Cupboard;碗橱;Schrank;;;;Kredens
-8;Шкаф;Wardrobe;衣柜;Kleiderschrank;;;;Szafa
-9;Тумбочка;Nightstand;床头柜;Nachttisch;;;;Stolik nocny
-10;Полка;Shelf;架子;Regal;;;;Półka
-11;Ключ;Key Holder;钥匙挂架;Schlüsselbrett;;;;Hak na klucz
-12;Труп;Corpse;尸体;Leiche;;;;Ciało
-13;Лук;Bow;弓;Bogen;;;;Łuk
-14;Ящик;Crate;木箱;Kiste;;;;Skrzynka
-15;Тело Лока;Locke's Body;洛克的尸体;Locke's Körper;;;;Ciało Lockego
-16;Стол;Table;桌子;Tisch;;;;Stół
-17;Скамья;Bench;长凳;Bank;;;;Ławka
-18;Рюкзак;Backpack;背包;Rucksack;;;;Plecak
-19;ТОРГОВЛЯ;TRADING;交易;HANDELN;;;;HANDEL
-20;НАГРАДА;REWARD;报酬;BELOHNUNG;;;;NAGRODA
-21;АВАНС;ADVANCE;预付;FORTSCHRITT;;;;AWANS
-22;Тюки;Sacks;口袋;Säcke;;;;Worki
-23;Бочка;Barrel;木桶;Fass;;;;Beczka
+1;ИНВЕНТАРЬ;INVENTÁRIO;物品栏;INVENTAR;;;;EKWIPUNEK
+2;Добыча;Saque;战利;Beute;;;;Zdobycz
+3;Сундук;Baú;箱子;Kiste;;;;Skrzynia
+4;Саркофаг;Sárcofago;石棺;Sarkrophag;;;;Sarkofag
+5;Котелок;Caldeirão;大锅;Kessel;;;;Gar
+6;Пень;Tronco;箱子;Stamm;;;;Kufer
+7;Сервант;Armário;碗橱;Schrank;;;;Kredens
+8;Шкаф;Guarda roupa;衣柜;Kleiderschrank;;;;Szafa
+9;Тумбочка;Cabeceira;床头柜;Nachttisch;;;;Stolik nocny
+10;Полка;Estante;架子;Regal;;;;Półka
+11;Ключ;Chaveiro;钥匙挂架;Schlüsselbrett;;;;Hak na klucz
+12;Труп;Cadáver;尸体;Leiche;;;;Ciało
+13;Лук;Arco;弓;Bogen;;;;Łuk
+14;Ящик;Caixa;木箱;Kiste;;;;Skrzynka
+15;Тело Лока;O corpo de Locke;洛克的尸体;Locke's Körper;;;;Ciało Lockego
+16;Стол;Mesa;桌子;Tisch;;;;Stół
+17;Скамья;Banco;长凳;Bank;;;;Ławka
+18;Рюкзак;Mochila;背包;Rucksack;;;;Plecak
+19;ТОРГОВЛЯ;NEGOCIAÇÃO;交易;HANDELN;;;;HANDEL
+20;НАГРАДА;RECOMPENSA;报酬;BELOHNUNG;;;;NAGRODA
+21;АВАНС;AVANÇAR;预付;FORTSCHRITT;;;;AWANS
+22;Тюки;Sacos;口袋;Säcke;;;;Worki
+23;Бочка;Barril;木桶;Fass;;;;Beczka
 24;Стойка;Rack;架子;Gestell;;;;Stojak
 25;Шкаф;Bookcase;书柜;Bücherregal;;;;Biblioteczka
 26;Капкан;Bear Trap;捕熊陷阱;Bärenfalle;;;;Pułapka na niedźwiedzia
 27;Шипы;Spike Trap;突刺陷阱;Dornenfalle;;;;Pułapka z kolcami
 28;Ваза;Vase;瓶子;Vase;;;;Waza
-29;Бочка;Barrel;木桶;Fass;;;;Beczka
-30;Дверь;Door;门;Tür;;;;Drzwi
+29;Бочка;Barril;木桶;Fass;;;;Beczka
+30;Дверь;Porta;门;Tür;;;;Drzwi
 31;Пьедестал;Pedestal;台座;Sockel;;;;Piedestał
-32;Каменный стол;Stone Table;石桌;Steintisch;;;;Kamienny Stół
-33;Гроб;Coffin;棺材;Sarg;;;;Trumna
-34;Нечестивый алтарь;Unholy Altar;邪术祭坛;Unheiliger Altar;;;;Splugawiony Ołtarz
-35;Телега;Cart;推车;Karren;;;;Wózek
-36;Статуя;Statue;雕像;Statue;;;;Posąg
-37;Железная дева;Iron Maiden;铁处女;Eiserne Jungfrau;;;;Żelazna Dziewica
-38;Дыба;Torture Rack;刑具架;Folterbank;;;;Stojak Tortur
-39;Колодки;Stocks;枷锁;Vorräte;;;;Dyby
-40;Клетка;Cage;笼子;Käfig;;;;Klatka
-41;Пыточный стул;Torture Chair;刑椅;Folterstuhl;;;;Krzesło Tortur
-42;Стул;Chair;椅子;Stuhl;;;;Krzesło
-43;Кровать;Bed;床;Bett;;;;Łóżko
-44;Груда бочек;Stack of Barrels;几个木桶;Stapel Fässer;;;;Sterta beczek
-45;Груда ящиков;Stack of Crates;几个木箱;Stapel Kisten;;;;Sterta skrzynek
-46;Бадья;Tub;浴桶;Waschzuber;;;;Wanna
-47;Нужник;Latrine;便坑;Latrine;;;;Latryna
+32;Каменный стол;Mesa de pedra;石桌;Steintisch;;;;Kamienny Stół
+33;Гроб;Caixão;棺材;Sarg;;;;Trumna
+34;Нечестивый алтарь;Altar Profano;邪术祭坛;Unheiliger Altar;;;;Splugawiony Ołtarz
+35;Телега;Carrinho;推车;Karren;;;;Wózek
+36;Статуя;Estatua;雕像;Statue;;;;Posąg
+37;Железная дева;Dama de Ferro;铁处女;Eiserne Jungfrau;;;;Żelazna Dziewica
+38;Дыба;Rack de Tortura;刑具架;Folterbank;;;;Stojak Tortur
+39;Колодки;Estoques;枷锁;Vorräte;;;;Dyby
+40;Клетка;cela;笼子;Käfig;;;;Klatka
+41;Пыточный стул;Cadeira de tortura;刑椅;Folterstuhl;;;;Krzesło Tortur
+42;Стул;Cadeira;椅子;Stuhl;;;;Krzesło
+43;Кровать;Cama;床;Bett;;;;Łóżko
+44;Груда бочек;Pilha de barris;几个木桶;Stapel Fässer;;;;Sterta beczek
+45;Груда ящиков;Pilha de caixas;几个木箱;Stapel Kisten;;;;Sterta skrzynek
+46;Бадья;Banheira;浴桶;Wanne;;;;Wanna
+47;Нужник;Latrina;便坑;Latrine;;;;Latryna
 ;Invent_end;Invent_end;Invent_end;Invent_end;;;;Invent_end
 ;;;;;;;;
 ;;;;;;;;
