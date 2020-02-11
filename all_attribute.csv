@@ -17,7 +17,7 @@ Damage_Received;Получаемый урон;Dano recebido;所受伤害;Erlitte
 Damage_Returned;Отражение урона;Dano Relfetido;反伤;Reflektierter Schaden;;;;Odbicie Obrażeń
 Lifesteal;Похищение жизни;Vida Drenada;生命吸取;Lebensentzug;;;;Wykradanie Zdrowia
 Manasteal;Похищение энергии;Energia Drenada;精力吸取;Energieentzug;;;;Wykradanie Energii
-DEF;Защита;Proteção;防护;Schutz;;;;Obrony
+DEF;Защита;De Proteção;防护;Schutz;;;;Obrony
 Fortitude;Стойкость;Fortitude;坚忍;Robustheit;;;;Zahartowanie
 ;;;;;;;;
 ;// Прокачка;// Levelling;// Levelling;// Levelling;;;;// Levelling
@@ -38,226 +38,226 @@ WIL;Воля;Força de vontade;意志;Willenskraft;;;;Siła Woli
 ;;;;;;;;
 ;// Второстепенные атрибуты;// Atributos secundários;// Secondary attributes;// Secondary attributes;;;;// Secondary attributes
 ;;;;;;;;
-DMG;Урон левой руки;Main Hand Damage;主手伤害;Haupthand-Schaden;;;;Obrażenia Głównej Broni
-OFFDMG;Урон правой руки;Off-Hand Damage;副手伤害;Nebenhand-Schaden;;;;Obrażenia Pobocznego Przedmiotu
-Weapon_Damage;Урон оружия;Weapon Damage;武器伤害;Waffenschaden;;;;Obrażenia Broni
-Magic_Power;Сила магии;Magic Power;法力;Magische Kraft;;;;Moc Magiczna
-Hit_Chance;Точность;Accuracy;准度;Genauigkeit;;;;Celność
-CRT;Шанс крита;Crit Chance;暴击几率;Krit. Chance;;;;Szansa na obr. Krytyczne
-CRTD;Эффективность критов;Crit Efficiency;暴击效果;Krit. Effizienz;;;;Skuteczność obr. Krytycznych
-PRR;Шанс блока;Block Chance;格挡几率;Blocken-Chance;;;;Szansa na Zablokowanie
-Block_Power;Сила блока;Block Power;格挡力量;Blocken-Stärke;;;;Siła Zablokowania
-CTA;Шанс контрудара;Counter Chance;反击几率;Kontern-Chance;;;;Szansa na Kontrę
-EVS;Шанс уклонения;Dodge Chance;闪躲几率;Ausweichen-Chance;;;;Szansa na Unik
-FMB;Шанс неудачи;Fumble Chance;失手几率;Ungeschicktsein-Chance;;;;Szansa na Partactwo
-Savvy;Взлом и обезвреживание;Lock-picking & Disarming;开锁与拆除陷阱;Schlösserknacken & Entschärfen;;;;Otwieranie zamków i rozbrajanie pułapek
-STL;Скрытность;Stealth;潜行;Schleichen;;;;Skradanie się
-VSN;Обзор;Vision;视野;Sicht;;;;Widok
-Bonus_Range;Бонусная дальность;Bonus Range;范围加成;Bonus-Reichweite;;;;Bonusowy zasięg
-range;Дальность;Range;范围;Reichweite;;;;Zasięg
-Mainhand_Efficiency;Эффективность левой руки;Main Hand Efficiency;主手效果;Haupthand-Effizienz;;;;Skuteczność głównego przedmiotu
-Offhand_Efficiency;Эффективность правой руки;Off-Hand Efficiency;副手效果;Nebenhand-Effizienz;;;;Skuteczność pobocznego przedmiotu
+DMG;Урон левой руки;Dano em Mão Principal;主手伤害;Haupthand-Schaden;;;;Obrażenia Głównej Broni
+OFFDMG;Урон правой руки;Dano em Mão secundária;副手伤害;Nebenhand-Schaden;;;;Obrażenia Pobocznego Przedmiotu
+Weapon_Damage;Урон оружия;Dano da Arma;武器伤害;Waffenschaden;;;;Obrażenia Broni
+Magic_Power;Сила магии;Poder mágico;法力;Magische Kraft;;;;Moc Magiczna
+Hit_Chance;Точность;Precisão;准度;Genauigkeit;;;;Celność
+CRT;Шанс крита;Chance de Crítico;暴击几率;Krit. Chance;;;;Szansa na obr. Krytyczne
+CRTD;Эффективность критов;Eficiência de Crítico;暴击效果;Krit. Effizienz;;;;Skuteczność obr. Krytycznych
+PRR;Шанс блока;Chance de Bloqueio;格挡几率;Blocken-Chance;;;;Szansa na Zablokowanie
+Block_Power;Сила блока;Poder de Bloqueio;格挡力量;Blocken-Stärke;;;;Siła Zablokowania
+CTA;Шанс контрудара;Chance de Cancelar;反击几率;Kontern-Chance;;;;Szansa na Kontrę
+EVS;Шанс уклонения;Chance de Esquiva;闪躲几率;Ausweichen-Chance;;;;Szansa na Unik
+FMB;Шанс неудачи;Chance de Confundir;失手几率;Ungeschicktsein-Chance;;;;Szansa na Partactwo
+Savvy;Взлом и обезвреживание;Lock-picking & Desarmando;开锁与拆除陷阱;Schlösserknacken & Entschärfen;;;;Otwieranie zamków i rozbrajanie pułapek
+STL;Скрытность;Furtividade;潜行;Schleichen;;;;Skradanie się
+VSN;Обзор;Visão;视野;Sicht;;;;Widok
+Bonus_Range;Бонусная дальность;bônus de Alcance;范围加成;Bonus-Reichweite;;;;Bonusowy zasięg
+range;Дальность;Alcance;范围;Reichweite;;;;Zasięg
+Mainhand_Efficiency;Эффективность левой руки;Eficiência da mão principal;主手效果;Haupthand-Effizienz;;;;Skuteczność głównego przedmiotu
+Offhand_Efficiency;Эффективность правой руки;Eficiência da mão secundária;副手效果;Nebenhand-Effizienz;;;;Skuteczność pobocznego przedmiotu
 ;;;;;;;;
-;// Прочие второстепенные;// Even more secondary ones;// Even more secondary ones;// Even more secondary ones;;;;// Even more secondary ones
+;// Прочие второстепенные;// Ainda mais secundários;// Even more secondary ones;// Even more secondary ones;;;;// Even more secondary ones
 ;;;;;;;;
-Immunity;Иммунитет;Immunity;免疫;Immunität;;;;Odporność
-Noise_Produced;Издаваемый шум;Noise Produced;行动声响;Verursachter Lärm;;;;Generowany hałas
-Bodypart_Damage;Травмирующий урон;Bodypart Damage;肢体伤害;Körperteilschaden;;;;Obrażenia części ciała
-Armor_Damage;Урон по броне;Armor Damage;防具伤害;Rüstungsschaden;;;;Obrażenia Pancerza
-Armor_Piercing;Пробитие брони;Armor Penetration;防具穿透;Rüstungsdurchdringung;;;;Penetracja Pancerza
+Immunity;Иммунитет;Imunidade;免疫;Immunität;;;;Odporność
+Noise_Produced;Издаваемый шум;Ruído Produzido;行动声响;Verursachter Lärm;;;;Generowany hałas
+Bodypart_Damage;Травмирующий урон;Danos Corporais;肢体伤害;Körperteilschaden;;;;Obrażenia części ciała
+Armor_Damage;Урон по броне;Danos da Armadura;防具伤害;Rüstungsschaden;;;;Obrażenia Pancerza
+Armor_Piercing;Пробитие брони;Penetração de armadura;防具穿透;Rüstungsdurchdringung;;;;Penetracja Pancerza
 ;;;;;;;;
-Bleeding_Chance;Шанс кровотечения;Bleed Chance;出血几率;Bluten-Chance;;;;Szansa na Krwawienie
-Knockback_Chance;Шанс отбрасывания;Knockback Chance;击退几率;Zurückstoßen-Chance;;;;Szansa na Odepchnięcie
-Daze_Chance;Шанс ошеломления;Daze Chance;击晕几率;Benommen-Chance;;;;Szansa na Oszołomienie
-Stun_Chance;Шанс оглушения;Stun Chance;硬直几率;Betäuben-Chance;;;;Szansa na Ogłuszenie
+Bleeding_Chance;Шанс кровотечения;Chance de Sangramento;出血几率;Bluten-Chance;;;;Szansa na Krwawienie
+Knockback_Chance;Шанс отбрасывания;Chance de Contra-ataque;击退几率;Zurückstoßen-Chance;;;;Szansa na Odepchnięcie
+Daze_Chance;Шанс ошеломления;Chance de confundir;击晕几率;Benommen-Chance;;;;Szansa na Oszołomienie
+Stun_Chance;Шанс оглушения;Chance de atordoamento;硬直几率;Betäuben-Chance;;;;Szansa na Ogłuszenie
 ;;;;;;;;
-Knockback_Resistance;Сопр. отбрасыванию;Knockback Resistance;击退抗性;Zurückstoßen-Resistenz;;;;Odporność na Odepchnięcie
-Stun_Resistance;Сопр. оглушению;Stun Resistance;硬直抗性;Betäuben-Resistenz;;;;Odporność na Ogłuszenie
-Bleeding_Resistance;Сопр. кровотечению;Bleed Resistance;出血抗性;Bluten-Resistenz;;;;Odporność na Krwawienie
+Knockback_Resistance;Сопр. отбрасыванию;Resistência a Contra=ataque;击退抗性;Zurückstoßen-Resistenz;;;;Odporność na Odepchnięcie
+Stun_Resistance;Сопр. оглушению;Resistência a Atordoamento;硬直抗性;Betäuben-Resistenz;;;;Odporność na Ogłuszenie
+Bleeding_Resistance;Сопр. кровотечению;Resistência a Sangramento;出血抗性;Bluten-Resistenz;;;;Odporność na Krwawienie
 ;;;;;;;;
-Spells_Energy_Cost;Затраты на заклинания;Spells Energy Cost;法术精力消耗;Energiekosten: Sprüche;;;;Koszt Energii dla Umiejętności
-Skills_Energy_Cost;Затраты на умения;Skills Energy Cost;技能精力消耗;Energiekosten: Fertigkeiten;;;;Koszt Energii dla Czarów
-Cooldown_Reduction;Время восст. способностей;Cooldowns Duration;冷却时长;Abklingzeit;;;;Czas Trwania Odnowienia
+Spells_Energy_Cost;Затраты на заклинания;Custos de Energia dos Feitiços;法术精力消耗;Energiekosten: Sprüche;;;;Koszt Energii dla Umiejętności
+Skills_Energy_Cost;Затраты на умения;Custo de Energia das Habilidades;技能精力消耗;Energiekosten: Fertigkeiten;;;;Koszt Energii dla Czarów
+Cooldown_Reduction;Время восст. способностей;Duração das recargas;冷却时长;Abklingzeit;;;;Czas Trwania Odnowienia
 ;;;;;;;;
 // Типы урона;;// Damage Resistances;// Damage Resistances;// Damage Resistances;;;;// Damage Resistances
 ;;;;;;;;
-Slashing_Damage;Рубящий урон;Slashing Damage;劈砍伤害;Schnittschaden;;;;Obrażeń Ciętych
-Piercing_Damage;Колющий урон;Piercing Damage;穿刺伤害;Stichschaden;;;;Obrażeń Przebijających
-Blunt_Damage;Дробящий урон;Crushing Damage;钝器伤害;Schmetterschaden;;;;Obrażeń Obalających
-Rending_Damage;Разрывающий урон;Rending Damage;撕裂伤害;Reißschaden;;;;Obrażeń Rozdzierających
+Slashing_Damage;Рубящий урон;De Dano de Corte;劈砍伤害;Schnittschaden;;;;Obrażeń Ciętych
+Piercing_Damage;Колющий урон;De Dano de Perfuração;穿刺伤害;Stichschaden;;;;Obrażeń Przebijających
+Blunt_Damage;Дробящий урон;De Dano Bruto;钝器伤害;Schmetterschaden;;;;Obrażeń Obalających
+Rending_Damage;Разрывающий урон;De Dano de laceração;撕裂伤害;Reißschaden;;;;Obrażeń Rozdzierających
 ;;;;;;;;
-Frost_Damage;Урон морозом;Frost Damage;霜冻伤害;Frostschaden;;;;Obrażenia od Zamrożenia
-Shock_Damage;Урон электричеством;Shock Damage;电击伤害;Schockschaden;;;;Obrażenia od Porażenia
-Poison_Damage;Урон ядом;Poison Damage;中毒伤害;Giftschaden;;;;Obrażenia od Trucizn
-Fire_Damage;Урон огнём;Fire Damage;灼烧伤害;Feuerschaden;;;;Obrażenia od Ognia
-Caustic_Damage;Урон разъеданием;Caustic Damage;腐蚀伤害;Säureschaden;;;;Obrażenia od Kwasów
+Frost_Damage;Урон морозом;Dano de Gelo;霜冻伤害;Frostschaden;;;;Obrażenia od Zamrożenia
+Shock_Damage;Урон электричеством;Dano de Choque;电击伤害;Schockschaden;;;;Obrażenia od Porażenia
+Poison_Damage;Урон ядом;Dano de Veneno;中毒伤害;Giftschaden;;;;Obrażenia od Trucizn
+Fire_Damage;Урон огнём;Dano de Fogo;灼烧伤害;Feuerschaden;;;;Obrażenia od Ognia
+Caustic_Damage;Урон разъеданием;Dano Cáustico;腐蚀伤害;Säureschaden;;;;Obrażenia od Kwasów
 ;;;;;;;;
-Arcane_Damage;Арканический урон;Arcane Damage;秘术伤害;Arkaner Schaden;;;;Obrażenia Tajemne
-Unholy_Damage;Нечестивый урон;Unholy Damage;邪术伤害;Unheiliger Schaden;;;;Obrażenia Przeklęte
-Sacred_Damage;Священный урон;Sacred Damage;神圣伤害;Heiliger Schaden;;;;Obrażenia Święte
-Psionic_Damage;Псионический урон;Psionic Damage;灵术伤害;Psionischer Schaden;;;;Obrażenia Psychiczne
+Arcane_Damage;Арканический урон;Dano Arcano;秘术伤害;Arkaner Schaden;;;;Obrażenia Tajemne
+Unholy_Damage;Нечестивый урон;Dano Profano;邪术伤害;Unheiliger Schaden;;;;Obrażenia Przeklęte
+Sacred_Damage;Священный урон;Dano Sagrado;神圣伤害;Heiliger Schaden;;;;Obrażenia Święte
+Psionic_Damage;Псионический урон;Dano Psiônico;灵术伤害;Psionischer Schaden;;;;Obrażenia Psychiczne
 ;;;;;;;;
-Pure_Damage;Чистый урон;Pure Damage;纯粹伤害;Purer Schaden;;;;Czyste Obrażenia
+Pure_Damage;Чистый урон;Dano puro;纯粹伤害;Purer Schaden;;;;Czyste Obrażenia
 ;;;;;;;;
-;// Резисты урону;// Damage Resistances;// Damage Resistances;// Damage Resistances;;;;// Damage Resistances
+;// Резисты урону;//Resistências a Danos;// Damage Resistances;// Damage Resistances;;;;// Damage Resistances
 ;;;;;;;;
-Physical_Resistance;Сопр. физ. урону;Physical Resistance;物理抗性;Phys. Resistenz;;;;Odporność na obr. fizyczne
-Nature_Resistance;Сопр. силам природы;Nature Resistance;自然抗性;Naturresistenz;;;;Odporność na obr. od natury
-Magic_Resistance;Сопр. магии;Magic Resistance;魔法抗性;Magieresistenz;;;;Odporność na obr. magiczne
+Physical_Resistance;Сопр. физ. урону;Resistência Física;物理抗性;Phys. Resistenz;;;;Odporność na obr. fizyczne
+Nature_Resistance;Сопр. силам природы;Resistência Natural;自然抗性;Naturresistenz;;;;Odporność na obr. od natury
+Magic_Resistance;Сопр. магии;Resistência Mágica;魔法抗性;Magieresistenz;;;;Odporność na obr. magiczne
 ;;;;;;;;
-Slashing_Resistance;Сопр. рубящему урону;Slashing Resistance;劈砍抗性;Schnittresistenz;;;;Odporność na obr. cięte
-Piercing_Resistance;Сопр. колющему урону;Piercing Resistance;穿刺抗性;Stichresistenz;;;;Odporność na obr. przebijające
-Blunt_Resistance;Сопр. дробящему урону;Crushing Resistance;钝器抗性;Schmetterresistenz;;;;Odporność na obr. obalające
-Rending_Resistance;Сопр. разрыву;Rending Resistance;撕裂抗性;Reißresistenz;;;;Odporność na obr. rozdzierające
+Slashing_Resistance;Сопр. рубящему урону;Resistência à Cortes;劈砍抗性;Schnittresistenz;;;;Odporność na obr. cięte
+Piercing_Resistance;Сопр. колющему урону;Resistência à Perfurações;穿刺抗性;Stichresistenz;;;;Odporność na obr. przebijające
+Blunt_Resistance;Сопр. дробящему урону;Resistência à atq bruto;钝器抗性;Schmetterresistenz;;;;Odporność na obr. obalające
+Rending_Resistance;Сопр. разрыву;Resistência à laceração;撕裂抗性;Reißresistenz;;;;Odporność na obr. rozdzierające
 ;;;;;;;;
-Fire_Resistance;Сопр. огню;Fire Resistance;灼烧抗性;Feuerresistenz;;;;Odporność na ogień
-Frost_Resistance;Сопр. морозу;Frost Resistance;霜冻抗性;Frostresistenz;;;;Odporność na zamrożenie
-Shock_Resistance;Сопр. электричеству;Shock Resistance;电击抗性;Schockresistenz;;;;Odporność na porażenie
-Caustic_Resistance;Сопр. разъеданию;Caustic Resistance;腐蚀抗性;Säureresistenz;;;;Odporność na kwasy
-Poison_Resistance;Сопр. яду;Poison Resistance;中毒抗性;Giftresistenz;;;;Odporność na trucizny
+Fire_Resistance;Сопр. огню;Resistência ao Fogo;灼烧抗性;Feuerresistenz;;;;Odporność na ogień
+Frost_Resistance;Сопр. морозу;Resistência ao Gelo;霜冻抗性;Frostresistenz;;;;Odporność na zamrożenie
+Shock_Resistance;Сопр. электричеству;Resistência ao Choque;电击抗性;Schockresistenz;;;;Odporność na porażenie
+Caustic_Resistance;Сопр. разъеданию;Resistência Cáustica;腐蚀抗性;Säureresistenz;;;;Odporność na kwasy
+Poison_Resistance;Сопр. яду;Resistência ao veneno;中毒抗性;Giftresistenz;;;;Odporność na trucizny
 ;;;;;;;;
-Arcane_Resistance;Сопр. аркане;Arcane Resistance;秘术抗性;Arkane Resistenz;;;;Odporność na obr. tajemne
-Unholy_Resistance;Сопр. нечестивому урону;Unholy Resistance;邪术抗性;Unheilige Resistenz;;;;Odporność na obr. przeklęte
-Sacred_Resistance;Сопр. священному урону;Sacred Resistance;神圣抗性;Heilige Resistenz;;;;Odporność na obr. święte
-Psionic_Resistance;Сопр. псионике;Psionic Resistance;灵术抗性;Psionische Resistenz;;;;Odporność na obr. psychiczne
+Arcane_Resistance;Сопр. аркане;Resistência Arcana;秘术抗性;Arkane Resistenz;;;;Odporność na obr. tajemne
+Unholy_Resistance;Сопр. нечестивому урону;Resistência Profana;邪术抗性;Unheilige Resistenz;;;;Odporność na obr. przeklęte
+Sacred_Resistance;Сопр. священному урону;Resistência Sagrada;神圣抗性;Heilige Resistenz;;;;Odporność na obr. święte
+Psionic_Resistance;Сопр. псионике;Resistência Psiônica;灵术抗性;Psionische Resistenz;;;;Odporność na obr. psychiczne
 ;;;;;;;;
 ;// Урон по себе;// Self-Damage Stuff (used in modifiers);// Self-Damage Stuff (used in modifiers);// Self-Damage Stuff (used in modifiers);;;;// Self-Damage Stuff (used in modifiers)
 ;;;;;;;;
-Pure_Damage_Self;Наносит урон;Deals Damage;造成伤害;verursacht Schaden;;;;Zadaje Obrażenia
+Pure_Damage_Self;Наносит урон;Causa Dano;造成伤害;verursacht Schaden;;;;Zadaje Obrażenia
 ;;;;;;;;
-Slashing_Damage_Self;Наносит рубящий урон;Deals Slashing Damage;造成劈砍伤害;verursacht Schnittschaden;;;;Zadaje obrażenia Cięte
-Piercing_Damage_Self;Наносит колющий урон;Deals Piercing Damage;造成穿刺伤害;verursacht Stichschaden;;;;Zadaje obrażenia Przebijające
-Blunt_Damage_Self;Наносит дробящий урон;Deals Crushing Damage;造成钝器伤害;verursacht Schmetterschaden;;;;Zadaje obrażenia Obalające
-Rending_Damage_Self;Наносит разрывающий урон;Deals Rending Damage;造成撕裂伤害;verursacht Reißschaden;;;;Zadaje obrażenia Rozcinające
+Slashing_Damage_Self;Наносит рубящий урон;Causa Dano Cortante;造成劈砍伤害;verursacht Schnittschaden;;;;Zadaje obrażenia Cięte
+Piercing_Damage_Self;Наносит колющий урон;Causa Dano Penetrante;造成穿刺伤害;verursacht Stichschaden;;;;Zadaje obrażenia Przebijające
+Blunt_Damage_Self;Наносит дробящий урон;Causa Dano Contundente;造成钝器伤害;verursacht Schmetterschaden;;;;Zadaje obrażenia Obalające
+Rending_Damage_Self;Наносит разрывающий урон;Causa Dano Lacerante;造成撕裂伤害;verursacht Reißschaden;;;;Zadaje obrażenia Rozcinające
 ;;;;;;;;
-Poison_Damage_Self;Наносит урон ядом;Deals Poison Damage;造成中毒伤害;verursacht Giftschaden;;;;Zadaje obrażenia od Trucizn
-Fire_Damage_Self;Наносит урон огнём;Deals Fire Damage;造成灼烧伤害;verursacht Feuerschaden;;;;Zadaje obrażenia od Ognia
-Caustic_Damage_Self;Наносит разъедающий урон;Deals Caustic Damage;造成腐蚀伤害;verursacht Säureschaden;;;;Zadaje obrażenia od Kwasów
-Frost_Damage_Self;Наносит морозный урон;Deals Frost Damage;造成霜冻伤害;verursacht Frostschaden;;;;Zadaje obrażenia od Zamrożenia
-Shock_Damage_Self;Наносит электрический урон;Deals Shock Damage;造成电击伤害;verursacht Schockschaden;;;;Zadaje obrażenia od Porażenia
+Poison_Damage_Self;Наносит урон ядом;Causa Dano Venenoso;造成中毒伤害;verursacht Giftschaden;;;;Zadaje obrażenia od Trucizn
+Fire_Damage_Self;Наносит урон огнём;Causa dano de Fogo;造成灼烧伤害;verursacht Feuerschaden;;;;Zadaje obrażenia od Ognia
+Caustic_Damage_Self;Наносит разъедающий урон;Causa Dano Cáustico;造成腐蚀伤害;verursacht Säureschaden;;;;Zadaje obrażenia od Kwasów
+Frost_Damage_Self;Наносит морозный урон;Causa dano de Gelo;造成霜冻伤害;verursacht Frostschaden;;;;Zadaje obrażenia od Zamrożenia
+Shock_Damage_Self;Наносит электрический урон;Causa dano de Choque;造成电击伤害;verursacht Schockschaden;;;;Zadaje obrażenia od Porażenia
 ;;;;;;;;
-Arcane_Damage_Self;Наносит арканический урон;Deals Arcane Damage;造成秘术伤害;verursacht arkanen Schaden;;;;Zadaje obrażenia Tajemne
-Unholy_Damage_Self;Наносит нечестивый урон;Deals Unholy Damage;造成邪术伤害;verursacht unheiligen Schaden;;;;Zadaje obrażenia Przeklęte
-Sacred_Damage_Self;Наносит священный урон;Deals Sacred Damage;造成神圣伤害;verursacht heiligen Schaden;;;;Zadaje obrażenia Święte
-Psionic_Damage_Self;Наносит псионический урон;Deals Psionic Damage;造成灵术伤害;verursacht psionischen Schaden;;;;Zadaje obrażenia Psychiczne
+Arcane_Damage_Self;Наносит арканический урон;Causa Dano Arcano;造成秘术伤害;verursacht arkanen Schaden;;;;Zadaje obrażenia Tajemne
+Unholy_Damage_Self;Наносит нечестивый урон;Causa Dano Profano;造成邪术伤害;verursacht unheiligen Schaden;;;;Zadaje obrażenia Przeklęte
+Sacred_Damage_Self;Наносит священный урон;Causa Dano Sagrado;造成神圣伤害;verursacht heiligen Schaden;;;;Zadaje obrażenia Święte
+Psionic_Damage_Self;Наносит псионический урон;Causa dano Psiônico;造成灵术伤害;verursacht psionischen Schaden;;;;Zadaje obrażenia Psychiczne
 ;;;;;;;;
-;// Параметры выживания;// Survival;// Survival;// Survival;;;;// Survival
+;// Параметры выживания;// Sobrevivência;// Survival;// Survival;;;;// Survival
 ;;;;;;;;
-Pain_Limit;Предел боли;Pain Limit;疼痛忍耐极限;Schmerzgrenze;;;;Limit Bólu
-Hunger;Голод;Hunger;饥饿;Hunger;;;;Głód
-Pain;Боль;Pain;疼痛;Schmerz;;;;Ból
-Thirsty;Жажда;Thirst;口渴;Durst;;;;Pragnienie
-Intoxication;Интоксикация;Intoxication;迷醉;Vergiftung;;;;Zatrucie
-Morale;Мораль;Morale;斗志;Moral;;;;Morale
-Sanity;Рассудок;Sanity;神智;Geistige Gesundheit;;;;Zdrowie Psychiczne
-Pain_Change;Изменение боли;Pain Change;疼痛变化;Schmerzänderung;;;;Zmiana siły Bólu
-Toxicity_Change;Изменение интоксикации;Intoxication Change;迷醉变化;Vergiftungsänderung;;;;Zmiana poziomu Zatrucia
-Hunger_Change;Изменение голода;Hunger Change;饥饿变化;Hungeränderung;;;;Zmiana poziomu Głodu
-Thirst_Change;Изменение жажды;Thirst Change;口渴变化;Durständerung;;;;Zmiana poziomu Pragnienia
-Sanity_Change;Изменение рассудка;Sanity Change;神智变化;Änderung geistiger Gesundheit;;;;Zmiana Zdrowia Psychicznego
-Morale_Change;Изменение морали;Morale Change;斗志变化;Moraländerung;;;;Zmiana Morale
+Pain_Limit;Предел боли;Limite de dor;疼痛忍耐极限;Schmerzgrenze;;;;Limit Bólu
+Hunger;Голод;Fome;饥饿;Hunger;;;;Głód
+Pain;Боль;Dor;疼痛;Schmerz;;;;Ból
+Thirsty;Жажда;Sede;口渴;Durst;;;;Pragnienie
+Intoxication;Интоксикация;Intoxicação;迷醉;Vergiftung;;;;Zatrucie
+Morale;Мораль;Moral;斗志;Moral;;;;Morale
+Sanity;Рассудок;Sanidade;神智;Geistige Gesundheit;;;;Zdrowie Psychiczne
+Pain_Change;Изменение боли;Mudança de Dor;疼痛变化;Schmerzänderung;;;;Zmiana siły Bólu
+Toxicity_Change;Изменение интоксикации;Mudança de Intoxicação;迷醉变化;Vergiftungsänderung;;;;Zmiana poziomu Zatrucia
+Hunger_Change;Изменение голода;Mudança de Fome;饥饿变化;Hungeränderung;;;;Zmiana poziomu Głodu
+Thirst_Change;Изменение жажды;Mudança de Sede;口渴变化;Durständerung;;;;Zmiana poziomu Pragnienia
+Sanity_Change;Изменение рассудка;Mudança de Sanidade;神智变化;Änderung geistiger Gesundheit;;;;Zmiana Zdrowia Psychicznego
+Morale_Change;Изменение морали;Mudança de Moral;斗志变化;Moraländerung;;;;Zmiana Morale
 ;;;;;;;;
-Pain_Resistance;Сопр. боли;Pain Resistance;疼痛抗性;Schmerzresistenz;;;;Odporność na Ból
-Hunger_Resistance;Сопр. голоду;Hunger Resistance;饥饿抗性;Hungerresistenz;;;;Odporność na Głód
-Toxicity_Resistance;Сопр. интоксикации;Intoxication Resistance;迷醉抗性;Vergiftungsresistenz;;;;Odporność na Zatrucie
-maladiesPlaceholder;Симптомов нет;No symptoms;没有症状;Keine Symptome;;;;Brak symptomów
+Pain_Resistance;Сопр. боли;Resistência à Dor;疼痛抗性;Schmerzresistenz;;;;Odporność na Ból
+Hunger_Resistance;Сопр. голоду;Resistência à Fome;饥饿抗性;Hungerresistenz;;;;Odporność na Głód
+Toxicity_Resistance;Сопр. интоксикации;Resistência à Intoxicação;迷醉抗性;Vergiftungsresistenz;;;;Odporność na Zatrucie
+maladiesPlaceholder;Симптомов нет;Sem Sintomas;没有症状;Keine Symptome;;;;Brak symptomów
 ;;;;;;;;
-Armor_Durability;Прочность брони;Armor Durability;防具耐久;Rüstungshaltbarkeit;;;;Wytrzymałość Pancerza
-Condition;Залечивание травм;Injury Treatment;疗伤;Wundbehandlung;;;;Leczenie Ran
+Armor_Durability;Прочность брони;Durabilidade da Armadura;防具耐久;Rüstungshaltbarkeit;;;;Wytrzymałość Pancerza
+Condition;Залечивание травм;Tratamento de Lesões;疗伤;Wundbehandlung;;;;Leczenie Ran
 ;;;;;;;;
-// Сила веток магии;;// Magic Schools Power;// Magic Schools Power;// Magic Schools Power;;;;// Magic Schools Power
+// Сила веток магии;;// Poder das Escolas de Magia;// Magic Schools Power;// Magic Schools Power;;;;// Magic Schools Power
 ;;;;;;;;
-Pyromantic_Power;Сила пиромантии;Pyromantic Power;炎术法力;Pyromantische Kraft;;;;Moc Piromancji
-Geomantic_Power;Сила геомантии;Geomantic Power;地术法力;Geomantische Kraft;;;;Moc Gemonacji
-Venomantic_Power;Сила веномантии;Venomantic Power;毒术法力;Venomantische Kraft;;;;Moc Truciznmancji
-Cryomantic_Power;Сила криомантии;Cryomantic Power;冰术法力;Kryomantische Kraft;;;;Moc Cryomancji
-Electromantic_Power;Сила электромантии;Electromantic Power;电术法力;Elektromantische Kraft;;;;Moc Elektromancji
-Arcanistic_Power;Сила арканистики;Arcanistic Power;秘术法力;Arkanistische Kraft;;;;Moc Arkanizmu
-Astromantic_Power;Сила астромантии;Astromantic Power;星术法力;Astromantische Kraft;;;;Moc Astromancji
-Psimantic_Power;Сила псимантии;Psionic Power;灵术法力;Psionische Kraft;;;;Moc Psychomancji
-Chronomantic_Power;Сила хрономантии;Chronomantic Power;命术法力;Chronomantische Kraft;;;;Moc Chronomancji
+Pyromantic_Power;Сила пиромантии;Poder Piromantico;炎术法力;Pyromantische Kraft;;;;Moc Piromancji
+Geomantic_Power;Сила геомантии;Poder Geomantico;地术法力;Geomantische Kraft;;;;Moc Gemonacji
+Venomantic_Power;Сила веномантии;Poder Venomantico;毒术法力;Venomantische Kraft;;;;Moc Truciznmancji
+Cryomantic_Power;Сила криомантии;Poder Criomântico;冰术法力;Kryomantische Kraft;;;;Moc Cryomancji
+Electromantic_Power;Сила электромантии;Poder Eletromântico;电术法力;Elektromantische Kraft;;;;Moc Elektromancji
+Arcanistic_Power;Сила арканистики;Poder Arcanístico;秘术法力;Arkanistische Kraft;;;;Moc Arkanizmu
+Astromantic_Power;Сила астромантии;Poder Astromantico;星术法力;Astromantische Kraft;;;;Moc Astromancji
+Psimantic_Power;Сила псимантии;Poder Psiônico;灵术法力;Psionische Kraft;;;;Moc Psychomancji
+Chronomantic_Power;Сила хрономантии;Poder cronomantico;命术法力;Chronomantische Kraft;;;;Moc Chronomancji
 ;;;;;;;;
 ;attribute_text_end;attribute_text_end;attribute_text_end;attribute_text_end;;;;attribute_text_end
 ;;;;;;;;
 ;;;;;;;;
 ;attribute_desc;attribute_desc;attribute_desc;attribute_desc;;;;attribute_desc
 ;;;;;;;;
-;// Живучесть и энергия;// Vitality & Energy;// Vitality & Energy;// Vitality & Energy;;;;// Vitality & Energy
+;// Живучесть и энергия;// Vitalidade & Energia;// Vitality & Energy;// Vitality & Energy;;;;// Vitality & Energy
 ;;;;;;;;
-HP;Сколько урона вы можете получить, прежде чем погибнете.;The amount of Damage you can take before dying.;你在死亡之前可以承受这么多伤害。;Wieviel Schaden du nehmen kannst, bevor du stirbst.;;;;Ilość obrażeń jakie otrzymasz przed śmiercią.
-max_hp;Сколько урона вы можете получить, прежде чем погибнете.;The amount of Damage you can take before dying.;你在死亡之前可以承受这么多伤害。;Wieviel Schaden du nehmen kannst, bevor du stirbst.;;;;Ilość obrażeń jakie otrzymasz przed śmiercią.
-Health_Restoration;Скорость восстановления вашего здоровья.#Чем больше этот показатель, тем чаще срабатывает регенерация.;The rate of Health Restoration.#The higher this number, the more frequent your regeneration occurs.;生命恢复的速度。#这个数字越大，恢复的频率越高。;Die Rate der Gesundheitswiederherstellung.#Je höher, um so schneller geschieht die Regeneration.;;;;Częstotliwość z jaką działa Odnawianie Zdrowia.#Im wyższa wartość, tym częściej twoje Zdrowie zostaje odnowione.
-Healing_Received;Показывает, сколько лечения вы получаете из всех источников.;Displays the amount of healing received from all sources.;各类治疗实际恢复的比例。;Zeigt die Gesamtmenge an erhaltener Heilung aus allen Quellen. ;;;;Ukazuje ilość Zdrowia odnawianą ze wszystkich źródeł.
-MP;Запас сил, расходуемый на способности.;The amount of Energy you can spend on your Abilities.;你可以将这么多精力用于发动能力。;Die Menge an Energie, die du für deine Fertigkeiten verwenden kannst.;;;;Ilość Energii jaką możesz wykorzystać na swoje Zdolności.
-max_mp;Запас сил, расходуемый на способности.;The amount of Energy you can spend on your Abilities.;你可以将这么多精力用于发动能力。;Die Menge an Energie, die du für deine Fertigkeiten verwenden kannst.;;;;Ilość Energii jaką możesz wykorzystać na swoje Zdolności.
-Health_Threshold;Максимальный порог восстанавливаемого здоровья.#Зависит от степени травмированности ваших частей тела.;The maximum threshold for the amount of Health you can recover.#It depends on the degree of Injury of your body parts.;生命恢复的上限。#取决于你身体各个部位的伤情。;Die max. Schwelle für die Gesundheitsregeneration.#Sie ist abhängig von den Verletzungen an deinem Körper.;;;;Maksymalna wartość Zdrowia, którą możesz odnowić.#Na wartość wpływa stopień obrażeń i ran jakie posiadasz.
-MP_Restoration;Скорость восстановления энергии.#Чем больше этот показатель, тем чаще срабатывает регенерация.;The rate of Energy Restoration.#The higher this number the more frequent your regeneration occurs.;精力恢复的速度。#这个数字越大，恢复的频率越高。;Die Rate der Energieregeneration.#Je höher, um so schneller geschieht die Regeneration.;;;;Częstotliwość z jaką działa Odnowienie Energii.#Im wyższa wartość, tym twoja Energia odnawia się częściej.
-Damage_Received;Показатель урона, получаемого из всех источников.;The amount of Damage received from all sources.;实际所受伤害的比例。;Der Gesamtschaden aus allen Quellen.;;;;Ilość obrażeń otrzymana ze wszystkich źródeł.
-Damage_Returned;Процент получаемого в ближнем бою урона, который возвращается врагу.;The percentage of melee Damage you reflect back at your enemy.;敌人对你造成近身伤害时，会受到这个比例的伤害。;Der prozentuale Schaden, den du auf Gegner zurück wirfst.;;;;Procent obrażeń w walce wręcz odbijany w stronę przeciwnika
-Lifesteal;Процент преобразуемого в здоровье урона ваших атак.;The percentage of attack Damage you receive as Health.;你对敌人造成攻击伤害时，会获得这个比例的生命。;Der prozentuale Angriffsschaden, den du als Gesundheit erhältst.;;;;Procent obrażeń powracających w formie Zdrowia
-Manasteal;Процент преобразуемого в энергию урона ваших атак.;The percentage of attack Damage you receive as Energy.;你对敌人造成攻击伤害时，会获得这个比例的精力。;Der prozentuale Angriffsschaden, den du als Energie erhältst.;;;;Procent obrażeń powracających w formie Energii.
-DEF;Количество гарантированно поглощаемого физического урона.;The amount of Physical Damage you absorb.;你可以吸收这么多物理伤害。;Der phys. Schaden, den du absorbierst.;;;;Ilość Obrażeń Fizycznych, które możesz zaabsorbować Pancerzem.
-Fortitude;Влияет на длительность получаемых негативных эффектов.;Reduces duration of negative status effects you receive.;可以缩短负面效果影响你的时长。;Reduziert die Dauer negativer Statuseffekte die du erleidest.;;;;Skraca czas trwania Efektów Negatywnych, które nałożone są na postać.
+HP;Сколько урона вы можете получить, прежде чем погибнете.;A quantidade de dano que você pode receber antes de morrer.;你在死亡之前可以承受这么多伤害。;Wieviel Schaden du nehmen kannst, bevor du stirbst.;;;;Ilość obrażeń jakie otrzymasz przed śmiercią.
+max_hp;Сколько урона вы можете получить, прежде чем погибнете.;A quantidade de dano que você pode receber antes de morrer.;你在死亡之前可以承受这么多伤害。;Wieviel Schaden du nehmen kannst, bevor du stirbst.;;;;Ilość obrażeń jakie otrzymasz przed śmiercią.
+Health_Restoration;Скорость восстановления вашего здоровья.#Чем больше этот показатель, тем чаще срабатывает регенерация.;A taxa de restauração da saúde.#Quanto maior esse número, mais frequente sua regeneração ocorre.;生命恢复的速度。#这个数字越大，恢复的频率越高。;Die Rate der Gesundheitswiederherstellung.#Je höher, um so schneller geschieht die Regeneration.;;;;Częstotliwość z jaką działa Odnawianie Zdrowia.#Im wyższa wartość, tym częściej twoje Zdrowie zostaje odnowione.
+Healing_Received;Показывает, сколько лечения вы получаете из всех источников.;Exibe a quantidade de cura recebida de todas as fontes.;各类治疗实际恢复的比例。;Zeigt die Gesamtmenge an erhaltener Heilung aus allen Quellen. ;;;;Ukazuje ilość Zdrowia odnawianą ze wszystkich źródeł.
+MP;Запас сил, расходуемый на способности.;A quantidade de energia que você pode gastar com suas habilidades.;你可以将这么多精力用于发动能力。;Die Menge an Energie, die du für deine Fertigkeiten verwenden kannst.;;;;Ilość Energii jaką możesz wykorzystać na swoje Zdolności.
+max_mp;Запас сил, расходуемый на способности.;A quantidade de energia que você pode gastar com suas habilidades.;你可以将这么多精力用于发动能力。;Die Menge an Energie, die du für deine Fertigkeiten verwenden kannst.;;;;Ilość Energii jaką możesz wykorzystać na swoje Zdolności.
+Health_Threshold;Максимальный порог восстанавливаемого здоровья.#Зависит от степени травмированности ваших частей тела.;O limite máximo para a quantidade de Saúde que você pode recuperar.#Depende do grau de lesão das partes do seu corpo.;生命恢复的上限。#取决于你身体各个部位的伤情。;Die max. Schwelle für die Gesundheitsregeneration.#Sie ist abhängig von den Verletzungen an deinem Körper.;;;;Maksymalna wartość Zdrowia, którą możesz odnowić.#Na wartość wpływa stopień obrażeń i ran jakie posiadasz.
+MP_Restoration;Скорость восстановления энергии.#Чем больше этот показатель, тем чаще срабатывает регенерация.;A taxa de restauração de energia.#Quanto maior esse número, mais frequente sua regeneração ocorre.;精力恢复的速度。#这个数字越大，恢复的频率越高。;Die Rate der Energieregeneration.#Je höher, um so schneller geschieht die Regeneration.;;;;Częstotliwość z jaką działa Odnowienie Energii.#Im wyższa wartość, tym twoja Energia odnawia się częściej.
+Damage_Received;Показатель урона, получаемого из всех источников.;A quantidade de Dano recebido de todas as fontes.;实际所受伤害的比例。;Der Gesamtschaden aus allen Quellen.;;;;Ilość obrażeń otrzymana ze wszystkich źródeł.
+Damage_Returned;Процент получаемого в ближнем бою урона, который возвращается врагу.;A porcentagem de Dano corpo a corpo que você reflete no seu inimigo.;敌人对你造成近身伤害时，会受到这个比例的伤害。;Der prozentuale Schaden, den du auf Gegner zurück wirfst.;;;;Procent obrażeń w walce wręcz odbijany w stronę przeciwnika
+Lifesteal;Процент преобразуемого в здоровье урона ваших атак.;A porcentagem de dano de ataque que você recebe em Vida.;你对敌人造成攻击伤害时，会获得这个比例的生命。;Der prozentuale Angriffsschaden, den du als Gesundheit erhältst.;;;;Procent obrażeń powracających w formie Zdrowia
+Manasteal;Процент преобразуемого в энергию урона ваших атак.;A porcentagem de dano de ataque que você recebe em Energia.;你对敌人造成攻击伤害时，会获得这个比例的精力。;Der prozentuale Angriffsschaden, den du als Energie erhältst.;;;;Procent obrażeń powracających w formie Energii.
+DEF;Количество гарантированно поглощаемого физического урона.;A quantidade de Dano Físico que você absorve.;你可以吸收这么多物理伤害。;Der phys. Schaden, den du absorbierst.;;;;Ilość Obrażeń Fizycznych, które możesz zaabsorbować Pancerzem.
+Fortitude;Влияет на длительность получаемых негативных эффектов.;Reduz a duração dos efeitos de status negativos que você recebe.;可以缩短负面效果影响你的时长。;Reduziert die Dauer negativer Statuseffekte die du erleidest.;;;;Skraca czas trwania Efektów Negatywnych, które nałożone są na postać.
 ;;;;;;;;
 ;// Прокачка;// Levelling;// Levelling;// Levelling;;;;// Levelling
 ;;;;;;;;
-AP;Очки атрибутов используются для увеличения основных характеристик.##Каждое повышение уровня даёт 2 ОА.;Attribute points are spent on increasing your primary stats.##You gain 2 AP on level up.;属性点用于提升你的基础数值。##每升一级，可以获得2个属性点。;Attributpunkte werden zum Erhöhen deiner primären Charakterwerte verwendet#Du bekommst 2 AP bei Stufenaufstieg.;;;;Punkty Atrybutów używane są na rozwijanie twoich podstawowych statystyk.##Otrzymujesz 2 PA przy każdym nowym poziomie postaci.
-SP;Очки способностей используются для изучения новых умений и заклинаний.##Каждое повышение уровня даёт 1 ОС.;Skill points are spent on learning new Abilities.##You gain 1 SP on level up.;技能点用于学习新的能力。##每升一级，可以获得1个技能点。;Fertigkeitspunkte dienen dem Erlernen neuer Fertigkeiten.#Du erhältst einen 1 FP bei Stufenaufstieg.;;;;Punkty Umiejętności są wydawane na naukę nowych Umiejętności.##Otrzymujesz 1 PU przy każdym nowym poziomie postaci.
-LVL;За каждый уровень вы получаете два очка атрибутов и одно очко способностей.#Максимальный уровень - 30.;You receive two attribute points and a skill point for each level.# Your maximum level is 30.;每升一级，可以获得2个属性点和1个技能点。#你的等级上限为30级。;Du erhältst zwei Attributpunkte und einen Fertigkeitspunkt für jede Stufe.#Deine maximale Stufe ist 30.;;;;Otrzymujesz dwa Punkty Atrybutów oraz jeden Punkt Umiejętności przy każdym nowym poziomie.#Twój maksymalny poziom to 30.
-XP;Количество опыта, заработанного вашим персонажем.;The number of experience points your character acquired.;你已获得这么多经验。;Die Erfahrungspunkte die dein Charakter gesammelt hat.;;;;Ilość punktów doświadczenia, które zdobyła twoja postać.
-Received_XP;Количество опыта, получаемого за убийство врагов.;The number of experience points you receive for killing your enemies.;你击杀敌人可以获得这么多经验。;Die Erfahrungspunkte, die du für das Töten von Gegnern bekommen hast.;;;;Ilość punktów doświadczenia, które zdobywasz za pokonywanie przeciwników.
+AP;Очки атрибутов используются для увеличения основных характеристик.##Каждое повышение уровня даёт 2 ОА.;Os pontos de atributo são gastos ao aumentar seus pontos de status primários.##Você ganha 2 PA ao subir de nível.;属性点用于提升你的基础数值。##每升一级，可以获得2个属性点。;Attributpunkte werden zum Erhöhen deiner primären Charakterwerte verwendet#Du bekommst 2 AP bei Stufenaufstieg.;;;;Punkty Atrybutów używane są na rozwijanie twoich podstawowych statystyk.##Otrzymujesz 2 PA przy każdym nowym poziomie postaci.
+SP;Очки способностей используются для изучения новых умений и заклинаний.##Каждое повышение уровня даёт 1 ОС.;Os pontos de habilidade são gastos na aprendizagem de novas habilidades.##Você ganha 1 PH subir de nível.;技能点用于学习新的能力。##每升一级，可以获得1个技能点。;Fertigkeitspunkte dienen dem Erlernen neuer Fertigkeiten.#Du erhältst einen 1 FP bei Stufenaufstieg.;;;;Punkty Umiejętności są wydawane na naukę nowych Umiejętności.##Otrzymujesz 1 PU przy każdym nowym poziomie postaci.
+LVL;За каждый уровень вы получаете два очка атрибутов и одно очко способностей.#Максимальный уровень - 30.;Você recebe dois pontos de atributo e um ponto de habilidade para cada nível.#Seu nível máximo é 30.;每升一级，可以获得2个属性点和1个技能点。#你的等级上限为30级。;Du erhältst zwei Attributpunkte und einen Fertigkeitspunkt für jede Stufe.#Deine maximale Stufe ist 30.;;;;Otrzymujesz dwa Punkty Atrybutów oraz jeden Punkt Umiejętności przy każdym nowym poziomie.#Twój maksymalny poziom to 30.
+XP;Количество опыта, заработанного вашим персонажем.;O número de pontos de experiência que seu personagem adquiriu.;你已获得这么多经验。;Die Erfahrungspunkte die dein Charakter gesammelt hat.;;;;Ilość punktów doświadczenia, które zdobyła twoja postać.
+Received_XP;Количество опыта, получаемого за убийство врагов.;O número de pontos de experiência que você recebe por matar seus inimigos.;你击杀敌人可以获得这么多经验。;Die Erfahrungspunkte, die du für das Töten von Gegnern bekommen hast.;;;;Ilość punktów doświadczenia, które zdobywasz za pokonywanie przeciwników.
 ;;;;;;;;
 ;// Основные атрибуты;// Primary attributes;// Primary attributes;// Primary attributes;;;;// Primary attributes
 ;;;;;;;;
-STR;Сила влияет на ваши основные боевые показатели.##От неё зависят ~gr~урон оружия ближнего боя~/~, ~gr~эффективность критов~/~, ~gr~шанс блока~/~, ~gr~сила блока~/~, ~gr~травмирующий урон~/~ и ~gr~урон по броне~/~.;Strength influences your primary combat capabilities.##It affects ~gr~Melee Damage~/~, ~gr~Crit Efficiency~/~, ~gr~Block Chance~/~, ~gr~Block Power~/~, ~gr~Bodypart Damage~/~ and ~gr~Armor Damage~/~. ;力量影响你主要的战斗实力。##例如~w~近身伤害~/~、~w~暴击效果~/~、~w~格挡几率~/~、~w~格挡效果~/~、~w~肢体伤害~/~和~w~防具伤害~/~。;Stärke beinflusst deine primären Kampffähigkeiten.##Es beeinflusst ~gr~Nahkampfschaden~/~, ~gr~Krit. Effizienz~/~, ~gr~Blocken-Chance~/~, ~gr~Blocken-Stärke~/~, ~gr~Körperteilschaden~/~ und ~gr~Rüstungsschaden~/~.;;;;Siła wpływa na twoje możliwości w walce.##Ma wpływ na ~gr~ Obrażenia Fizyczne~/~, ~gr~Skuteczność obr. krytycznych~/~, ~gr~Szansę na Blok~/~, ~gr~Siłę Bloku~/~, ~gr~Obrażenia Części Ciała~/~ oraz ~gr~Obrażenia Pancerza~/~.
-AGL;Ловкость влияет на искусность в поединках.##От неё зависят ~gr~шанс уклонения~/~, ~gr~шанс контрудара~/~, ~gr~шанс крита~/~, ~gr~шанс неудачи~/~, ~gr~скрытность~/~, а также ~gr~навык взлома и обезвреживания~/~.;Agility influences your finesse in combat.##It affects ~gr~Dodge Chance~/~, ~gr~Counter Chance~/~, ~gr~Crit Chance~/~, ~gr~Fumble Chance~/~, ~gr~Stealth~/~ and ~gr~Lock-picking & Disarming~/~.;敏捷影响你的战斗技巧。##例如~w~闪躲几率~/~、~w~反击几率~/~、~w~暴击几率~/~、~w~失手几率~/~、~w~潜行~/~和~w~开锁与拆除陷阱~/~。;Beweglichkeit beinflusst deine Finesse im Kampf.##Es beeinflusst ~gr~Ausweichen-Chance~/~, ~gr~Kontern-Chance~/~, ~gr~Krit. Chance~/~, ~gr~Ungeschicktsein-Chance~/~, ~gr~Schleichen~/~ und ~gr~Schlösserknacken & Entschärfen~/~.;;;;Zręczność wpływa na twoją finezję w walce.##Wpływa na ~gr~Szansę na Unik~/~, ~gr~Szansę na Kontrę~/~, ~gr~Szansę na obr. krytyczne~/~, ~gr~Szansę na Partactwo~/~, ~gr~Skradanie~/~ oraz ~gr~Otwieranie zamków i pułapek~/~.
-PRC;Восприятие позволяет раньше замечать опасности и точнее бить в цель.##От него зависят ~gr~урон оружия дальнего боя~/~, ~gr~шанс попадания~/~, ~gr~шанс крита~/~, ~gr~скрытность~/~, ~gr~обзор~/~ и ~gr~дальность~/~.;Perception allows you to spot danger earlier and helps you deliver precise attacks.##It affects ~gr~Ranged Damage~/~, ~gr~Accuracy~/~, ~gr~Crit Chance~/~, ~gr~Stealth~/~, ~gr~Vision~/~ and ~gr~Bonus Range~/~.;感知有助于你提早觉察危险，也能加强攻击的精准。这项属性影响~w~远程伤害~/~、~w~准度~/~、~w~暴击几率~/~、~w~潜行~/~、~w~视野~/~和~w~距离加成~/~。;Wahrnehmung erlaubt dir, Gefahren früher zu erkennen, und präzise Angriffe auszuführen.##Es beeinflusst ~gr~Fernkampfschaden~/~, ~gr~Genauigkeit~/~, ~gr~Krit. Chance~/~, ~gr~Schleichen~/~, ~gr~Sicht~/~ und ~gr~Bonus-Reichweite~/~.;;;;Percepcja wpływa na możliwość wcześniejszego zauważenia zagrożenia oraz wyprowadzanie bardziej precyzyjnych ciosów.##Ma wpływ na ~gr~Obrażenia Dystansowe~/~, ~gr~Celność~/~, ~gr~Szansę na obr. krytyczne~/~, ~gr~Skradanie, ~gr~Widok~/~ oraz ~gr~Bonusowy Zasięg~/~.
-Vitality;Живучесть влияет на выживаемость и выносливость.##От неё зависят ~gr~запас здоровья~/~, ~gr~регенерация здоровья~/~, ~gr~запас энергии~/~, ~gr~регенерация энергии~/~, ~gr~получаемое лечение~/~ и ~gr~иммунитет~/~.;Vitality influences your survivability and endurance.##It affects ~gr~Max Health~/~, ~gr~Health Restoration~/~, ~gr~Max Energy~/~, ~gr~Energy Restoration~/~, ~gr~Healing Efficiency~/~ and ~gr~Immunity~/~.;活力影响你忍耐负面效果和生存的能力。##例如~w~生命上限~/~、~w~生命自动恢复~/~、~w~精力上限~/~、~w~精力自动恢复~/~、~w~治疗效果~/~和~w~免疫~/~。;Vitalität wirkt sich auf dein Überleben und deine Ausdauer aus.##Es beeinflusst ~gr~max. Gesundheit~/~, ~gr~Gesundheitsregeneration~/~, ~gr~max. Energie~/~, ~gr~Energieregeneration~/~, ~gr~Heilungseffizienz~/~ und ~gr~Immunität~/~.;;;;Witalność wpływa na twoje szanse na przeżycie oraz wytrzymałość.##Ma wpływ na ~gr~Maksymalne Zdrowie~/~, ~gr~Odnawianie Zdrowia~/~, ~gr~Maksymalną Energię~/~, ~gr~Odnawianie Energii~/~, ~gr~Skuteczność Leczenia~/~ oraz ~gr~Odporność~/~.
-WIL;Воля показывает магический потенциал и позволяет легче переносить тяготы и лишения.##От неё зависят ~gr~сила магии~/~, ~gr~сопротивляемость магии~/~, ~gr~сопротивляемость боли~/~, ~gr~стойкость~/~, ~gr~затраты на способности~/~ и ~gr~время восст. способностей~/~.;Willpower influences your Magic capabilities and makes hardships and misery more tolerable.##It affects ~gr~Magic Power~/~, ~gr~Magic Resistance~/~, ~gr~Pain Resistance~/~, ~gr~Fortitude~/~, ~gr~Abilities Energy Costs~/~ and ~gr~Cooldown Durations~/~.;意志影响你的魔法能力，而且能够增强你对逆境和苦痛的耐受能力。##这项属性影响~w~法力~/~、~w~魔法抗性~/~、~w~疼痛抗性~/~、~w~坚忍~/~、~w~能力精力消耗~/~和~w~冷却时长~/~。;Willenskraft wirkt sich auf deine magischen Fähigkeiten aus, und macht Notlagen und Miseren erträglicher.##Es beeinflusst ~gr~Magische Kraft~/~, ~gr~Magieresistenz~/~, ~gr~Schmerzresistenz~/~, ~gr~Robustheit~/~, ~gr~Energiekosten für Fertigkeiten~/~ und ~gr~Abklingzeiten~/~.;;;;Siła Woli gra istotną rolę w twoich zdolnościach magicznych oraz czyni trudy walki bardziej znośnymi.##Ma wpływ na ~gr~Siłę Magii~/~, ~gr~Odporność na Magię~/~, ~gr~Odporność na Ból~/~, ~gr~Protekcję~/~, ~gr~Koszt Energii dla Zdolności~/~ oraz ~gr~Czasy Odnowień~/~.
+STR;Сила влияет на ваши основные боевые показатели.##От неё зависят ~gr~урон оружия ближнего боя~/~, ~gr~эффективность критов~/~, ~gr~шанс блока~/~, ~gr~сила блока~/~, ~gr~травмирующий урон~/~ и ~gr~урон по броне~/~.;A força influencia suas principais capacidades de combate.##Afeta ~gr~Dano corpo a corpo~/~, ~gr~Eficiência Crítica~/~, ~gr~Chance de Bloqueio~/~, ~gr~Poder de Bloqueio~/~, ~gr~Dano de partes do corpo~/~ e ~gr~Dano de armadura~/~. ;力量影响你主要的战斗实力。##例如~w~近身伤害~/~、~w~暴击效果~/~、~w~格挡几率~/~、~w~格挡效果~/~、~w~肢体伤害~/~和~w~防具伤害~/~。;Stärke beinflusst deine primären Kampffähigkeiten.##Es beeinflusst ~gr~Nahkampfschaden~/~, ~gr~Krit. Effizienz~/~, ~gr~Blocken-Chance~/~, ~gr~Blocken-Stärke~/~, ~gr~Körperteilschaden~/~ und ~gr~Rüstungsschaden~/~.;;;;Siła wpływa na twoje możliwości w walce.##Ma wpływ na ~gr~ Obrażenia Fizyczne~/~, ~gr~Skuteczność obr. krytycznych~/~, ~gr~Szansę na Blok~/~, ~gr~Siłę Bloku~/~, ~gr~Obrażenia Części Ciała~/~ oraz ~gr~Obrażenia Pancerza~/~.
+AGL;Ловкость влияет на искусность в поединках.##От неё зависят ~gr~шанс уклонения~/~, ~gr~шанс контрудара~/~, ~gr~шанс крита~/~, ~gr~шанс неудачи~/~, ~gr~скрытность~/~, а также ~gr~навык взлома и обезвреживания~/~.;A agilidade influencia a sua excelência no combate.##Isso afeta ~gr~Chance de Esquivar~/~, ~gr~Chace de Counterar~/~, ~gr~Chance de Crítico~/~, ~gr~Chance de Atrapalhar~/~, ~gr~Furtividade~/~, ~gr~Descadear e desarmar~/~.;敏捷影响你的战斗技巧。##例如~w~闪躲几率~/~、~w~反击几率~/~、~w~暴击几率~/~、~w~失手几率~/~、~w~潜行~/~和~w~开锁与拆除陷阱~/~。;Beweglichkeit beinflusst deine Finesse im Kampf.##Es beeinflusst ~gr~Ausweichen-Chance~/~, ~gr~Kontern-Chance~/~, ~gr~Krit. Chance~/~, ~gr~Ungeschicktsein-Chance~/~, ~gr~Schleichen~/~ und ~gr~Schlösserknacken & Entschärfen~/~.;;;;Zręczność wpływa na twoją finezję w walce.##Wpływa na ~gr~Szansę na Unik~/~, ~gr~Szansę na Kontrę~/~, ~gr~Szansę na obr. krytyczne~/~, ~gr~Szansę na Partactwo~/~, ~gr~Skradanie~/~ oraz ~gr~Otwieranie zamków i pułapek~/~.
+PRC;Восприятие позволяет раньше замечать опасности и точнее бить в цель.##От него зависят ~gr~урон оружия дальнего боя~/~, ~gr~шанс попадания~/~, ~gr~шанс крита~/~, ~gr~скрытность~/~, ~gr~обзор~/~ и ~gr~дальность~/~.;A percepção permite identificar o perigo mais cedo e ajuda a realizar ataques precisos.##Afeta ~gr~Dano à Distância~/~, ~gr~Precisão~/~, ~gr~Chance Crítica~/~, ~gr~Furtividade~/~, ~gr~Visão~/~ e ~gr~bônus de Distância~/~.;感知有助于你提早觉察危险，也能加强攻击的精准。这项属性影响~w~远程伤害~/~、~w~准度~/~、~w~暴击几率~/~、~w~潜行~/~、~w~视野~/~和~w~距离加成~/~。;Wahrnehmung erlaubt dir, Gefahren früher zu erkennen, und präzise Angriffe auszuführen.##Es beeinflusst ~gr~Fernkampfschaden~/~, ~gr~Genauigkeit~/~, ~gr~Krit. Chance~/~, ~gr~Schleichen~/~, ~gr~Sicht~/~ und ~gr~Bonus-Reichweite~/~.;;;;Percepcja wpływa na możliwość wcześniejszego zauważenia zagrożenia oraz wyprowadzanie bardziej precyzyjnych ciosów.##Ma wpływ na ~gr~Obrażenia Dystansowe~/~, ~gr~Celność~/~, ~gr~Szansę na obr. krytyczne~/~, ~gr~Skradanie, ~gr~Widok~/~ oraz ~gr~Bonusowy Zasięg~/~.
+Vitality;Живучесть влияет на выживаемость и выносливость.##От неё зависят ~gr~запас здоровья~/~, ~gr~регенерация здоровья~/~, ~gr~запас энергии~/~, ~gr~регенерация энергии~/~, ~gr~получаемое лечение~/~ и ~gr~иммунитет~/~.;A vitalidade influencia sua capacidade de sobrevivência e resistência.##Afeta ~gr~Vida Máxima~/~, ~gr~Restauração de Vida~/~, ~gr~Energia Máxima~/~, ~gr~Restauração de Energia~/~, ~gr~Eficiência de Cura~/~ e ~gr~Imunidade~/~.;活力影响你忍耐负面效果和生存的能力。##例如~w~生命上限~/~、~w~生命自动恢复~/~、~w~精力上限~/~、~w~精力自动恢复~/~、~w~治疗效果~/~和~w~免疫~/~。;Vitalität wirkt sich auf dein Überleben und deine Ausdauer aus.##Es beeinflusst ~gr~max. Gesundheit~/~, ~gr~Gesundheitsregeneration~/~, ~gr~max. Energie~/~, ~gr~Energieregeneration~/~, ~gr~Heilungseffizienz~/~ und ~gr~Immunität~/~.;;;;Witalność wpływa na twoje szanse na przeżycie oraz wytrzymałość.##Ma wpływ na ~gr~Maksymalne Zdrowie~/~, ~gr~Odnawianie Zdrowia~/~, ~gr~Maksymalną Energię~/~, ~gr~Odnawianie Energii~/~, ~gr~Skuteczność Leczenia~/~ oraz ~gr~Odporność~/~.
+WIL;Воля показывает магический потенциал и позволяет легче переносить тяготы и лишения.##От неё зависят ~gr~сила магии~/~, ~gr~сопротивляемость магии~/~, ~gr~сопротивляемость боли~/~, ~gr~стойкость~/~, ~gr~затраты на способности~/~ и ~gr~время восст. способностей~/~.;A força de vontade influencia as suas capacidades mágicas e torna as dificuldades e a miséria mais toleráveis.##Afeta ~gr~Poder Mágico~/~, ~gr~Resistência Mágica~/~, ~gr~Resistência à Dor~/~, ~gr~fortitude~/~, ~gr~Habilidades de Custos de Energia~/~ e ~gr~Durações de Recarga~/~.;意志影响你的魔法能力，而且能够增强你对逆境和苦痛的耐受能力。##这项属性影响~w~法力~/~、~w~魔法抗性~/~、~w~疼痛抗性~/~、~w~坚忍~/~、~w~能力精力消耗~/~和~w~冷却时长~/~。;Willenskraft wirkt sich auf deine magischen Fähigkeiten aus, und macht Notlagen und Miseren erträglicher.##Es beeinflusst ~gr~Magische Kraft~/~, ~gr~Magieresistenz~/~, ~gr~Schmerzresistenz~/~, ~gr~Robustheit~/~, ~gr~Energiekosten für Fertigkeiten~/~ und ~gr~Abklingzeiten~/~.;;;;Siła Woli gra istotną rolę w twoich zdolnościach magicznych oraz czyni trudy walki bardziej znośnymi.##Ma wpływ na ~gr~Siłę Magii~/~, ~gr~Odporność na Magię~/~, ~gr~Odporność na Ból~/~, ~gr~Protekcję~/~, ~gr~Koszt Energii dla Zdolności~/~ oraz ~gr~Czasy Odnowień~/~.
 ;;;;;;;;
-;// Второстепенные атрибуты;// Secondary attributes;// Secondary attributes;// Secondary attributes;;;;// Secondary attributes
+;// Второстепенные атрибуты;// Atributos Secundários;// Secondary attributes;// Secondary attributes;;;;// Secondary attributes
 ;;;;;;;;
-DMG;Урон, наносимый оружием в левой руке.;The Damage you deal with the weapon in your main hand.;你用主手武器可以造成这么多伤害。;Der verursachte Schaden mit der Waffe in deiner Haupthand.;;;;Obrażenia zadawane przez twoją broń główną.
-OFFDMG;Урон, наносимый оружием в правой руке.;The Damage you deal with the weapon in your off-hand.;你用副手武器可以造成这么多伤害。;Der verursachte Schaden mit der Waffe in der Nebenhand.;;;;Obrażenia zadawane przez twoją broń poboczną.
-Weapon_Damage;Изменяет урон, наносимый атаками.;Changes the Damage you deal with your attacks.;影响你通过攻击造成的伤害。;Ändert den Schaden den du mit deinen Angriffen verursachst.;;;;Wpływa na ilość obrażeń zadawanych przez twoje ataki.
-Magic_Power;Изменяет урон и эффективность большинства заклинаний.;Changes the Damage and the effectiveness of the majority of spells.;影响多数法术的伤害和效果。;Ändert den Schaden und die Effektivität der Mehrzahl deiner Zaubersprüche.;;;;Wpływa na ilość obrażeń zadawanych przez czary i część zdolności.
-Hit_Chance;Шанс попадания атак и некоторых заклинаний.#На точность также влияет шанс уклонения цели. ;The chance to hit your target with attacks and certain spells.#Accuracy is influenced by the target's Dodge Chance.;你的攻击和某些法术有这么大的几率击中目标。#你的准度还会受到目标躲闪几率影响。;Die Chance, dein Ziel mit Angriffen und bestimmten Zaubernsprüchen zu treffen.##Genaugkeit wird durch die Ausweichen-Chance des Ziels beeinflusst.;;;;Szansa na trafienie celu twoimi atakami i niektórymi czarami.#Celność przelicza się z Szansą na Unik, jaką posiada cel.
-CRT;Шанс произвести усиленную атаку или заклинание.;The chance to deliver an empowered attack or a spell.;你有这么大的几率发动强力攻击或强力法术。;Die Chance, einen aufgeladenen Angriff oder Zauberspruch auszuführen.;;;;Szansa na wykonanie dużo silniejszego ataku lub czaru.
-CRTD;Бонусный урон, наносимый критическими атаками, или бонусная эффективность критических заклинаний.;The bonus Damage you deal with your critical attacks.#Improves the effectiveness of your critical spells. ;暴击会额外造成这么多伤害。#可以加强你强力法术的效果。;Der Bonusschaden, den du mit krit. Treffern anrichtest.#Verbessert die Effektivität deiner kritischen Zaubersprüche.;;;;Bonusowe obrażenia jakie zadają twoje obrażenia krytyczne.#Wpływa na efekt krytyczny, jaki może wystapić używając czarów.
-PRR;Вероятность заблокировать атаку ближнего боя, поглотив некоторое количество урона.#Экипированный щит позволяет также блокировать атаки дальнего боя.;The chance to block a melee attack, absorbing some of the Damage in the process.#If you have an equipped shield, you can also block ranged attacks.;你有这么大的几率挡住近身攻击，吸收部分伤害。#你如果配有盾牌，还能格挡远程攻击。;Die Chance, einen Nahkampfangriff zu blocken, und dabei den Schaden etwas zu mindern.#Trägst du einen Schild, kannst du auch Fernkampfangriffe blocken.;;;;Szansa na zablokowanie ataków w walce wręcz, absorbując część Obrażeń.#Jeżeli masz założoną tarczę możesz również zablokować ataki dystansowe.
-Block_Power;Максимальное количество урона, поглощаемого блокированием.#Блокирование магического и природного урона на 50% менее эффективно.;The maximum Damage which you can absorb by blocking.#Blocking Magic and nature Damage is 50% less effective.;你的格挡最多可以吸收这么多伤害。#针对魔法伤害和自然伤害的格挡，效果减弱50%。;Der max. Schaden den du durch das Blocken absorbieren kannst.#Blocken von Magie und Naturschaden ist 50% weniger effektiv.;;;;Maksymalna ilość Obrażeń, jakie możesz zaabsorbować blokując.#Blokowanie Magii oraz obrażeń Natury jest o 50% mniej skuteczne.
-CTA;Шанс выполнить ответный удар после получения атаки ближнего боя.;The chance to perform a counter strike after being attacked in melee.;你受到近身攻击之后，有这么大的几率自动发起一次反击。;Die Chance, nach einem Nahkampfangriff auf dich, einen Gegenangriff auszuführen.;;;;Szansa na wykonanie Kontry w momencie otrzymania obrażeń w walce wręcz.
-EVS;Шанс увернуться от удара, выстрела или некоторых заклинаний, полностью избежав урона.;The chance to avoid a strike, a shot or certain spells, completely nullifying the Damage.;你有这么大的几率躲开一次攻击或某些法术，完全无视其造成的伤害。;Die Chance, einem Angriff, einem Schuss oder bestimmten Zaubersprüchen, zu entkommen, und dabei keinen Schaden zu erleiden.;;;;Szansa na uniknięcie zadanych obrażeń magicznych, z dystansu oraz wręcz całkowicie pomijając ilość.
-FMB;Вероятность нанести лишь половину урона при атаке.#Неудачные заклинания поглощают больше энергии и дольше восстанавливаются.;The chance to deliver only half a Damage when attacking.#Fumbled spells consume more Energy and have a longer Cooldown.;你在攻击时有这么大的几率只会造成50%的伤害。#法术失手会消耗更多精力，冷却时间也更长。;Die Chance, beim Angriff, nur die Hälfte des Schadens zu verursachen.#Misslungene Zaubersprüche kosten mehr Energie und haben eine längere Abklingzeit.;;;;Szansa na zadanie tylko połowy Obrażeń w trakcie ataku.#Spartaczone czary zabierają więcej Energii oraz mają dłuższy Czas Odnowienia.
-Savvy;Вероятность успешно обезвредить ловушку или вскрыть запертый замок.;The chance to successfully disarm a trap or to pick a lock.;你有这么大的几率拆除陷阱或打开锁具。;Die Chance, erfolgreich ein Schloss zu knacken, oder eine Falle zu entschärfen.;;;;Szansa na bezpieczne rozbrojenie pułapki lub otwarcie zamka wytrychem.
-STL;Эффективность режима скрытности.;The effectiveness of the Stealth mode.;潜行模式的效果。;Die Effektivität im Schleichmodus.;;;;Skuteczność działania Trybu Skradania.
-VSN;Максимальный радиус зоны видимости.;The maximum radius of your vision range.;你最多可以看到周围这么远的地方。;Der maximale Radius deiner Sichtweite.;;;;Maksymalny zasięg Widoku, z którego możesz zauważyć niebezpieczeństwo.
-Bonus_Range;Изменяет дальность атак дальнего боя и некоторых заклинаний.;Changes the distance of your ranged attacks and certain spells.;影响你远程攻击和某些法术的距离。;Ändert die Distanz deiner Fernkampfangriffe und bestimmter Zaubersprüche.;;;;Wpływa na zasięg, z którego możesz wykonać atak dystansowy lub rzucić czar.
-Mainhand_Efficiency;Эффективность рук влияет на атакующие параметры оружия, экипированного в соответствующую руку.#Штрафуется при использовании парного оружия.;Hand efficiency influences offensive parameters of weapons equipped in the respective hand.#The efficiency is reduced when dual-wielding.;手部效果影响相应手上武器的攻击数值。#如果装备双持武器，效果会相应减弱。;Hand-Effizienz beeinflusst die offensiven Eigenschaften einer Waffe in der jeweiligen Hand.#Die Effizienz ist reduziert, wenn zwei Waffen getragen werden.;;;;Wpływa na skuteczność ofensywną oraz statystyki założonych broni w wybranej ręce.#Skuteczność jest zmniejszona używając np. dwóch sztyletów na raz.
-Offhand_Efficiency;Эффективность рук влияет на атакующие параметры оружия, экипированного в соответствующую руку.#Штрафуется при использовании парного оружия.;Hand efficiency influences offensive parameters of weapons equipped in the respective hand.#The efficiency is reduced when dual-wielding.;手部效果影响相应手上武器的攻击数值。#如果装备双持武器，效果会相应减弱。;Hand-Effizienz beeinflusst die offensiven Eigenschaften einer Waffe in der jeweiligen Hand.#Die Effizienz ist reduziert, wenn zwei Waffen getragen werden.;;;;Wpływa na skuteczność ofensywną oraz statystyki założonych broni w wybranej ręce.#Skuteczność jest zmniejszona używając np. dwóch sztyletów na raz.
+DMG;Урон, наносимый оружием в левой руке.;O dano que você causa com a arma na sua mão principal.;你用主手武器可以造成这么多伤害。;Der verursachte Schaden mit der Waffe in deiner Haupthand.;;;;Obrażenia zadawane przez twoją broń główną.
+OFFDMG;Урон, наносимый оружием в правой руке.;O dano que você causa com a arma em sua mão secundária.;你用副手武器可以造成这么多伤害。;Der verursachte Schaden mit der Waffe in der Nebenhand.;;;;Obrażenia zadawane przez twoją broń poboczną.
+Weapon_Damage;Изменяет урон, наносимый атаками.;Altera o dano que você causa com seus ataques.;影响你通过攻击造成的伤害。;Ändert den Schaden den du mit deinen Angriffen verursachst.;;;;Wpływa na ilość obrażeń zadawanych przez twoje ataki.
+Magic_Power;Изменяет урон и эффективность большинства заклинаний.;Altera o dano e a eficácia da maioria dos feitiços.;影响多数法术的伤害和效果。;Ändert den Schaden und die Effektivität der Mehrzahl deiner Zaubersprüche.;;;;Wpływa na ilość obrażeń zadawanych przez czary i część zdolności.
+Hit_Chance;Шанс попадания атак и некоторых заклинаний.#На точность также влияет шанс уклонения цели. ;A chance de atingir seu alvo com ataques e certos feitiços.#A precisão é influenciada pela Chance de Esquiva do alvo.;你的攻击和某些法术有这么大的几率击中目标。#你的准度还会受到目标躲闪几率影响。;Die Chance, dein Ziel mit Angriffen und bestimmten Zaubernsprüchen zu treffen.##Genaugkeit wird durch die Ausweichen-Chance des Ziels beeinflusst.;;;;Szansa na trafienie celu twoimi atakami i niektórymi czarami.#Celność przelicza się z Szansą na Unik, jaką posiada cel.
+CRT;Шанс произвести усиленную атаку или заклинание.;A chance de realizar um ataque com poderes ou um feitiço.;你有这么大的几率发动强力攻击或强力法术。;Die Chance, einen aufgeladenen Angriff oder Zauberspruch auszuführen.;;;;Szansa na wykonanie dużo silniejszego ataku lub czaru.
+CRTD;Бонусный урон, наносимый критическими атаками, или бонусная эффективность критических заклинаний.;O dano adicional que você causa com seus ataques críticos.#Melhora a eficácia de seus feitiços críticos. ;暴击会额外造成这么多伤害。#可以加强你强力法术的效果。;Der Bonusschaden, den du mit krit. Treffern anrichtest.#Verbessert die Effektivität deiner kritischen Zaubersprüche.;;;;Bonusowe obrażenia jakie zadają twoje obrażenia krytyczne.#Wpływa na efekt krytyczny, jaki może wystapić używając czarów.
+PRR;Вероятность заблокировать атаку ближнего боя, поглотив некоторое количество урона.#Экипированный щит позволяет также блокировать атаки дальнего боя.;A chance de bloquear um ataque corpo a corpo, absorvendo parte do dano no processo.#Se você tiver um escudo equipado, também poderá bloquear ataques à distância.;你有这么大的几率挡住近身攻击，吸收部分伤害。#你如果配有盾牌，还能格挡远程攻击。;Die Chance, einen Nahkampfangriff zu blocken, und dabei den Schaden etwas zu mindern.#Trägst du einen Schild, kannst du auch Fernkampfangriffe blocken.;;;;Szansa na zablokowanie ataków w walce wręcz, absorbując część Obrażeń.#Jeżeli masz założoną tarczę możesz również zablokować ataki dystansowe.
+Block_Power;Максимальное количество урона, поглощаемого блокированием.#Блокирование магического и природного урона на 50% менее эффективно.;O dano máximo que você pode absorver ao bloquear.#Bloquear Magia e dano natural é 50% menos eficaz.;你的格挡最多可以吸收这么多伤害。#针对魔法伤害和自然伤害的格挡，效果减弱50%。;Der max. Schaden den du durch das Blocken absorbieren kannst.#Blocken von Magie und Naturschaden ist 50% weniger effektiv.;;;;Maksymalna ilość Obrażeń, jakie możesz zaabsorbować blokując.#Blokowanie Magii oraz obrażeń Natury jest o 50% mniej skuteczne.
+CTA;Шанс выполнить ответный удар после получения атаки ближнего боя.;A chance de realizar um contra-ataque após ser atacado em combate corpo a corpo.;你受到近身攻击之后，有这么大的几率自动发起一次反击。;Die Chance, nach einem Nahkampfangriff auf dich, einen Gegenangriff auszuführen.;;;;Szansa na wykonanie Kontry w momencie otrzymania obrażeń w walce wręcz.
+EVS;Шанс увернуться от удара, выстрела или некоторых заклинаний, полностью избежав урона.;A chance de evitar um ataque, um tiro ou certos feitiços, anulando completamente o dano.;你有这么大的几率躲开一次攻击或某些法术，完全无视其造成的伤害。;Die Chance, einem Angriff, einem Schuss oder bestimmten Zaubersprüchen, zu entkommen, und dabei keinen Schaden zu erleiden.;;;;Szansa na uniknięcie zadanych obrażeń magicznych, z dystansu oraz wręcz całkowicie pomijając ilość.
+FMB;Вероятность нанести лишь половину урона при атаке.#Неудачные заклинания поглощают больше энергии и дольше восстанавливаются.;A chance de causar apenas metade de um dano ao atacar.#Feitiços atrapalhados consomem mais Energia e têm uma Recarga mais longa.;你在攻击时有这么大的几率只会造成50%的伤害。#法术失手会消耗更多精力，冷却时间也更长。;Die Chance, beim Angriff, nur die Hälfte des Schadens zu verursachen.#Misslungene Zaubersprüche kosten mehr Energie und haben eine längere Abklingzeit.;;;;Szansa na zadanie tylko połowy Obrażeń w trakcie ataku.#Spartaczone czary zabierają więcej Energii oraz mają dłuższy Czas Odnowienia.
+Savvy;Вероятность успешно обезвредить ловушку или вскрыть запертый замок.;A chance de desarmar uma armadilha com sucesso ou destrancar uma fechadura.;你有这么大的几率拆除陷阱或打开锁具。;Die Chance, erfolgreich ein Schloss zu knacken, oder eine Falle zu entschärfen.;;;;Szansa na bezpieczne rozbrojenie pułapki lub otwarcie zamka wytrychem.
+STL;Эффективность режима скрытности.;A eficácia do modo Furtivo.;潜行模式的效果。;Die Effektivität im Schleichmodus.;;;;Skuteczność działania Trybu Skradania.
+VSN;Максимальный радиус зоны видимости.;O raio máximo do seu alcance de visão.;你最多可以看到周围这么远的地方。;Der maximale Radius deiner Sichtweite.;;;;Maksymalny zasięg Widoku, z którego możesz zauważyć niebezpieczeństwo.
+Bonus_Range;Изменяет дальность атак дальнего боя и некоторых заклинаний.;Muda a distância dos seus ataques à distância e certos feitiços.;影响你远程攻击和某些法术的距离。;Ändert die Distanz deiner Fernkampfangriffe und bestimmter Zaubersprüche.;;;;Wpływa na zasięg, z którego możesz wykonać atak dystansowy lub rzucić czar.
+Mainhand_Efficiency;Эффективность рук влияет на атакующие параметры оружия, экипированного в соответствующую руку.#Штрафуется при использовании парного оружия.;A eficiência das mãos influencia os parâmetros ofensivos das armas equipadas nas respectivas mãos. # A eficiência é reduzida quando se usa duas armas;手部效果影响相应手上武器的攻击数值。#如果装备双持武器，效果会相应减弱。;Hand-Effizienz beeinflusst die offensiven Eigenschaften einer Waffe in der jeweiligen Hand.#Die Effizienz ist reduziert, wenn zwei Waffen getragen werden.;;;;Wpływa na skuteczność ofensywną oraz statystyki założonych broni w wybranej ręce.#Skuteczność jest zmniejszona używając np. dwóch sztyletów na raz.
+Offhand_Efficiency;Эффективность рук влияет на атакующие параметры оружия, экипированного в соответствующую руку.#Штрафуется при использовании парного оружия.;A eficiência das mãos influencia os parâmetros ofensivos das armas equipadas nas respectivas mãos.#A eficiência é reduzida quando se usa duas armas.;手部效果影响相应手上武器的攻击数值。#如果装备双持武器，效果会相应减弱。;Hand-Effizienz beeinflusst die offensiven Eigenschaften einer Waffe in der jeweiligen Hand.#Die Effizienz ist reduziert, wenn zwei Waffen getragen werden.;;;;Wpływa na skuteczność ofensywną oraz statystyki założonych broni w wybranej ręce.#Skuteczność jest zmniejszona używając np. dwóch sztyletów na raz.
 ;;;;;;;;
 ;// Всё ещё второстепенные;// Even more secondary ones;// Even more secondary ones;// Even more secondary ones;;;;// Even more secondary ones
 ;;;;;;;;
 ;;;;;;;;
-Noise_Produced;Количество шума, издаваемого вашими действиями.;The amount of Noise Produced by your actions.;你的行动会造成这么大的声响。;Die Stärke des Lärms, den deine Aktionen verursachen.;;;;Ilość Hałasu, jaki generuje twoja postać.
-Bodypart_Damage;Бонусная травмоопасность ваших ударов.;The bonus damage you deal to your enemies' body parts.;你会对敌人的肢体额外造成这么多伤害。;Der Bonusschaden, den du an Körperteilen deiner Gegner verursachst.;;;;Bonusowe obrażenia zadawane w części ciała przeciwników.
+Noise_Produced;Количество шума, издаваемого вашими действиями.;A quantidade de ruído produzido por suas ações.;你的行动会造成这么大的声响。;Die Stärke des Lärms, den deine Aktionen verursachen.;;;;Ilość Hałasu, jaki generuje twoja postać.
+Bodypart_Damage;Бонусная травмоопасность ваших ударов.;O dano bônus que você causa nas partes do corpo de seus inimigos.;你会对敌人的肢体额外造成这么多伤害。;Der Bonusschaden, den du an Körperteilen deiner Gegner verursachst.;;;;Bonusowe obrażenia zadawane w części ciała przeciwników.
 Armor_Damage;Бонусный урон по броне врагов, наносимый вашими атаками.;The bonus damage you deal to your enemies' armor.;你会对敌人的防具额外造成这么多伤害。;Der Bonusschaden, den du der Rüstung deiner Gegner zufügst.;;;;Bonusowe obrażenia zadawane Pancerzowi przeciwników.
-Armor_Piercing;Процент брони, игнорируемый вашими атаками.;The percentage of armor ignored by your attacks.;你的攻击会无视防具这么多防御。;Der prozentuale Anteil der Rüstung, den deine Angriffe ignorieren.;;;;Procentowa ilość pancerza ignorowana przez twoje ataki.
+Armor_Piercing;Процент брони, игнорируемый вашими атаками.;A porcentagem de armadura ignorada pelos seus ataques.;你的攻击会无视防具这么多防御。;Der prozentuale Anteil der Rüstung, den deine Angriffe ignorieren.;;;;Procentowa ilość pancerza ignorowana przez twoje ataki.
 ;;;;;;;;
-Bleeding_Chance;Шанс вызвать у цели кровотечение атакой.;The chance to cause a Bleeding when attacking.;你的攻击有这么大的几率造成出血。;Die Chance, bei Angriffen, Blutungen zu verursachen.;;;;Szansa na wywołanie Krwiawienia atakami.
-Knockback_Chance;Шанс отбросить цель на одну клетку назад атакой.#Если цель отбрасывается на занятую клетку, она теряет здоровье и оглушается на 1 ход.;The chance to push a target one tile back when attacking.#If a target is knocked into an occupied tile, it loses Health and is Stunned for 1 turn.;你的攻击有这么大的几率令目标后退一个方格。#如果目标后退的方格站有其他生物，这个目标将失去一定生命，并且硬直一个回合。;Die Chance, ein Ziel ein Feld zurück zu stoßen.#Wird ein Ziel auf ein belegtes Feld gestoßen, erleidet es Schaden und ist für 1 Runde betäubt.;;;;Szansa na popchniecie przeciwnika jedno pole dalej za pomocą ataku.#Jeżeli cel jest popchnięty na zajęte pole, dodatkowo traci Zdrowie i jest Ogłuszony na 1 turę.
-Daze_Chance;Шанс ошеломить цель на несколько ходов атакой.#Ошеломление не даёт применять способности, а также уменьшает сопротивляемость отбрасыванию и оглушению.;The chance to Daze a target for a few turns when attacking.#Daze prevents targets from using Abilities and also reduces Resistances to Knockback and Stun.;你的攻击有这么大的几率令目标眩晕若干回合。#目标眩晕之后，无法运用能力，对击退和击晕的抗性也会相应减弱。;Die Chance, ein Ziel für einige Runden benommen zu machen.#Benommenheit hindert das Ziel am Benutzen von Fertigkeiten, und reduziert die Resistenzen gegen Zurückstoßen und Betäuben.;;;;Szansa na Oszołomienie celu na kilka tur atakując.#Oszołomienie uniemożliwia przeciwnikowi używanie Zdolności oraz obniża Odporności na Odrzucenie i Ogłuszenie.
-Stun_Chance;Шанс оглушить цель на один ход атакой.#Оглушённые цели всегда пропускают свой ход.;The chance to Stun a target for one turn.#Stunned targets always miss their turn.;你有这么大的几率令一个目标硬直一个回合。#硬直状态下，目标无法采取行动。;Die Chance, ein Ziel für 1 Runde zu betäuben.#Betäubte Ziele überspringen immer eine Runde.;;;;Szansa na Ogłuszenie celu na jedną turę.#Ogłuszeni przeciwnicy zawsze pomijają swoją turę.
+Bleeding_Chance;Шанс вызвать у цели кровотечение атакой.;A chance de causar um sangramento ao atacar.;你的攻击有这么大的几率造成出血。;Die Chance, bei Angriffen, Blutungen zu verursachen.;;;;Szansa na wywołanie Krwiawienia atakami.
+Knockback_Chance;Шанс отбросить цель на одну клетку назад атакой.#Если цель отбрасывается на занятую клетку, она теряет здоровье и оглушается на 1 ход.;A chance de empurrar um alvo um espaço para trás ao atacar.#Se um alvo for jogado em um espaço ocupado, ele perde Vida e fica Atordoado por 1 turno.;你的攻击有这么大的几率令目标后退一个方格。#如果目标后退的方格站有其他生物，这个目标将失去一定生命，并且硬直一个回合。;Die Chance, ein Ziel ein Feld zurück zu stoßen.#Wird ein Ziel auf ein belegtes Feld gestoßen, erleidet es Schaden und ist für 1 Runde betäubt.;;;;Szansa na popchniecie przeciwnika jedno pole dalej za pomocą ataku.#Jeżeli cel jest popchnięty na zajęte pole, dodatkowo traci Zdrowie i jest Ogłuszony na 1 turę.
+Daze_Chance;Шанс ошеломить цель на несколько ходов атакой.#Ошеломление не даёт применять способности, а также уменьшает сопротивляемость отбрасыванию и оглушению.;A chance de confundir um alvo por alguns turnos ao atacar.#Confundir impede que alvos usem Habilidades e também reduz Resistências a repulsão e Atordoamento.;你的攻击有这么大的几率令目标眩晕若干回合。#目标眩晕之后，无法运用能力，对击退和击晕的抗性也会相应减弱。;Die Chance, ein Ziel für einige Runden benommen zu machen.#Benommenheit hindert das Ziel am Benutzen von Fertigkeiten, und reduziert die Resistenzen gegen Zurückstoßen und Betäuben.;;;;Szansa na Oszołomienie celu na kilka tur atakując.#Oszołomienie uniemożliwia przeciwnikowi używanie Zdolności oraz obniża Odporności na Odrzucenie i Ogłuszenie.
+Stun_Chance;Шанс оглушить цель на один ход атакой.#Оглушённые цели всегда пропускают свой ход.;A chance de atordoar um alvo por um turno.#Alvos atordoados sempre perdem o turno.;你有这么大的几率令一个目标硬直一个回合。#硬直状态下，目标无法采取行动。;Die Chance, ein Ziel für 1 Runde zu betäuben.#Betäubte Ziele überspringen immer eine Runde.;;;;Szansa na Ogłuszenie celu na jedną turę.#Ogłuszeni przeciwnicy zawsze pomijają swoją turę.
 ;;;;;;;;
-Knockback_Resistance;Вероятность не быть отброшенным атакой или способностью врага.;The chance to avoid a Knockback from enemy attacks or Abilities.;你有这么大的几率不被敌人的攻击或能力击退。;Die Chance, einem Zurückstoßen durch einen feindlichen Angriff oder einer Fertigkeit, auszuweichen.;;;;Szansa na uniknięcie Odrzucenia przez ataki lub zdolności przeciwnika.
-Stun_Resistance;Вероятность не быть оглушённым атакой или способностью врага.;The chance to avoid a Stun from enemy attacks or Abilities.;你有这么大的几率不被敌人的攻击或能力硬直。;Die Chance, einem Betäuben durch einen feindlichen Angriff oder einer Fertigkeit, auszuweichen.;;;;Szansa na uniknięcie Ogłuszenia przez ataki lub zdolności przeciwnika.
-Bleeding_Resistance;Вероятность не получить кровотечение от атаки или способности врага.;The chance to avoid Bleeding from enemy attacks or Abilities.;你有这么大的几率不会因为敌人的攻击或能力而出血。;Die Chance, einer Blutung durch einen feindlichen Angriff oder einer Fertigkeit, auszuweichen;;;;Szansa na uniknięcie Krwawienia przez ataki lub zdolności przeciwnika.
+Knockback_Resistance;Вероятность не быть отброшенным атакой или способностью врага.;A chance de evitar um empurrão de ataques ou habilidades inimigas.;你有这么大的几率不被敌人的攻击或能力击退。;Die Chance, einem Zurückstoßen durch einen feindlichen Angriff oder einer Fertigkeit, auszuweichen.;;;;Szansa na uniknięcie Odrzucenia przez ataki lub zdolności przeciwnika.
+Stun_Resistance;Вероятность не быть оглушённым атакой или способностью врага.;A chance de evitar um atordoamento por ataques ou habilidades inimigas.;你有这么大的几率不被敌人的攻击或能力硬直。;Die Chance, einem Betäuben durch einen feindlichen Angriff oder einer Fertigkeit, auszuweichen.;;;;Szansa na uniknięcie Ogłuszenia przez ataki lub zdolności przeciwnika.
+Bleeding_Resistance;Вероятность не получить кровотечение от атаки или способности врага.;A chance de evitar sangramentos causados por ataques ou habilidades inimigas.;你有这么大的几率不会因为敌人的攻击或能力而出血。;Die Chance, einer Blutung durch einen feindlichen Angriff oder einer Fertigkeit, auszuweichen;;;;Szansa na uniknięcie Krwawienia przez ataki lub zdolności przeciwnika.
 ;;;;;;;;
-Spells_Energy_Cost;Коэффициент энергии, требуемой заклинаниями.;The coefficient of Energy required by spells.;法术实际所耗精力与其正常消耗精力的比值。;Der von Zaubersprüchen benötigte Energiekoeffizient.;;;;Współczynnik kosztu Energii wymagany na Czary.
-Skills_Energy_Cost;Коэффициент энергии, требуемой способностями.;The coefficient of Energy required by Abilities.;能力实际所耗精力与其正常消耗精力的比值。;Der von Fertigkeiten benötigte Energiekoeffizient.;;;;Współczynnik kosztu Energii wymagany na Zdolności.
-Cooldown_Reduction;Коэффициент времени восстановления всех способностей.;The coefficient of Cooldown Duration for all the Abilities.;所有能力实际冷却时长与其正常冷却时长的比值。;Der Koeffizient der Abklingzeit für alle Fertigkeiten.;;;;Współczynnik Czasu Odnawiania zdolności.
+Spells_Energy_Cost;Коэффициент энергии, требуемой заклинаниями.;A chance de evitar sangramentos causados por ataques ou habilidades inimigas.;法术实际所耗精力与其正常消耗精力的比值。;Der von Zaubersprüchen benötigte Energiekoeffizient.;;;;Współczynnik kosztu Energii wymagany na Czary.
+Skills_Energy_Cost;Коэффициент энергии, требуемой способностями.;O coeficiente de energia exigido pelas habilidades.;能力实际所耗精力与其正常消耗精力的比值。;Der von Fertigkeiten benötigte Energiekoeffizient.;;;;Współczynnik kosztu Energii wymagany na Zdolności.
+Cooldown_Reduction;Коэффициент времени восстановления всех способностей.;O coeficiente de Duração do Tempo de Recarga para todas as Habilidades.;所有能力实际冷却时长与其正常冷却时长的比值。;Der Koeffizient der Abklingzeit für alle Fertigkeiten.;;;;Współczynnik Czasu Odnawiania zdolności.
 ;;;;;;;;
-;// Резисты урону;// Damage Resistances;// Damage Resistances;// Damage Resistances;;;;// Damage Resistances
+;// Резисты урону;// Resistências a danos;// Damage Resistances;// Damage Resistances;;;;// Damage Resistances
 ;;;;;;;;
 Physical_Resistance;Процент уменьшения всего получаемого физического урона: рубящего, колющего, дробящего и разрывающего.;A porcentagem de redução para todos os danos físicos que você recebe: Cortar, Perfurar, Esmagar e Rasgar;你所受到的物理伤害（劈砍、穿刺、钝器和撕裂伤害）都会减少这么多百分比。;Prozentuale Verringerung aller phys. Schäden die du erleidest: Schneidend, Stechend, Schmetternd und Reißend.;;;;Procentowa redukcja dla wszystkich Obrażeń Fizycznych, które możesz otrzymać: Ciętych, Przebijających, Obalających i Rozdzierających.
 Nature_Resistance;Процент уменьшения всего получаемого природного урона: огненного, морозного, электрического, ядовитого и разъедающего.;A porcentagem de redução de todos os danos causados pela natureza que você recebe: Fogo, Gelo, Choque, Veneno e Cáustico.;你所受到的自然伤害（灼烧、霜冻、电击、中毒和腐蚀伤害）都会减少这么多百分比。;Prozentuale Verringerung aller Naturschäden die du erleidest: Feuer, Frost, Gift und Säure.;;;;Procentowa redukcja dla wszystkich Obrażeń Natury, które możesz otrzymać: Ognia, Zamrożenia, Porażenia, Trucizn i Kwasów.
@@ -268,16 +268,16 @@ Piercing_Resistance;Процент уменьшения всего получа�
 Rending_Resistance;Процент уменьшения всего получаемого разрывающего урона.;A percentagem de redução para todos os danos causados por laceração que você toma;你所受到的撕裂伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Reißschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń Rozrywających, które otrzymujesz.
 Blunt_Resistance;Процент уменьшения всего получаемого дробящего урона.;A percentagem de redução para todos os Danos de Esmagamento que você toma.;你所受到的钝器伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Schmetterschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń Obalających, które otrzymujesz.
 ;;N/A;N/A;N/A;;;;N/A
-Fire_Resistance;Процент уменьшения всего получаемого огненного урона.;The percentage of reduction for all the Fire Damage you take.;你所受到的灼烧伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Feuerschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Ognia, które otrzymujesz.
-Frost_Resistance;Процент уменьшения всего получаемого морозного урона.;The percentage of reduction for all the Frost Damage you take.;你所受到的霜冻伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Frostschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Zamrożenia, które otrzymujesz.
-Shock_Resistance;Процент уменьшения всего получаемого электрического урона.;The percentage of reduction for all the Shock Damage you take.;你所受到的电击伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Schockschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Porażeń, które otrzymujesz.
-Caustic_Resistance;Процент уменьшения всего получаемого разъедающего урона.;The percentage of reduction for all the Caustic Damage you take.;你所受到的腐蚀伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Säureschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Kwasów, które otrzymujesz.
-Poison_Resistance;Процент уменьшения всего получаемого ядовитого урона.;The percentage of reduction for all the Poison Damage you take.;你所受到的中毒伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Giftschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Trucizn, które otrzymujesz.
+Fire_Resistance;Процент уменьшения всего получаемого огненного урона.;A porcentagem de redução de todos os danos de Fogo que você recebe.;你所受到的灼烧伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Feuerschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Ognia, które otrzymujesz.
+Frost_Resistance;Процент уменьшения всего получаемого морозного урона.;A porcentagem de redução de todos os danos de Gelo que você recebe.;你所受到的霜冻伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Frostschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Zamrożenia, które otrzymujesz.
+Shock_Resistance;Процент уменьшения всего получаемого электрического урона.;A porcentagem de redução de todos os danos de Choque que você recebe.;你所受到的电击伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Schockschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Porażeń, które otrzymujesz.
+Caustic_Resistance;Процент уменьшения всего получаемого разъедающего урона.;A porcentagem de redução de todos os danos Cáusticos que você recebe.;你所受到的腐蚀伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Säureschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Kwasów, które otrzymujesz.
+Poison_Resistance;Процент уменьшения всего получаемого ядовитого урона.;A porcentagem de redução de todos os danos Venenosos que você recebe.;你所受到的中毒伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Giftschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Trucizn, które otrzymujesz.
 ;;N/A;N/A;N/A;;;;N/A
-Arcane_Resistance;Процент уменьшения всего получаемого арканического урона.;The percentage of reduction for all the Arcane Damage you take.;你所受到的秘术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten arkanen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Tajemnej, które otrzymujesz.
-Unholy_Resistance;Процент уменьшения всего получаемого нечестивого урона.;The percentage of reduction for all the Unholy Damage you take.;你所受到的邪术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten unheiligen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Przeklętej, które otrzymujesz.
-Sacred_Resistance;Процент уменьшения всего получаемого священного урона.;The percentage of reduction for all the Sacred Damage you take.;你所受到的神圣伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten heiligen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Świętej, które otrzymujesz.
-Psionic_Resistance;Процент уменьшения всего получаемого псионического урона.;The percentage of reduction for all the Psionic Damage you take.;你所受到的灵术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten psionischen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Psychicznej, które otrzymujesz.
+Arcane_Resistance;Процент уменьшения всего получаемого арканического урона.;A porcentagem de redução de todo os danos Arcanos que você recebe.;你所受到的秘术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten arkanen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Tajemnej, które otrzymujesz.
+Unholy_Resistance;Процент уменьшения всего получаемого нечестивого урона.;A porcentagem de redução de todos os dano Profanos que você recebe.;你所受到的邪术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten unheiligen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Przeklętej, które otrzymujesz.
+Sacred_Resistance;Процент уменьшения всего получаемого священного урона.;A porcentagem de redução de todos os danos Sagrados que você recebe.;你所受到的神圣伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten heiligen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Świętej, które otrzymujesz.
+Psionic_Resistance;Процент уменьшения всего получаемого псионического урона.;A porcentagem de redução de todos os danos Psiônicos que você recebe.;你所受到的灵术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten psionischen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Psychicznej, które otrzymujesz.
 ;;;;;;;;
 ;// Выживание;// Sobrevivência;// Survival;// Survival;;;;// Survival
 ;;;;;;;;
@@ -297,8 +297,8 @@ Thirsty;Уровень жажды персонажа.#Растёт со врем
 Intoxication;Уровень интоксикации персонажа.#Частый побочный эффект алкоголя, наркотиков, некоторых трав и медикаментов.##На рубежах в ~r~25%~/~, ~r~50%~/~ и ~r~75%~/~ возникает негативный эффект. ;O nível de intoxicação do seu personagem.#É um efeito colateral comum do álcool, drogas, certas ervas e medicamentos.##Ao atingir ~r~25%~/~, ~r~50%~/~ e ~r~75%~/~, produz um efeito negativo.;你的迷醉程度。#不断加剧，速度取决于你的活动和行为。##饥饿程度达到~r~25%~/~、~r~50%~/~和~r~75%~/~之后，将会产生负面影响。;Gibt an, wie vergiftet dein Charakter ist.#Dies ist ein häufiger Nebeneffekt von Alkohol, Drogen, diversen Kräutern und Medikamenten.##Wenn der Wert ~r~25%~/~, ~r~50%~/~ und ~r~75%~/~, erreicht, führt das zu negativen Effekten.;;;;Poziom Zatrucia twojej postaci.#To typowy efekt po zażyciu silnych leków, alkoholu, niektórych ziół oraz narkotyków.##Kiedy osiągnie ~r~25%~/~, ~r~50%~/~ oraz ~r~75%~/~ postać otrzymuje negatywny efekt.
 Pain;Уровень боли персонажа.#Растёт от получения урона и наличия травм.#Максимальный уровень боли зависит от общего состояния здоровья.##На рубежах в ~r~25%~/~, ~r~50%~/~ и ~r~75%~/~ возникает негативный эффект.;O nível de Dor do seu personagem. # Aumenta ao receber Dano e Lesões.#O nível máximo de Dor depende da Saúde do seu personagem.##Ao atingir ~r~25%~/~, ~r~50%~/~ e ~r~75%~/~, produz um efeito negativo..;你的疼痛程度。#不断加剧，速度取决于你的活动和行为。##饥饿程度达到~r~25%~/~、~r~50%~/~和~r~75%~/~之后，将会产生负面影响。;Gibt an, wie hoch der Schmerz deines Charakters ist.#Erhöht sich durch Schaden und Verletzungen.#Das Schmerzmaximum hängt von der Gesundheit deines Charakters ab.##Wenn der Schmerz ~r~25%~/~, ~r~50%~/~ und ~r~75%~/~, erreicht, führt das zu negativen Effekten.;;;;Poziom Bólu twojej postaci.#Rośnie wraz z otrzymywanymi Obrażeniami i Ranami.#Maksymalny poziom Bólu zależy od Zdrowia twojej postaci.##Kiedy osiągnie ~r~25%~/~, ~r~50%~/~ oraz ~r~75%~/~ postać otrzymuje negatywny efekt.
 Immunity;Сопротивляемость различным хворям.;A resistência a uma variedade de doenças.;对于不同负面状态的抗性。;Die Resistenz gegen diverse Übel.;;;;Odporność na różne Dolegliwości.
-Morale;Боевой дух персонажа.#Падает от низкого уровня здоровья, получения травм, высокого голода и жажды.##При морали ниже ~r~50%~/~ у персонажа начинают развиваться негативные психические состояния. ;Your character's fighting spirit.#It decreases with low Health, Injuries, high Hunger and Thirst.##If Morale drops below ~r~50%~/~ the character may begin to suffer from negative mental effects.;你战斗的意志。#生命减少、受伤、饥饿或口渴加剧，斗志便会降低。##如果斗志低于~r~50%~/~，你将出现负面的心智状态。;Der Kampfgeist deines Charakters.#Er sinkt bei wenig Gesundheit, Verletzungen, hohem Hunger und Durst.##Wenn die Moral unter ~r~50%~/~ sinkt, kann der Charakter anfangen unter negativen mentalen Effekten zu leiden.;;;;Duch waleczności twojej postaci.#Spada wraz z niskim Zdrowiem, Ranami, dużym Głodem lub Pragnieniem.##Jeżeli Morale spadnie poniżej ~r~50%~/~ postać może zacząć cierpieć na różne negatywne efekty psychiczne.
-Sanity;Показатель того, насколько адекватно персонаж воспринимает действительность.#Падает от пугающих врагов, нечестивого урона, травм головы, магических негативных эффектов, высокой боли и интоксикации.##При рассудке ниже ~r~50%~/~ у персонажа начинают развиваться негативные психические состояния.;The degree of clarity to which your character perceives the reality.#It's reduced by terrifying enemies, Unholy Damage, Head Injuries, negative Magic effects, high Pain level and intoxication.##If Sanity drops below ~r~50%~/~, the character may begin to suffer from negative mental effects.;你清醒认知现实的能力。#如果遇到令人胆寒的敌人，受到邪术伤害，头部受伤，受到负面魔法影响，或疼痛与迷醉的程度加深，神智便会降低。##如果神智低于~r~50%~/~，你将出现负面的心智状态。;Der Grad der Klarheit, mit der dein Charakter die Realität wahrnimmt.#Wird reduziert durch furchteinflößende Gegner, unheiligen Schaden, Kopfverletzungen, negative Magieeffekte, große Schmerze und Vergiftungen.##Sinkt der Zustand unter ~r~50%~/~, kann der Charakter anfangen, unter negativen mentalen Effekten zu leiden.;;;;Wskazuje to, jak trzeźwo twoja postać postrzega rzeczywistość.#Spada wraz z napotykaniem dużo silniejszych przeciwników, od obrażeń od Przeklętej Magii, Ran głowy, negatywnych efektów Magii, silnego Bólu oraz Zatrucia.##Jeżeli Zdrowie Psychiczne spadnie poniżej ~r~50%~/~, postać może zacząć cierpieć na różne negatywne efekty psychiczne.
+Morale;Боевой дух персонажа.#Падает от низкого уровня здоровья, получения травм, высокого голода и жажды.##При морали ниже ~r~50%~/~ у персонажа начинают развиваться негативные психические состояния. ;O espírito de luta do seu personagem.#Diminui com baixa Vida, Lesões, Fome e Sede.##Se o moral cai abaixo de ~r~50%~/~, o personagem pode começar a sofrer efeitos mentais negativos.;你战斗的意志。#生命减少、受伤、饥饿或口渴加剧，斗志便会降低。##如果斗志低于~r~50%~/~，你将出现负面的心智状态。;Der Kampfgeist deines Charakters.#Er sinkt bei wenig Gesundheit, Verletzungen, hohem Hunger und Durst.##Wenn die Moral unter ~r~50%~/~ sinkt, kann der Charakter anfangen unter negativen mentalen Effekten zu leiden.;;;;Duch waleczności twojej postaci.#Spada wraz z niskim Zdrowiem, Ranami, dużym Głodem lub Pragnieniem.##Jeżeli Morale spadnie poniżej ~r~50%~/~ postać może zacząć cierpieć na różne negatywne efekty psychiczne.
+Sanity;Показатель того, насколько адекватно персонаж воспринимает действительность.#Падает от пугающих врагов, нечестивого урона, травм головы, магических негативных эффектов, высокой боли и интоксикации.##При рассудке ниже ~r~50%~/~ у персонажа начинают развиваться негативные психические состояния.;O grau de clareza com que seu personagem percebe a realidade.#É reduzido por inimigos aterrorizantes, Dano Profano, Ferimentos na Cabeça, efeitos mágicos negativos, alto nível de Dor e intoxicação.##Se a Sanidade cai abaixo de ~r~50%~/~, o personagem pode começar a sofrer efeitos mentais negativos.;你清醒认知现实的能力。#如果遇到令人胆寒的敌人，受到邪术伤害，头部受伤，受到负面魔法影响，或疼痛与迷醉的程度加深，神智便会降低。##如果神智低于~r~50%~/~，你将出现负面的心智状态。;Der Grad der Klarheit, mit der dein Charakter die Realität wahrnimmt.#Wird reduziert durch furchteinflößende Gegner, unheiligen Schaden, Kopfverletzungen, negative Magieeffekte, große Schmerze und Vergiftungen.##Sinkt der Zustand unter ~r~50%~/~, kann der Charakter anfangen, unter negativen mentalen Effekten zu leiden.;;;;Wskazuje to, jak trzeźwo twoja postać postrzega rzeczywistość.#Spada wraz z napotykaniem dużo silniejszych przeciwników, od obrażeń od Przeklętej Magii, Ran głowy, negatywnych efektów Magii, silnego Bólu oraz Zatrucia.##Jeżeli Zdrowie Psychiczne spadnie poniżej ~r~50%~/~, postać może zacząć cierpieć na różne negatywne efekty psychiczne.
 ;;;;;;;;
 ;// Сила веток магии;// Poder das Escolas de Magia;// Magic Schools Power;// Magic Schools Power;;;;// Magic Schools Power
 ;;;;;;;;
