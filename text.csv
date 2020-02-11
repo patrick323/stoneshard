@@ -17,12 +17,12 @@
 15;Воля;Força de vontade;意志;Willenskraft;;;;Siła woli
 16;ОС;SP;技能点;FP;;;;SP
 17;ЗДОРОВЬЕ;VIDA;生命;GESUNDHEIT;;;;ZDROWIE
-18;ПСИХИКА;PSIQUE;精神;PSYCHE;;;;PSYCHIKA
+18;ПСИХИКА;PSÍQUICO;精神;PSYCHE;;;;PSYCHIKA
 19;БОЛЕЗНИ;DOENÇAS;负面状态;KRANKHEITEN;;;;DOLEGLIWOŚCI
 20;Голова;Cabeça;头部;Kopf;;;;Głowa
 21;Торс;Tronco;躯干;Rumpf;;;;Korpus
-22;Л. Рука;Mão E.;左手;L. Hand;;;;L. Ręka
-23;П. Рука;Mão D.;右手;R. Hand;;;;P. Ręka
+22;Л. Рука;Braço E.;左手;L. Hand;;;;L. Ręka
+23;П. Рука;Braço D.;右手;R. Hand;;;;P. Ręka
 24;Л. Нога;Perna E.;左腿;L. Bein;;;;L. Noga
 25;П. Нога;Perna D.;右腿;R. Bein;;;;P. Noga
 26;ЭНЕРГИЯ;ENERGIA;精力;ENERGIE;;;;ENERGIA
