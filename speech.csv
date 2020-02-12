@@ -2,29 +2,29 @@
 speech;speech;speech;;speech;;;;speech
 ;;;;;;;;
 kill;kill;kill;kill;kill;;;;kill
-;Ну, кто следующий?!;So, who's next?!;下一个是谁？！;Also, wer ist der Nächste?!;;;;No, kto następny?!
-;Доволен?!;Satisfied?!;满意了吗？！;Zufrieden?!;;;;Zadowolony?!
-;Победа!;Victory!;胜利！;Sieg!;;;;Zwycięstwo!
-;Умри!;Die!;去死吧！;Stirb!;;;;Giń!
-;Сгинь!;Get lost!;死吧!;Hau ab!;;;;Umrzyj!
-;Да!;Yes!!;好极了！！;Ja!!;;;;Tak!
-;Проси пощады!;Beg for mercy!;求饶吧！;Bettel um Gnade!;;;;Błagaj o litość!
-;Твоё время вышло!;Your time is up!;你的死期到了！;Deine Zeit ist abgelaufen!;;;;Twój czas nadszedł!
-;Сам напросился!;You deserve this!;死有余辜！;Das hast du verdient!;;;;Należy ci się!
-;И это всё?..;Is that all?..;就这么点本事？;Ist das alles?..;;;;Czy to wszystko?
-;Не ты первый, не ты последний;Not the first, not the last;多你一个不多，少你一个不少。;Nicht der erste, nicht der letzte;;;;Nie pierwszy, nie ostatni!
-;Получи по заслугам!;Serves you right!;罪有应得！;Geschieht dir recht!;;;;Dobrze ci służy!
-;Одним меньше!;One down!;干掉一个！;Einer erledigt!;;;;Jeden leży!
-;Ещё одна победа!;Another victory!;又干掉一个！;Noch ein Sieg!;;;;Kolejne zwycięstwo!
-;Предсказуемо.;Predictable.;意料之中。;Vorhersehbar.;;;;Przwidywalne...
-;Так будет с каждым!;Who's next?!;再来啊！;Wer ist der Nächste?!;;;;Kto następny?
+;Ну, кто следующий?!;Então, quem é o próximo?!;下一个是谁？！;Also, wer ist der Nächste?!;;;;No, kto następny?!
+;Доволен?!;Satisfeito?!;满意了吗？！;Zufrieden?!;;;;Zadowolony?!
+;Победа!;Vitória!;胜利！;Sieg!;;;;Zwycięstwo!
+;Умри!;Morra!;去死吧！;Stirb!;;;;Giń!
+;Сгинь!;Dá o fora!;死吧!;Hau ab!;;;;Umrzyj!
+;Да!;Sim!!;好极了！！;Ja!!;;;;Tak!
+;Проси пощады!;Implore por misericórdia!;求饶吧！;Bettel um Gnade!;;;;Błagaj o litość!
+;Твоё время вышло!;Seu tempo acabou!;你的死期到了！;Deine Zeit ist abgelaufen!;;;;Twój czas nadszedł!
+;Сам напросился!;Você merece isso!;死有余辜！;Das hast du verdient!;;;;Należy ci się!
+;И это всё?..;Isso é tudo?..;就这么点本事？;Ist das alles?..;;;;Czy to wszystko?
+;Не ты первый, не ты последний;Não é o primeiro,e nem o último;多你一个不多，少你一个不少。;Nicht der erste, nicht der letzte;;;;Nie pierwszy, nie ostatni!
+;Получи по заслугам!;Merecido!;罪有应得！;Geschieht dir recht!;;;;Dobrze ci służy!
+;Одним меньше!;Um a menos!;干掉一个！;Einer erledigt!;;;;Jeden leży!
+;Ещё одна победа!;Outra vitória!;又干掉一个！;Noch ein Sieg!;;;;Kolejne zwycięstwo!
+;Предсказуемо.;Previsível.;意料之中。;Vorhersehbar.;;;;Przwidywalne...
+;Так будет с каждым!;Quem é o próximo?!;再来啊！;Wer ist der Nächste?!;;;;Kto następny?
 ;Ха!;Ha!;哈！;Ha!;;;;Ha!
-;Будет что рассказать!;Something to tell!;开心了吧？！;Etwas zu erzählen!;;;;Powiedziałbym ci coś!
-;Будет что вспомнить!;Something to remember!;高兴了吧？！;Etwas zum Erinnern!;;;;Coś do zapamiętania!
-;Вот и всё!;It's over!;搞定！;Es ist vorbei!;;;;To koniec!
-;Славная победа!;Glorious victory!;大获全胜！;Glorreicher Sieg!;;;;Wspaniałe zwycięstwo!
-;Скоро собьюсь со счёту!;I'm losing count!;这是第几个了？！;Ich kann nicht mehr mitzählen!;;;;Przestałem liczyć!
-;Ничему вас жизнь не учит!;You just don't learn!;不长记性！;Du lernst einfach nicht, was?;;;;Nic się nie nauczyłeś!
+;Будет что рассказать!;Algo para contar!!;开心了吧？！;Etwas zu erzählen!;;;;Powiedziałbym ci coś!
+;Будет что вспомнить!;Algo para lembrar!;高兴了吧？！;Etwas zum Erinnern!;;;;Coś do zapamiętania!
+;Вот и всё!;Acabou!;搞定！;Es ist vorbei!;;;;To koniec!
+;Славная победа!;Vitória gloriosa!;大获全胜！;Glorreicher Sieg!;;;;Wspaniałe zwycięstwo!
+;Скоро собьюсь со счёту!;Estou perdendo a conta!;这是第几个了？！;Ich kann nicht mehr mitzählen!;;;;Przestałem liczyć!
+;Ничему вас жизнь не учит!;Você simplesmente não aprende!;不长记性！;Du lernst einfach nicht, was?;;;;Nic się nie nauczyłeś!
 kill_end;kill_end;kill_end;kill_end;kill_end;;;;kill_end
 ;;;;;;;;
 silence_kill;silence_kill;silence_kill;silence_kill;silence_kill;;;;silence_kill
@@ -661,33 +661,33 @@ npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herb
 ;;;;;;;;
 npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;;;;npc_drunkard
 ;И-ик!;H-hic!;嗝！;H-hicks!;;;;H-hic!
-;Е-е-есть что п-покрепче?;G-g-got a d-drink on you?;你……有，有酒吗？;H-h-hast d-du einen D-drink dabei?;;;;T t tt to jaaak, pieweczko?
-;Э-эй... п-постой...;H-hey... d-don't go...;诶~诶……别~别走啊……;H-hey... g-geh nicht...;;;;E ee eee... nie odchodź...
-;Д-давай-ка лучше выпьем...;L-let's drink...;喝……！;L-lass u-uns trinken...;;;;Nn na naaapijmy siem...
+;Е-е-есть что п-покрепче?;T-t-tem alguma bebida com você?;你……有，有酒吗？;H-h-hast d-du einen D-drink dabei?;;;;T t tt to jaaak, pieweczko?
+;Э-эй... п-постой...;E-ei ... n-não vá...;诶~诶……别~别走啊……;H-hey... g-geh nicht...;;;;E ee eee... nie odchodź...
+;Д-давай-ка лучше выпьем...; V-vamos beber...;喝……！;L-lass u-uns trinken...;;;;Nn na naaapijmy siem...
 npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;;;;npc_drunkard_end
 ;;;;;;;;
 prologue_door;prologue_door;prologue_door;prologue_door;prologue_door;;;;prologue_door
-;Не поддаётся. Заперто с другой стороны.;It won't budge. It's locked from the other side.;门一动不动，从后面锁上了。;Bewegt sich nicht. Sie ist von der anderen Seite verschlossen.;;;;Nie ruszy. Zamknięte od drugiej strony.
+;Не поддаётся. Заперто с другой стороны.;Não vai ceder. Está trancado do outro lado.;门一动不动，从后面锁上了。;Bewegt sich nicht. Sie ist von der anderen Seite verschlossen.;;;;Nie ruszy. Zamknięte od drugiej strony.
 prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;;;;prologue_door_end
 ;;;;;;;;
 hat_line;hat_line;hat_line;hat_line;hat_line;;;;hat_line
 ;Хм... Хм, хм, хм...;Hmm... Hmm, hmm, hmm...;唔……唔，唔，唔……;Hmm... Hmm, hmm, hmm...;;;;Hmm... Hmm, hmm, hmm...
-;Лунный Ковен или Тернистый Ковен? Хм...;The Moon Coven or the Thorn Coven? Hmm...;月亮女院还是荆棘女院？唔……;Der Mond-Hexenzirkel oder der Dornen-Hexenzirkel? Hmmm....;;;;Księżycowy Sabat czy Cierniowy Sabat...
-;Хм... Прошлая хозяйка была умнее...;Hmm... My previous mistress was smarter...;唔……前面那个聪明一点……;Hmm... Meine frühere Herrin war schlauer...;;;;Hmm... Mój poprzedni kochanek był mądrzejszy...
-;Какое тяжёлое решение...;A difficult choice...;真难选……;Eine schwierige Wahl...;;;;Trudny wybór...
-;Хм... Может быть Змеиный Ковен?..;Hmm... Maybe the Coven of the Snake?..;唔……要不就毒蛇女院吧？;Hmm... Vielleicht der Hexenzirkel der Schlange?...;;;;Hmm... A może Sabat Węża?
+;Лунный Ковен или Тернистый Ковен? Хм...;A convenção da Lua ou a convenção de Espinhos? Hmm...;月亮女院还是荆棘女院？唔……;Der Mond-Hexenzirkel oder der Dornen-Hexenzirkel? Hmmm....;;;;Księżycowy Sabat czy Cierniowy Sabat...
+;Хм... Прошлая хозяйка была умнее...;Hmm ... Minha amante anterior era mais inteligente...;唔……前面那个聪明一点……;Hmm... Meine frühere Herrin war schlauer...;;;;Hmm... Mój poprzedni kochanek był mądrzejszy...
+;Какое тяжёлое решение...;Uma escolha difícil...;真难选……;Eine schwierige Wahl...;;;;Trudny wybór...
+;Хм... Может быть Змеиный Ковен?..;Hmm... Talvez a convenção da Serpente?..;唔……要不就毒蛇女院吧？;Hmm... Vielleicht der Hexenzirkel der Schlange?...;;;;Hmm... A może Sabat Węża?
 hat_line_end;hat_line_end;hat_line_end;hat_line_end;hat_line_end;;;;hat_line_end
 ;;;;;;;;
 abbey_door;abbey_door;abbey_door;abbey_door;abbey_door;;;;abbey_door
-;Заперто. Без ключа не открыть.;It's locked. I need a key to open it.;门锁上了，有钥匙才打得开。;Abgeschlossen. Ich benötige den Schlüssel;;;;Zamknięte. Potrzebny mi klucz.
+;Заперто. Без ключа не открыть.;Está trancado. Eu preciso de uma chave para abri-lo.;门锁上了，有钥匙才打得开。;Abgeschlossen. Ich benötige den Schlüssel;;;;Zamknięte. Potrzebny mi klucz.
 abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;;;;abbey_door_end
 ;;;;;;;;
 npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;;;;npc_guard_sergeant
-;Зачем пожаловал?;Need anything?;干什么？;Brauchst du etwas?;;;;Jakaś sprawa?
+;Зачем пожаловал?;Precisa de alguma coisa?;干什么？;Brauchst du etwas?;;;;Jakaś sprawa?
 npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;;;;npc_guard_sergeant_end
 ;;;;;;;;
 player_bed;player_bed;player_bed;player_bed;player_bed;;;;player_bed
-;Сначала мне нужно расплатиться с трактирщиком.;I need to pay the innkeeper first.;房钱还没给旅店老板。;Ich muss erst den Gastwirt bezahlen.;;;;Najpierw muszę zapłacić karczmarzowi.
+;Сначала мне нужно расплатиться с трактирщиком.;Eu preciso pagar o estalajadeiro primeiro.;房钱还没给旅店老板。;Ich muss erst den Gastwirt bezahlen.;;;;Najpierw muszę zapłacić karczmarzowi.
 player_bed_end;player_bed_end;player_bed_end;player_bed_end;player_bed_end;;;;player_bed_end
 ;;;;;;;;
 player_shout;player_shout;player_shout;player_shout;player_shout;;;;player_shout
