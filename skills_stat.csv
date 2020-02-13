@@ -36,42 +36,42 @@ Hunters_Mark;o_hunters_mark;Target Object;range;8;15;0;10;0;0;0;normal;skill;0;s
 Cleave;o_cut_wave_birth;Target Area;1;10;15;0;0;1;3;0;normal;skill;0;s_cleavecast_;//
 Keeping_Distance;o_keeping_distance;Target Point;1;8;15;0;0;0;0;1;normal;skill;0;s_keepdistance_;//
 Advance;o_advance;Target Object;3;8;20;0;0;0;0;1;normal;skill;0;s_advancecast_;//
-Fencer_Stance;o_b_fencer_stance;No Target;0;12;10;0;5;0;0;0;normal;skill;0;;//
+Fencer_Stance;o_b_fencer_stance;No Target;0;16;25;0;5;0;0;0;normal;skill;0;;//
 ;;;;;;;;;;;;;;;//
 //2hSwords;;;;;;;;;;;;;;;//
 ;;;;;;;;;;;;;;;//
-Heroic_Charge;o_heroic_leap;Target Object;5;10;20;0;0;0;0;1;normal;skill;1;s_heroicchargecast_;//
-Feint_Swing;o_feint_swing;Target Object;1;5;12;0;0;0;0;0;normal;skill;0;s_feintstrikecast_;//
-Steel_Feast;o_b_steel_feast;No Target;0;12;10;0;5;0;0;0;normal;skill;0;;//
-Riposte;o_b_riposte;No Target;0;12;10;0;5;0;0;0;normal;skill;0;;//
-Arc_Cleave;o_arc_cleave_birth;Target Area;1;10;25;0;0;1;1;0;five;skill;0;s_arccleavecast_;//
+Heroic_Charge;o_heroic_leap;Target Object;5;8;30;0;0;0;0;1;normal;skill;1;s_heroicchargecast_;//
+Feint_Swing;o_feint_swing;Target Object;1;5;15;0;0;0;0;0;normal;skill;0;s_feintstrikecast_;//
+Steel_Feast;o_b_steel_feast;No Target;0;20;40;0;5;0;0;0;normal;skill;0;;//
+Riposte;o_b_riposte;No Target;0;20;40;0;8;0;0;0;normal;skill;0;;//
+Arc_Cleave;o_arc_cleave_birth;Target Area;1;10;30;0;0;1;1;0;five;skill;0;s_arccleavecast_;//
 ;;;;;;;;;;;;;;;//
 //Axe;;;;;;;;;;;;;;;//
 ;;;;;;;;;;;;;;;//
 Cut_Through;o_cut_through;Target Object;1;10;10;0;0;0;0;0;normal;skill;0;s_mutilationcast_;//
 Crippling_Lunge;o_crippling_lunge;Target Object;2;8;15;0;0;0;0;0;normal;skill;0;s_choppinglungecast_;//
-Massacre;o_b_massacre;No Target;0;12;10;0;5;0;0;0;normal;skill;0;;//
+Massacre;o_b_massacre;No Target;0;16;25;0;5;0;0;0;normal;skill;0;;//
 Execution;o_execution;Target Object;1;16;20;0;0;0;0;0;normal;skill;0;s_executioncast_;//
 ;;;;;;;;;;;;;;;//
 //Mace;;;;;;;;;;;;;;;//
 ;;;;;;;;;;;;;;;//
 Onslaught;o_onslaught;Target Object;1;10;15;0;0;0;0;0;normal;skill;0;s_onslaughtcast_;//
 Armor_Break;o_armor_break;Target Object;1;8;10;0;0;0;0;0;normal;skill;0;s_armorbreakcast_;//
-Hammer_and_Anvil;o_b_hammer_and_anvil;No Target;0;12;10;0;5;0;0;0;normal;skill;0;;//
+Hammer_and_Anvil;o_b_hammer_and_anvil;No Target;0;16;25;0;5;0;0;0;normal;skill;0;;//
 Knockout;o_knockout;Target Object;1;16;20;0;0;0;0;0;normal;skill;0;s_knockoutcast_;//
 ;;;;;;;;;;;;;;;//
 //Staves;;;;;;;;;;;;;;;//
 ;;;;;;;;;;;;;;;//
 Hail_of_Blows;o_hail_of_blows;Target Object;1;10;20;0;0;0;0;0;normal;skill;0;s_hailofblowscast_;//
 Step_Aside;o_step_aside;Target Object;3;12;25;0;0;0;0;0;normal;skill;0;s_stepasidecast_;//
-Unwavering_Stance;o_b_unwavering_stance;No Target;0;15;10;0;5;0;0;0;normal;skill;0;;//
+Unwavering_Stance;o_b_unwavering_stance;No Target;0;16;25;0;5;0;0;0;normal;skill;0;;//
 Peacemaker;o_peacemaker;Target Point;1;12;25;0;0;0;0;0;normal;skill;0;s_peacemakercast_;//
 ;;;;;;;;;;;;;;;//
 //shields;;;;;;;;;;;;;;;//
 ;;;;;;;;;;;;;;;//
 Raise_Shield;o_b_shield_raised;No Target;1;8;10;0;2;0;0;0;normal;skill;0;;//
 Ram;o_ram;Target Object;1;10;20;0;0;0;0;0;normal;skill;0;s_ramcast_;//
-Defensive_Stance;o_b_defence_stance;No Target;1;12;10;0;4;0;0;0;normal;skill;0;;//
+Defensive_Stance;o_b_defence_stance;No Target;1;16;25;0;4;0;0;0;normal;skill;0;;//
 Breakthrough;o_breakthrough_birth;Target Area;1;12;25;0;0;1;3;0;normal;skill;0;s_breakthroughcast_;//
 ;;;;;;;;;;;;;;;//
 //Daggers;;;;;;;;;;;;;;;//
@@ -79,18 +79,18 @@ Breakthrough;o_breakthrough_birth;Target Area;1;12;25;0;0;1;3;0;normal;skill;0;s
 Deadly_Trick;o_deadly_trick;Target Object;1;10;15;0;0;0;0;0;normal;skill;0;s_deadlytrickcast_;//
 Double_Jab;o_double_jab;Target Object;1;8;10;0;0;0;0;0;normal;skill;0;s_doublejabcast_;//
 Gaping_Wound;o_gaping_wound;Target Object;1;8;10;0;0;0;0;0;normal;skill;0;s_gappingwoundcast_;//
-Painful_Stabs;o_b_painful_stabs;No Target;0;12;10;0;5;0;0;0;normal;skill;0;;//
+Painful_Stabs;o_b_painful_stabs;No Target;0;16;25;0;5;0;0;0;normal;skill;0;;//
 Coup_de_Grace;o_coup_de_grace;Target Object;1;16;20;0;0;0;0;0;normal;skill;0;s_coupdegracecast_;//
 ;;;;;;;;;;;;;;;//
 //pyromancy;;;;;;;;;;;;;;;//
 ;;;;;;;;;;;;;;;//
-Magma_Rain;o_magma_rain_birth;Target Area;5;16;30;8;0;3;3;0;normal;spell;1;s_meteorraincast_;//
+Magma_Rain;o_magma_rain_birth;Target Area;5;16;25;8;0;3;3;0;normal;spell;1;s_meteorraincast_;//
 Inferno;o_inferno_birth;Target Area;5;30;50;20;0;5;5;0;normal;spell;0;s_infernocast_;//
-Flame_Ring;o_flame_ring_birth;Target Area;1;15;30;10;0;11;11;0;circle;spell;0;;//
-Incineration;o_incineration_birth;Target Object;5;12;30;15;0;0;0;0;normal;spell;1;s_incenerationcast_;//
-Melting_Ray;o_melting_ray_birth;Target Point;5;12;25;14;0;0;0;0;normal;spell;1;s_meltingraycast_;//
-Flame_Wave;o_flame_wave_birth;Target Area;3;8;20;18;0;3;3;0;pyramid;spell;0;s_hellbreathcast_;//
-Fire_Barrage;o_fire_barrage_birth;Target Point;5;4;15;12;0;0;0;0;normal;spell;1;s_barragecast_;//
+Flame_Ring;o_flame_ring_birth;Target Area;1;15;25;10;0;11;11;0;circle;spell;0;;//
+Incineration;o_incineration_birth;Target Object;5;12;35;15;0;0;0;0;normal;spell;1;s_incenerationcast_;//
+Melting_Ray;o_melting_ray_birth;Target Point;5;12;30;14;0;0;0;0;normal;spell;1;s_meltingraycast_;//
+Flame_Wave;o_flame_wave_birth;Target Area;3;8;25;18;0;3;3;0;pyramid;spell;0;s_hellbreathcast_;//
+Fire_Barrage;o_fire_barrage_birth;Target Point;5;4;16;12;0;0;0;0;normal;spell;1;s_barragecast_;//
 ;;;;;;;;;;;;;;;//
 //geomancy;;;;;;;;;;;;;;;//
 ;;;;;;;;;;;;;;;//

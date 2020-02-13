@@ -3,7 +3,7 @@ backpack;bag;;150;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 moneybag;bag;;5;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 bandage;medicine;;5;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 leech;medicine;;15;organic;Light;;;;;;;;;;;;;;;;;-5;;;;;;;;;;;;;;;;;;;;;;;;;;common
-essence;medicine;;250;glass;Medium;;;;;;;;;;;;;;;-5;;-5;;;;35;;;;;;;;;;;;;;;;;;;;;;uncommmon
+essence;medicine;;250;glass;Medium;;;;;;;;;;;;;;;-5;;;;-35;;35;;;;;;;;;;;;;;;;;;;;;;uncommmon
 aqua_vitae;medicine;;1500;glass;Medium;;;-100;;;-100;;-100;;;-100;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;rare
 splint;medicine;;10;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;35;;;;;;;;;;;;;;;;;;;common
 salve;medicine;;35;metal;Light;;20;;;;;;;;;;;;;;;;;;;;2;;15;;;;;;;;;;;;;;;;;;;common
@@ -172,7 +172,7 @@ pot;junk;;20;metal;Medium;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 hide_boar;valuable;;50;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 hide_bear;valuable;;350;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;rare
 hide_fox;valuable;;80;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
-hide_wolf;valuable;;65;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
+hide_wolf;valuable;;70;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 hide_deer;valuable;;50;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 hide_moose;valuable;;150;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;uncommon
 hide_rabbit01;valuable;;25;cloth;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
@@ -182,7 +182,7 @@ horns_moose;valuable;;150;organic;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 mapscroll;scroll;;10;paper;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;rare
 scroll_identification;scroll;;25;paper;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 scroll_enchant;scroll;;150;paper;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
-scroll_disenchant;scroll;;60;paper;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
+scroll_disenchant;scroll;;50;paper;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;common
 note;book;quest;1;paper;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 book;book;quest;1;paper;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stoneshard;valuable;quest;;gem;Light;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

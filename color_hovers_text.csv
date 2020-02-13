@@ -1,24 +1,24 @@
-ховер;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
-;text;text;text;text;;;;text
-healthHover;Небольшое количество ~w~здоровья~/~ восстанавливается раз в ~w~$~/~ ходов.##Получение урона приостанавливает регенерацию.;A small portion of ~w~Health~/~ is restored every ~w~$~/~ turns.##Taking damage temporaly disrupts regeneration.;每过~w~$~/~个回合，~w~生命~/~就会恢复一小部分。##遭受伤害会短时打断生命恢复。;Ein kleiner Teil der ~w~Gesundheit~/~ wird alle ~w~$~/~ Runden wieder regeneriert.##Wird Schaden erlitten, unterbricht das die Regeneration zeitweise.;;;;Mała ilość ~w~Zdrowia~/~ jest odnowiona, co ~w~$~/~ tur.##Otrzymanie obrażeń tymczasowo zakłóca odnawianie.
-healthThresholdHover;##Ваш ~w~порог здоровья~/~ понижен на ~r~$%~/~. Подлечите части тела, чтобы восстановить его.;##Your ~w~Max Health Threshold~/~ is reduced by ~r~$%~/~. Treat damaged body parts to restore it.;##你的~w~生命恢复上限~/~减少了~r~$%~/~。受伤的身体部位得到治疗之后，界值便会恢复。;##Deine ~w~max. Gesundheitsschwelle~/~ ist um ~r~$%~/~ reduziert. Behandle verletzte Körperteile, um sie wiederherzustellen.;;;;##Część ~w~Maksymalnego Zdrowia~/~ jest zmniejszona o ~r~$%~/~. Wylecz zranione lub uszkodzone części ciała, by zwiększyć Maksymalne Zdrowie.
-energyHover;Небольшое количество ~w~энергии~/~ восстанавливается раз в ~w~$~/~ ходов.##~w~Энергия~/~ необходима для использования умений и заклинаний.;A small portion of ~w~Energy~/~ is restored every ~w~$~/~ turns.##~w~Energy~/~ is required to use skills and cast spells.;每过~w~$~/~个回合，~w~精力~/~就会恢复一小部分。##运用技能和施放法术都需要~w~精力~/~。;Ein kleiner Teil der ~w~Energie~/~ wird alle ~w~$~/~ Runden wieder regeneriert.##~w~Energie~/~ wird für den Einsatz von Fertigkeiten und für das Sprechen von Zaubersprüchen benötigt.;;;;Mała część ~w~Energii~/~ jest odnowiona, co ~w~$~/~ tur.##~w~Energia~/~ jest wymagana do używania Zdolności i Czarów.
-bodyPartNormalHover;Эта часть тела функционирует нормально.;This body part is functioning normally.;身体的这个部位目前机能正常。;Dieser Körperteil funktioniert normal.;;;;Ta część wygląda na zdrową.
-bodyPartWoundedHover;Эта часть тела;This body part is;身体的这个部位目前;Dieser Körperteil ist;;;;Ta część ciała
-bodyPartThresholdHover;Её текущее состояние уменьшает ваш ~w~порог здоровья~/~ на ~r~$%~/~.;Its current condition reduces your ~w~Max Health Threshold~/~ by ~r~$%~/~.;这里现在的状态导致你的~w~生命恢复上限~/~降低~r~$%~/~。;Sein aktueller Zustand reduziert deine ~w~max. Gesundheitsschwelle~/~ um ~r~$%~/~.;;;;Aktualny stan części ciała wpływa na ~w~Maksymalne Zdrowie~/~ o ~r~$%~/~.
-;;;;;;;;
-healthHeader;Здоровье;Health;生命;Gesundheit;;;;Zdrowie
-energyHeader;Энергия;Energy;精力;Energie;;;;Energia
-conditionHeader;Состояние;Condition;状态;Zustand;;;;Kondycja
-;;;;;;;;
-andWord;и;and;，且;und;;;;I
-orWord;или;or;，或;oder;;;;lub
-stabilizedWord;~w~стабилизирована~/~;~w~stabilized~/~;~w~得到稳定~/~;~w~stabilisiert~/~;;;;~w~jest ustabilizowana~/~
-woundedWord;~r~ранена~/~;~r~wounded~/~;~r~受伤了~/~;~r~verwundet~/~;;;;~r~jest uszkodzona~/~
-injuredWord;~r~травмирована~/~;~r~injured~/~;~r~受得不轻~/~;~r~verletzt~/~;;;;~r~jest zraniona~/~
-maimedWord;~r~изувечена~/~;~r~maimed~/~;~r~废了~/~;~r~verstümmelt~/~;;;;~r~jest rozszarpana~/~
-;;;;;;;;
-bleedingAction;~r~кровоточит~/~;~r~bleeding~/~;~r~正在出血~/~;~r~blutend~/~;;;;~r~krwawi~/~
-hirudoterapiaAction;лечится ~lg~гирудотерапией~/~;being treated with ~lg~hirudoterapia~/~;正在接受~lg~水蛭疗法~/~;wird behandelt mit ~lg~Hirudotherapie~/~;;;;regeneruje się ~lg~hydroterapią~/~
-;;;;;;;;
-;text_end;text_end;text_end;text_end;;;;text_end
+ховер;Русский;English;中文;Deutsch;Español;Français;Italiano;Português;Polski;Türkçe
+;text;text;text;text;text;text;text;text;text;text
+healthHover;Небольшое количество ~w~здоровья~/~ восстанавливается раз в ~w~$~/~ ходов.##Получение урона приостанавливает регенерацию.;A small portion of ~w~Health~/~ is restored every ~w~$~/~ turns.##Taking damage temporaly disrupts regeneration.;每过~w~$~/~个回合，~w~生命~/~就会恢复一小部分。##遭受伤害会短时打断生命恢复。;Ein kleiner Teil der ~w~Gesundheit~/~ wird alle ~w~$~/~ Runden wieder regeneriert.##Wird Schaden erlitten, unterbricht das die Regeneration zeitweise.;;;;;Mała ilość ~w~Zdrowia~/~ jest odnowiona, co ~w~$~/~ tur.##Otrzymanie obrażeń tymczasowo zakłóca odnawianie.;~w~Sağlığın~/~ küçük bir kısmı her ~w~$~/~ turda bir geri kazanılır.##Hasar almak iyileşmeyi geçici olarak bozar.
+healthThresholdHover;##Ваш ~w~порог здоровья~/~ понижен на ~r~$%~/~. Подлечите части тела, чтобы восстановить его.;##Your ~w~Max Health Threshold~/~ is reduced by ~r~$%~/~. Treat damaged body parts to restore it.;##你的~w~生命恢复上限~/~减少了~r~$%~/~。受伤的身体部位得到治疗之后，界值便会恢复。;##Deine ~w~max. Gesundheitsschwelle~/~ ist um ~r~$%~/~ reduziert. Behandle verletzte Körperteile, um sie wiederherzustellen.;;;;;##Część ~w~Maksymalnego Zdrowia~/~ jest zmniejszona o ~r~$%~/~. Wylecz zranione lub uszkodzone części ciała, by zwiększyć Maksymalne Zdrowie.;##~r~$%~/~ tarafından ~w~Maks. Sağlık Eşiğiniz~/~ azaldı. Geri kazanmak için hasarlı vücut parçasını tedavi edin.
+energyHover;Небольшое количество ~w~энергии~/~ восстанавливается раз в ~w~$~/~ ходов.##~w~Энергия~/~ необходима для использования умений и заклинаний.;A small portion of ~w~Energy~/~ is restored every ~w~$~/~ turns.##~w~Energy~/~ is required to use skills and cast spells.;每过~w~$~/~个回合，~w~精力~/~就会恢复一小部分。##运用技能和施放法术都需要~w~精力~/~。;Ein kleiner Teil der ~w~Energie~/~ wird alle ~w~$~/~ Runden wieder regeneriert.##~w~Energie~/~ wird für den Einsatz von Fertigkeiten und für das Wirken von Zaubersprüchen benötigt.;;;;;Mała część ~w~Energii~/~ jest odnowiona, co ~w~$~/~ tur.##~w~Energia~/~ jest wymagana do używania Zdolności i Czarów.;~w~Enerjinin~/~ küçük bir kısmı her ~w~$~/~ turda bir geri kazanılır.##Yetenkleri ve efsunları kullanmak için ~w~Enerji~/~ gerekir.
+bodyPartNormalHover;Эта часть тела функционирует нормально.;This body part is functioning normally.;身体的这个部位目前机能正常。;Dieser Körperteil funktioniert normal.;;;;;Ta część wygląda na zdrową.;Bu vücut parçası normal çalışıyor.
+bodyPartWoundedHover;Эта часть тела;This body part is;身体的这个部位目前;Dieser Körperteil ist;;;;;Ta część ciała;Bu vücut parçası
+bodyPartThresholdHover;Её текущее состояние уменьшает ваш ~w~порог здоровья~/~ на ~r~$%~/~.;Its current condition reduces your ~w~Max Health Threshold~/~ by ~r~$%~/~.;这里现在的状态导致你的~w~生命恢复上限~/~降低~r~$%~/~。;Sein aktueller Zustand reduziert deine ~w~max. Gesundheitsschwelle~/~ um ~r~$%~/~.;;;;;Aktualny stan części ciała wpływa na ~w~Maksymalne Zdrowie~/~ o ~r~$%~/~.;Mevcut kondisyonunuz ~r~$%~/~ yüzünden ~w~Maks. Sağlık Eşiğinizi~/~ düşürdü.
+;;;;;;;;;;
+healthHeader;Здоровье;Health;生命;Gesundheit;;;;Saúde;Zdrowie;Sağlık
+energyHeader;Энергия;Energy;精力;Energie;;;;Energia;Energia;Enerji
+conditionHeader;Состояние;Condition;状态;Zustand;;;;Condição;Kondycja;Kondisyon
+;;;;;;;;;;
+andWord;и;and;，且;und;;;;e;I;ve
+orWord;или;or;，或;oder;;;;ou;lub;veya
+stabilizedWord;~w~стабилизирована~/~;~w~stabilized~/~;~w~得到稳定~/~;~w~stabilisiert~/~;;;;~w~estabilizado~/~;~w~jest ustabilizowana~/~;
+woundedWord;~r~ранена~/~;~r~wounded~/~;~r~受伤了~/~;~r~verwundet~/~;;;;;~r~jest uszkodzona~/~;~r~yaralanmış~/~
+injuredWord;~r~травмирована~/~;~r~injured~/~;~r~受得不轻~/~;~r~verletzt~/~;;;;;~r~jest zraniona~/~;~r~sakatlanmış~/~
+maimedWord;~r~изувечена~/~;~r~maimed~/~;~r~废了~/~;~r~verstümmelt~/~;;;;~r~mutilado~/~;~r~jest rozszarpana~/~;~r~yırtılmış~/~
+;;;;;;;;;;
+bleedingAction;~r~кровоточит~/~;~r~bleeding~/~;~r~正在出血~/~;~r~blutend~/~;;;;~r~sangrando~/~;~r~krwawi~/~;~r~kanıyor~/~
+hirudoterapiaAction;лечится ~lg~гирудотерапией~/~;being treated with ~lg~hirudoterapia~/~;正在接受~lg~水蛭疗法~/~;wird behandelt mit ~lg~Hirudotherapie~/~;;;;;regeneruje się ~lg~hydroterapią~/~;~lg~hidroterapi~/~ ile tedavi edildi
+;;;;;;;;;;
+;text_end;text_end;text_end;text_end;text_end;text_end;text_end;text_end;text_end;text_end

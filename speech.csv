@@ -1,775 +1,775 @@
-Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
-speech;speech;speech;;speech;;;;speech
-;;;;;;;;
-kill;kill;kill;kill;kill;;;;kill
-;Ну, кто следующий?!;Então, quem é o próximo?!;下一个是谁？！;Also, wer ist der Nächste?!;;;;No, kto następny?!
-;Доволен?!;Satisfeito?!;满意了吗？！;Zufrieden?!;;;;Zadowolony?!
-;Победа!;Vitória!;胜利！;Sieg!;;;;Zwycięstwo!
-;Умри!;Morra!;去死吧！;Stirb!;;;;Giń!
-;Сгинь!;Dá o fora!;死吧!;Hau ab!;;;;Umrzyj!
-;Да!;Sim!!;好极了！！;Ja!!;;;;Tak!
-;Проси пощады!;Implore por misericórdia!;求饶吧！;Bettel um Gnade!;;;;Błagaj o litość!
-;Твоё время вышло!;Seu tempo acabou!;你的死期到了！;Deine Zeit ist abgelaufen!;;;;Twój czas nadszedł!
-;Сам напросился!;Você merece isso!;死有余辜！;Das hast du verdient!;;;;Należy ci się!
-;И это всё?..;Isso é tudo?..;就这么点本事？;Ist das alles?..;;;;Czy to wszystko?
-;Не ты первый, не ты последний;Não é o primeiro,e nem o último;多你一个不多，少你一个不少。;Nicht der erste, nicht der letzte;;;;Nie pierwszy, nie ostatni!
-;Получи по заслугам!;Merecido!;罪有应得！;Geschieht dir recht!;;;;Dobrze ci służy!
-;Одним меньше!;Um a menos!;干掉一个！;Einer erledigt!;;;;Jeden leży!
-;Ещё одна победа!;Outra vitória!;又干掉一个！;Noch ein Sieg!;;;;Kolejne zwycięstwo!
-;Предсказуемо.;Previsível.;意料之中。;Vorhersehbar.;;;;Przwidywalne...
-;Так будет с каждым!;Quem é o próximo?!;再来啊！;Wer ist der Nächste?!;;;;Kto następny?
-;Ха!;Ha!;哈！;Ha!;;;;Ha!
-;Будет что рассказать!;Algo para contar!!;开心了吧？！;Etwas zu erzählen!;;;;Powiedziałbym ci coś!
-;Будет что вспомнить!;Algo para lembrar!;高兴了吧？！;Etwas zum Erinnern!;;;;Coś do zapamiętania!
-;Вот и всё!;Acabou!;搞定！;Es ist vorbei!;;;;To koniec!
-;Славная победа!;Vitória gloriosa!;大获全胜！;Glorreicher Sieg!;;;;Wspaniałe zwycięstwo!
-;Скоро собьюсь со счёту!;Estou perdendo a conta!;这是第几个了？！;Ich kann nicht mehr mitzählen!;;;;Przestałem liczyć!
-;Ничему вас жизнь не учит!;Você simplesmente não aprende!;不长记性！;Du lernst einfach nicht, was?;;;;Nic się nie nauczyłeś!
-kill_end;kill_end;kill_end;kill_end;kill_end;;;;kill_end
-;;;;;;;;
-silence_kill;silence_kill;silence_kill;silence_kill;silence_kill;;;;silence_kill
-;Только не дергайся...;Don't twitch...;别动弹……;Keine Bewegung...;;;;Nie marudź...
-;Т-с-с, тихо...;Hush...;嘘……;Ruhig...;;;;Pszzz...
-;Тише, тише...;Quiet now...;安静点……;Ruhe jetzt...;;;;Cicho...
-;Не вставай...;Don't get up...;躺着吧……;Nicht aufstehen...;;;;Nie wstawaj...
-;Не шевелись...;Don't move...;别动……;Keine Bewegung...;;;;Nie ruszaj się...
-;Т-ш-ш-ш...;Shhh...;嘘嘘……;Psst...;;;;Shhh...
-;Пусть это будет нашей тайной..;Let it be our secret...;别跟其他人说……;Es soll unser Geheimnis sein...;;;;Niech to będzie nasz sekret...
-;Надеюсь, никто не слышал...;Hope no one heard...;希望没人听见……;Hoffentlich hat es niemand gehört...;;;;Oby nikt nie słyszał...
-;Лежи-лежи...;Lie down...;躺好了……;Leg dich hin...;;;;Połóż się...
-;Красиво провернул...;Nice...;好……;Nett...;;;;Nieźle...
-;Одной проблемой меньше...;One less problem...;少了一个麻烦……;Ein Problem weniger...;;;;Jeden problem mniej...
-silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end;;;;silence_kill_end
-;;;;;;;;
-crit_kill;crit_kill;crit_kill;crit_kill;crit_kill;;;;crit_kill
-;Умри! Умри! Умри!;Die! Die! Die!;死吧！死吧！去死吧！;Stirb! Stirb! Stirb!;;;;Giń! Giń! Giń!
-;Смерть!;Death!;拿命来！;Tod!;;;;Śmierć!
-;Сдохни!;Drop dead!;受死吧！;Fall tot um!;;;;Główka poszła!
-;Сукин сын!;You bastard!;你个畜生！;Du Bastard!;;;;Ty bękarcie!
-;Голову с плеч!;Off with your head!;交出首级！;Runter mit deinem Kopf!;;;;Łeb ci odpadł!
-;Получай, ублюдок!;Take that, you bastard!;畜生，受死吧！;Nimm dies, du Bastard!;;;;Masz solidnie!
-;Не ждал?!;Didn't expect that?!;没有料到吗？！;Das hast du wohl nicht erwartet?;;;;Spodziewałeś się?!
-;Подавись!;Eat this!;接好了！;Friss das!;;;;Żryj to!
-;На!;Take that!;接招！;Nimm das!;;;;Masz!
-;Да, получи!;Get this!;接住了！;Hör dir das an!;;;;Złap to!
-;Вот так!;That's right!;这就对了！;Ganz recht!;;;;Właśnie tak!
-;Расскажешь - не поверят!;What a story to tell!;爽！;Was für eine Geschichte!;;;;Co za historia!
-crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end;;;;crit_kill_end
-;;;;;;;;
-shoot_kill;shoot_kill;shoot_kill;shoot_kill;shoot_kill;;;;shoot_kill
-;В яблочко!;Bullseye!;正中靶心！;Volltreffer!;;;;Oczko!
-;Лови!;Catch!;接着！;Fang!;;;;Łap!
-;Попал!;Hit!;中了！;Treffer!;;;;Dostałeś!
-;Есть!;Yes!;好！;Ja!;;;;Tak!
-;Попадание!;On the mark!;正中要害！;Auf den Punkt!;;;;Dokładnie gdzie chciałem!
-;Прямо в цель!;Right on the target!;一箭中的！;Genau ins Schwarze!;;;;Prosto w cel!
-;Ещё одна засечка!;Another notch!;再来一箭！;Noch eine Kerbe!;;;;Kolejne nacięcie!
-shoot_kill_end;shoot_kill_end;shoot_kill_end;shoot_kill;shoot_kill_end;;;;shoot_kill_end
-;;;;;;;;
-crit_hit;crit_hit;crit_hit;crit_hit;crit_hit;;;;crit_hit
-;Чуть не протянул ноги...;I almost kicked the bucket...;差点就挂了……;Ich hätte fast ins Gras gebissen...;;;;No niemal kopnąłem w kalendarz!
-;Ты заплатишь за это!;You'll pay for this!;好样的！;Dafür wirst du bezahlen!;;;;Zapłacisz za to!
-;Вся жизнь пронеслась...;All my life flashed...;命差点丢了……;Mein Leben zog an mir vorbei...;;;;Całe życie mi mignęło...
-;Это было близко...;That was close...;真险……;Das war knapp...;;;;To było mocne...
-;Я еще до тебя доберусь!;I'll get you for this!;拿命来！;Dafür kriege ich dich!;;;;Oberwiesz za to!
-;Ты за это ответишь!;You'll answer for this!;我饶不了你！;Dafür wirst du dich verantworten!;;;;Odpowiesz za to!
-;Всё, что меня не убивает...;What does not kill me...;既然你没干掉我……;Was mich nicht umbringt...;;;;Co mnie nie zabije..
-;Я до тебя еще доберусь!;I'll get you!;受死吧！;Ich kriege dich!;;;;Dooorwę cię!
-;Я с тобой еще поквитаюсь!;I'll get even with you!;我要让你吃点苦头！;Ich werde es dir heimzahlen!;;;;Poczekaj chwilę!
-crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end;;;;crit_hit_end
-;;;;;;;;
-light_wound;light_wound;light_wound;light_wound;light_wound;;;;light_wound
-;Всего лишь царапина;Just a scratch;小伤;Nur ein Kratzer.;;;;To tylko draśnięcie
-;Бывало и хуже;I've seen worse;这点伤算什么;Ich habe schon Schlimmeres gesehen.;;;;Mogło być gorzej
-;Ничего, затянется;It will heal;过两天就好了;Das wird heilen.;;;;Zagoi się
-;Ранили!;Wounded!;受伤了！;Verwundet!;;;;Zraniony!
-;Рана!;Injured!;挂彩了！;Verletzt!;;;;Zraniony!
-light_wound_end;light_wound_end;light_wound_end;light_wound_end;light_wound_end;;;;light_wound_end
-;;;;;;;;
-mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound;;;;mid_deep_wound
-;Проклятье!;Curses!;坏了！;Verflucht!;;;;Cholera!
-;Чёрт побери!;Dammit!;不好！;Verdammt!;;;;Niech to!
-;Чёрт!;Damn!;糟糕！;Mist!;;;;Szlag!
-;Ох, проклятье!;Oh, curses!;哎呀，坏了！;Oh, verflixt.;;;;Ah, zabolało!
-mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;;;;mid_deep_wound_end
-;;;;;;;;
-mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;;;;mid_deep_wound_torso
-;Мое ребро!;My rib!;伤到肋骨了！;Mein Rippe!;;;;Moja klata!
-;Меня... задели...;They... got me good...;身上……挨了他们一下……;Sie...haben mich erwischt.;;;;Oni... Dorwali mnie...
-;Кишки вываливаются...;My guts are falling out...;肠子快要滑出来了……;Meine Gedärme hängen raus.;;;;Flaki mi wypadają!
-mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;;;;mid_deep_wound_torso_end
-;;;;;;;;
-mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;;;;mid_deep_wound_leg
-;Чёрт! Моя нога!;Damn! My leg!;不好！伤到腿了！;Verdammt! Mein Bein!;;;;Cholera! Moja noga!
-;Ай! Моё колено!;Ah! My knee!;啊！我的膝盖！;Ah! Mein Knie!;;;;Ah! Moje kolano!
-;Ну и хруст...;Cracked...;骨折了……;Gebrochen...;;;;Strzaskane...
-mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;;;;mid_deep_wound_leg_end
-;;;;;;;;
-mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;;;;mid_deep_wound_hand
-;Я руку не чувствую!;I can't feel my arm!;胳膊没有知觉了！;Ich kann meinen Arm nicht spüren!;;;;Nie czuję ręki!
-;Мои пальцы!;My fingers!;手指伤了！;Meine Finger!;;;;Moje palce!
-;Только не рука!;Not my arm!;我的胳膊！;Nicht mein Arm!;;;;Nie, nie moje ramię!
-;Черт, руку сломали!;Damn, my arm's broken!;坏了，胳膊断了！;Verdammt, mein Arm ist gebrochen.;;;;Cholera, złamana ręka!
-mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;;;;mid_deep_wound_hand_end
-;;;;;;;;
-mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;;;;mid_deep_wound_head
-;В ушах... звенит...;My ears... ringing...;耳朵……嗡嗡的……;Meine Ohren...klingeln...;;;;Moje uszy... dzwonią...
-;Г-где я?;Wh-where am I?;这~呃是哪儿？;W-wo bin ich?!;;;;Gdzie, gdzie jestem?!
-;Что со м-мной?;Wh-what happened?;吃~出什么事了？;W-was ist passiert?;;;;Ah, co się stało?!
-;Ч-что с-стряслось?;Wh-what's going on?;啧~怎么回事？;W-was passiert hier?;;;;Co, co, co się stao?!
-;Всё... кружится...;It's all... spinning...;东西怎么都……转来转去……;Es...dreht sich alles...;;;;Wszystko, wszystko waruje.
-;Кровь заливает глаза...;Blood in my eyes...;我眼里出血了……;Blut in meinen Augen...;;;;Krew przed oczyma...
-;В глазах темнеет...;Everything goes dark...;眼前发黑……;Alles wird dunkel...;;;;Wszystko ciemnieje...
-;Всё двоится...;I'm seeing double...;我现在看东西重影……;Ich sehe doppelt...;;;;Widzę podwójnie...
-;М-мысли путаются...;S-so... confused...;讷~脑子……转不动了……;S-so... verwirrend...;;;;Tak mocno, dziwnie...
-mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;;;;mid_deep_wound_head_end
-;;;;;;;;
-physical_buff;physical_buff;physical_buff;physical_buff;physical_buff;;;;physical_buff
-;Так намного лучше!;Much better!;好多了！;Viel besser!;;;;Dużo lepiej!
-;Всегда бы так!;Ah, good!;哈哈，好了！;Ah, gut!;;;;Ah, świetnie!
-;Чувствую себя получше!;I feel better!;感觉好多了！;Ich fühle mich besser!;;;;Czuję się lepiej!
-physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end;;;;physical_buff_end
-;;;;;;;;
-physical_debuff;physical_debuff;physical_debuff;physical_debuff;physical_debuff;;;;physical_debuff
-;Этого еще не хватало...;Oh crap...;坏了……;Oh, verdammt...;;;;Ja pierdolę...
-;Только не это...;Not this again...;又是这样……;Nicht schon wieder...;;;;Nie znowu...
-;Ну нет...;Oh, no...;不好……;Oh, nein....;;;;O, nie...
-physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end;;;;physical_debuff_end
-;;;;;;;;
-mental_buff;mental_buff;mental_buff;mental_buff;mental_buff;;;;mental_buff
-;Какая приятная легкость;Such a pleasant ease of thoughts;神清气爽就是好;Eine so angenehme Leichtigkeit der Gedanken;;;;Cóż za przyjemne myśli
-;В голове проясняется;My head is clear now;脑子清楚多了;Mein Kopf ist wieder klar.;;;;Mój umysł jest świeży
-;Я себя недооценивал;I underestimated myself.;我低估自己了;Ich habe mich selbst unterschätzt.;;;;Nie doceniam się
-mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end;;;;mental_buff_end
-;;;;;;;;
-mental_debuff;mental_debuff;mental_debuff;mental_debuff;mental_debuff;;;;mental_debuff
-;Что происходит?..;What's going on?..;这是什么情况？;Was ist hier los?;;;;Co się dzieje?!
-;Сосредоточься... сосредоточься...;Focus... focus...;集中注意……集中注意力……;Fokus... Fokus...;;;;Skup się, skup się
-;Я... не понимаю...;I... don't understand...;我……这是怎么回事……;I... verstehe nicht.;;;;Ja... Nie rozumiem
-mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end;;;;mental_debuff_end
-;;;;;;;;
-hunger;hunger;hunger;hunger;hunger;;;;hunger
-;Вот бы хотя бы горстку крошек...;Any breadcrumbs around?..;不知道能不能找到面包屑……;Irgendwelche Brotkrumen hier?..;;;;Jakieś okruchy dookoła?
-;Как же урчит;My stomach growls;肚子叫得厉害;Mein Bauch grummelt;;;;Burczy mi w brzuchu
-;Полжизни за краюху хлеба;I'd kill for a chunk of bread...;要是能有面包吃，让我杀人也愿意……;Ich würde töten für ein Stück Brot...;;;;Zabiłbym za kawałek chleba
-;Еда... Мне нужна еда...;Food... I need food...;饿了……我得吃点东西……;Essen... Ich brauche Essen...;;;;Jedzenie, potrzebuję jedzenia
-;Всё слабее... и слабее;Getting... weaker...;饿得……受不了了……;Werde... schwächer...;;;;Słabnę..
-;Наесться бы досыта...;Something to eat...;有没有吃的东西……;Irgendwas zum Essen...;;;;Coś do jedzenia...
-hunger_end;hunger_end;hunger_end;hunger_end;hunger_end;;;;hunger_end
-;;;;;;;;
-thirsty;thirsty;thirsty;thirsty;thirsty;;;;thirsty
-;Воды бы...;Need a drink...;我得喝点东西……;Ich brauche einen Drink...;;;;Potrzebuję wody...
-;Воды...;Water...;水……;Wasser...;;;;Wody...
-;Во рту совсем пересохло...;My mouth is so dry...;嘴太干了……;Mein Mund ist so trocken...;;;;Sucho w gardle...
-;Хотя бы каплю влаги...;A drop of water...;哪怕就一口水都行……;Ein Tropfen Wasser...;;;;Kropla wody...
-;Промочить бы горло...;I need to wet my throat...;我得润润嗓子……;Ich muss meinen Hals befeuchten...;;;;Muszę zwilżyć usta...
-;Как же... сухо...;So... dry...;好……渴啊……;So... trocken...;;;;Tak... Sucho...
-;Язык еле ворочается...;Can't feel my tongue...;渴得舌头都感觉不到了……;Ich kann meine Zunge nicht spüren...;;;;Nie czuję języka...
-thirsty_end;thirsty_end;thirsty_end;thirsty_end;thirsty_end;;;;thirsty_end
-;;;;;;;;
-pain;pain;pain;pain;pain;;;;pain
-;За что мне это...;It hurts...;疼……;Es tut weh...;;;;To boli...
-;Как же... больно...;So... painful...;太……疼了……;So... schmerzhaft...;;;;Bolesne...
-;Как же болит...;So much... pain...;很……疼……;So viel... Schmerz;;;;Tak dużo... bólu...
-;Ну и боль...;Pain...;疼啊……;Schmerz...;;;;Ból...
-;В голове поволока...;My head... spinning...;头……晕晕乎乎……;Mein Kopf.... dreht sich...;;;;Głowa... mi... wiruje
-;В висках стучит;Temples... pounding...;太阳穴……怦怦直跳……;Schläfen... pochen...;;;;Cholera, boli.
-;Аа-а-а-ааа...;Aa-a-a-aaargh...;啊啊啊啊啊……;Aa-a-a-aaargh...;;;;Aa-a-a-aaargh...
-;Так болит...;It hurts so much...;疼得受不了了……;Es tut so weh...;;;;To strasznie boli...
-pain_end;pain_end;pain_end;pain_end;pain_end;;;;pain_end
-;;;;;;;;
-intoxication;intoxication;intoxication;intoxication;intoxication;;;;intoxication
-;Я... отравлен...;I'm... poisoned...;我……中毒了……;Ich... bin vergiftet;;;;Trucizna...
-;Меня сейчас вывернет наизнанку...;I'm gonna throw up...;要吐了……;Ich muss kotzen...;;;;Zaraz zwymiotuję
-;Ноги не держат...;My legs are shaking...;我两条腿抖个不停……;Meine Beine zittern...;;;;Nogi mi się trzęsą
-;Как же тошнит...;I feel so sick...;感觉很难受……;Ich fühle mich so krank...;;;;Czuję się źle
-;Я вот-вот потеряю сознание...;I'm gonna faint...;我要晕过去了……;Ich werde ohnmächtig...;;;;Zaraz puszczę pawia
-;Кишки скрутило в узел...;My guts... twisted...;胃里……翻江倒海……;Meine Gedärme... verdreht...;;;;Moje flaki, chyba się poskręcały
-;Ну и слабость...;So... weak...;身体特别……虚弱……;So... schwach...;;;;Tak... słaby...
-;Песок в глазах...;Eyes... gritty...;眼睛……像进了沙子……;Augen... sandig...;;;;Mam piasek przed oczami
-intoxication_end;intoxication_end;intoxication_end;intoxication_end;intoxication_end;;;;intoxication_end
-;;;;;;;;
-bleeding;bleeding;bleeding;bleeding;bleeding;;;;bleeding
-;Нужно перевязаться...;I need a bandage...;我需要绷带……;Ich brauche einen Verband...;;;;Potrzebuję bandaża...
-;Всё пропиталось кровью...;I'm soaked in blood...;我浑身都是血……;Ich bin in Blut getränkt...;;;;Jestem uwalony w krwi...
-;Сколько крови...;So much blood...;这么多血……;So viel Blut...;;;;Tak dużo krwi...
-;Всё течёт и течёт...;Blood keeps flowing...;血一直没停……;Das Blut fließt weiter...;;;;Krew wciąż płynie...
-;Силы оставляют...;I feel weak...;感觉身体很虚……;Ich fühle mich schwach...;;;;Słabo się czuję
-;Где же бинт...;Where did I put that bandage...;那卷绷带我放哪去了……;Wo habe ich den Verband hingelegt...;;;;Gdzie ja wsadziłem ten bandaż
-;Нужно перетянуть рану...;I need to close the wound...;我得把给自己包扎一下……;Ich muss die Wunde schließen...;;;;Musze zatrzymać krwawienie
-;Я так долго не протяну...;I'm not gonna last long like this...;我这样子的话，恐怕撑不了多久……;So werde ich nicht lange durchhalten...;;;;Nie wytrzymam tak długo
-;Так и хлещет...;Blood... gushing...;血哗哗得……往外涌……;Blut... sprudelt...;;;;Krew upływa...
-bleeding_end;bleeding_end;bleeding_end;bleeding_end;bleeding_end;;;;bleeding_end
-;;;;;;;;
-lock_pick;lock_pick;lock_pick;lock_pick;lock_pick;;;;lock_pick
-;Таким замком меня не остановить!;This lock won't stop me!;这把锁难不住我！;Dieses Schloss wird mich nicht aufhalten!;;;;Ten zamek mnie nie powstrzyma!
-;Надеюсь, там что-то ценное...;I hope there's something of value...;希望里面有值钱的玩意……;Ich hoffe, es gibt etwas von Wert...;;;;Oby było tu coś cennego...
-;К каждому замку найдётся подход...;There's a key for every lock...;只要是锁，就有钥匙……;Für jedes Schloss gibt es einen Schlüssel...;;;;Do każdej dziurki jest jakiś kluczyk
-;Откройся!;Open up!;芝麻开门！;Öffne dich!;;;;Otwieraj się!
-lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end;;;;lock_pick_end
-;;;;;;;;
-break_door;break_door;break_door;break_door;break_door;;;;break_door
-;Тук-тук!;Knock knock!;有人吗？;Klopf, klopf!;;;;Puk! Puk!
-;Есть кто дома?;Anybody home?;家里有人吗？;Ist jemand zu Hause?;;;;Ktoś w domu?
-;А вот и я!;Here I am!;你好，是我！;Hier bin ich!;;;;Oto ja panie i panowie!
-;Не ждали?;Surprise!;给你一个惊喜！;Überraschung!;;;;Niespodzianka!
-;Добро пожаловать!;Welcome!;欢迎！;Willkommen!;;;;Dzień dobry!
-break_door_end;break_door_end;break_door_end;break_door_end;break_door_end;;;;break_door_end
-;;;;;;;;
-trap_find;trap_find;trap_find;trap_find;trap_find;;;;trap_find
-;Почти попался...;Close call...;就差一点……;Das war knapp...;;;;Było blisko...
-;Ха, я же не слепой! / Ха, я же не слепая!;Ha, I'm not blind!;哈，我眼神还可以！;Ha, ich bin nicht blind!;;;;Ha!
-;Тут нужно быть поосторожней...;Careful here...;这个地方要当心……;Vorsicht hier...;;;;Ostrożnie...
-;И кто её тут поставил?;Who would set a trap here?;谁会在这种地方布陷阱？;Wer würde hier eine Falle stellen?;;;;Kto tu to zostawił?
-;Как в это можно попасться?;Who'd be caught by this?;这个陷阱是想坑什么人的？;Wer würde sich davon fangen lassen?;;;;Kto by się na to nabrał?
-;Не зря я смотрю под ноги!;Watching my step pays off!;小心脚下果然没错！;Auf meine Schritte zu achten zahlt sich aus!;;;;Patrzenie pod nogi się opłaca!
-trap_find_end;trap_find_end;trap_find_end;trap_find_end;trap_find_end;;;;trap_find_end
-;;;;;;;;
-trap_hit;trap_hit;trap_hit;trap_hit;trap_hit;;;;trap_hit
-;Черт!;Crap!;糟糕！;Scheiße!;;;;Aj!
-;Ай!;Ack!;啊！;Ack!;;;;Ała!
-;Проклятье, ловушка!;Damn, a trap!;不好，陷阱！;Verdammt, eine Falle!;;;;Cholera, pułapka!
-;Проклятье!;Curses!;坏了！;Verflucht!;;;;Niech to!
-;Ловушка!;Trap!;有陷阱！;Falle!;;;;Pułapka!
-trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end;;;;trap_hit_end
-;;;;;;;;
-trap_disarm;trap_disarm;trap_disarm;trap_disarm;trap_disarm;;;;trap_disarm
-;Теперь ты никому не навредишь...;Can't hurt anyone now...;这样就伤不到人了……;Kann niemanden mehr verletzten...;;;;Nikogo już nie zranisz...
-;Больше никаких подлостей...;No more tricks...;真阴险……;Keine Tricks mehr...;;;;Bez sztuczek...
-;Теперь играем по-честному!;Fair play now!;玩这种阴的算什么好汉！;Faires Spiel jetzt!;;;;Graj fair!
-;Почти сработала...;Almost triggered...;差点触发了……;Beinahe ausgelöst...;;;;Prawie się aktywowała...
-;Обезврежена!;Disarmed!;拆了！;Entschärft!;;;;Rozbrojona!
-;Глаза боятся, руки делают;What the eyes fear, the hands do;凡事只要动手做，就不会太难;Was die Augen fürchten, tun die Hände;;;;Sercu nie żal
-;Не так уж и сложно!;Not so hard!;没多麻烦！;Nicht so schwierig!;;;;Nie było to trudne!
-;Простецкий механизм!;Simple mechanism!;普普通通的机关而已！;Einfacher Mechanismus!;;;;Prosty mechanizm!
-;Готово!;Done, safe now;行了，安全了;Erledigt, sicher jetzt;;;;Zrobione, bezpiecznie
-trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end;;;;trap_disarm_end
-;;;;;;;;
-trap_avoid;trap_avoid;trap_avoid;trap_avoid;trap_avoid;;;;trap_avoid
-;Не в этот раз!;Not this time!;这次可坑不到我！;Nicht dieses Mal!;;;;Nie tym razem!
-;Чуть не зацепило!;Almost got me!;差点就踩上了！;Hat mich fast erwischt!;;;;No praaawie!
-;Повезло!;Lucky!;算我幸运！;Glück gehabt!;;;;Szczęśliwie!
-;Ловко!;Tricky!;真阴险！;Knifflig!;;;;Sztuczka!
-;Есть!;Phew!;呼！;Puuh!;;;;Phuuu!
-;Пронесло!;Close one!;真险！;Das war knapp!;;;;Blisko!
-trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end;;;;trap_avoid_end
-;;;;;;;;
-interruption;interruption;interruption;interruption;interruption;;;;interruption
-;Враг!;Enemy!;有敌人！;Feind!;;;;Wróg!
-interruption_end;interruption_end;interruption_end;interruption_end;interruption_end;;;;interruption_end
-;;;;;;;;
-Ambush;Ambush;Ambush;Ambush;Ambush;;;;Ambush
-;Засада!;Ambush!;有埋伏！;Überfall!;;;;Zasadzka!
-Ambush_end;Ambush_end;Ambush_end;Ambush_end;Ambush_end;;;;Ambush_end
-;;;;;;;;
-container;container;container;container;container;;;;container
-;Так, что тут у нас...;What have we here?..;这里有什么？;Was haben wir denn hier?...;;;;Co my tu mamy?
-;Нужно всё хорошенько осмотреть...;Let's have a good look...;好好翻一翻……;Schauen wir uns das mal genau an...;;;;Tylko zerknę...
-;Может хотя бы на этот раз...;Maybe this time?...;这次该能找到什么了吧……;Vielleicht dieses Mal...;;;;Może tym razem?
-;Здесь могло что-то остаться...;Might still find something...;这里应该有什么东西……;Vielleicht finden wir noch etwas...;;;;Może coś tu jest...
-;Добыча?;Loot?;有什么发现？;Beute?;;;;Klamoty?!
-;Порыщем-ка тут...;Let's have a look;看看这里……;Schauen wir mal nach.;;;;Spójrzmy
-;Что это там?;What's in here?;这里有什么东西？;Was ist hier drin?;;;;Co jest w środku?
-;Есть чем поживиться?;Anything valuable?;有没有值钱的东西？;Irgendetwas Wertvolles?;;;;Coś cennego?
-;Должно же мне хоть раз повезти...;Will be lucky eventually...;不会一直都不走运……;Werden irgendwann Glück haben...;;;;Może się poszczęści...
-container_end;container_end;container_end;container_end;container_end;;;;container_end
-;;;;;;;;
-optimism;optimism;optimism;optimism;optimism;;;;optimism
-;Всё не так уж плохо!;It's not so bad!;没那么糟！;Das ist gar nicht so schlecht!;;;;Nie tak źle!
-;Неплохой сегодня день!;Not a bad day!;今天还可以！;Kein schlechter Tag!;;;;Wcale nie taki zły dzień!
-;Ничего, и не такое бывало!;I've had worse!;这点事情算什么！;Ich habe schon Schlimmeres erlebt!;;;;Mogło być gorzej!
-;Я не промах, со всем справлюсь!;I'm a tough nut to crack!;我可没那么好对付！;Ich bin eine harte Nuss, die zu knacken ist!;;;;Dam radę zgnieść orzech palcami!
-;И не из таких передряг выпутывались!;I always find a way!;凡事只怕有心人！;Ich finde immer einen Weg!;;;;Zawsze znajdę drogę!
-;Мне не о чем переживать!;Nothing to worry about!;什么都不用担心！;Kein Grund zur Sorge!;;;;Bez zmartwień!
-;Всё будет хорошо!;It's gonna be fine!;这都不是事儿！;Es wird schon gut gehen!;;;;Będzie dobrze!
-;Главное - не падать духом!;Take heart!;能撑住就行！;Nur Mut!;;;;Komu w drogę, temu czas!
-;Это просто временные трудности!;It's gonna be okay!;这都不算事儿！;Es wird alles gut!;;;;Wszystko będzie dobrze!
-;Не вешать нос!;Cheer up!;打起精神！;Kopf hoch!;;;;Jazda z tym!
-;Не стоит унывать!;Chin up! Good things ahead!;坚持就是胜利！;Kopf hoch! Gute Dinge liegen vor uns!;;;;Głowa do góry! Będzie dobrze!
-;Мне не о чем переживать!;Keep it together!;沉着冷静！;Reiß dich zusammen!;;;;Trzymam się w kupie!
-;Мне всё по плечу!;I can handle it!;我能搞定！;Ich komme damit klar!;;;;Dam radę!
-;Всё приложится!;It'll get better!;之后就不会这样了！;Es wird besser werden!;;;;Ogarnę to aż nadto!
-;Всё перетерпим!;I'll endure!;我撑得住！;Ich werde es aushalten!;;;;Zniosę to!
-;И не такое проходили!;I've seen worse!;我什么没见过，这算什么！;Ich habe schon Schlimmeres gesehen!;;;;Mogło być gorzej!
-optimism_end;optimism_end;optimism_end;optimism_end;optimism_end;;;;optimism_end
-;;;;;;;;
-heroism;heroism;heroism;heroism;heroism;;;;heroism
-;В бой!;To battle!;战斗！;Auf in den Kampf!;;;;Do walki!
-;Вперёд!;Onward!;冲啊！;Vorwärts!;;;;Naprzód!
-;Битва нас рассудит!;The battle shall judge us!;让战斗来决定一切！;Die Schlacht wird uns richten!;;;;Niech starcie zdecyduje!
-;Каждый получит по заслугам!;They'll get what they deserve!;绝对不会让他们逍遥法外！;Sie werden bekommen, was sie verdienen!;;;;Dostaną to czego chcą!
-;Трусам здесь не место!;No place for cowards!;这里不是懦夫待的地方！;Kein Platz für Feiglinge!;;;;Nie ma miejsca dla tchórzy!
-;Ни шагу назад!;No retreat!;绝不后退！;Es gibt keinen Rückzug!;;;;Ani kroku wstecz!
-;Славная битва!;Glorious battle!;光荣之战！;Eine glorreiche Schlacht!;;;;Wspaniała walka!
-;Лучше смерть, чем бесчестье!;Death before dishonor!;宁为玉碎！;Tod vor Schande!;;;;Wolę śmierć niż hańbę!
-;Победа или смерть!;Victory or death!;宁死不屈！;Sieg oder Tod!;;;;Zwycięstwo albo śmierć!
-heroism_end;heroism_end;heroism_end;heroism_end;heroism_end;;;;heroism_end
-;;;;;;;;
-second_wind;second_wind;second_wind;second_wind;second_wind;;;;second_wind
-;Меня так просто не сломить!;You won't break me so easily!;我可没有那么容易倒下！;So leicht gehe ich nicht drauf!;;;;Nie dam się złamać!
-;Последний рывок!;One last push!;继续再战！;Ein letzter Stoß!;;;;Jeszcze jedno pchnięcie!
-;Я не сдамся!;I won't give up!;我不会放弃！;Ich werde nicht aufgeben!;;;;Nie poddam się!
-;Мой черёд!;My turn!;该我了！;Ich bin dran!;;;;Moja tura!
-;Силы... возвращаются!;I'm not done!;继续来啊！;Ich bin noch nicht fertig!;;;;Jeszcze nie koniec!
-;Прилив сил!;Second wind!;元气恢复！;Zweiter Wind!;;;;Druga szansa!
-;Не в этот раз!;Not this time!;想把我打倒？没门！;Diesmal nicht!;;;;Nie tym razem!
-;Смерть? Не сегодня!;Death? Not today!;我可不会死得那么容易！;Tod? Heute nicht!;;;;Śmierć? Nie dzisiaj!
-;Нет, я ещё поживу!;I'll live to see another day!;我少说也能活过今天！;Ich werde noch einen weiteren Tag erleben!;;;;Jeszcze trochę pożyję!
-second_wind_end;second_wind_end;second_wind_end;second_wind_end;second_wind_end;;;;second_wind_end
-;;;;;;;;
-prudence;prudence;prudence;prudence;prudence;;;;prudence
-;Лучше не спешить...;No need to hurry...;用不着那么匆忙……;Kein Grund zur Eile...;;;;Bez pośpiechu...
-;Тише едешь - дальше будешь...;Slow and steady...;不用慌，慢一点……;Langsam und ruhig...;;;;Spokojnie i powoli...
-;Надо быть осторожней...;Gotta be careful...;小心为好……;Man muss vorsichtig sein...;;;;Trzeba być ostrożnym...
-;Врасплох вы меня не застанете...;They won't catch me by surprise...;不能被他们偷袭了……;Sie werden mich nicht überraschen...;;;;Nie wezmą mnie z zaskoczenia...
-;Нужно мыслить на два шага вперёд...;Need to think two steps ahead...;不能只考虑眼前……;Ich muss zwei Schritte weiter denken...;;;;Myśleć na przód...
-;Кажется, у меня есть план...;I think I have a plan...;我有个计划……;Ich glaube, ich habe einen Plan...;;;;Myślę, że mam plan...
-;Не стоит лезть на рожон...;Let's not get careless...;不能冒冒失失……;Lass uns mal nicht nachlässig werden...;;;;Lepiej się nie rozpraszać...
-;Главное - предусмотрительность...;Need to stay prudent...;要慎重一点……;Wir müssen bedächtig sein...;;;;Trzeba ostrożnie...
-;Предельная осторожность...;Careful now...;得小心一点……;Vorsicht jetzt...;;;;Ostrożnie, teraz...
-prudence_end;prudence_end;prudence_end;prudence_end;prudence_end;;;;prudence_end
-;;;;;;;;
-vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious;;;;vampire_suspicious
-;Kinaz nagguth...;Kinaz nagguth...;齐纳兹纳谷斯……;Kinaz nagguth...;;;;Kinaz nagguth...
-;Yog wa'om zi kaggi...;Yog wa'om zi kaggi...;约格瓦‘噢姆其喀基……;Yog wa'om zi kaggi...;;;;Yog wa'om zi kaggi...
-vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;;;;vampire_suspicious_end
-;;;;;;;;
-vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile;;;;vampire_hostile
-;Khedor! Nagguth kaaz!;Khedor! Nagguth kaaz!;柯多！纳谷斯喀啊兹！;Khedor! Nagguth kaaz!;;;;Khedor! Nagguth kaaz!
-;Yigaz nagguth!;Yigaz nagguth!;以噶兹纳谷斯！;Yigaz nagguth!;;;;Yigaz nagguth!
-;Ri traak!;Ri traak!;希特拉阿克！;Ri traak!;;;;Ri traak!
-;Akaz'yoth arum!;Akaz'yoth arum!;阿卡兹’约斯阿陆姆！;Akaz'yoth arum!;;;;Akaz'yoth arum!
-;Khedor!;Khedor!;柯多！;Khedor!;;;;Khedor!
-vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;;;;vampire_hostile_end
-;;;;;;;;
-vampire_attack;vampire_attack;vampire_attack;vampire_attack;vampire_attack;;;;vampire_attack
-;Fahar agazi!;Fahar agazi!;法哈阿嘎其！;Fahar agazi!;;;;Fahar agazi!
-;Yizzan! Yizzan!;Yizzan! Yizzan!;以赞！以赞！;Yizzan! Yizzan!;;;;Yizzan! Yizzan!
-;Nirr yizzan!;Nirr yizzan!;尼尔以赞！;Nirr yizzan!;;;;Nirr yizzan!
-;Yizzan agun!;Yizzan agun!;以赞阿衮！;Yizzan agun!;;;;Yizzan agun!
-;Traaz ta kaagat!;Traaz ta kaagat!;特拉阿兹塔喀阿噶特！;Traaz ta kaagat!;;;;Traaz ta kaagat!
-;Wa'aruz ta yog'un namar!;Wa'aruz ta yog'un namar!;瓦’阿陆兹塔约格’温纳马！;Wa'aruz ta yog'un namar!;;;;Wa'aruz ta yog'un namar!
-;Wa'aruz yog yizzan!;Wa'aruz yog yizzan!;瓦’阿陆兹约格以赞！;Wa'aruz yog yizzan!;;;;Wa'aruz yog yizzan!
-;Wa'an traak wa'aruz yog'un yizzan!;Wa'an traak wa'aruz yog'un yizzan!;瓦’安特拉阿克瓦’阿陆兹约格温以赞！;Wa'an traak wa'aruz yog'un yizzan!;;;;Wa'an traak wa'aruz yog'un yizzan!
-;Yog yizzan naa kaya'noth Nirrukh!;Yog yizzan naa kaya'noth Nirrukh!;约格以赞纳阿喀亚’尼尔鲁克！;Yog yizzan naa kaya'noth Nirrukh!;;;;Yog yizzan naa kaya'noth Nirrukh!
-;Nirrukh!;Nirrukh!;尼尔鲁克！;Nirrukh!;;;;Nirrukh!
-;Kaya'noth Nirrukh!;Kaya'noth Nirrukh!;喀亚’诺斯尼尔鲁克！;Kaya'noth Nirrukh!;;;;Kaya'noth Nirrukh!
-vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end;;;;vampire_attack_end
-;;;;;;;;
-vampire_skill;vampire_skill;vampire_skill;vampire_skill;vampire_skill;;;;vampire_skill
-;Nya'anar, Nirrukh, nya'anar!;Nya'anar, Nirrukh, nya'anar!;尼亚’阿纳，尼尔鲁克，尼亚’阿纳！;Nya'anar, Nirrukh, nya'anar!;;;;Nya'anar, Nirrukh, nya'anar!
-;Nya'anar'an yizzan!;Nya'anar'an yizzan!;尼亚’阿纳’安以赞！;Nya'anar'an yizzan!;;;;Nya'anar'an yizzan!
-;Kaya'noth Nirrukh!;Kaya'noth Nirrukh!;喀亚’诺斯尼尔鲁克！;Kaya'noth Nirrukh!;;;;Kaya'noth Nirrukh!
-vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end;;;;vampire_skill_end
-;;;;;;;;
-vampire_death;vampire_death;vampire_death;vampire_death;vampire_death;;;;vampire_death
-;Yigaz'an... yak... tadur...;Yigaz'an... yak... tadur...;以噶兹’安……亚克……塔杜……;Yigaz'an... yak... tadur...;;;;Yigaz'an... yak... tadur...
-;Naggud kyothar... wa ramun namar...;Naggud kyothar... wa ramun namar...;纳谷得科约萨……瓦拉门纳马……;Naggud kyothar... wa ramun namar...;;;;Naggud kyothar... wa ramun namar...
-;Khar'om... aganuk...;Khar'om... aganuk...;卡’荣……阿噶努克……;Khar'om... aganuk...;;;;Khar'om... aganuk...
-;Wa... namar...;Wa... namar...;瓦……纳马……;Wa... namar...;;;;Wa... namar...
-;Namar... Nirrukh...;Namar... Nirrukh...;纳马……尼尔鲁克……;Namar... Nirrukh...;;;;Namar... Nirrukh...
-vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end;;;;vampire_death_end
-;;;;;;;;
-vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death;;;;vampire_ally_death
-;Yiggaz'uth! Khar yiggaz'uth!;Yiggaz'uth! Khar yiggaz'uth!;以噶兹’乌斯！卡以噶兹’乌斯！;Yiggaz'uth! Khar yiggaz'uth!;;;;Yiggaz'uth! Khar yiggaz'uth!
-;Waruz fyah!;Waruz fyah!;瓦陆兹费阿！;Waruz fyah!;;;;Waruz fyah!
-;Khar namar'uth!;Khar namar'uth!;卡纳马’乌斯！;Khar namar'uth!;;;;Khar namar'uth!
-vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;;;;vampire_ally_death_end
-;;;;;;;;
-vampire_injury;vampire_injury;vampire_injury;vampire_injury;vampire_injury;;;;vampire_injury
-;Ziggar!;Ziggar!;其噶！;Ziggar!;;;;Ziggar!
-;Nugg'yizzan karuk!;Nugg'yizzan karuk!;努哥’以赞喀陆克！;Nugg'yizzan karuk!;;;;Nugg'yizzan karuk!
-;Yizzan'ziggar!;Yizzan'ziggar!;以赞’其噶！;Yizzan'ziggar!;;;;Yizzan'ziggar!
-vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end;;;;vampire_injury_end
-;;;;;;;;
-vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;;;;vampire_lord_alarm
-;Nirrukh!;Nirrukh!;尼尔鲁克！;Nirrukh!;;;;Nirrukh!
-;Yog yizzan naa kaya'noth Nirrukh!;Yog yizzan naa kaya'noth Nirrukh!;约格以赞纳阿喀亚’诺斯尼尔鲁克！;Yog yizzan naa kaya'noth Nirrukh!;;;;Yog yizzan naa kaya'noth Nirrukh!
-;Yanur yizzan? Mizu'naad.;Yanur yizzan? Mizu'naad.;亚努以赞？米祖’纳阿得。;Yanur yizzan? Mizu'naad.;;;;Yanur yizzan? Mizu'naad.
-;Traaz ta kaagat, karuk!;Traaz ta kaagat, karuk!;特拉阿兹塔卡阿噶特，卡鲁克！;Traaz ta kaagat, karuk!;;;;Traaz ta kaagat, karuk!
-;Yigaz! Yigaz!;Yigaz! Yigaz!;以噶兹！以噶兹！;Yigaz! Yigaz!;;;;Yigaz! Yigaz!
-vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;;;;vampire_lord_alarm_end
-;;;;;;;;
-undead_hostile;undead_hostile;undead_hostile;undead_hostile;undead_hostile;;;;undead_hostile
-;замечен... враг...;enemy... detected...;发现……敌人……;Feind... entdeckt...;;;;wróg... wykrywy...
-;убить... врага...;kill... enemy...;杀……敌人……;töten... Feind...;;;;zabić... wroga...
-;тревога... тревога...;alarm... alarm...;敌人……注意……;Alarm... Alarm...;;;;alarm... alarm...
-;к... оружию...;to... arms...;准备……战斗……;...zu... den Waffen...;;;;do... broni...
-undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end;;;;undead_hostile_end
-;;;;;;;;
-undead_attack;undead_attack;undead_attack;undead_attack;undead_attack;;;;undead_attack
-;тебе... приказано... умереть...;you... must... die...;去……死……;Du... musst... sterben...;;;;ty... musisz... zginąć...
-;убивать...;kill...;杀……;töten...;;;;zabić...
-;уничтожить...;destroy...;干掉……;vernichten...;;;;zniszczyć...
-;подавить... сопротивление...;crush... all... resistance...;粉碎……所有……抵抗……;...allen... Widerstand... zerschlagen...;;;;zgnieść... cały... opór...
-;слушать... приказ...;obey... order...;服从……命令……;gehorchen... Befehl...;;;;słuchać... rozkazów...
-;нести... смерть...;bring... death...;带来……死亡……;bringen... Tod...;;;;przynieść... śmierć...
-;лишить... жизни...;take... life...;夺走……生命……;nehmen... Leben...;;;;zabrać... życie...
-undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end;;;;undead_attack_end
-;;;;;;;;
-undead_skill;undead_skill;undead_skill;undead_skill;undead_skill;;;;undead_skill
-;я... подчиняюсь...;I... obey...;遵……命……;Ich... gehorche...;;;;Ja... słucham...
-;воля... повелителя;master's... will...;主人的……意志……;des Meisters... Willen...;;;;woli... mistrza...
-;слушаюсь... владыку...;obey... master...;服从……主人……;gehorchen... Meister...;;;;słuchać... mistrza...
-;повинуюсь... хозяину...;serve... master...;听从……主人……号令……;dienen... Meister...;;;;służyć... mistrzowi...
-;исполняю... приказ...;execute... order...;执行……命令……;Ausführen... Befehl...;;;;wykonać... rozkaz...
-undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end;;;;undead_skill_end
-;;;;;;;;
-undead_movement;undead_movement;undead_movement;undead_movement;undead_movement;;;;undead_movement
-;должен... идти...;must... go...;不得不……去……;muss... gehen...;;;;muszę... iść...
-;я... помню...;I... remember...;我……记得……;Ich... erinnere mich...;;;;ja... pamiętam...
-;слушаюсь...;I... obey...;我……遵命……;Ich... gehorche...;;;;Ja... słucham...
-;прикрыть... фланги...;cover... flanks...;掩护……两翼……;abdecken... Flanken...;;;;chronić... flanki...
-;память... мешает...;memory... hinders...;记忆……妨碍……;die Erinnerung... behindert...;;;;pamięć... zanika...
-;да... повинуюсь...;obedience...;服从……;Gehorsam...;;;;posłuszeństwo...
-undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end;;;;undead_movement_end
-;;;;;;;;
-undead_injury;undead_injury;undead_injury;undead_injury;undead_injury;;;;undead_injury
-;это... не поможет...;this... won't help...;这……又怎样……;das... wird nicht helfen...;;;;to... nie pomoże...
-;увечье...;injury...;受伤……;Verletzung...;;;;rana...
-;бренное... тело...;frail... body...;肉体……脆弱……;gebrechlicher... Körper...;;;;wątłe... ciało...
-;таким... не остановить...;this... won't stop...;这……又如何……;das... wird nicht aufhören...;;;;to... nie powstrzyma...
-;это... бесполезно...;it is... useless...;没有用……;es ist... nutzlos...;;;;to... bezużyteczne...
-;ещё... немного...;need... more...;再……来……;brauche... mehr...;;;;potrzeba... więcej...
-;сломанные... кости...;bones... broken...;骨头……断了……;Knochen... gebrochen...;;;;kości... złamane...
-;хруст... костей...;bones... crack...;骨折……;Knochen ... Risse ...;;;;kości... łamią...
-;избавь... меня...;release... me...;救……我……;lass... mich...;;;;wypuść... mnie...
-;стоять... до последнего...;last... stand...;决一……死战……;letztes.... Gefecht...;;;;ostatni... na polu...
-undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end;;;;undead_injury_end
-;;;;;;;;
-undead_death;undead_death;undead_death;undead_death;undead_death;;;;undead_death
-;больше... не слышу...;hear... no more...;不要……再说……;höre... nicht mehr...;;;;nie... słyszę...
-;я... свободен...;I am... free...;我……解脱……;Ich bin... frei...;;;;jestem... wolny...
-;наконец...;finally...;自由了……;endlich...;;;;wreszczie...
-;снова... смерть...;death... again...;再面……死亡……;Tod... wieder...;;;;śmierć... znowu...
-;свобода...;freedom...;自由……;Freiheit...;;;;wolność...
-;конец... мучениям...;end to... suffering...;痛苦……结束……;Ende des... Leidens...;;;;koniec... cierpienia...
-;никакой... боли...;no more... pain...;不再……痛苦……;keine... Schmerzen mehr...;;;;nie ma więcej... bólu...
-;он... отпустил... меня...;I am... released...;我……自由了……;Ich bin... befreit...;;;;jestem... wyzwolony...
-;покой... покой...;rest... peace...;安息……;Ruhe... Frieden...;;;;spoczywam... w pokoju...
-;забыть... всё...;forget... all...;忘记……一切……;Vergessen... alles...;;;;zapomnieć... wszystko...
-;дух... угасает...;spirit... fading...;精神……消散……;Geist... verblasst...;;;;duch... zanika...
-;наконец... тишина...;finally... silence...;终于……安静……;Endlich... Stille...;;;;nareszcie... spokój...
-;снова... свободен...;free... again...;重获……自由……;wieder... frei...;;;;wolny... znowu....
-;ухожу... обратно...;I... return...;我……回去了……;Ich... kehre zurück...;;;;ja... powrócę...
-undead_death_end;undead_death_end;undead_death_end;undead_death_end;undead_death_end;;;;undead_death_end
-;;;;;;;;
-necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm;;;;necromancer_alarm
-;Ещё одна заблудшая душа?;Another lost soul?;又一个失落的灵魂？;Eine weitere verlorene Seele?;;;;Kolejna zagubiona dusza/
-;Я оставлю от тебя одну оболочку...;You'll be an empty husk...;你将失去灵魂……;Du wirst eine leere Hülle sein...;;;;Zaraz będziesz pustym naczyniem...
-;Ты будешь служить...;You will serve me...;你将遵从我的命令……;Du wirst mir dienen...;;;;Będziesz mi służyć...
-;Преклонись пред своим повелителем...;Submit to your new master...;来拜见你的新主人……;Unterwirf dich deinem neuen Meister...;;;;Pogódź się, będę twoim władcą...
-;Самонадеянно...;Insolence...;傲慢无礼……;Unverschämtheit...;;;;Beczelność...
-;О, новый прислужник...;Ah, new servant...;哈，又一个仆从……;Ah, neuer Diener...;;;;Oh, nowy sługa...
-necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;;;;necromancer_alarm_end
-;;;;;;;;
-brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile;;;;brigand_hostile
-;Ты, кажись, округу попутал!;You came to the wrong neighborhood!;这可不是你该来的地界！;Du bist im falschen Viertel gelandet!;;;;To trochę zła okolica, przybyszu!
-;Гляди, кто вылез!;Look who's here!;看看来的是什么人！;Schau mal, wer da ist!;;;;Patrzcie kto wpadł!
-;Что, богатенький?;Ah, rich guy?;哈，有钱人？;Ah, reicher Typ?;;;;Oh, jak tam twoje kieszenie? Pełne?
-;А кто это тут нарисовался?;Who do we have here?;瞧瞧来了一个什么人？;Wen haben wir denn hier?;;;;Co my tutaj mamy?
-;Делись добром, простофиля!;Empty your pockets, dimwit!;打，打，打劫！;Leere deine Taschen, Schwachkopf!;;;;Opróżniaj kieszenie, brzydalu!
-;Отдавай всё, что есть!;Show us what you got!;身上的东西都拿出来！;Zeig uns, was du hast!;;;;No pokaż, co tam masz
-;Гони золотишко!;Give us the coin!;身上带的钱全交出来！;Gib uns die Münze!;;;;Dawaj monety!
-;Сейчас позабавимся!;Let's have some fun!;咱们来乐呵乐呵！;Amüsieren wir uns!;;;;Zabawmy się!
-;Выкладывай свои денежки!;Give us your gold!;金子呢？交出来！;Gib uns dein Gold!;;;;Oddawaj swoje złoto!
-;А вот и добыча!;Here comes the loot!;来一个送钱的！;Hier kommt die Beute!;;;;Nasze pieniądze do nas przyszły!
-;Кошель на бочку, болван!;Money on the barrel, chump!;把钱拿出来，少给我磨蹭！;Geld auf den Tisch, du Trottel!;;;;Kasa na stół, smarkaczu!
-brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;;;;brigand_hostile_end
-;;;;;;;;
-brigand_attack;brigand_attack;brigand_attack;brigand_attack;brigand_attack;;;;brigand_attack
-;Взять его!;Get him!;干他！;Schnappt ihn!;;;;Jazda!
-;Брюхо вспорю!;Gonna cut you open!;看我不把你大卸八块！;Ich werde dich aufschlitzen!;;;;Zaraz otworzę ci klatkę!
-;Я тебе все кишки выпущу!;I'll rip your guts out!;我要让你开肠破肚！;Ich reiße dir die Eingeweide raus!;;;;Wyrwę ci flaki!
-;Режь! Глотку режь!;Throat! Go for the throat!;脖子！抹脖子！;Kehle! Geh an die Kehle!;;;;Szyję! Rozerwać szyję!
-;Уж я тебе все рёбра истыкаю!;I'll cut you to pieces!;看我不把你剁成肉泥！;Ich schneide dich in Stücke!;;;;Rozwalę cię na kawałki!
-;Сейчас тебя прикончу!;This is your funeral!;明年几天就是你的忌日！;Das ist dein Begräbnis!;;;;To twój pogrzeb!
-;Бей-руби!;Cut 'em up!;砍了！;Schlitzt sie auf!;;;;Łapać!
-;Давай-давай, сбоку заходи!;Move it, attack from the side!;快！从两边上！;Los, greift von der Seite an!;;;;Jazda, flankować!
-;Так тебя, так!;Take that!;去死吧！;Nimm das!;;;;Masz!
-;Бей под дых!;Go for the gut!;照着肚子捅！;An die Bäuche!;;;;Rozerwać na strzępy!
-;Дави, дави!;You won't get away!;你还想跑？！门都没有！;Du wirst nicht entkommen!;;;;Nigdzie nie uciekniesz!
-;Да что с тобой возиться!;Stop struggling!;你还还手？！;Wehr dich nicht!;;;;Przestań walczyć!
-;Мочи!;Kill 'em!;别留活口！;Töte sie!;;;;Zabić!
-;Скормлю собакам!;I'll feed you to dogs!;你就等着喂狗吧！;Ich verfüttere dich an die Hunde!;;;;Rzucę cię psom!
-;Воронью на корм пойдешь!;Food for crows!;等着喂渡鸦吧！;Fraß für die Krähen!;;;;Jedzenie dla kruków!
-;Нож в ребро!;Knife to the heart!;往胸口捅！;Messer ins Herz!;;;;Nożem w serce!
-;Ату его, ату!;Tally-ho!;给我上！;Halali!;;;;No, dobry!
-brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end;;;;brigand_attack_end
-;;;;;;;;
-brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death;;;;brigand_ally_death
-;У нас мертвяк!;We got a deader!;咱们倒了一个！;Wir haben einen Toten!;;;;Jeden z naszych leży!
-;Нашего прижучили!;Our lad is down!;有个伙计倒了！;Unser Junge ist am Boden!;;;;Nasz koleś padł!
-;Наших щемят!;Our guys are getting murdered here!;咱们有人死在咱们自己的地盘上了！;Unsere Jungs sterben hier!;;;;Mordują tu naszych!
-;Убили! Убили нашего!;Dead! He is dead!;坏了！他死了！;Tot! Er ist tot!;;;;Martwy! Jest martwy!
-;Парнягу прикончили!;You'll pay for this!;杀人偿命，天经地义！;Dafür wirst du bezahlen!;;;;Zapłacisz za to!
-;Завалили мужика!;Our guy is done for!;咱们死人了！;Unser Mann ist am Ende!;;;;Porobili naszego!
-brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;;;;brigand_ally_death_end
-;;;;;;;;
-brigand_skill;brigand_skill;brigand_skill;brigand_skill;brigand_skill;;;;brigand_skill
-;А как тебе такое?!;How do you like that?!;感觉怎么样？！;Wie gefällt dir das?!;;;;Jak ci się podoba?
-;На, получай!;Take that!;接招！;Nimm das!;;;;A masz!
-;Получай, скотина!;Eat this, bastard!;王八蛋，接好了！;Friss das, Bastard!;;;;Żryj to, bękarcie!
-;Так тебе, мразота!;In your face, scum!;败类，受死吧！;In die Fresse, Abschaum!;;;;Prosto w twarz!
-;Ха!;Ha!;哈！;Ha!;;;;Ha!
-brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end;;;;brigand_skill_end
-;;;;;;;;
-brigand_injury;brigand_injury;brigand_injury;brigand_injury;brigand_injury;;;;brigand_injury
-;Моя рука!;My arm!;我胳膊！;Mein Arm!;;;;Moja ręka!
-;Моя нога!;My leg!;我的腿！;Mein Bein!;;;;Moja noga!
-;Ай, прям по кумполу!;Argh, right on the noggin!;啊啊，伤着我脑袋了！;Argh, genau auf die Birne!;;;;Ahh, prosto w nogę!
-;Мне... мне брюхо продырявили!;I... My gut is cut open!;我……我肚子滑开了！;I... Mein ist aufgeschlitzt!;;;;Cholera, flaki mi płyną!
-;Я руки не чувствую...;I don't feel my arm...;我胳膊呢？！;Ich spüre meinen Arm nicht...;;;;Nie czuję ramienia!
-;Колену... колену каюк...;Knee... my knee cracked...;膝盖……我膝盖碎了……;Knie... mein Knie ist gebrochen...;;;;Kostka... Zwichnięta kostka...
-;По башке зарядили...;Got me on the head...;我头上挨了一下……;Hat mich am Kopf erwischt...;;;;Dostałem w czoło...
-;Палец... палец отхватили!;My finger! Lost my finger!;我手指头没了！;Mein Finger! Ich habe meinen Finger verloren!;;;;Mój palec! Odcięli mi palec!
-;Сукин сын!;Sonuvabitch!;混蛋王八羔子！;Hurensohn!;;;;Shurwzyn!
-;Вот ведь мразь...;You scum...;你个败类……;Du Abschaum...;;;;Ty szmato...
-;Ах ты паскуда...;You bastard!;你个畜生！;Du Mistkerl!;;;;Ty bękarcie!
-;У меня кровища хлещет!;I'm bleeding like a pig!;我身上哗哗地流血！;Ich blute wie ein Schwein!;;;;Krwawię jak świnia!
-brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end;;;;brigand_injury_end
-;;;;;;;;
-brigand_death;brigand_death;brigand_death;brigand_death;brigand_death;;;;brigand_death
-;А-а-а-а-а...;A-a-a-a-a...;啊啊啊啊……;A-a-a-a-a-a...;;;;A-a-a-a-a...
-;Я... нет... а-а-а-а...;I... no... a-a-a-a...;我……诶……啊啊啊……;Ich... nein... a-a-a-a-a...;;;;I... no... a-a-a-a...
-;Как же... так...;How... why...;怎么……怎……;Wie... warum...;;;;Jak... co...
-;Больно-то как...;Hurts...;疼啊……;Das tut weh...;;;;Boli...
-;Братцы... братцы...;Guys... guys...;伙计们……伙计……;Jungs... Jungs...;;;;Koledzy... koooledzy...
-;По... могите...;He-... help...;救……救救……;Hi-... Hilfe...;;;;Po... pomocyyy...
-brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end;;;;brigand_death_end
-;;;;;;;;
-npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn;;;;npc_no_turn
-;Что встал? Пройти мешаешь.;Huh? You are standing in my way.;啊？你挡我路了。;Hm? Du stehst mir im Weg.;;;;Huh? Stoisz na mojej drodze.
-;Уступи-ка дорогу.;Let me through.;让我过去。;Lass mich durch.;;;;Przepuść mnie.
-;Отойди-ка в сторонку.;Move aside.;让一让。;Geh zur Seite.;;;;Odsuń się.
-;Подвинься, а?;Move it, will ya?;能让开吗？;Beweg dich, ja?;;;;Ruszysz dupę?
-npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;;;;npc_no_turn_end
-;;;;;;;;
-npc_rain1;npc_rain1;npc_rain1;npc_rain1;npc_rain1;;;;npc_rain1
-;Во какие тучи...;Clouds are gathering...;下雨了啊……;Wolken ziehen auf...;;;;Zbiera się na deszcz...
-;Чёрт бы побрал этот дождь...;Damn this rain...;这雨下得可真……;Dieser verdammte Regen...;;;;Cholera, ten deszcz...
-;Так и простыть недолго...;That's how you catch a cold...;你这样肯定得感冒……;So holt man sich eine Erkältung...;;;;Oto jak łapie się przeziębienie
-;То-то я гляжу, что птицы низенько летали...;Birds flew low, should have known...;鸟飞得那么低，我就该想到要下雨才是……;Die Vögel flogen tief, ich hätte es wissen müssen...;;;;Ptaki latały nisko, powinienem zauważyć
-npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end;;;;npc_rain1_end
-;;;;;;;;
-npc_rain2;npc_rain2;npc_rain2;npc_rain2;npc_rain2;;;;npc_rain2
-;Льёт как из ведра...;It's pouring cats and dogs...;这雨下得可真大啊……;Es schüttet wie aus Eimern...;;;;Leje psami i kotami
-;Ну и ливень...;What a downpour...;真是倾盆大雨……;Was für ein Wolkenbruch...;;;;Co za ściek...
-;Давненько же у нас так не лило...;Haven't seen such rain in a while...;有些日子没见过这么大的雨了……;So einen Regen hab ich schon lange nicht mehr gesehen...;;;;Dawno tak nie lało...
-;Ветер воет...;Wind's howling...;风“呼呼”地吹……;Der Wind heult...;;;;Wyje wiatr...
-;Как бы не затопил чего...;Hope it won't flood anything...;千万可别发洪水……;Ich hoffe, es wird nichts überflutet...;;;;Deszcze niespokojne...
-npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end;;;;npc_rain2_end
-;;;;;;;;
-npc_rain3;npc_rain3;npc_rain3;npc_rain3;npc_rain3;;;;npc_rain3
-;Вроде дождь на убыль идёт...;Looks like the rain is slowing down...;雨好像小点了……;Sieht aus, als würde der Regen nachlassen...;;;;Wygląda na to, że się przejaśnia...
-;Гляди-ка - тучи рассеиваются потихоньку...;Look! Clouds are breaking up...;看！云要散了……;Schau! Die Wolken lösen sich auf...;;;;Patrzcie! Słońce zza chmur!
-;Хм, вроде скоро уже перестать должно...;Hmm, should stop raining soon...;唔，雨应该快停了……;Hmm, sollte bald aufhören zu regnen...;;;;Hmm, powinno przestać lać...
-;Затихает-то ливень...;Slows down, it seems...;看着好像下得没那么大了……;Es wird weniger, wie es scheint...;;;;Przechodzi, zdaje się...
-;Ну ничего, скоро уже солнце из-за туч покажется...;The sun should come out in any moment...;天应该马上就要晴了……;Die Sonne sollte jeden Moment herauskommen...;;;;Słońce wyjdzie lada moment...
-npc_rain3;npc_rain3_end;npc_rain3_end;npc_rain3_end;npc_rain3_end;;;;npc_rain3_end
-;;;;;;;;
-npc_peasant;npc_peasant;npc_peasant;npc_peasant;npc_peasant;;;;npc_peasant
-;Ещё один...;Another one...;又来了一个……;Noch einer...;;;;Kolejny...
-;Наёмник? Не к добру...;A mercenary... This bodes ill...;雇佣兵……真是触霉头……;Ein Söldner... Das verheißt nichts Gutes...;;;;Najemnik... Srać mi się chce...
-;Ну, чего уставился?;What are you looking at?;看什么呢？;Was schaust du so?;;;;Na co się gapisz?!
-;Если ты за работой, то тебе к старосте нашему.;If you are looking for work, talk to our elder.;你要是想找事情做，就去找我们村长。;Wenn du auf der Suche nach Arbeit bist, sprich mit dem Ältesten.;;;;Jak szukasz roboty, pogadaj ze starszyzną.
-;Удавиться тянет от такой жизни...;I hate this life...;这活得可真没劲……;Ich hasse dieses Leben...;;;;Nienawidzę tego życia...
-;Гляди-ка, наёмник...;Look, another mercenary...;瞧，又来一个佣兵……;Sieh mal, noch ein Söldner...;;;;Patrzcie, kolejny najemnik...
-;Кого это нелёгкая принесла?;Now who could it be?;瞧瞧这是谁？;Wer könnte es sein?;;;;No proszę, a to kto?
-;Эх, сейчас бы на боковую...;I could use a nap...;我得睡会儿……;Ich könnte ein Nickerchen gebrauchen...;;;;Przydałoby się przespać...
-;А ты чьих будешь?;Who are you again?;你又是谁？;Wer bist du noch einmal?;;;;A ty to kto, znowu?
-npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end;;;;npc_peasant_end
-;;;;;;;;
-;;;;;;;;
-npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male;;;;npc_peasant_male
-;Сейчас бы по чарочке... а потом по второй.;I could use a drink... or two.;我得来一杯两杯酒……;Ich könnte einen Drink gebrauchen... oder zwei.;;;;Przydałby się drink... albo dwa...
-;Опрокинуть бы кружечку...;I could do with a drink...;想喝酒了……;Ich könnte einen Drink vertragen...;;;;Przydałby się drink...
-;Успеть бы сегодня в таверну заскочить...;Might go to the tavern tonight...;要不晚上去酒馆喝两杯……;Ich gehe heute Abend vielleicht in die Taverne...;;;;A gdyby tak wpaść do tawerny w nocy...
-npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;;;;npc_peasant_male_end
-;;;;;;;;
-npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp;;;;npc_lowhp
-;Что-то лицо у тебя бледновато... Тебе бы к травнику;You look pale... You should visit a healer;我看你脸色不太好……找个治疗师看看吧;Ich könnte einen Drink gebrauchen... oder zwei.;;;;Masz bladą skórę, może warto wpaść do lecznicy?
-;Ну и потрепали же тебя...;Someone really did a number on you...;你伤得可不轻啊……;Jemand hat dich wirklich reingelegt...;;;;Ktoś ci wywinął niezły numer...
-;Видок у тебя - будто ноги вот-вот протянешь;You look like you are about to kick the bucket;我看你的样子，感觉马上就要不行了;Du siehst so aus, als wenn du gleich den Löffel abgibst;;;;Wyglądasz jak kopniak w kalendarz...
-npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;;;;npc_lowhp_end
-;;;;;;;;
-npc_trader;npc_trader;npc_trader;npc_trader;npc_trader;;;;npc_trader
-;Лучший товар в округе!;The best goods out there!;走过路过不要错过！;Die beste Ware, die es gibt!;;;;Najlepsze dobra tylko tutaj!
-npc_trader_end;npc_trader_end;npc_trader_end;npc_trader_end;npc_trader_end;;;;npc_trader_end
-;;;;;;;;
-npc_food_trader;npc_food_trader;npc_food_trader;npc_food_trader;npc_food_trader;;;;npc_food_trader
-;Хлеб, мясо, овощи!;Bread, meat, vegetables!;好肉！蔬菜！面包啦！;Brot, Fleisch, Gemüse!;;;;Chleb! Mięso! Warzywa!
-;Налетай! Дешевле не бывает!;Over here! The cheapest prices!;快来买啊，谁家都没我们家便宜！;Hier drüben! Die günstigsten Preise!;;;;Tutaj! Najniższe ceny!
-npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;;;;npc_food_trader_end
-;;;;;;;;
-npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;;;;npc_vegetable_trader
-;Овощи! Вкусные овощи!;Vegetables! Delicious vegetables!;蔬菜！蔬菜！可口蔬菜啦！;Gemüse! Köstliches Gemüse!;;;;Warzywa! Świeże jeszcze warzywa!
-;Кому свежих овощей?;Who wants to buy fresh vegetables?;新鲜蔬菜，快来买啊！;Wer möchte frisches Gemüse kaufen?;;;;Kto chce kupić świeże warzywa?
-npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;;;;npc_vegetable_trader_end
-;;;;;;;;
-npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;;;;npc_fruit_trader
-;Фрукты - спелее не бывает!;Only the ripest fruit!;果子都熟透了，快来买呀！;Nur die reifsten Früchte!;;;;Tylko smakowite owoce!
-;Наливные яблоки! Сочные груши!;Shiny apples! Juicy pears!;苹果！梨啊！新鲜的啊！;Glänzende Äpfel! Saftige Birnen!;;;;Soczyste gruszki! Czyściutkie jabłka!
-npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;;;;npc_fruit_trader_end
-;;;;;;;;
-npc_butcher;npc_butcher;npc_butcher;npc_butcher;npc_butcher;;;;npc_butcher
-;Свежее мясо! Налетай!;Fresh meat! Buy fresh meat!;鲜肉了喂！来买肉了喂！;Frisches Fleisch! Kauft Frischfleisch!;;;;Świeże mięso! Kup świeże mięso!
-;Подсказать кусок пожирнее?;Want to buy a fatter chunk?;想买肥一点的肉吗？;Wilst du ein dickeres Stück kaufen?;;;;Chcesz kupić tłustą goloneczkę?
-;Мясо! Колбасы! Окорока!;Meat! Sausage! Ham!;鲜肉！香肠！火腿！;Fleisch! Wurst! Schinken!;;;;Mięso! Kiełbasy! Szynka!
-npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end;;;;npc_butcher_end
-;;;;;;;;
-npc_smith;npc_smith;npc_smith;npc_smith;npc_smith;;;;npc_smith
-;Что-то справить или починить?;Need something hammered?;有什么需要敲打的吗？;Muss irgendetwas gehämmert werden?;;;;Coś ci wyklepać?
-;Никак клинок затупился?;Got blade needing sharpening?;要磨刀磨剑吗？;Hast du eine Klinge, die geschärft werden muss?;;;;Masz miecz wymagający naostrzenia?
-npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end;;;;npc_smith_end
-;;;;;;;;
-npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter;;;;npc_сarpenter
-;Лук погнулся или щит в щепки?;Crooked bow or shattered shield?;弓变形了？还是盾牌烂了？;Krummer Bogen oder zerbrochener Schild?;;;;Złamany łuk albo uszkodzona tarcza?
-;Сейчас поглядим, чего тебе надобно;I'll get to you in a moment;买东西还是修东西？;Ich werde gleich zu dir kommen.;;;;Zaraz do ciebie wrócę
-npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;;;;npc_сarpenter_end
-;;;;;;;;
-npc_tailor;npc_tailor;npc_tailor;npc_tailor;npc_tailor;;;;npc_tailor
-;Дай-ка угадаю - снова рубаху залатать?;Let me guess - want me to patch your shirt?;我猜你是要补衣服吧？;Lass mich raten - soll ich dein Hemd flicken?;;;;Niech zgadnę? Podarte gacie?
-;Опять сшить чего?;Need something sewn?;有什么要缝的吗？;Muss etwas genäht werden?;;;;Trzeba coś uszyć?
-;Ну и где прореха?;Well then, where is the tear?;什么地方开口了？;Nun denn, wo ist der Riss?;;;;No dobrze, gdzie się rozdarło?
-npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end;;;;npc_tailor_end
-;;;;;;;;
-npc_elder;npc_elder;npc_elder;npc_elder;npc_elder;;;;npc_elder
-;Ну-с?;Well?;嗯？;Nun?;;;;Well?
-;Контракт взять или за наградой?;Are you here about the contract?;来找活儿的还是来领赏的？;Bist du wegen des Auftrags hier?;;;;Are you here about the contract?
-;Моё почтение.;Always a pleasure.;不用客气。;Immer wieder ein Vergnügen.;;;;Always a pleasure.
-;Ты по какому делу?;Got business here?;有什么事情吗？;Geschäftlich hier?;;;;Got business here?
-;Что-то требуется?;Do you need something?;什么事情？;Brauchst du etwas?;;;;Do you need something?
-npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end;;;;npc_elder_end
-;;;;;;;;
-npc_guard;npc_guard;npc_guard;npc_guard;npc_guard;;;;npc_guard
-;Проходи, не задерживайся;Move along.;让一下。;Weitergehen.;;;;Ruszaj się.
-;Ты это... не вздумай чудить;You... don't try funny business;老实点。;Du... versuche keine krummen Touren.;;;;Ty... nie próbuj głupich rzeczy
-;Наёмники... видали мы наёмников...;Mercenaries... We know your kind;雇佣兵……没一个老实的。;Söldner... Wir kennen deine Art;;;;Najemnicy... Znamy takich jak ty...
-;И без наёмников справляемся...;We don't need no mercenaries around here;我们不需要雇佣兵;Wir brauchen hier keine Söldner;;;;Nie potrzeba nam tutaj najemników
-;А ты ещё кто?;And who are you supposed to be?;你是哪路高人？;Und wer sollst du sein?;;;;I kim próbujesz być?
-;Что, снова наёмник?;What, another one?;啥，又来了一个？;Was, noch einer?;;;;Co, jeszcze jeden?!
-;Иди себе своей дорогой;Keep going;起开;Weitermachen;;;;Nie przeszkadzaj
-npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end;;;;npc_guard_end
-;;;;;;;;
-npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist;;;;npc_herbalist
-;О, я как раз свежих трав насобирал...;I've just gathered some fresh herbs... Interested?;我刚采了点新鲜的药草……要看看吗？;Ich habe gerade ein paar frische Kräuter gesammelt... Interessiert?;;;;Właśnie zebrałem nieco świeżych ziół, to jak?
-;Ну, рассказывай, что стряслось;Well, tell me what troubles you;遇上什么麻烦了？;Nun, sage mir, was dein Problem ist.;;;;Cóż, powiedz mi o swoich problemach
-;Не боись, всё залечим;Don't worry, will fix you right up;没事，我能给你治好;Keine Sorge, das kriege ich sofort wieder hin;;;;Bez obaw, zaraz to załatwimy.
-;Что-то болит?;Do you hurt anywhere?;身上哪儿疼？;Hast du irgendwo Schmerzen.;;;;Czuje? Czy nie czuje?
-npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;;;;npc_herbalist_end
-;;;;;;;;
-npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;;;;npc_drunkard
-;И-ик!;H-hic!;嗝！;H-hicks!;;;;H-hic!
-;Е-е-есть что п-покрепче?;T-t-tem alguma bebida com você?;你……有，有酒吗？;H-h-hast d-du einen D-drink dabei?;;;;T t tt to jaaak, pieweczko?
-;Э-эй... п-постой...;E-ei ... n-não vá...;诶~诶……别~别走啊……;H-hey... g-geh nicht...;;;;E ee eee... nie odchodź...
-;Д-давай-ка лучше выпьем...; V-vamos beber...;喝……！;L-lass u-uns trinken...;;;;Nn na naaapijmy siem...
-npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;;;;npc_drunkard_end
-;;;;;;;;
-prologue_door;prologue_door;prologue_door;prologue_door;prologue_door;;;;prologue_door
-;Не поддаётся. Заперто с другой стороны.;Não vai ceder. Está trancado do outro lado.;门一动不动，从后面锁上了。;Bewegt sich nicht. Sie ist von der anderen Seite verschlossen.;;;;Nie ruszy. Zamknięte od drugiej strony.
-prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;;;;prologue_door_end
-;;;;;;;;
-hat_line;hat_line;hat_line;hat_line;hat_line;;;;hat_line
-;Хм... Хм, хм, хм...;Hmm... Hmm, hmm, hmm...;唔……唔，唔，唔……;Hmm... Hmm, hmm, hmm...;;;;Hmm... Hmm, hmm, hmm...
-;Лунный Ковен или Тернистый Ковен? Хм...;A convenção da Lua ou a convenção de Espinhos? Hmm...;月亮女院还是荆棘女院？唔……;Der Mond-Hexenzirkel oder der Dornen-Hexenzirkel? Hmmm....;;;;Księżycowy Sabat czy Cierniowy Sabat...
-;Хм... Прошлая хозяйка была умнее...;Hmm ... Minha amante anterior era mais inteligente...;唔……前面那个聪明一点……;Hmm... Meine frühere Herrin war schlauer...;;;;Hmm... Mój poprzedni kochanek był mądrzejszy...
-;Какое тяжёлое решение...;Uma escolha difícil...;真难选……;Eine schwierige Wahl...;;;;Trudny wybór...
-;Хм... Может быть Змеиный Ковен?..;Hmm... Talvez a convenção da Serpente?..;唔……要不就毒蛇女院吧？;Hmm... Vielleicht der Hexenzirkel der Schlange?...;;;;Hmm... A może Sabat Węża?
-hat_line_end;hat_line_end;hat_line_end;hat_line_end;hat_line_end;;;;hat_line_end
-;;;;;;;;
-abbey_door;abbey_door;abbey_door;abbey_door;abbey_door;;;;abbey_door
-;Заперто. Без ключа не открыть.;Está trancado. Eu preciso de uma chave para abri-lo.;门锁上了，有钥匙才打得开。;Abgeschlossen. Ich benötige den Schlüssel;;;;Zamknięte. Potrzebny mi klucz.
-abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;;;;abbey_door_end
-;;;;;;;;
-npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;;;;npc_guard_sergeant
-;Зачем пожаловал?;Precisa de alguma coisa?;干什么？;Brauchst du etwas?;;;;Jakaś sprawa?
-npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;;;;npc_guard_sergeant_end
-;;;;;;;;
-player_bed;player_bed;player_bed;player_bed;player_bed;;;;player_bed
-;Сначала мне нужно расплатиться с трактирщиком.;Eu preciso pagar o estalajadeiro primeiro.;房钱还没给旅店老板。;Ich muss erst den Gastwirt bezahlen.;;;;Najpierw muszę zapłacić karczmarzowi.
-player_bed_end;player_bed_end;player_bed_end;player_bed_end;player_bed_end;;;;player_bed_end
-;;;;;;;;
-player_shout;player_shout;player_shout;player_shout;player_shout;;;;player_shout
-;Эй!;Hey!;喂！;Hey!;;;;Hej!
-player_shout_end;player_shout_end;player_shout_end;player_shout_end;player_shout_end;;;;player_shout_end
-;;;;;;;;
-speech_end;speech_end;speech_end;speech_end;speech_end;;;;speech_end
-;;;;;;;;
-;CHANCE;CHANCE;CHANCE;CHANCE;;;;CHANCE
-kill;10;10;10;10;;;;10
-silence_kill;20;20;20;20;;;;20
-crit_kill;100;100;100;100;;;;100
-shoot_kill;10;10;10;10;;;;10
-crit_hit;25;25;25;25;;;;25
-light_wound;100;100;100;100;;;;100
-mid_deep_wound;100;100;100;100;;;;100
-mid_deep_wound_torso;100;100;100;100;;;;100
-mid_deep_wound_leg;100;100;100;100;;;;100
-mid_deep_wound_head;100;100;100;100;;;;100
-physical_buff;8;8;8;8;;;;8
-physical_debuff;8;8;8;8;;;;8
-mental_buff;8;8;8;8;;;;8
-mental_debuff;8;8;8;8;;;;8
-hunger;25;25;25;25;;;;25
-thirsty;25;25;25;25;;;;25
-pain;25;25;25;25;;;;25
-intoxication;25;25;25;25;;;;25
-bleeding;50;50;50;50;;;;50
-lock_pick;50;50;50;50;;;;50
-break_door;15;15;15;15;;;;15
-trap_find;20;20;20;20;;;;20
-trap_hit;50;50;50;50;;;;50
-trap_disarm;75;75;75;75;;;;75
-trap_avoid;100;100;100;100;;;;100
-container;10;10;10;10;;;;10
-optimism;100;100;100;100;;;;100
-heroism;100;100;100;100;;;;100
-second_wind;100;100;100;100;;;;100
-prudence;100;100;100;100;;;;100
-;;;;;;;;
-vampire_attack;8;8;8;8;;;;8
-vampire_death;15;15;15;15;;;;15
-vampire_skill;15;15;15;15;;;;15
-vampire_suspicious;25;25;25;25;;;;25
-vampire_hostile;25;25;25;25;;;;25
-vampire_injury;100;100;100;100;;;;100
-vampire_ally_death;12;12;12;12;;;;12
-vampire_lord_alarm;100;100;100;100;;;;100
-;;;;;;;;
-undead_attack;10;10;10;10;;;;10
-undead_death;15;15;15;15;;;;15
-undead_skill;10;10;10;10;;;;10
-undead_movement;10;10;10;10;;;;10
-undead_hostile;33;33;33;33;;;;33
-undead_injury;100;100;100;100;;;;100
-necromancer_alarm;100;100;100;100;;;;100
-;;;;;;;;
-brigand_attack;15;15;15;15;;;;15
-brigand_death;15;15;15;15;;;;15
-brigand_skill;15;15;15;15;;;;15
-brigand_hostile;75;75;75;75;;;;75
-brigand_injury;100;100;100;100;;;;100
-brigand_ally_death;25;25;25;25;;;;25
-;;;;;;;;
-npc_rain1;9;9;9;9;;;;9
-npc_rain2;12;12;12;12;;;;12
-npc_rain3;9;9;9;9;;;;9
-npc_peasant;15;15;15;15;;;;15
-npc_peasant_male;15;15;15;15;;;;15
-npc_lowhp;8;8;8;8;;;;8
-npc_trader;15;15;15;15;;;;15
-npc_food_trader;15;15;15;15;;;;15
-npc_vegetable_trader;15;15;15;15;;;;15
-npc_fruit_trader;15;15;15;15;;;;15
-npc_butcher;15;15;15;15;;;;15
-npc_smith;15;15;15;15;;;;15
-npc_сarpenter;15;15;15;15;;;;15
-npc_tailor;15;15;15;15;;;;15
-npc_elder;15;15;15;15;;;;15
-npc_guard;15;15;15;15;;;;15
-npc_herbalist;15;15;15;15;;;;15
-npc_drunkard;15;15;15;15;;;;15
-npc_guard_sergeant;25;25;25;25;;;;25
-hat_line;0.25;0.25;0.25;0.25;;;;0.25
-;CHANCE_end;CHANCE_end;CHANCE_end;CHANCE_end;;;;CHANCE_end
+Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Português;Polski
+speech;speech;speech;;speech;speech;speech;speech;speech;speech
+;;;;;;;;;
+kill;kill;kill;kill;kill;kill;kill;kill;kill;kill
+;Ну, кто следующий?!;So, who's next?!;下一个是谁？！;Also, wer ist der Nächste?!;;;;;No, kto następny?!
+;Доволен?!;Satisfied?!;满意了吗？！;Zufrieden?!;;;;;Zadowolony?!
+;Победа!;Victory!;胜利！;Sieg!;;;;;Zwycięstwo!
+;Умри!;Die!;去死吧！;Stirb!;;;;;Giń!
+;Сгинь!;Get lost!;死吧!;Hau ab!;;;;;Umrzyj!
+;Да!;Yes!!;好极了！！;Ja!!;;;;;Tak!
+;Проси пощады!;Beg for mercy!;求饶吧！;Bettel um Gnade!;;;;;Błagaj o litość!
+;Твоё время вышло!;Your time is up!;你的死期到了！;Deine Zeit ist abgelaufen!;;;;;Twój czas nadszedł!
+;Сам напросился!;You deserve this!;死有余辜！;Das hast du verdient!;;;;;Należy ci się!
+;И это всё?..;Is that all?..;就这么点本事？;Ist das alles?..;;;;;Czy to wszystko?
+;Не ты первый, не ты последний;Not the first, not the last;多你一个不多，少你一个不少。;Nicht der erste, nicht der letzte;;;;;Nie pierwszy, nie ostatni!
+;Получи по заслугам!;Serves you right!;罪有应得！;Geschieht dir recht!;;;;;Dobrze ci służy!
+;Одним меньше!;One down!;干掉一个！;Einer erledigt!;;;;;Jeden leży!
+;Ещё одна победа!;Another victory!;又干掉一个！;Noch ein Sieg!;;;;;Kolejne zwycięstwo!
+;Предсказуемо.;Predictable.;意料之中。;Vorhersehbar.;;;;;Przwidywalne...
+;Так будет с каждым!;Who's next?!;再来啊！;Wer ist der Nächste?!;;;;;Kto następny?
+;Ха!;Ha!;哈！;Ha!;;;;;Ha!
+;Будет что рассказать!;Something to tell!;开心了吧？！;Etwas zum Erzählen!;;;;;Powiedziałbym ci coś!
+;Будет что вспомнить!;Something to remember!;高兴了吧？！;Etwas zum Erinnern!;;;;;Coś do zapamiętania!
+;Вот и всё!;It's over!;搞定！;Es ist vorbei!;;;;;To koniec!
+;Славная победа!;Glorious victory!;大获全胜！;Glorreicher Sieg!;;;;;Wspaniałe zwycięstwo!
+;Скоро собьюсь со счёту!;I'm losing count!;这是第几个了？！;Ich kann nicht mehr mitzählen!;;;;;Przestałem liczyć!
+;Ничему вас жизнь не учит!;You just don't learn!;不长记性！;Du lernst einfach nicht, was?;;;;;Nic się nie nauczyłeś!
+kill_end;kill_end;kill_end;kill_end;kill_end;kill_end;kill_end;kill_end;kill_end;kill_end
+;;;;;;;;;
+silence_kill;silence_kill;silence_kill;silence_kill;silence_kill;silence_kill;silence_kill;silence_kill;silence_kill;silence_kill
+;Только не дергайся...;Don't twitch...;别动弹……;Keine Bewegung...;;;;;Nie marudź...
+;Т-с-с, тихо...;Hush...;嘘……;Ruhig...;;;;;Pszzz...
+;Тише, тише...;Quiet now...;安静点……;Ruhe jetzt...;;;;;Cicho...
+;Не вставай...;Don't get up...;躺着吧……;Nicht aufstehen...;;;;;Nie wstawaj...
+;Не шевелись...;Don't move...;别动……;Keine Bewegung...;;;;;Nie ruszaj się...
+;Т-ш-ш-ш...;Shhh...;嘘嘘……;Psst...;;;;;Shhh...
+;Пусть это будет нашей тайной..;Let it be our secret...;别跟其他人说……;Es soll unser Geheimnis sein...;;;;;Niech to będzie nasz sekret...
+;Надеюсь, никто не слышал...;Hope no one heard...;希望没人听见……;Hoffentlich hat es niemand gehört...;;;;;Oby nikt nie słyszał...
+;Лежи-лежи...;Lie down...;躺好了……;Leg dich hin...;;;;;Połóż się...
+;Красиво провернул...;Nice...;好……;Nett...;;;;;Nieźle...
+;Одной проблемой меньше...;One less problem...;少了一个麻烦……;Ein Problem weniger...;;;;;Jeden problem mniej...
+silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end;silence_kill_end
+;;;;;;;;;
+crit_kill;crit_kill;crit_kill;crit_kill;crit_kill;crit_kill;crit_kill;crit_kill;crit_kill;crit_kill
+;Умри! Умри! Умри!;Die! Die! Die!;死吧！死吧！去死吧！;Stirb! Stirb! Stirb!;;;;;Giń! Giń! Giń!
+;Смерть!;Death!;拿命来！;Tod!;;;;;Śmierć!
+;Сдохни!;Drop dead!;受死吧！;Fall tot um!;;;;;Główka poszła!
+;Сукин сын!;You bastard!;你个畜生！;Du Bastard!;;;;;Ty bękarcie!
+;Голову с плеч!;Off with your head!;交出首级！;Runter mit deinem Kopf!;;;;;Łeb ci odpadł!
+;Получай, ублюдок!;Take that, you bastard!;畜生，受死吧！;Nimm dies, du Bastard!;;;;;Masz solidnie!
+;Не ждал?!;Didn't expect that?!;没有料到吗？！;Das hast du wohl nicht erwartet?;;;;;Spodziewałeś się?!
+;Подавись!;Eat this!;接好了！;Friss das!;;;;;Żryj to!
+;На!;Take that!;接招！;Nimm das!;;;;;Masz!
+;Да, получи!;Get this!;接住了！;Hör dir das an!;;;;;Złap to!
+;Вот так!;That's right!;这就对了！;Ganz recht!;;;;;Właśnie tak!
+;Расскажешь - не поверят!;What a story to tell!;爽！;Was für eine Geschichte!;;;;;Co za historia!
+crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end;crit_kill_end
+;;;;;;;;;
+shoot_kill;shoot_kill;shoot_kill;shoot_kill;shoot_kill;shoot_kill;shoot_kill;shoot_kill;shoot_kill;shoot_kill
+;В яблочко!;Bullseye!;正中靶心！;Volltreffer!;;;;;Oczko!
+;Лови!;Catch!;接着！;Fang!;;;;;Łap!
+;Попал!;Hit!;中了！;Treffer!;;;;;Dostałeś!
+;Есть!;Yes!;好！;Ja!;;;;;Tak!
+;Попадание!;On the mark!;正中要害！;Auf den Punkt!;;;;;Dokładnie gdzie chciałem!
+;Прямо в цель!;Right on the target!;一箭中的！;Genau ins Schwarze!;;;;;Prosto w cel!
+;Ещё одна засечка!;Another notch!;再来一箭！;Noch eine Kerbe!;;;;;Kolejne nacięcie!
+shoot_kill_end;shoot_kill_end;shoot_kill_end;shoot_kill_end;shoot_kill_end;shoot_kill_end;shoot_kill_end;shoot_kill_end;shoot_kill_end;shoot_kill_end
+;;;;;;;;;
+crit_hit;crit_hit;crit_hit;crit_hit;crit_hit;crit_hit;crit_hit;crit_hit;crit_hit;crit_hit
+;Чуть не протянул ноги...;I almost kicked the bucket...;差点就挂了……;Ich hätte fast ins Gras gebissen...;;;;;No niemal kopnąłem w kalendarz!
+;Ты заплатишь за это!;You'll pay for this!;好样的！;Dafür wirst du bezahlen!;;;;;Zapłacisz za to!
+;Вся жизнь пронеслась...;All my life flashed...;命差点丢了……;Mein Leben zog an mir vorbei...;;;;;Całe życie mi mignęło...
+;Это было близко...;That was close...;真险……;Das war knapp...;;;;;To było mocne...
+;Я еще до тебя доберусь!;I'll get you for this!;拿命来！;Dafür kriege ich dich!;;;;;Oberwiesz za to!
+;Ты за это ответишь!;You'll answer for this!;我饶不了你！;Dafür wirst du dich verantworten!;;;;;Odpowiesz za to!
+;Всё, что меня не убивает...;What does not kill me...;既然你没干掉我……;Was mich nicht umbringt...;;;;;Co mnie nie zabije..
+;Я до тебя еще доберусь!;I'll get you!;受死吧！;Ich kriege dich!;;;;;Dooorwę cię!
+;Я с тобой еще поквитаюсь!;I'll get even with you!;我要让你吃点苦头！;Ich werde es dir heimzahlen!;;;;;Poczekaj chwilę!
+crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end;crit_hit_end
+;;;;;;;;;
+light_wound;light_wound;light_wound;light_wound;light_wound;light_wound;light_wound;light_wound;light_wound;light_wound
+;Всего лишь царапина;Just a scratch;小伤;Nur ein Kratzer;;;;;To tylko draśnięcie
+;Бывало и хуже;I've seen worse;这点伤算什么;Ich habe schon Schlimmeres gesehen;;;;;Mogło być gorzej
+;Ничего, затянется;It will heal;过两天就好了;Das wird heilen;;;;;Zagoi się
+;Ранили!;Wounded!;受伤了！;Verwundet!;;;;;Zraniony!
+;Рана!;Injured!;挂彩了！;Verletzt!;;;;;Zraniony!
+light_wound_end;light_wound_end;light_wound_end;light_wound_end;light_wound_end;light_wound_end;light_wound_end;light_wound_end;light_wound_end;light_wound_end
+;;;;;;;;;
+mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound;mid_deep_wound
+;Проклятье!;Curses!;坏了！;Verflucht!;;;;;Cholera!
+;Чёрт побери!;Dammit!;不好！;Verdammt!;;;;;Niech to!
+;Чёрт!;Damn!;糟糕！;Mist!;;;;;Szlag!
+;Ох, проклятье!;Oh, curses!;哎呀，坏了！;Oh, verflixt.;;;;;Ah, zabolało!
+mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end;mid_deep_wound_end
+;;;;;;;;;
+mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso;mid_deep_wound_torso
+;Мое ребро!;My rib!;伤到肋骨了！;Mein Rippe!;;;;;Moja klata!
+;Меня... задели...;They... got me good...;身上……挨了他们一下……;Sie...haben mich erwischt...;;;;;Oni... Dorwali mnie...
+;Кишки вываливаются...;My guts are falling out...;肠子快要滑出来了……;Meine Gedärme hängen raus...;;;;;Flaki mi wypadają!
+mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end;mid_deep_wound_torso_end
+;;;;;;;;;
+mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg;mid_deep_wound_leg
+;Чёрт! Моя нога!;Damn! My leg!;不好！伤到腿了！;Verdammt! Mein Bein!;;;;;Cholera! Moja noga!
+;Ай! Моё колено!;Ah! My knee!;啊！我的膝盖！;Ah! Mein Knie!;;;;;Ah! Moje kolano!
+;Ну и хруст...;Cracked...;骨折了……;Gebrochen...;;;;;Strzaskane...
+mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end;mid_deep_wound_leg_end
+;;;;;;;;;
+mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand;mid_deep_wound_hand
+;Я руку не чувствую!;I can't feel my arm!;胳膊没有知觉了！;Ich kann meinen Arm nicht spüren!;;;;;Nie czuję ręki!
+;Мои пальцы!;My fingers!;手指伤了！;Meine Finger!;;;;;Moje palce!
+;Только не рука!;Not my arm!;我的胳膊！;Nicht mein Arm!;;;;;Nie, nie moje ramię!
+;Черт, руку сломали!;Damn, my arm's broken!;坏了，胳膊断了！;Verdammt, mein Arm ist gebrochen.;;;;;Cholera, złamana ręka!
+mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end;mid_deep_wound_hand_end
+;;;;;;;;;
+mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head;mid_deep_wound_head
+;В ушах... звенит...;My ears... ringing...;耳朵……嗡嗡的……;Meine Ohren...klingeln...;;;;;Moje uszy... dzwonią...
+;Г-где я?;Wh-where am I?;这~呃是哪儿？;W-wo bin ich?!;;;;;Gdzie, gdzie jestem?!
+;Что со м-мной?;Wh-what happened?;吃~出什么事了？;W-was ist passiert?;;;;;Ah, co się stało?!
+;Ч-что с-стряслось?;Wh-what's going on?;啧~怎么回事？;W-was passiert hier?;;;;;Co, co, co się stao?!
+;Всё... кружится...;It's all... spinning...;东西怎么都……转来转去……;Es...dreht sich alles...;;;;;Wszystko, wszystko waruje.
+;Кровь заливает глаза...;Blood in my eyes...;我眼里出血了……;Blut in meinen Augen...;;;;;Krew przed oczyma...
+;В глазах темнеет...;Everything goes dark...;眼前发黑……;Alles wird dunkel...;;;;;Wszystko ciemnieje...
+;Всё двоится...;I'm seeing double...;我现在看东西重影……;Ich sehe doppelt...;;;;;Widzę podwójnie...
+;М-мысли путаются...;S-so... confused...;讷~脑子……转不动了……;S-so... verwirrend...;;;;;Tak mocno, dziwnie...
+mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end;mid_deep_wound_head_end
+;;;;;;;;;
+physical_buff;physical_buff;physical_buff;physical_buff;physical_buff;physical_buff;physical_buff;physical_buff;physical_buff;physical_buff
+;Так намного лучше!;Much better!;好多了！;Viel besser!;;;;;Dużo lepiej!
+;Всегда бы так!;Ah, good!;哈哈，好了！;Ah, gut!;;;;;Ah, świetnie!
+;Чувствую себя получше!;I feel better!;感觉好多了！;Ich fühle mich besser!;;;;;Czuję się lepiej!
+physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end;physical_buff_end
+;;;;;;;;;
+physical_debuff;physical_debuff;physical_debuff;physical_debuff;physical_debuff;physical_debuff;physical_debuff;physical_debuff;physical_debuff;physical_debuff
+;Этого еще не хватало...;Oh crap...;坏了……;Oh, verdammt...;;;;;Ja pierdolę...
+;Только не это...;Not this again...;又是这样……;Nicht schon wieder...;;;;;Nie znowu...
+;Ну нет...;Oh, no...;不好……;Oh, nein....;;;;;O, nie...
+physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end;physical_debuff_end
+;;;;;;;;;
+mental_buff;mental_buff;mental_buff;mental_buff;mental_buff;mental_buff;mental_buff;mental_buff;mental_buff;mental_buff
+;Какая приятная легкость;Such a pleasant ease of thoughts;神清气爽就是好;Eine so angenehme Leichtigkeit der Gedanken;;;;;Cóż za przyjemne myśli
+;В голове проясняется;My head is clear now;脑子清楚多了;Mein Kopf ist wieder klar.;;;;;Mój umysł jest świeży
+;Я себя недооценивал;I underestimated myself.;我低估自己了;Ich habe mich selbst unterschätzt.;;;;;Nie doceniam się
+mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end;mental_buff_end
+;;;;;;;;;
+mental_debuff;mental_debuff;mental_debuff;mental_debuff;mental_debuff;mental_debuff;mental_debuff;mental_debuff;mental_debuff;mental_debuff
+;Что происходит?..;What's going on?..;这是什么情况？;Was ist hier los?;;;;;Co się dzieje?!
+;Сосредоточься... сосредоточься...;Focus... focus...;集中注意……集中注意力……;Fokus... Fokus...;;;;;Skup się, skup się
+;Я... не понимаю...;I... don't understand...;我……这是怎么回事……;I... verstehe nicht.;;;;;Ja... Nie rozumiem
+mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end;mental_debuff_end
+;;;;;;;;;
+hunger;hunger;hunger;hunger;hunger;hunger;hunger;hunger;hunger;hunger
+;Вот бы хотя бы горстку крошек...;Any breadcrumbs around?..;不知道能不能找到面包屑……;Irgendwelche Brotkrumen hier?..;;;;;Jakieś okruchy dookoła?
+;Как же урчит;My stomach growls;肚子叫得厉害;Mein Bauch grummelt;;;;;Burczy mi w brzuchu
+;Полжизни за краюху хлеба;I'd kill for a chunk of bread...;要是能有面包吃，让我杀人也愿意……;Ich würde töten für ein Stück Brot...;;;;;Zabiłbym za kawałek chleba
+;Еда... Мне нужна еда...;Food... I need food...;饿了……我得吃点东西……;Essen... Ich brauche Essen...;;;;;Jedzenie, potrzebuję jedzenia
+;Всё слабее... и слабее;Getting... weaker...;饿得……受不了了……;Werde... schwächer...;;;;;Słabnę..
+;Наесться бы досыта...;Something to eat...;有没有吃的东西……;Irgendwas zum Essen...;;;;;Coś do jedzenia...
+hunger_end;hunger_end;hunger_end;hunger_end;hunger_end;hunger_end;hunger_end;hunger_end;hunger_end;hunger_end
+;;;;;;;;;
+thirsty;thirsty;thirsty;thirsty;thirsty;thirsty;thirsty;thirsty;thirsty;thirsty
+;Воды бы...;Need a drink...;我得喝点东西……;Ich brauche einen Drink...;;;;;Potrzebuję wody...
+;Воды...;Water...;水……;Wasser...;;;;;Wody...
+;Во рту совсем пересохло...;My mouth is so dry...;嘴太干了……;Mein Mund ist so trocken...;;;;;Sucho w gardle...
+;Хотя бы каплю влаги...;A drop of water...;哪怕就一口水都行……;Ein Tropfen Wasser...;;;;;Kropla wody...
+;Промочить бы горло...;I need to wet my throat...;我得润润嗓子……;Ich muss meinen Hals befeuchten...;;;;;Muszę zwilżyć usta...
+;Как же... сухо...;So... dry...;好……渴啊……;So... trocken...;;;;;Tak... Sucho...
+;Язык еле ворочается...;Can't feel my tongue...;渴得舌头都感觉不到了……;Ich kann meine Zunge nicht spüren...;;;;;Nie czuję języka...
+thirsty_end;thirsty_end;thirsty_end;thirsty_end;thirsty_end;thirsty_end;thirsty_end;thirsty_end;thirsty_end;thirsty_end
+;;;;;;;;;
+pain;pain;pain;pain;pain;pain;pain;pain;pain;pain
+;За что мне это...;It hurts...;疼……;Es tut weh...;;;;;To boli...
+;Как же... больно...;So... painful...;太……疼了……;So... schmerzhaft...;;;;;Bolesne...
+;Как же болит...;So much... pain...;很……疼……;So viel... Schmerz;;;;;Tak dużo... bólu...
+;Ну и боль...;Pain...;疼啊……;Schmerz...;;;;;Ból...
+;В голове поволока...;My head... spinning...;头……晕晕乎乎……;Mein Kopf.... dreht sich...;;;;;Głowa... mi... wiruje
+;В висках стучит;Temples... pounding...;太阳穴……怦怦直跳……;Schläfen... pochen...;;;;;Cholera, boli.
+;Аа-а-а-ааа...;Aa-a-a-aaargh...;啊啊啊啊啊……;Aa-a-a-aaargh...;;;;;Aa-a-a-aaargh...
+;Так болит...;It hurts so much...;疼得受不了了……;Es tut so weh...;;;;;To strasznie boli...
+pain_end;pain_end;pain_end;pain_end;pain_end;pain_end;pain_end;pain_end;pain_end;pain_end
+;;;;;;;;;
+intoxication;intoxication;intoxication;intoxication;intoxication;intoxication;intoxication;intoxication;intoxication;intoxication
+;Я... отравлен...;I'm... poisoned...;我……中毒了……;Ich... bin vergiftet;;;;;Trucizna...
+;Меня сейчас вывернет наизнанку...;I'm gonna throw up...;要吐了……;Ich muss kotzen...;;;;;Zaraz zwymiotuję
+;Ноги не держат...;My legs are shaking...;我两条腿抖个不停……;Meine Beine zittern...;;;;;Nogi mi się trzęsą
+;Как же тошнит...;I feel so sick...;感觉很难受……;Ich fühle mich so krank...;;;;;Czuję się źle
+;Я вот-вот потеряю сознание...;I'm gonna faint...;我要晕过去了……;Ich werde ohnmächtig...;;;;;Zaraz puszczę pawia
+;Кишки скрутило в узел...;My guts... twisted...;胃里……翻江倒海……;Meine Gedärme... verdreht...;;;;;Moje flaki, chyba się poskręcały
+;Ну и слабость...;So... weak...;身体特别……虚弱……;So... schwach...;;;;;Tak... słaby...
+;Песок в глазах...;Eyes... gritty...;眼睛……像进了沙子……;Augen... sandig...;;;;;Mam piasek przed oczami
+intoxication_end;intoxication_end;intoxication_end;intoxication_end;intoxication_end;intoxication_end;intoxication_end;intoxication_end;intoxication_end;intoxication_end
+;;;;;;;;;
+bleeding;bleeding;bleeding;bleeding;bleeding;bleeding;bleeding;bleeding;bleeding;bleeding
+;Нужно перевязаться...;I need a bandage...;我需要绷带……;Ich brauche einen Verband...;;;;;Potrzebuję bandaża...
+;Всё пропиталось кровью...;I'm soaked in blood...;我浑身都是血……;Ich bin in Blut getränkt...;;;;;Jestem uwalony w krwi...
+;Сколько крови...;So much blood...;这么多血……;So viel Blut...;;;;;Tak dużo krwi...
+;Всё течёт и течёт...;Blood keeps flowing...;血一直没停……;Das Blut fließt weiter...;;;;;Krew wciąż płynie...
+;Силы оставляют...;I feel weak...;感觉身体很虚……;Ich fühle mich schwach...;;;;;Słabo się czuję
+;Где же бинт...;Where did I put that bandage...;那卷绷带我放哪去了……;Wo habe ich den Verband hingelegt...;;;;;Gdzie ja wsadziłem ten bandaż
+;Нужно перетянуть рану...;I need to close the wound...;我得把给自己包扎一下……;Ich muss die Wunde schließen...;;;;;Musze zatrzymać krwawienie
+;Я так долго не протяну...;I'm not gonna last long like this...;我这样子的话，恐怕撑不了多久……;So werde ich nicht lange durchhalten...;;;;;Nie wytrzymam tak długo
+;Так и хлещет...;Blood... gushing...;血哗哗得……往外涌……;Blut... sprudelt...;;;;;Krew upływa...
+bleeding_end;bleeding_end;bleeding_end;bleeding_end;bleeding_end;bleeding_end;bleeding_end;bleeding_end;bleeding_end;bleeding_end
+;;;;;;;;;
+lock_pick;lock_pick;lock_pick;lock_pick;lock_pick;lock_pick;lock_pick;lock_pick;lock_pick;lock_pick
+;Таким замком меня не остановить!;This lock won't stop me!;这把锁难不住我！;Dieses Schloss wird mich nicht aufhalten!;;;;;Ten zamek mnie nie powstrzyma!
+;Надеюсь, там что-то ценное...;I hope there's something of value...;希望里面有值钱的玩意……;Ich hoffe, es gibt etwas von Wert...;;;;;Oby było tu coś cennego...
+;К каждому замку найдётся подход...;There's a key for every lock...;只要是锁，就有钥匙……;Für jedes Schloss gibt es einen Schlüssel...;;;;;Do każdej dziurki jest jakiś kluczyk
+;Откройся!;Open up!;芝麻开门！;Öffne dich!;;;;;Otwieraj się!
+lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end;lock_pick_end
+;;;;;;;;;
+break_door;break_door;break_door;break_door;break_door;break_door;break_door;break_door;break_door;break_door
+;Тук-тук!;Knock knock!;有人吗？;Klopf, klopf!;;;;;Puk! Puk!
+;Есть кто дома?;Anybody home?;家里有人吗？;Ist jemand zu Hause?;;;;;Ktoś w domu?
+;А вот и я!;Here I am!;你好，是我！;Hier bin ich!;;;;;Oto ja panie i panowie!
+;Не ждали?;Surprise!;给你一个惊喜！;Überraschung!;;;;;Niespodzianka!
+;Добро пожаловать!;Welcome!;欢迎！;Willkommen!;;;;;Dzień dobry!
+break_door_end;break_door_end;break_door_end;break_door_end;break_door_end;break_door_end;break_door_end;break_door_end;break_door_end;break_door_end
+;;;;;;;;;
+trap_find;trap_find;trap_find;trap_find;trap_find;trap_find;trap_find;trap_find;trap_find;trap_find
+;Почти попался...;Close call...;就差一点……;Das war knapp...;;;;;Było blisko...
+;Ха, я же не слепой! / Ха, я же не слепая!;Ha, I'm not blind!;哈，我眼神还可以！;Ha, ich bin nicht blind!;;;;;Ha!
+;Тут нужно быть поосторожней...;Careful here...;这个地方要当心……;Vorsicht hier...;;;;;Ostrożnie...
+;И кто её тут поставил?;Who would set a trap here?;谁会在这种地方布陷阱？;Wer würde hier eine Falle stellen?;;;;;Kto tu to zostawił?
+;Как в это можно попасться?;Who'd be caught by this?;这个陷阱是想坑什么人的？;Wer würde sich davon fangen lassen?;;;;;Kto by się na to nabrał?
+;Не зря я смотрю под ноги!;Watching my step pays off!;小心脚下果然没错！;Auf meine Schritte zu achten zahlt sich aus!;;;;;Patrzenie pod nogi się opłaca!
+trap_find_end;trap_find_end;trap_find_end;trap_find_end;trap_find_end;trap_find_end;trap_find_end;trap_find_end;trap_find_end;trap_find_end
+;;;;;;;;;
+trap_hit;trap_hit;trap_hit;trap_hit;trap_hit;trap_hit;trap_hit;trap_hit;trap_hit;trap_hit
+;Черт!;Crap!;糟糕！;Scheiße!;;;;;Aj!
+;Ай!;Ack!;啊！;Ack!;;;;;Ała!
+;Проклятье, ловушка!;Damn, a trap!;不好，陷阱！;Verdammt, eine Falle!;;;;;Cholera, pułapka!
+;Проклятье!;Curses!;坏了！;Verflucht!;;;;;Niech to!
+;Ловушка!;Trap!;有陷阱！;Falle!;;;;;Pułapka!
+trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end;trap_hit_end
+;;;;;;;;;
+trap_disarm;trap_disarm;trap_disarm;trap_disarm;trap_disarm;trap_disarm;trap_disarm;trap_disarm;trap_disarm;trap_disarm
+;Теперь ты никому не навредишь...;Can't hurt anyone now...;这样就伤不到人了……;Kann niemanden mehr verletzten...;;;;;Nikogo już nie zranisz...
+;Больше никаких подлостей...;No more tricks...;真阴险……;Keine Tricks mehr...;;;;;Bez sztuczek...
+;Теперь играем по-честному!;Fair play now!;玩这种阴的算什么好汉！;Faires Spiel jetzt!;;;;;Graj fair!
+;Почти сработала...;Almost triggered...;差点触发了……;Beinahe ausgelöst...;;;;;Prawie się aktywowała...
+;Обезврежена!;Disarmed!;拆了！;Entschärft!;;;;;Rozbrojona!
+;Глаза боятся, руки делают;What the eyes fear, the hands do;凡事只要动手做，就不会太难;Was die Augen fürchten, tun die Hände;;;;;Sercu nie żal
+;Не так уж и сложно!;Not so hard!;没多麻烦！;Nicht so schwierig!;;;;;Nie było to trudne!
+;Простецкий механизм!;Simple mechanism!;普普通通的机关而已！;Einfacher Mechanismus!;;;;;Prosty mechanizm!
+;Готово!;Done, safe now;行了，安全了;Erledigt, sicher jetzt;;;;;Zrobione, bezpiecznie
+trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end;trap_disarm_end
+;;;;;;;;;
+trap_avoid;trap_avoid;trap_avoid;trap_avoid;trap_avoid;trap_avoid;trap_avoid;trap_avoid;trap_avoid;trap_avoid
+;Не в этот раз!;Not this time!;这次可坑不到我！;Nicht dieses Mal!;;;;;Nie tym razem!
+;Чуть не зацепило!;Almost got me!;差点就踩上了！;Hat mich fast erwischt!;;;;;No praaawie!
+;Повезло!;Lucky!;算我幸运！;Glück gehabt!;;;;;Szczęśliwie!
+;Ловко!;Tricky!;真阴险！;Knifflig!;;;;;Sztuczka!
+;Есть!;Phew!;呼！;Puuh!;;;;;Phuuu!
+;Пронесло!;Close one!;真险！;Das war knapp!;;;;;Blisko!
+trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end;trap_avoid_end
+;;;;;;;;;
+interruption;interruption;interruption;interruption;interruption;interruption;interruption;interruption;interruption;interruption
+;Враг!;Enemy!;有敌人！;Feind!;;;;;Wróg!
+interruption_end;interruption_end;interruption_end;interruption_end;interruption_end;interruption_end;interruption_end;interruption_end;interruption_end;interruption_end
+;;;;;;;;;
+Ambush;Ambush;Ambush;Ambush;Ambush;Ambush;Ambush;Ambush;Ambush;Ambush
+;Засада!;Ambush!;有埋伏！;Überfall!;;;;;Zasadzka!
+Ambush_end;Ambush_end;Ambush_end;Ambush_end;Ambush_end;Ambush_end;Ambush_end;Ambush_end;Ambush_end;Ambush_end
+;;;;;;;;;
+container;container;container;container;container;container;container;container;container;container
+;Так, что тут у нас...;What have we here?..;这里有什么？;Was haben wir denn hier?...;;;;;Co my tu mamy?
+;Нужно всё хорошенько осмотреть...;Let's have a good look...;好好翻一翻……;Schauen wir uns das mal genau an...;;;;;Tylko zerknę...
+;Может хотя бы на этот раз...;Maybe this time?...;这次该能找到什么了吧……;Vielleicht dieses Mal...;;;;;Może tym razem?
+;Здесь могло что-то остаться...;Might still find something...;这里应该有什么东西……;Vielleicht finden wir noch etwas...;;;;;Może coś tu jest...
+;Добыча?;Loot?;有什么发现？;Beute?;;;;;Klamoty?!
+;Порыщем-ка тут...;Let's have a look;看看这里……;Schauen wir mal nach.;;;;;Spójrzmy
+;Что это там?;What's in here?;这里有什么东西？;Was ist hier drin?;;;;;Co jest w środku?
+;Есть чем поживиться?;Anything valuable?;有没有值钱的东西？;Irgendetwas Wertvolles?;;;;;Coś cennego?
+;Должно же мне хоть раз повезти...;Will be lucky eventually...;不会一直都不走运……;Werden irgendwann Glück haben...;;;;;Może się poszczęści...
+container_end;container_end;container_end;container_end;container_end;container_end;container_end;container_end;container_end;container_end
+;;;;;;;;;
+optimism;optimism;optimism;optimism;optimism;optimism;optimism;optimism;optimism;optimism
+;Всё не так уж плохо!;It's not so bad!;没那么糟！;Das ist gar nicht so schlecht!;;;;;Nie tak źle!
+;Неплохой сегодня день!;Not a bad day!;今天还可以！;Kein schlechter Tag!;;;;;Wcale nie taki zły dzień!
+;Ничего, и не такое бывало!;I've had worse!;这点事情算什么！;Ich habe schon Schlimmeres erlebt!;;;;;Mogło być gorzej!
+;Я не промах, со всем справлюсь!;I'm a tough nut to crack!;我可没那么好对付！;Ich bin eine harte Nuss, die zu knacken ist!;;;;;Dam radę zgnieść orzech palcami!
+;И не из таких передряг выпутывались!;I always find a way!;凡事只怕有心人！;Ich finde immer einen Weg!;;;;;Zawsze znajdę drogę!
+;Мне не о чем переживать!;Nothing to worry about!;什么都不用担心！;Kein Grund zur Sorge!;;;;;Bez zmartwień!
+;Всё будет хорошо!;It's gonna be fine!;这都不是事儿！;Es wird schon gut gehen!;;;;;Będzie dobrze!
+;Главное - не падать духом!;Take heart!;能撑住就行！;Nur Mut!;;;;;Komu w drogę, temu czas!
+;Это просто временные трудности!;It's gonna be okay!;这都不算事儿！;Es wird alles gut!;;;;;Wszystko będzie dobrze!
+;Не вешать нос!;Cheer up!;打起精神！;Kopf hoch!;;;;;Jazda z tym!
+;Не стоит унывать!;Chin up! Good things ahead!;坚持就是胜利！;Kopf hoch! Gutes liegt vor uns!;;;;;Głowa do góry! Będzie dobrze!
+;Мне не о чем переживать!;Keep it together!;沉着冷静！;Reiß dich zusammen!;;;;;Trzymam się w kupie!
+;Мне всё по плечу!;I can handle it!;我能搞定！;Ich komme damit klar!;;;;;Dam radę!
+;Всё приложится!;It'll get better!;之后就不会这样了！;Es wird besser werden!;;;;;Ogarnę to aż nadto!
+;Всё перетерпим!;I'll endure!;我撑得住！;Ich werde es aushalten!;;;;;Zniosę to!
+;И не такое проходили!;I've seen worse!;我什么没见过，这算什么！;Ich habe schon Schlimmeres gesehen!;;;;;Mogło być gorzej!
+optimism_end;optimism_end;optimism_end;optimism_end;optimism_end;optimism_end;optimism_end;optimism_end;optimism_end;optimism_end
+;;;;;;;;;
+heroism;heroism;heroism;heroism;heroism;heroism;heroism;heroism;heroism;heroism
+;В бой!;To battle!;战斗！;Auf in den Kampf!;;;;;Do walki!
+;Вперёд!;Onward!;冲啊！;Vorwärts!;;;;;Naprzód!
+;Битва нас рассудит!;The battle shall judge us!;让战斗来决定一切！;Die Schlacht wird uns richten!;;;;;Niech starcie zdecyduje!
+;Каждый получит по заслугам!;They'll get what they deserve!;绝对不会让他们逍遥法外！;Sie werden bekommen, was sie verdienen!;;;;;Dostaną to czego chcą!
+;Трусам здесь не место!;No place for cowards!;这里不是懦夫待的地方！;Kein Platz für Feiglinge!;;;;;Nie ma miejsca dla tchórzy!
+;Ни шагу назад!;No retreat!;绝不后退！;Es gibt keinen Rückzug!;;;;;Ani kroku wstecz!
+;Славная битва!;Glorious battle!;光荣之战！;Eine glorreiche Schlacht!;;;;;Wspaniała walka!
+;Лучше смерть, чем бесчестье!;Death before dishonor!;宁为玉碎！;Tod vor Schande!;;;;;Wolę śmierć niż hańbę!
+;Победа или смерть!;Victory or death!;宁死不屈！;Sieg oder Tod!;;;;;Zwycięstwo albo śmierć!
+heroism_end;heroism_end;heroism_end;heroism_end;heroism_end;heroism_end;heroism_end;heroism_end;heroism_end;heroism_end
+;;;;;;;;;
+second_wind;second_wind;second_wind;second_wind;second_wind;second_wind;second_wind;second_wind;second_wind;second_wind
+;Меня так просто не сломить!;You won't break me so easily!;我可没有那么容易倒下！;So leicht gehe ich nicht drauf!;;;;;Nie dam się złamać!
+;Последний рывок!;One last push!;继续再战！;Ein letzter Stoß!;;;;;Jeszcze jedno pchnięcie!
+;Я не сдамся!;I won't give up!;我不会放弃！;Ich werde nicht aufgeben!;;;;;Nie poddam się!
+;Мой черёд!;My turn!;该我了！;Ich bin dran!;;;;;Moja tura!
+;Силы... возвращаются!;I'm not done!;继续来啊！;Ich bin noch nicht fertig!;;;;;Jeszcze nie koniec!
+;Прилив сил!;Second wind!;元气恢复！;Zweiter Wind!;;;;;Druga szansa!
+;Не в этот раз!;Not this time!;想把我打倒？没门！;Diesmal nicht!;;;;;Nie tym razem!
+;Смерть? Не сегодня!;Death? Not today!;我可不会死得那么容易！;Tod? Heute nicht!;;;;;Śmierć? Nie dzisiaj!
+;Нет, я ещё поживу!;I'll live to see another day!;我少说也能活过今天！;Ich werde noch einen weiteren Tag erleben!;;;;;Jeszcze trochę pożyję!
+second_wind_end;second_wind_end;second_wind_end;second_wind_end;second_wind_end;second_wind_end;second_wind_end;second_wind_end;second_wind_end;second_wind_end
+;;;;;;;;;
+prudence;prudence;prudence;prudence;prudence;prudence;prudence;prudence;prudence;prudence
+;Лучше не спешить...;No need to hurry...;用不着那么匆忙……;Kein Grund zur Eile...;;;;;Bez pośpiechu...
+;Тише едешь - дальше будешь...;Slow and steady...;不用慌，慢一点……;Langsam und ruhig...;;;;;Spokojnie i powoli...
+;Надо быть осторожней...;Gotta be careful...;小心为好……;Man muss vorsichtig sein...;;;;;Trzeba być ostrożnym...
+;Врасплох вы меня не застанете...;They won't catch me by surprise...;不能被他们偷袭了……;Sie werden mich nicht überraschen...;;;;;Nie wezmą mnie z zaskoczenia...
+;Нужно мыслить на два шага вперёд...;Need to think two steps ahead...;不能只考虑眼前……;Ich muss zwei Schritte weiter denken...;;;;;Myśleć na przód...
+;Кажется, у меня есть план...;I think I have a plan...;我有个计划……;Ich glaube, ich habe einen Plan...;;;;;Myślę, że mam plan...
+;Не стоит лезть на рожон...;Let's not get careless...;不能冒冒失失……;Lass uns mal nicht nachlässig werden...;;;;;Lepiej się nie rozpraszać...
+;Главное - предусмотрительность...;Need to stay prudent...;要慎重一点……;Wir müssen bedächtig sein...;;;;;Trzeba ostrożnie...
+;Предельная осторожность...;Careful now...;得小心一点……;Vorsicht jetzt...;;;;;Ostrożnie, teraz...
+prudence_end;prudence_end;prudence_end;prudence_end;prudence_end;prudence_end;prudence_end;prudence_end;prudence_end;prudence_end
+;;;;;;;;;
+vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious;vampire_suspicious
+;Kinaz nagguth...;Kinaz nagguth...;齐纳兹纳谷斯……;Kinaz nagguth...;;;;;Kinaz nagguth...
+;Yog wa'om zi kaggi...;Yog wa'om zi kaggi...;约格瓦‘噢姆其喀基……;Yog wa'om zi kaggi...;;;;;Yog wa'om zi kaggi...
+vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end;vampire_suspicious_end
+;;;;;;;;;
+vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile;vampire_hostile
+;Khedor! Nagguth kaaz!;Khedor! Nagguth kaaz!;柯多！纳谷斯喀啊兹！;Khedor! Nagguth kaaz!;;;;;Khedor! Nagguth kaaz!
+;Yigaz nagguth!;Yigaz nagguth!;以噶兹纳谷斯！;Yigaz nagguth!;;;;;Yigaz nagguth!
+;Ri traak!;Ri traak!;希特拉阿克！;Ri traak!;;;;;Ri traak!
+;Akaz'yoth arum!;Akaz'yoth arum!;阿卡兹’约斯阿陆姆！;Akaz'yoth arum!;;;;;Akaz'yoth arum!
+;Khedor!;Khedor!;柯多！;Khedor!;;;;;Khedor!
+vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end;vampire_hostile_end
+;;;;;;;;;
+vampire_attack;vampire_attack;vampire_attack;vampire_attack;vampire_attack;vampire_attack;vampire_attack;vampire_attack;vampire_attack;vampire_attack
+;Fahar agazi!;Fahar agazi!;法哈阿嘎其！;Fahar agazi!;;;;;Fahar agazi!
+;Yizzan! Yizzan!;Yizzan! Yizzan!;以赞！以赞！;Yizzan! Yizzan!;;;;;Yizzan! Yizzan!
+;Nirr yizzan!;Nirr yizzan!;尼尔以赞！;Nirr yizzan!;;;;;Nirr yizzan!
+;Yizzan agun!;Yizzan agun!;以赞阿衮！;Yizzan agun!;;;;;Yizzan agun!
+;Traaz ta kaagat!;Traaz ta kaagat!;特拉阿兹塔喀阿噶特！;Traaz ta kaagat!;;;;;Traaz ta kaagat!
+;Wa'aruz ta yog'un namar!;Wa'aruz ta yog'un namar!;瓦’阿陆兹塔约格’温纳马！;Wa'aruz ta yog'un namar!;;;;;Wa'aruz ta yog'un namar!
+;Wa'aruz yog yizzan!;Wa'aruz yog yizzan!;瓦’阿陆兹约格以赞！;Wa'aruz yog yizzan!;;;;;Wa'aruz yog yizzan!
+;Wa'an traak wa'aruz yog'un yizzan!;Wa'an traak wa'aruz yog'un yizzan!;瓦’安特拉阿克瓦’阿陆兹约格温以赞！;Wa'an traak wa'aruz yog'un yizzan!;;;;;Wa'an traak wa'aruz yog'un yizzan!
+;Yog yizzan naa kaya'noth Nirrukh!;Yog yizzan naa kaya'noth Nirrukh!;约格以赞纳阿喀亚’尼尔鲁克！;Yog yizzan naa kaya'noth Nirrukh!;;;;;Yog yizzan naa kaya'noth Nirrukh!
+;Nirrukh!;Nirrukh!;尼尔鲁克！;Nirrukh!;;;;;Nirrukh!
+;Kaya'noth Nirrukh!;Kaya'noth Nirrukh!;喀亚’诺斯尼尔鲁克！;Kaya'noth Nirrukh!;;;;;Kaya'noth Nirrukh!
+vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end;vampire_attack_end
+;;;;;;;;;
+vampire_skill;vampire_skill;vampire_skill;vampire_skill;vampire_skill;vampire_skill;vampire_skill;vampire_skill;vampire_skill;vampire_skill
+;Nya'anar, Nirrukh, nya'anar!;Nya'anar, Nirrukh, nya'anar!;尼亚’阿纳，尼尔鲁克，尼亚’阿纳！;Nya'anar, Nirrukh, nya'anar!;;;;;Nya'anar, Nirrukh, nya'anar!
+;Nya'anar'an yizzan!;Nya'anar'an yizzan!;尼亚’阿纳’安以赞！;Nya'anar'an yizzan!;;;;;Nya'anar'an yizzan!
+;Kaya'noth Nirrukh!;Kaya'noth Nirrukh!;喀亚’诺斯尼尔鲁克！;Kaya'noth Nirrukh!;;;;;Kaya'noth Nirrukh!
+vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end;vampire_skill_end
+;;;;;;;;;
+vampire_death;vampire_death;vampire_death;vampire_death;vampire_death;vampire_death;vampire_death;vampire_death;vampire_death;vampire_death
+;Yigaz'an... yak... tadur...;Yigaz'an... yak... tadur...;以噶兹’安……亚克……塔杜……;Yigaz'an... yak... tadur...;;;;;Yigaz'an... yak... tadur...
+;Naggud kyothar... wa ramun namar...;Naggud kyothar... wa ramun namar...;纳谷得科约萨……瓦拉门纳马……;Naggud kyothar... wa ramun namar...;;;;;Naggud kyothar... wa ramun namar...
+;Khar'om... aganuk...;Khar'om... aganuk...;卡’荣……阿噶努克……;Khar'om... aganuk...;;;;;Khar'om... aganuk...
+;Wa... namar...;Wa... namar...;瓦……纳马……;Wa... namar...;;;;;Wa... namar...
+;Namar... Nirrukh...;Namar... Nirrukh...;纳马……尼尔鲁克……;Namar... Nirrukh...;;;;;Namar... Nirrukh...
+vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end;vampire_death_end
+;;;;;;;;;
+vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death;vampire_ally_death
+;Yiggaz'uth! Khar yiggaz'uth!;Yiggaz'uth! Khar yiggaz'uth!;以噶兹’乌斯！卡以噶兹’乌斯！;Yiggaz'uth! Khar yiggaz'uth!;;;;;Yiggaz'uth! Khar yiggaz'uth!
+;Waruz fyah!;Waruz fyah!;瓦陆兹费阿！;Waruz fyah!;;;;;Waruz fyah!
+;Khar namar'uth!;Khar namar'uth!;卡纳马’乌斯！;Khar namar'uth!;;;;;Khar namar'uth!
+vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end;vampire_ally_death_end
+;;;;;;;;;
+vampire_injury;vampire_injury;vampire_injury;vampire_injury;vampire_injury;vampire_injury;vampire_injury;vampire_injury;vampire_injury;vampire_injury
+;Ziggar!;Ziggar!;其噶！;Ziggar!;;;;;Ziggar!
+;Nugg'yizzan karuk!;Nugg'yizzan karuk!;努哥’以赞喀陆克！;Nugg'yizzan karuk!;;;;;Nugg'yizzan karuk!
+;Yizzan'ziggar!;Yizzan'ziggar!;以赞’其噶！;Yizzan'ziggar!;;;;;Yizzan'ziggar!
+vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end;vampire_injury_end
+;;;;;;;;;
+vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm;vampire_lord_alarm
+;Nirrukh!;Nirrukh!;尼尔鲁克！;Nirrukh!;;;;;Nirrukh!
+;Yog yizzan naa kaya'noth Nirrukh!;Yog yizzan naa kaya'noth Nirrukh!;约格以赞纳阿喀亚’诺斯尼尔鲁克！;Yog yizzan naa kaya'noth Nirrukh!;;;;;Yog yizzan naa kaya'noth Nirrukh!
+;Yanur yizzan? Mizu'naad.;Yanur yizzan? Mizu'naad.;亚努以赞？米祖’纳阿得。;Yanur yizzan? Mizu'naad.;;;;;Yanur yizzan? Mizu'naad.
+;Traaz ta kaagat, karuk!;Traaz ta kaagat, karuk!;特拉阿兹塔卡阿噶特，卡鲁克！;Traaz ta kaagat, karuk!;;;;;Traaz ta kaagat, karuk!
+;Yigaz! Yigaz!;Yigaz! Yigaz!;以噶兹！以噶兹！;Yigaz! Yigaz!;;;;;Yigaz! Yigaz!
+vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end;vampire_lord_alarm_end
+;;;;;;;;;
+undead_hostile;undead_hostile;undead_hostile;undead_hostile;undead_hostile;undead_hostile;undead_hostile;undead_hostile;undead_hostile;undead_hostile
+;замечен... враг...;enemy... detected...;发现……敌人……;Feind... entdeckt...;;;;;wróg... wykrywy...
+;убить... врага...;kill... enemy...;杀……敌人……;töten... Feind...;;;;;zabić... wroga...
+;тревога... тревога...;alarm... alarm...;敌人……注意……;Alarm... Alarm...;;;;;alarm... alarm...
+;к... оружию...;to... arms...;准备……战斗……;...zu... den Waffen...;;;;;do... broni...
+undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end;undead_hostile_end
+;;;;;;;;;
+undead_attack;undead_attack;undead_attack;undead_attack;undead_attack;undead_attack;undead_attack;undead_attack;undead_attack;undead_attack
+;тебе... приказано... умереть...;you... must... die...;去……死……;Du... musst... sterben...;;;;;ty... musisz... zginąć...
+;убивать...;kill...;杀……;töten...;;;;;zabić...
+;уничтожить...;destroy...;干掉……;vernichten...;;;;;zniszczyć...
+;подавить... сопротивление...;crush... all... resistance...;粉碎……所有……抵抗……;...allen... Widerstand... zerschlagen...;;;;;zgnieść... cały... opór...
+;слушать... приказ...;obey... order...;服从……命令……;gehorchen... Befehl...;;;;;słuchać... rozkazów...
+;нести... смерть...;bring... death...;带来……死亡……;bringen... Tod...;;;;;przynieść... śmierć...
+;лишить... жизни...;take... life...;夺走……生命……;nehmen... Leben...;;;;;zabrać... życie...
+undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end;undead_attack_end
+;;;;;;;;;
+undead_skill;undead_skill;undead_skill;undead_skill;undead_skill;undead_skill;undead_skill;undead_skill;undead_skill;undead_skill
+;я... подчиняюсь...;I... obey...;遵……命……;Ich... gehorche...;;;;;Ja... słucham...
+;воля... повелителя;master's... will...;主人的……意志……;des Meisters... Willen...;;;;;woli... mistrza...
+;слушаюсь... владыку...;obey... master...;服从……主人……;gehorchen... Meister...;;;;;słuchać... mistrza...
+;повинуюсь... хозяину...;serve... master...;听从……主人……号令……;dienen... Meister...;;;;;służyć... mistrzowi...
+;исполняю... приказ...;execute... order...;执行……命令……;Ausführen... Befehl...;;;;;wykonać... rozkaz...
+undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end;undead_skill_end
+;;;;;;;;;
+undead_movement;undead_movement;undead_movement;undead_movement;undead_movement;undead_movement;undead_movement;undead_movement;undead_movement;undead_movement
+;должен... идти...;must... go...;不得不……去……;muss... gehen...;;;;;muszę... iść...
+;я... помню...;I... remember...;我……记得……;Ich... erinnere mich...;;;;;ja... pamiętam...
+;слушаюсь...;I... obey...;我……遵命……;Ich... gehorche...;;;;;Ja... słucham...
+;прикрыть... фланги...;cover... flanks...;掩护……两翼……;abdecken... Flanken...;;;;;chronić... flanki...
+;память... мешает...;memory... hinders...;记忆……妨碍……;die Erinnerung... behindert...;;;;;pamięć... zanika...
+;да... повинуюсь...;obedience...;服从……;Gehorsam...;;;;;posłuszeństwo...
+undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end;undead_movement_end
+;;;;;;;;;
+undead_injury;undead_injury;undead_injury;undead_injury;undead_injury;undead_injury;undead_injury;undead_injury;undead_injury;undead_injury
+;это... не поможет...;this... won't help...;这……又怎样……;das... wird nicht helfen...;;;;;to... nie pomoże...
+;увечье...;injury...;受伤……;Verletzung...;;;;;rana...
+;бренное... тело...;frail... body...;肉体……脆弱……;gebrechlicher... Körper...;;;;;wątłe... ciało...
+;таким... не остановить...;this... won't stop...;这……又如何……;das... wird nicht aufhören...;;;;;to... nie powstrzyma...
+;это... бесполезно...;it is... useless...;没有用……;es ist... nutzlos...;;;;;to... bezużyteczne...
+;ещё... немного...;need... more...;再……来……;brauche... mehr...;;;;;potrzeba... więcej...
+;сломанные... кости...;bones... broken...;骨头……断了……;Knochen... gebrochen...;;;;;kości... złamane...
+;хруст... костей...;bones... crack...;骨折……;Knochen ... Risse ...;;;;;kości... łamią...
+;избавь... меня...;release... me...;救……我……;lass... mich...;;;;;wypuść... mnie...
+;стоять... до последнего...;last... stand...;决一……死战……;letztes.... Gefecht...;;;;;ostatni... na polu...
+undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end;undead_injury_end
+;;;;;;;;;
+undead_death;undead_death;undead_death;undead_death;undead_death;undead_death;undead_death;undead_death;undead_death;undead_death
+;больше... не слышу...;hear... no more...;不要……再说……;höre... nicht mehr...;;;;;nie... słyszę...
+;я... свободен...;I am... free...;我……解脱……;Ich bin... frei...;;;;;jestem... wolny...
+;наконец...;finally...;自由了……;endlich...;;;;;wreszczie...
+;снова... смерть...;death... again...;再面……死亡……;Tod... wieder...;;;;;śmierć... znowu...
+;свобода...;freedom...;自由……;Freiheit...;;;;;wolność...
+;конец... мучениям...;end to... suffering...;痛苦……结束……;Ende des... Leidens...;;;;;koniec... cierpienia...
+;никакой... боли...;no more... pain...;不再……痛苦……;keine... Schmerzen mehr...;;;;;nie ma więcej... bólu...
+;он... отпустил... меня...;I am... released...;我……自由了……;Ich bin... befreit...;;;;;jestem... wyzwolony...
+;покой... покой...;rest... peace...;安息……;Ruhe... Frieden...;;;;;spoczywam... w pokoju...
+;забыть... всё...;forget... all...;忘记……一切……;Vergessen... alles...;;;;;zapomnieć... wszystko...
+;дух... угасает...;spirit... fading...;精神……消散……;Geist... verblasst...;;;;;duch... zanika...
+;наконец... тишина...;finally... silence...;终于……安静……;Endlich... Stille...;;;;;nareszcie... spokój...
+;снова... свободен...;free... again...;重获……自由……;wieder... frei...;;;;;wolny... znowu....
+;ухожу... обратно...;I... return...;我……回去了……;Ich... kehre zurück...;;;;;ja... powrócę...
+undead_death_end;undead_death_end;undead_death_end;undead_death_end;undead_death_end;undead_death_end;undead_death_end;undead_death_end;undead_death_end;undead_death_end
+;;;;;;;;;
+necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm;necromancer_alarm
+;Ещё одна заблудшая душа?;Another lost soul?;又一个失落的灵魂？;Eine weitere verlorene Seele?;;;;;Kolejna zagubiona dusza/
+;Я оставлю от тебя одну оболочку...;You'll be an empty husk...;你将失去灵魂……;Du wirst eine leere Hülle sein...;;;;;Zaraz będziesz pustym naczyniem...
+;Ты будешь служить...;You will serve me...;你将遵从我的命令……;Du wirst mir dienen...;;;;;Będziesz mi służyć...
+;Преклонись пред своим повелителем...;Submit to your new master...;来拜见你的新主人……;Unterwirf dich deinem neuen Meister...;;;;;Pogódź się, będę twoim władcą...
+;Самонадеянно...;Insolence...;傲慢无礼……;Unverschämtheit...;;;;;Beczelność...
+;О, новый прислужник...;Ah, new servant...;哈，又一个仆从……;Ah, ein neuer Diener...;;;;;Oh, nowy sługa...
+necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end;necromancer_alarm_end
+;;;;;;;;;
+brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile;brigand_hostile
+;Ты, кажись, округу попутал!;You came to the wrong neighborhood!;这可不是你该来的地界！;Du bist im falschen Viertel gelandet!;;;;;To trochę zła okolica, przybyszu!
+;Гляди, кто вылез!;Look who's here!;看看来的是什么人！;Schau mal, wer da ist!;;;;;Patrzcie kto wpadł!
+;Что, богатенький?;Ah, rich guy?;哈，有钱人？;Ah, ein reicher Typ?;;;;;Oh, jak tam twoje kieszenie? Pełne?
+;А кто это тут нарисовался?;Who do we have here?;瞧瞧来了一个什么人？;Wen haben wir denn hier?;;;;;Co my tutaj mamy?
+;Делись добром, простофиля!;Empty your pockets, dimwit!;打，打，打劫！;Leere deine Taschen, Schwachkopf!;;;;;Opróżniaj kieszenie, brzydalu!
+;Отдавай всё, что есть!;Show us what you got!;身上的东西都拿出来！;Zeig uns, was du hast!;;;;;No pokaż, co tam masz
+;Гони золотишко!;Give us the coin!;身上带的钱全交出来！;Gib uns die Münze!;;;;;Dawaj monety!
+;Сейчас позабавимся!;Let's have some fun!;咱们来乐呵乐呵！;Amüsieren wir uns!;;;;;Zabawmy się!
+;Выкладывай свои денежки!;Give us your gold!;金子呢？交出来！;Gib uns dein Gold!;;;;;Oddawaj swoje złoto!
+;А вот и добыча!;Here comes the loot!;来一个送钱的！;Hier kommt die Beute!;;;;;Nasze pieniądze do nas przyszły!
+;Кошель на бочку, болван!;Money on the barrel, chump!;把钱拿出来，少给我磨蹭！;Geld auf den Tisch, du Trottel!;;;;;Kasa na stół, smarkaczu!
+brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end;brigand_hostile_end
+;;;;;;;;;
+brigand_attack;brigand_attack;brigand_attack;brigand_attack;brigand_attack;brigand_attack;brigand_attack;brigand_attack;brigand_attack;brigand_attack
+;Взять его!;Get him!;干他！;Schnappt ihn!;;;;;Jazda!
+;Брюхо вспорю!;Gonna cut you open!;看我不把你大卸八块！;Ich werde dich aufschlitzen!;;;;;Zaraz otworzę ci klatkę!
+;Я тебе все кишки выпущу!;I'll rip your guts out!;我要让你开肠破肚！;Ich reiße dir die Eingeweide raus!;;;;;Wyrwę ci flaki!
+;Режь! Глотку режь!;Throat! Go for the throat!;脖子！抹脖子！;Kehle! Geh an die Kehle!;;;;;Szyję! Rozerwać szyję!
+;Уж я тебе все рёбра истыкаю!;I'll cut you to pieces!;看我不把你剁成肉泥！;Ich schneide dich in Stücke!;;;;;Rozwalę cię na kawałki!
+;Сейчас тебя прикончу!;This is your funeral!;明年几天就是你的忌日！;Das ist dein Begräbnis!;;;;;To twój pogrzeb!
+;Бей-руби!;Cut 'em up!;砍了！;Schlitzt sie auf!;;;;;Łapać!
+;Давай-давай, сбоку заходи!;Move it, attack from the side!;快！从两边上！;Los, greift von der Seite an!;;;;;Jazda, flankować!
+;Так тебя, так!;Take that!;去死吧！;Nimm das!;;;;;Masz!
+;Бей под дых!;Go for the gut!;照着肚子捅！;An die Bäuche!;;;;;Rozerwać na strzępy!
+;Дави, дави!;You won't get away!;你还想跑？！门都没有！;Du wirst nicht entkommen!;;;;;Nigdzie nie uciekniesz!
+;Да что с тобой возиться!;Stop struggling!;你还还手？！;Wehr dich nicht!;;;;;Przestań walczyć!
+;Мочи!;Kill 'em!;别留活口！;Töte sie!;;;;;Zabić!
+;Скормлю собакам!;I'll feed you to dogs!;你就等着喂狗吧！;Ich verfüttere dich an die Hunde!;;;;;Rzucę cię psom!
+;Воронью на корм пойдешь!;Food for crows!;等着喂渡鸦吧！;Fraß für die Krähen!;;;;;Jedzenie dla kruków!
+;Нож в ребро!;Knife to the heart!;往胸口捅！;Messer ins Herz!;;;;;Nożem w serce!
+;Ату его, ату!;Tally-ho!;给我上！;Halali!;;;;;No, dobry!
+brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end;brigand_attack_end
+;;;;;;;;;
+brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death;brigand_ally_death
+;У нас мертвяк!;We got a deader!;咱们倒了一个！;Wir haben einen Toten!;;;;;Jeden z naszych leży!
+;Нашего прижучили!;Our lad is down!;有个伙计倒了！;Einer von uns am Boden!;;;;;Nasz koleś padł!
+;Наших щемят!;Our guys are getting murdered here!;咱们有人死在咱们自己的地盘上了！;Unsere Jungs sterben hier!;;;;;Mordują tu naszych!
+;Убили! Убили нашего!;Dead! He is dead!;坏了！他死了！;Tot! Er ist tot!;;;;;Martwy! Jest martwy!
+;Парнягу прикончили!;You'll pay for this!;杀人偿命，天经地义！;Dafür wirst du bezahlen!;;;;;Zapłacisz za to!
+;Завалили мужика!;Our guy is done for!;咱们死人了！;Unser Mann ist am Ende!;;;;;Porobili naszego!
+brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end;brigand_ally_death_end
+;;;;;;;;;
+brigand_skill;brigand_skill;brigand_skill;brigand_skill;brigand_skill;brigand_skill;brigand_skill;brigand_skill;brigand_skill;brigand_skill
+;А как тебе такое?!;How do you like that?!;感觉怎么样？！;Wie gefällt dir das?!;;;;;Jak ci się podoba?
+;На, получай!;Take that!;接招！;Nimm das!;;;;;A masz!
+;Получай, скотина!;Eat this, bastard!;王八蛋，接好了！;Friss das, Bastard!;;;;;Żryj to, bękarcie!
+;Так тебе, мразота!;In your face, scum!;败类，受死吧！;In die Fresse, Abschaum!;;;;;Prosto w twarz!
+;Ха!;Ha!;哈！;Ha!;;;;;Ha!
+brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end;brigand_skill_end
+;;;;;;;;;
+brigand_injury;brigand_injury;brigand_injury;brigand_injury;brigand_injury;brigand_injury;brigand_injury;brigand_injury;brigand_injury;brigand_injury
+;Моя рука!;My arm!;我胳膊！;Mein Arm!;;;;;Moja ręka!
+;Моя нога!;My leg!;我的腿！;Mein Bein!;;;;;Moja noga!
+;Ай, прям по кумполу!;Argh, right on the noggin!;啊啊，伤着我脑袋了！;Argh, genau auf die Birne!;;;;;Ahh, prosto w nogę!
+;Мне... мне брюхо продырявили!;I... My gut is cut open!;我……我肚子滑开了！;I... Mein Bauch ist aufgeschlitzt!;;;;;Cholera, flaki mi płyną!
+;Я руки не чувствую...;I don't feel my arm...;我胳膊呢？！;Ich spüre meinen Arm nicht...;;;;;Nie czuję ramienia!
+;Колену... колену каюк...;Knee... my knee cracked...;膝盖……我膝盖碎了……;Knie... mein Knie ist gebrochen...;;;;;Kostka... Zwichnięta kostka...
+;По башке зарядили...;Got me on the head...;我头上挨了一下……;Hat mich am Kopf erwischt...;;;;;Dostałem w czoło...
+;Палец... палец отхватили!;My finger! Lost my finger!;我手指头没了！;Mein Finger! Ich habe meinen Finger verloren!;;;;;Mój palec! Odcięli mi palec!
+;Сукин сын!;Sonuvabitch!;混蛋王八羔子！;Hurensohn!;;;;;Shurwzyn!
+;Вот ведь мразь...;You scum...;你个败类……;Du Abschaum...;;;;;Ty szmato...
+;Ах ты паскуда...;You bastard!;你个畜生！;Du Mistkerl!;;;;;Ty bękarcie!
+;У меня кровища хлещет!;I'm bleeding like a pig!;我身上哗哗地流血！;Ich blute wie ein Schwein!;;;;;Krwawię jak świnia!
+brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end;brigand_injury_end
+;;;;;;;;;
+brigand_death;brigand_death;brigand_death;brigand_death;brigand_death;brigand_death;brigand_death;brigand_death;brigand_death;brigand_death
+;А-а-а-а-а...;A-a-a-a-a...;啊啊啊啊……;A-a-a-a-a-a...;;;;;A-a-a-a-a...
+;Я... нет... а-а-а-а...;I... no... a-a-a-a...;我……诶……啊啊啊……;Ich... nein... a-a-a-a-a...;;;;;I... no... a-a-a-a...
+;Как же... так...;How... why...;怎么……怎……;Wie... warum...;;;;;Jak... co...
+;Больно-то как...;Hurts...;疼啊……;Das tut weh...;;;;;Boli...
+;Братцы... братцы...;Guys... guys...;伙计们……伙计……;Jungs... Jungs...;;;;;Koledzy... koooledzy...
+;По... могите...;He-... help...;救……救救……;Hi-... Hilfe...;;;;;Po... pomocyyy...
+brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end;brigand_death_end
+;;;;;;;;;
+npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn;npc_no_turn
+;Что встал? Пройти мешаешь.;Huh? You are standing in my way.;啊？你挡我路了。;Hm? Du stehst mir im Weg.;;;;;Huh? Stoisz na mojej drodze.
+;Уступи-ка дорогу.;Let me through.;让我过去。;Lass mich durch.;;;;;Przepuść mnie.
+;Отойди-ка в сторонку.;Move aside.;让一让。;Geh zur Seite.;;;;;Odsuń się.
+;Подвинься, а?;Move it, will ya?;能让开吗？;Beweg dich, ja?;;;;;Ruszysz dupę?
+npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end;npc_no_turn_end
+;;;;;;;;;
+npc_rain1;npc_rain1;npc_rain1;npc_rain2;npc_rain3;npc_rain4;npc_rain5;npc_rain6;npc_rain7;npc_rain8
+;Во какие тучи...;Clouds are gathering...;下雨了啊……;Wolken ziehen auf...;;;;;Zbiera się na deszcz...
+;Чёрт бы побрал этот дождь...;Damn this rain...;这雨下得可真……;Dieser verdammte Regen...;;;;;Cholera, ten deszcz...
+;Так и простыть недолго...;That's how you catch a cold...;你这样肯定得感冒……;So holt man sich eine Erkältung...;;;;;Oto jak łapie się przeziębienie
+;То-то я гляжу, что птицы низенько летали...;Birds flew low, should have known...;鸟飞得那么低，我就该想到要下雨才是……;Die Vögel flogen tief, ich hätte es wissen müssen...;;;;;Ptaki latały nisko, powinienem zauważyć
+npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end;npc_rain1_end
+;;;;;;;;;
+npc_rain2;npc_rain2;npc_rain2;npc_rain3;npc_rain4;npc_rain5;npc_rain6;npc_rain7;npc_rain8;npc_rain9
+;Льёт как из ведра...;It's pouring cats and dogs...;这雨下得可真大啊……;Es schüttet wie aus Eimern...;;;;;Leje psami i kotami
+;Ну и ливень...;What a downpour...;真是倾盆大雨……;Was für ein Wolkenbruch...;;;;;Co za ściek...
+;Давненько же у нас так не лило...;Haven't seen such rain in a while...;有些日子没见过这么大的雨了……;So einen Regen hab ich schon lange nicht mehr gesehen...;;;;;Dawno tak nie lało...
+;Ветер воет...;Wind's howling...;风“呼呼”地吹……;Der Wind heult...;;;;;Wyje wiatr...
+;Как бы не затопил чего...;Hope it won't flood anything...;千万可别发洪水……;Ich hoffe, es wird nichts überflutet...;;;;;Deszcze niespokojne...
+npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end;npc_rain2_end
+;;;;;;;;;
+npc_rain3;npc_rain3;npc_rain3;npc_rain4;npc_rain5;npc_rain6;npc_rain7;npc_rain8;npc_rain9;npc_rain10
+;Вроде дождь на убыль идёт...;Looks like the rain is slowing down...;雨好像小点了……;Sieht aus, als würde der Regen nachlassen...;;;;;Wygląda na to, że się przejaśnia...
+;Гляди-ка - тучи рассеиваются потихоньку...;Look! Clouds are breaking up...;看！云要散了……;Schau! Die Wolken lösen sich auf...;;;;;Patrzcie! Słońce zza chmur!
+;Хм, вроде скоро уже перестать должно...;Hmm, should stop raining soon...;唔，雨应该快停了……;Hmm, sollte bald aufhören zu regnen...;;;;;Hmm, powinno przestać lać...
+;Затихает-то ливень...;Slows down, it seems...;看着好像下得没那么大了……;Es wird weniger, wie es scheint...;;;;;Przechodzi, zdaje się...
+;Ну ничего, скоро уже солнце из-за туч покажется...;The sun should come out in any moment...;天应该马上就要晴了……;Die Sonne sollte jeden Moment herauskommen...;;;;;Słońce wyjdzie lada moment...
+npc_rain3;npc_rain3_end;npc_rain3_end;npc_rain3_end;npc_rain3_end;npc_rain3_end;npc_rain3_end;npc_rain3_end;npc_rain3_end;npc_rain3_end
+;;;;;;;;;
+npc_peasant;npc_peasant;npc_peasant;npc_peasant;npc_peasant;npc_peasant;npc_peasant;npc_peasant;npc_peasant;npc_peasant
+;Ещё один...;Another one...;又来了一个……;Noch einer...;;;;;Kolejny...
+;Наёмник? Не к добру...;A mercenary... This bodes ill...;雇佣兵……真是触霉头……;Ein Söldner... Das verheißt nichts Gutes...;;;;;Najemnik... Srać mi się chce...
+;Ну, чего уставился?;What are you looking at?;看什么呢？;Was schaust du so?;;;;;Na co się gapisz?!
+;Если ты за работой, то тебе к старосте нашему.;If you are looking for work, talk to our elder.;你要是想找事情做，就去找我们村长。;Wenn du auf der Suche nach Arbeit bist, sprich mit dem Ältesten.;;;;;Jak szukasz roboty, pogadaj ze starszyzną.
+;Удавиться тянет от такой жизни...;I hate this life...;这活得可真没劲……;Ich hasse dieses Leben...;;;;;Nienawidzę tego życia...
+;Гляди-ка, наёмник...;Look, another mercenary...;瞧，又来一个佣兵……;Sieh mal, noch ein Söldner...;;;;;Patrzcie, kolejny najemnik...
+;Кого это нелёгкая принесла?;Now who could it be?;瞧瞧这是谁？;Wer könnte es sein?;;;;;No proszę, a to kto?
+;Эх, сейчас бы на боковую...;I could use a nap...;我得睡会儿……;Ich könnte ein Nickerchen gebrauchen...;;;;;Przydałoby się przespać...
+;А ты чьих будешь?;Who are you again?;你又是谁？;Wer bist du noch einmal?;;;;;A ty to kto, znowu?
+npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end;npc_peasant_end
+;;;;;;;;;
+;;;;;;;;;
+npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male;npc_peasant_male
+;Сейчас бы по чарочке... а потом по второй.;I could use a drink... or two.;我得来一杯两杯酒……;Ich könnte einen Drink gebrauchen... oder zwei.;;;;;Przydałby się drink... albo dwa...
+;Опрокинуть бы кружечку...;I could do with a drink...;想喝酒了……;Ich könnte einen Drink vertragen...;;;;;Przydałby się drink...
+;Успеть бы сегодня в таверну заскочить...;Might go to the tavern tonight...;要不晚上去酒馆喝两杯……;Ich gehe heute Abend vielleicht in die Taverne...;;;;;A gdyby tak wpaść do tawerny w nocy...
+npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end;npc_peasant_male_end
+;;;;;;;;;
+npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp;npc_lowhp
+;Что-то лицо у тебя бледновато... Тебе бы к травнику;You look pale... You should visit a healer;我看你脸色不太好……找个治疗师看看吧;Ich könnte einen Drink gebrauchen... oder zwei.;;;;;Masz bladą skórę, może warto wpaść do lecznicy?
+;Ну и потрепали же тебя...;Someone really did a number on you...;你伤得可不轻啊……;Jemand hat dich wirklich reingelegt...;;;;;Ktoś ci wywinął niezły numer...
+;Видок у тебя - будто ноги вот-вот протянешь;You look like you are about to kick the bucket;我看你的样子，感觉马上就要不行了;Du siehst so aus, als wenn du gleich den Löffel abgibst;;;;;Wyglądasz jak kopniak w kalendarz...
+npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end;npc_lowhp_end
+;;;;;;;;;
+npc_trader;npc_trader;npc_trader;npc_trader;npc_trader;npc_trader;npc_trader;npc_trader;npc_trader;npc_trader
+;Лучший товар в округе!;The best goods out there!;走过路过不要错过！;Die besten Waren, die es gibt!;;;;;Najlepsze dobra tylko tutaj!
+npc_trader_end;npc_trader_end;npc_trader_end;npc_trader_end;npc_trader_end;;;;;npc_trader_end
+;;;;;;;;;
+npc_food_trader;npc_food_trader;npc_food_trader;npc_food_trader;npc_food_trader;;;;;npc_food_trader
+;Хлеб, мясо, овощи!;Bread, meat, vegetables!;好肉！蔬菜！面包啦！;Brot, Fleisch, Gemüse!;;;;;Chleb! Mięso! Warzywa!
+;Налетай! Дешевле не бывает!;Over here! The cheapest prices!;快来买啊，谁家都没我们家便宜！;Hier drüben! Die günstigsten Preise!;;;;;Tutaj! Najniższe ceny!
+npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end;npc_food_trader_end
+;;;;;;;;;
+npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader;npc_vegetable_trader
+;Овощи! Вкусные овощи!;Vegetables! Delicious vegetables!;蔬菜！蔬菜！可口蔬菜啦！;Gemüse! Köstliches Gemüse!;;;;;Warzywa! Świeże jeszcze warzywa!
+;Кому свежих овощей?;Who wants to buy fresh vegetables?;新鲜蔬菜，快来买啊！;Wer möchte frisches Gemüse kaufen?;;;;;Kto chce kupić świeże warzywa?
+npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end;npc_vegetable_trader_end
+;;;;;;;;;
+npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader;npc_fruit_trader
+;Фрукты - спелее не бывает!;Only the ripest fruit!;果子都熟透了，快来买呀！;Nur die reifsten Früchte!;;;;;Tylko smakowite owoce!
+;Наливные яблоки! Сочные груши!;Shiny apples! Juicy pears!;苹果！梨啊！新鲜的啊！;Glänzende Äpfel! Saftige Birnen!;;;;;Soczyste gruszki! Czyściutkie jabłka!
+npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end;npc_fruit_trader_end
+;;;;;;;;;
+npc_butcher;npc_butcher;npc_butcher;npc_butcher;npc_butcher;npc_butcher;npc_butcher;npc_butcher;npc_butcher;npc_butcher
+;Свежее мясо! Налетай!;Fresh meat! Buy fresh meat!;鲜肉了喂！来买肉了喂！;Frisches Fleisch! Kauft Frischfleisch!;;;;;Świeże mięso! Kup świeże mięso!
+;Подсказать кусок пожирнее?;Want to buy a fatter chunk?;想买肥一点的肉吗？;Wilst du ein dickeres Stück kaufen?;;;;;Chcesz kupić tłustą goloneczkę?
+;Мясо! Колбасы! Окорока!;Meat! Sausage! Ham!;鲜肉！香肠！火腿！;Fleisch! Wurst! Schinken!;;;;;Mięso! Kiełbasy! Szynka!
+npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end;npc_butcher_end
+;;;;;;;;;
+npc_smith;npc_smith;npc_smith;npc_smith;npc_smith;npc_smith;npc_smith;npc_smith;npc_smith;npc_smith
+;Что-то справить или починить?;Need something hammered?;有什么需要敲打的吗？;Muss irgendetwas gehämmert werden?;;;;;Coś ci wyklepać?
+;Никак клинок затупился?;Got blade needing sharpening?;要磨刀磨剑吗？;Hast du eine Klinge, die geschärft werden muss?;;;;;Masz miecz wymagający naostrzenia?
+npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end;npc_smith_end
+;;;;;;;;;
+npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter;npc_сarpenter
+;Лук погнулся или щит в щепки?;Crooked bow or shattered shield?;弓变形了？还是盾牌烂了？;Krummer Bogen oder zerbrochener Schild?;;;;;Złamany łuk albo uszkodzona tarcza?
+;Сейчас поглядим, чего тебе надобно;I'll get to you in a moment;买东西还是修东西？;Ich werde gleich zu dir kommen.;;;;;Zaraz do ciebie wrócę
+npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end;npc_сarpenter_end
+;;;;;;;;;
+npc_tailor;npc_tailor;npc_tailor;npc_tailor;npc_tailor;npc_tailor;npc_tailor;npc_tailor;npc_tailor;npc_tailor
+;Дай-ка угадаю - снова рубаху залатать?;Let me guess - want me to patch your shirt?;我猜你是要补衣服吧？;Lass mich raten - soll ich dein Hemd flicken?;;;;;Niech zgadnę? Podarte gacie?
+;Опять сшить чего?;Need something sewn?;有什么要缝的吗？;Muss etwas genäht werden?;;;;;Trzeba coś uszyć?
+;Ну и где прореха?;Well then, where is the tear?;什么地方开口了？;Nun denn, wo ist der Riss?;;;;;No dobrze, gdzie się rozdarło?
+npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end;npc_tailor_end
+;;;;;;;;;
+npc_elder;npc_elder;npc_elder;npc_elder;npc_elder;npc_elder;npc_elder;npc_elder;npc_elder;npc_elder
+;Ну-с?;Well?;嗯？;Nun?;;;;;Well?
+;Контракт взять или за наградой?;Are you here about the contract?;来找活儿的还是来领赏的？;Bist du wegen des Auftrags hier?;;;;;Are you here about the contract?
+;Моё почтение.;Always a pleasure.;不用客气。;Immer wieder ein Vergnügen.;;;;;Always a pleasure.
+;Ты по какому делу?;Got business here?;有什么事情吗？;Geschäftlich hier?;;;;;Got business here?
+;Что-то требуется?;Do you need something?;什么事情？;Brauchst du etwas?;;;;;Do you need something?
+npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end;npc_elder_end
+;;;;;;;;;
+npc_guard;npc_guard;npc_guard;npc_guard;npc_guard;npc_guard;npc_guard;npc_guard;npc_guard;npc_guard
+;Проходи, не задерживайся;Move along.;让一下。;Weitergehen.;;;;;Ruszaj się.
+;Ты это... не вздумай чудить;You... don't try funny business;老实点。;Du... versuche keine krummen Touren.;;;;;Ty... nie próbuj głupich rzeczy
+;Наёмники... видали мы наёмников...;Mercenaries... We know your kind;雇佣兵……没一个老实的。;Söldner... Wir kennen deine Art;;;;;Najemnicy... Znamy takich jak ty...
+;И без наёмников справляемся...;We don't need no mercenaries around here;我们不需要雇佣兵;Wir brauchen hier keine Söldner;;;;;Nie potrzeba nam tutaj najemników
+;А ты ещё кто?;And who are you supposed to be?;你是哪路高人？;Und wer sollst du sein?;;;;;I kim próbujesz być?
+;Что, снова наёмник?;What, another one?;啥，又来了一个？;Was, noch einer?;;;;;Co, jeszcze jeden?!
+;Иди себе своей дорогой;Keep going;起开;Weitermachen;;;;;Nie przeszkadzaj
+npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end;npc_guard_end
+;;;;;;;;;
+npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist;npc_herbalist
+;О, я как раз свежих трав насобирал...;I've just gathered some fresh herbs... Interested?;我刚采了点新鲜的药草……要看看吗？;Ich habe gerade ein paar frische Kräuter gesammelt... Interessiert?;;;;;Właśnie zebrałem nieco świeżych ziół, to jak?
+;Ну, рассказывай, что стряслось;Well, tell me what troubles you;遇上什么麻烦了？;Nun, sage mir, was dein Problem ist.;;;;;Cóż, powiedz mi o swoich problemach
+;Не боись, всё залечим;Don't worry, will fix you right up;没事，我能给你治好;Keine Sorge, das kriege ich sofort wieder hin;;;;;Bez obaw, zaraz to załatwimy.
+;Что-то болит?;Do you hurt anywhere?;身上哪儿疼？;Hast du irgendwo Schmerzen.;;;;;Czuje? Czy nie czuje?
+npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end;npc_herbalist_end
+;;;;;;;;;
+npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard;npc_drunkard
+;И-ик!;H-hic!;嗝！;H-hicks!;;;;;H-hic!
+;Е-е-есть что п-покрепче?;G-g-got a d-drink on you?;你……有，有酒吗？;H-h-hast d-du einen D-drink dabei?;;;;;T t tt to jaaak, pieweczko?
+;Э-эй... п-постой...;H-hey... d-don't go...;诶~诶……别~别走啊……;H-hey... g-geh nicht...;;;;;E ee eee... nie odchodź...
+;Д-давай-ка лучше выпьем...;L-let's drink...;喝……！;L-lass u-uns trinken...;;;;;Nn na naaapijmy siem...
+npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end;npc_drunkard_end
+;;;;;;;;;
+prologue_door;prologue_door;prologue_door;prologue_door;prologue_door;prologue_door;prologue_door;prologue_door;prologue_door;prologue_door
+;Не поддаётся. Заперто с другой стороны.;It won't budge. It's locked from the other side.;门一动不动，从后面锁上了。;Bewegt sich nicht. Sie ist von der anderen Seite verschlossen.;;;;;Nie ruszy. Zamknięte od drugiej strony.
+prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end;prologue_door_end
+;;;;;;;;;
+hat_line;hat_line;hat_line;hat_line;hat_line;hat_line;hat_line;hat_line;hat_line;hat_line
+;Хм... Хм, хм, хм...;Hmm... Hmm, hmm, hmm...;唔……唔，唔，唔……;Hmm... Hmm, hmm, hmm...;;;;;Hmm... Hmm, hmm, hmm...
+;Лунный Ковен или Тернистый Ковен? Хм...;The Moon Coven or the Thorn Coven? Hmm...;月亮女院还是荆棘女院？唔……;Der Mond-Hexenzirkel oder der Dornen-Hexenzirkel? Hmmm....;;;;;Księżycowy Sabat czy Cierniowy Sabat...
+;Хм... Прошлая хозяйка была умнее...;Hmm... My previous mistress was smarter...;唔……前面那个聪明一点……;Hmm... Meine frühere Herrin war schlauer...;;;;;Hmm... Mój poprzedni kochanek był mądrzejszy...
+;Какое тяжёлое решение...;A difficult choice...;真难选……;Eine schwierige Wahl...;;;;;Trudny wybór...
+;Хм... Может быть Змеиный Ковен?..;Hmm... Maybe the Coven of the Snake?..;唔……要不就毒蛇女院吧？;Hmm... Vielleicht der Hexenzirkel der Schlange?...;;;;;Hmm... A może Sabat Węża?
+hat_line_end;hat_line_end;hat_line_end;hat_line_end;hat_line_end;hat_line_end;hat_line_end;hat_line_end;hat_line_end;hat_line_end
+;;;;;;;;;
+abbey_door;abbey_door;abbey_door;abbey_door;abbey_door;abbey_door;abbey_door;abbey_door;abbey_door;abbey_door
+;Заперто. Без ключа не открыть.;It's locked. I need a key to open it.;门锁上了，有钥匙才打得开。;Abgeschlossen. Ich benötige den Schlüssel;;;;;Zamknięte. Potrzebny mi klucz.
+abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end;abbey_door_end
+;;;;;;;;;
+npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant;npc_guard_sergeant
+;Зачем пожаловал?;Need anything?;干什么？;Brauchst du etwas?;;;;;Jakaś sprawa?
+npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end;npc_guard_sergeant_end
+;;;;;;;;;
+player_bed;player_bed;player_bed;player_bed;player_bed;player_bed;player_bed;player_bed;player_bed;player_bed
+;Сначала мне нужно расплатиться с трактирщиком.;I need to pay the innkeeper first.;房钱还没给旅店老板。;Ich muss erst den Gastwirt bezahlen.;;;;;Najpierw muszę zapłacić karczmarzowi.
+player_bed_end;player_bed_end;player_bed_end;player_bed_end;player_bed_end;player_bed_end;player_bed_end;player_bed_end;player_bed_end;player_bed_end
+;;;;;;;;;
+player_shout;player_shout;player_shout;player_shout;player_shout;player_shout;player_shout;player_shout;player_shout;player_shout
+;Эй!;Hey!;喂！;Hey!;;;;;Hej!
+player_shout_end;player_shout_end;player_shout_end;player_shout_end;player_shout_end;player_shout_end;player_shout_end;player_shout_end;player_shout_end;player_shout_end
+;;;;;;;;;
+speech_end;speech_end;speech_end;speech_end;speech_end;speech_end;speech_end;speech_end;speech_end;speech_end
+;;;;;;;;;
+;CHANCE;CHANCE;CHANCE;CHANCE;CHANCE;CHANCE;CHANCE;CHANCE;CHANCE
+kill;10;10;10;10;;;;;10
+silence_kill;20;20;20;20;;;;;20
+crit_kill;100;100;100;100;;;;;100
+shoot_kill;10;10;10;10;;;;;10
+crit_hit;25;25;25;25;;;;;25
+light_wound;100;100;100;100;;;;;100
+mid_deep_wound;100;100;100;100;;;;;100
+mid_deep_wound_torso;100;100;100;100;;;;;100
+mid_deep_wound_leg;100;100;100;100;;;;;100
+mid_deep_wound_head;100;100;100;100;;;;;100
+physical_buff;8;8;8;8;;;;;8
+physical_debuff;8;8;8;8;;;;;8
+mental_buff;8;8;8;8;;;;;8
+mental_debuff;8;8;8;8;;;;;8
+hunger;25;25;25;25;;;;;25
+thirsty;25;25;25;25;;;;;25
+pain;25;25;25;25;;;;;25
+intoxication;25;25;25;25;;;;;25
+bleeding;50;50;50;50;;;;;50
+lock_pick;50;50;50;50;;;;;50
+break_door;15;15;15;15;;;;;15
+trap_find;20;20;20;20;;;;;20
+trap_hit;50;50;50;50;;;;;50
+trap_disarm;75;75;75;75;;;;;75
+trap_avoid;100;100;100;100;;;;;100
+container;10;10;10;10;;;;;10
+optimism;100;100;100;100;;;;;100
+heroism;100;100;100;100;;;;;100
+second_wind;100;100;100;100;;;;;100
+prudence;100;100;100;100;;;;;100
+;;;;;;;;;
+vampire_attack;8;8;8;8;;;;;8
+vampire_death;15;15;15;15;;;;;15
+vampire_skill;15;15;15;15;;;;;15
+vampire_suspicious;25;25;25;25;;;;;25
+vampire_hostile;25;25;25;25;;;;;25
+vampire_injury;100;100;100;100;;;;;100
+vampire_ally_death;12;12;12;12;;;;;12
+vampire_lord_alarm;100;100;100;100;;;;;100
+;;;;;;;;;
+undead_attack;10;10;10;10;;;;;10
+undead_death;15;15;15;15;;;;;15
+undead_skill;10;10;10;10;;;;;10
+undead_movement;10;10;10;10;;;;;10
+undead_hostile;33;33;33;33;;;;;33
+undead_injury;100;100;100;100;;;;;100
+necromancer_alarm;100;100;100;100;;;;;100
+;;;;;;;;;
+brigand_attack;15;15;15;15;;;;;15
+brigand_death;15;15;15;15;;;;;15
+brigand_skill;15;15;15;15;;;;;15
+brigand_hostile;75;75;75;75;;;;;75
+brigand_injury;100;100;100;100;;;;;100
+brigand_ally_death;25;25;25;25;;;;;25
+;;;;;;;;;
+npc_rain1;9;9;9;9;;;;;9
+npc_rain2;12;12;12;12;;;;;12
+npc_rain3;9;9;9;9;;;;;9
+npc_peasant;15;15;15;15;;;;;15
+npc_peasant_male;15;15;15;15;;;;;15
+npc_lowhp;8;8;8;8;;;;;8
+npc_trader;15;15;15;15;;;;;15
+npc_food_trader;15;15;15;15;;;;;15
+npc_vegetable_trader;15;15;15;15;;;;;15
+npc_fruit_trader;15;15;15;15;;;;;15
+npc_butcher;15;15;15;15;;;;;15
+npc_smith;15;15;15;15;;;;;15
+npc_сarpenter;15;15;15;15;;;;;15
+npc_tailor;15;15;15;15;;;;;15
+npc_elder;15;15;15;15;;;;;15
+npc_guard;15;15;15;15;;;;;15
+npc_herbalist;15;15;15;15;;;;;15
+npc_drunkard;15;15;15;15;;;;;15
+npc_guard_sergeant;25;25;25;25;;;;;25
+hat_line;0.25;0.25;0.25;0.25;;;;;0.25
+;CHANCE_end;CHANCE_end;CHANCE_end;CHANCE_end;CHANCE_end;CHANCE_end;CHANCE_end;CHANCE_end;CHANCE_end

@@ -109,39 +109,39 @@
 ;Journal_menu_end;Journal_menu_end;Journal_menu_end;Journal_menu_end;;;;Journal_menu_end
 ;;;;;;;;
 ;Tier_name;Tier_name;Tier_name;Tier_name;;;;Tier_name
-Swords;Мечи;Swords;剑;Schwerter;;;;Miecze
-Axes;Топоры;Axes;斧;Äxte;;;;Topory
-Maces;Булавы;Maces;钉头锤;Streitkolben;;;;Buławy
-Daggers;Кинжалы;Daggers;匕首;Dolche;;;;Sztylety
-Greatswords;Двуручные мечи;Greatswords;大剑;Großschwerter;;;;Wielkie Miecze
-Bows;Стрельба;Ranged Weapons;远程武器;Fernkampfwaffen;;;;Bronie Dystansowe
-Shields;Щиты;Shields;盾牌;Schilde;;;;Tarcze
-Armor;Ношение брони;Armor;盔甲;Rüstung;;;;Pancerze
-Dual Wielding;Парное оружие;Dual Wielding;双持武器;Zwei Waffen;;;;Dwie Bronie Jednocześnie
-Sabotage;Саботаж;Sabotage;破坏;Sabotage;;;;Sabotaż
-Medicine;Медицина;Medicine;医药;Medizin;;;;Medycyna
-Pyromancy;Пиромантия;Pyromancy;炎术;Pyromantie;;;;Piromancja
-Electromancy;Электромантия;Electromancy;电术;Elektromantie;;;;Elektromancja
-Basic Skills;Основные навыки;Basic Skills;基础技能;Basisfertigkeiten;;;;Podstawowe
-Class Skills;Классовые навыки;Class Skills;职业技能;Klassenfertigkeiten;;;;Klasowe
-Greataxes;Двуручные топоры;Greataxes;大斧;Großäxte;;;;Wielkie Topory
-Greatmauls;Двуручные молоты;Greatmauls;大锤;Großhämmer;;;;Wielkie Buławy
-Polearms;Древковое оружие;Polearms;长柄武器;Stangenwaffen;;;;Broń Drzewcowa
-Crossbows;Арбалеты;Crossbows;弩;Armbrüste;;;;Kusze
-Staves;Посохи;Staffs;长杖;Stäbe;;;;Laski
-Wands;Жезлы;Wands;短杖;Zauberstäbe;;;;Różdżki
-Survival;Выживание;Survival;生存;Überleben;;;;Przeżycie
-Alchemy;Алхимия;Alchemy;炼金;Alchemie;;;;Alchemia
-Combat;Ведение боя;Combat Mastery;战斗;Kampfmeisterschaft;;;;Mistrzostwo Walki
-Mastery of magic;Искусство магии;Magic Mastery;魔法;Magiemeisterschaft;;;;Mistrzostwo Magii
-Venomancy;Веномантия;Venomancy;用毒;Venomantie;;;;Truciznmancja
-Geomancy;Геомантия;Geomancy;地术;Geomantie;;;;Geomancja
-Psymancy;Псимантия;Psymancy;灵术;Psychomantie;;;;Psychomancja
-Astromancy;Астромантия;Astromancy;星术;Astromantie;;;;Astromancja
-Chronomancy;Хрономантия;Chronomancy;命术;Chronomantie;;;;Chronomancja
-Arcanistics;Арканистика;Arcanistics;秘术;Arkanistik;;;;Arkanizm
-Athletics;Атлетика;Athletics;肢体活动;Athletik;;;;Atletyka
-Cryomancy;Криомантия;Cryomancy;冰术;Kryomantie;;;;Cryomancja
+Swords;Мечи;Espadas;剑;Schwerter;;;;Miecze
+Axes;Топоры;Machados;斧;Äxte;;;;Topory
+Maces;Булавы;Maças;钉头锤;Streitkolben;;;;Buławy
+Daggers;Кинжалы;Adagas;匕首;Dolche;;;;Sztylety
+Greatswords;Двуручные мечи;Espadas Grandes;大剑;Großschwerter;;;;Wielkie Miecze
+Bows;Стрельба;Armas à Distância;远程武器;Fernkampfwaffen;;;;Bronie Dystansowe
+Shields;Щиты;Escudos;盾牌;Schilde;;;;Tarcze
+Armor;Ношение брони;Armadura;盔甲;Rüstung;;;;Pancerze
+Dual Wielding;Парное оружие;Empunhadura Dupla;双持武器;Zwei Waffen;;;;Dwie Bronie Jednocześnie
+Sabotage;Саботаж;sabotar;破坏;Sabotage;;;;Sabotaż
+Medicine;Медицина;Remédio;医药;Medizin;;;;Medycyna
+Pyromancy;Пиромантия;Piromancia;炎术;Pyromantie;;;;Piromancja
+Electromancy;Электромантия;Electromancia;电术;Elektromantie;;;;Elektromancja
+Basic Skills;Основные навыки;Habilidades Básicas;基础技能;Basisfertigkeiten;;;;Podstawowe
+Class Skills;Классовые навыки;Habilidades da Classe;职业技能;Klassenfertigkeiten;;;;Klasowe
+Greataxes;Двуручные топоры;Machados Grandes;大斧;Großäxte;;;;Wielkie Topory
+Greatmauls;Двуручные молоты;Marreta;大锤;Großhämmer;;;;Wielkie Buławy
+Polearms;Древковое оружие;Armas de Haste;长柄武器;Stangenwaffen;;;;Broń Drzewcowa
+Crossbows;Арбалеты;Bestas;弩;Armbrüste;;;;Kusze
+Staves;Посохи;Cajados;长杖;Stäbe;;;;Laski
+Wands;Жезлы;Varinhas;短杖;Zauberstäbe;;;;Różdżki
+Survival;Выживание;Sobrevivência;生存;Überleben;;;;Przeżycie
+Alchemy;Алхимия;Alquimia;炼金;Alchemie;;;;Alchemia
+Combat;Ведение боя;Maestria em Combate;战斗;Kampfmeisterschaft;;;;Mistrzostwo Walki
+Mastery of magic;Искусство магии;Maestria em Mágica;魔法;Magiemeisterschaft;;;;Mistrzostwo Magii
+Venomancy;Веномантия;Venomancia;用毒;Venomantie;;;;Truciznmancja
+Geomancy;Геомантия;Geomancia;地术;Geomantie;;;;Geomancja
+Psymancy;Псимантия;Piromancia;灵术;Psychomantie;;;;Psychomancja
+Astromancy;Астромантия;Astromancia;星术;Astromantie;;;;Astromancja
+Chronomancy;Хрономантия;Cronomancia;命术;Chronomantie;;;;Chronomancja
+Arcanistics;Арканистика;Arcanismo;秘术;Arkanistik;;;;Arkanizm
+Athletics;Атлетика;Atletismo;肢体活动;Athletik;;;;Atletyka
+Cryomancy;Криомантия;Criomancia;冰术;Kryomantie;;;;Cryomancja
 ;Tier_name_end;Tier_name_end;Tier_name_end;Tier_name_end;;;;Tier_name_end
 ;;;;;;;;
 ;;;;;;;;
@@ -155,7 +155,7 @@ Cryomancy;Криомантия;Cryomancy;冰术;Kryomantie;;;;Cryomancja
 ;rarity_end;rarity_end;rarity_end;rarity_end;;;;rarity_end
 ;;;;;;;;
 ;prefix;prefix;prefix;prefix;;;;prefix
-Bleeding_Chance;Зазубренный / Зазубренная / Зазубренное / Зазубренные;Farpado;倒钩;Stachliger / Stachlige / Stachliges / Stachlige;;;;Zaostrzony / Zaostrzona / Zaostrzone / Zaostrzone
+Bleeding_Chance;Зазубренный / Зазубренная / Зазубренное / Зазубренные;Perfurante;倒钩;Stachliger / Stachlige / Stachliges / Stachlige;;;;Zaostrzony / Zaostrzona / Zaostrzone / Zaostrzone
 Fire_Damage;Пламенеющий / Пламенеющая / Пламенеющее / Пламенеющие;Flamejante;烈焰;Flammender / Flammende / Flammendes / Flammende;;;;Płonący / Płonąca / Płonące / Płonące
 Frost_Damage;Морозный / Морозная / Морозное / Морозные;Frio;寒冰;Kühlender / Kühlende / Kühlendes / Kühlende;;;;Chłodzący / Chłodząca / Chłodzące / Chłodzące
 Poison_Damage;Ядовитый / Ядовитая / Ядовитое / Ядовитые;Venenoso;剧毒;Giftiger / Giftige / Giftiges / Giftige;;;;Otruwający / Otruwająca / Otruwające / Otruwające
@@ -163,15 +163,15 @@ HP;Укрепляющий / Укрепляющая / Укрепляющее / У
 PRR;Устойчивый / Устойчивая / Устойчивое / Устойчивые;Estável;稳定;Stetiger / Stetige / Stetiges / Stetige;;;;Spokojny / Spokojna / Spokojne / Spokojne
 Shock_Damage;Электризованный / Электризованная / Электризованное / Электризованные;Eletrificado;带电;Elektrifizierter / Elektrifizierte / Elektrifiziertes / Elektrifizierte;;;;Elektryzujący / Elektryzująca / Elektryzujące / Elektryzujące
 EVS;Уклончивый / Уклончивая / Уклончивое / Уклончивые;Volátil;灵敏;Flüchtiger / Flüchtige / Flüchtiges / Flüchtige;;;;Nieuchwytny / Nieuchwytna / Nieuchwytne / Nieuchwytne
-CTA;Дуэльный / Дуэльная / Дуэльное / Дуэльные;Dueling;对决;Duellierender / Duellierende / Duellierendes / Duellierende;;;;Podwójny / Podwójna / Podwójne / Podwójne
-10;Магический / Магическая / Магическое / Магические;Arcane;秘术;Arkaner / Arkane / Arkanes / Arkane;;;;Tajemny / Tajemna / Tajemne / Tajemne
-Magic_Power;Заряженный / Заряженная / Заряженное / Заряженные;Charged;魔能;Geladener / Geladene / Geladenes / Geladene;;;;Naładowany / Naładowana / Naładowane / Naładowane
-Caustic_Damage;Кислотный / Кислотная / Кислотное / Кислотные;Acidic;酸性;Ätzender / Ätzende / Ätzendes / Ätzende;;;;Toksyczny / Toksyczna / Toksyczne / Toksyczne
-MP_Restoration;Восстанавливающий / Восстанавливающая / Восстанавливающее / Восстанавливающие;Restorative;回神;Wiederherstellender / Wiederherstellende / Wiederherstellendes / Wiederherstellende;;;;Odnawiający / Odnawiająca / Odnawiające / Odnawiające
-Hit_Chance;Сбалансированный / Сбалансированная / Сбалансированное / Сбалансированные;Balanced;均衡;Ausgeglichener / Ausgeglichene / Ausgeglichenes / Ausgeglichene;;;;Balansowany / Balansowana / Balansowane / Balansowane
-Weapon_Damage;Смертоносный / Смертоносная / Смертоносное / Смертоносные;Deadly;致命;Tödlicher / Tödliche / Tödliches / Tödliche;;;;Śmiertelny / Śmiertelna / Śmiertelne / Śmiertelne
-DEF;Крепкий / Крепкая / Крепкое / Крепкие;Sturdy;健壮;Robuster / Robuste / Robustes / Robuste;;;;Krzepki / Krzepka / Krzepkie / Krzepkie
-Damage_Received;Оберегающий / Оберегающая / Оберегающее / Оберегающие;Protecting;防护;Schützender / Schützende / Schützendes / Schützende;;;;Ochronny / Ochronna / Ochronne / Ochronne
+CTA;Дуэльный / Дуэльная / Дуэльное / Дуэльные;Duelo;对决;Duellierender / Duellierende / Duellierendes / Duellierende;;;;Podwójny / Podwójna / Podwójne / Podwójne
+10;Магический / Магическая / Магическое / Магические;Arcano;秘术;Arkaner / Arkane / Arkanes / Arkane;;;;Tajemny / Tajemna / Tajemne / Tajemne
+Magic_Power;Заряженный / Заряженная / Заряженное / Заряженные;Energizado;魔能;Geladener / Geladene / Geladenes / Geladene;;;;Naładowany / Naładowana / Naładowane / Naładowane
+Caustic_Damage;Кислотный / Кислотная / Кислотное / Кислотные;Acídico;酸性;Ätzender / Ätzende / Ätzendes / Ätzende;;;;Toksyczny / Toksyczna / Toksyczne / Toksyczne
+MP_Restoration;Восстанавливающий / Восстанавливающая / Восстанавливающее / Восстанавливающие;Restaurador;回神;Wiederherstellender / Wiederherstellende / Wiederherstellendes / Wiederherstellende;;;;Odnawiający / Odnawiająca / Odnawiające / Odnawiające
+Hit_Chance;Сбалансированный / Сбалансированная / Сбалансированное / Сбалансированные;Equilibrado;均衡;Ausgeglichener / Ausgeglichene / Ausgeglichenes / Ausgeglichene;;;;Balansowany / Balansowana / Balansowane / Balansowane
+Weapon_Damage;Смертоносный / Смертоносная / Смертоносное / Смертоносные;Fatal;致命;Tödlicher / Tödliche / Tödliches / Tödliche;;;;Śmiertelny / Śmiertelna / Śmiertelne / Śmiertelne
+DEF;Крепкий / Крепкая / Крепкое / Крепкие;Resistente;健壮;Robuster / Robuste / Robustes / Robuste;;;;Krzepki / Krzepka / Krzepkie / Krzepkie
+Damage_Received;Оберегающий / Оберегающая / Оберегающее / Оберегающие;Protegido;防护;Schützender / Schützende / Schützendes / Schützende;;;;Ochronny / Ochronna / Ochronne / Ochronne
 Savvy;Рабочий / Рабочая / Рабочее / Рабочие;Crafty;睿智;Geschickter / Geschickte / Geschicktes / Geschickte;;;;Chytry / Chytra / Chytre / Chytre
 VSN;Зоркий / Зоркая / Зоркое / Зоркие;Watchful;敏锐;Aufmerksamer / Aufmerksame / Aufmerksames / Aufmerksame;;;;Czujny / Czujna / Czujne / Czujne
 20;Осторожный / Осторожная / Осторожное / Осторожные;Cautious;谨慎;Vorsichtiger / Vorsichtige / Vorsichtiges / Vorsichtige;;;;Ostrożny / Ostrożna / Ostrożne / Ostrożne
@@ -234,7 +234,7 @@ Skills_Energy_Cost;Облегчённый / Облегчённая / Облег�
 7;зелье;potion;药剂;trank;;;;mikstura
 8;Зелье;Potion;药剂;Trank;;;;mikstura
 9;каждый ход;cada turno;每回合;jede Runde;;;;każdej tury
-10;Для взлома нужны отмычки.;Você precisa de um lockpick.;你需要开锁工具。;Du brauchst einen Dietrich;;;;Potrzebujesz wytrychów
+10;Для взлома нужны отмычки.;Você precisa de uma gazua.;你需要开锁工具。;Du brauchst einen Dietrich;;;;Potrzebujesz wytrychów
 11;Для починки нужен ремонтный набор.;Você precisa de um kit de reparo.;你需要维修工具。;Du brauchst ein Reparaturset;;;;Potrzebujesz zestawu narzędzi
 12;Неопределённое зелье;Poção não identificada;未经鉴定的药剂;Unidentifizierter Trank.;;;;Niezidentyfikowana mikstura
 13;Свойства этого зелья неизвестны. Требуется определение.;As propriedades desta poção são desconhecidas. É necessário identificar-lo.;这个药剂属性不明，有待鉴定。;Die Eigenschaften dieses Tranks sind unbekannt. Eine Identifizierung ist erforderlich.;;;;Skutki działania tej mikstury są niezbadane. Należy użyć zwoju identyfikacji.
@@ -327,19 +327,19 @@ Elf;Эльфы населяют обширные земли Яхонтовых �
 ;race_desc_end;race_desc_end;race_desc_end;race_desc_end;;;;race_desc_end
 ;;;;;;;;
 ;race_name;race_name;race_name;race_name;;;;race_name
-Human;Человек (Альдор);Human (Aldor);人族（奥尔多）;Mensch (Aldor);;;;Człowiek (Aldor)
-Dwarf;Дварф;Dwarf;矮人;Zwerg;;;;Krasnolud
-Elf;Эльф;Elf;精灵;Elf;;;;Elf
+Human;Человек (Альдор);Humano (Aldor);人族（奥尔多）;Mensch (Aldor);;;;Człowiek (Aldor)
+Dwarf;Дварф;Anão;矮人;Zwerg;;;;Krasnolud
+Elf;Эльф;Elfo;精灵;Elf;;;;Elf
 ;race_name_end;race_name_end;race_name_end;race_name_end;;;;race_name_end
 ;;;;;;;;
 ;sex_desc;sex_desc;sex_desc;sex_desc;;;;sex_desc
-Male;Пол влияет на некоторые диалоговые опции.;Gender can change some of the dialogues.;有些对话会因人物性别而异。;Das Geschlecht kann einige der Dialoge verändern.;;;;Płeć może zmienić część dialogów.
-Female;Пол влияет на некоторые диалоговые опции.;Gender can change some of the dialogues.;有些对话会因人物性别而异。;Das Geschlecht kann einige der Dialoge verändern.;;;;Płeć może zmienić część dialogów.
+Male;Пол влияет на некоторые диалоговые опции.;O gênero pode mudar alguns diálogos.;有些对话会因人物性别而异。;Das Geschlecht kann einige der Dialoge verändern.;;;;Płeć może zmienić część dialogów.
+Female;Пол влияет на некоторые диалоговые опции.;O gênero pode mudar alguns diálogos..;有些对话会因人物性别而异。;Das Geschlecht kann einige der Dialoge verändern.;;;;Płeć może zmienić część dialogów.
 ;sex_desc_end;sex_desc_end;sex_desc_end;sex_desc_end;;;;sex_desc_end
 ;;;;;;;;
 ;sex_name;sex_name;sex_name;sex_name;;;;sex_name
-Male;Мужчина;Male;男;Männlich;;;;Mężczyzna
-Female;Женщина;Female;女;Weiblich;;;;Kobieta
+Male;Мужчина;Masculino;男;Männlich;;;;Mężczyzna
+Female;Женщина;Feminino;女;Weiblich;;;;Kobieta
 ;sex_name_end;sex_name_end;sex_name_end;sex_name_end;;;;sex_name_end
 ;;;;;;;;
 ;psychic_name;psychic_name;psychic_name;psychic_name;;;;psychic_name
@@ -360,11 +360,11 @@ Female;Женщина;Female;女;Weiblich;;;;Kobieta
 ;psychic_mid_text;psychic_mid_text;psychic_mid_text;psychic_mid_text;;;;psychic_mid_text
 1;None;None;None;None;;;;None
 2;None;None;None;None;;;;None
-3;Здоровье и энергия восполнены.#Все физические и ментальные негативные эффекты временно сброшены.;Health and energy are replenished.#All negative status effects are temporary negated.;生命和精力恢复。#所有负面状态的效果暂时抵消。;Gesundheit und Energie werden wieder aufgefüllt.#Alle negativen Statuseffekte werden vorübergehend negiert.;;;;Zdrowie i Energia zostają odnowione.#Wszystkie negatywne efekty są tymczasowo wstrzymane.
+3;Здоровье и энергия восполнены.#Все физические и ментальные негативные эффекты временно сброшены.;Saúde e energia são reabastecidas.#Todos os efeitos negativos do seu status estão temporariamente negados.;生命和精力恢复。#所有负面状态的效果暂时抵消。;Gesundheit und Energie werden wieder aufgefüllt.#Alle negativen Statuseffekte werden vorübergehend negiert.;;;;Zdrowie i Energia zostają odnowione.#Wszystkie negatywne efekty są tymczasowo wstrzymane.
 4;None;None;None;None;;;;None
-5;Вы несколько переоцениваете собственные силы.;You might be overestimating your abilities.;你可能高估了自己的实力。;Vielleicht überschätzt du deine Fähigkeiten.;;;;Być może przeceniasz swoje umiejętności.
+5;Вы несколько переоцениваете собственные силы.;Você pode estar superestimando suas habilidades.;你可能高估了自己的实力。;Vielleicht überschätzt du deine Fähigkeiten.;;;;Być może przeceniasz swoje umiejętności.
 6;None;None;None;None;;;;None
-7;Чем больше уровень боли, тем меньше энергии тратят умения.#Боль восстанавливает энергию в конце хода.;The higher your pain, the less energy you spend on your abilities.#Pain restores energy at the end of each turn.;你越痛苦，能力消耗的精力越少。#每个回合结束时，痛苦会恢复精力。;Je höher dein Schmerz ist, desto weniger Energie wendest du für deine Fertigkeiten auf.#Schmerz stellt am Ende jeder Runde Energie wieder her.;;;;Im silniejszy ból tym mniej Energii zużywasz na swoje zdolności.#Ból regeneruje energię na koniec każdej tury.
+7;Чем больше уровень боли, тем меньше энергии тратят умения.#Боль восстанавливает энергию в конце хода.;Quanto maior a sua dor, menos energia você gasta em suas habilidades.#A dor restaura a energia no final de cada turno.;你越痛苦，能力消耗的精力越少。#每个回合结束时，痛苦会恢复精力。;Je höher dein Schmerz ist, desto weniger Energie wendest du für deine Fertigkeiten auf.#Schmerz stellt am Ende jeder Runde Energie wieder her.;;;;Im silniejszy ból tym mniej Energii zużywasz na swoje zdolności.#Ból regeneruje energię na koniec każdej tury.
 8;None;None;None;None;;;;None
 9;None;None;None;None;;;;None
 10;None;None;None;None;;;;None
@@ -404,31 +404,31 @@ Female;Женщина;Female;女;Weiblich;;;;Kobieta
 ;psychic_desc_end;psychic_desc_end;psychic_desc_end;psychic_desc_end;;;;psychic_desc_end
 ;;;;;;;;
 ;context_menu;context_menu;context_menu;context_menu;;;;context_menu
-1;Открыть;Open;打开;Öffnen;;;;Otwórz
-2;Закрыть;Close;关上;Schließen;;;;Zamknij
-3;Атаковать;Attack;攻击;Angreifen;;;;Atakuj
-4;Взломать;Pick;开锁;Knacken;;;;Użyj Wytrychu
-5;Атаковать;Attack;攻击;Angreifen;;;;Atakuj
+1;Открыть;Abrir;打开;Öffnen;;;;Otwórz
+2;Закрыть;Fechar;关上;Schließen;;;;Zamknij
+3;Атаковать;Atacar;攻击;Angreifen;;;;Atakuj
+4;Взломать;Destrancar;开锁;Knacken;;;;Użyj Wytrychu
+5;Атаковать;Atacar;攻击;Angreifen;;;;Atakuj
 6;Осмотреть;Inspect;查看;Untersuchen;;;;Sprawdź
-7;Поднять;Pick Up;拿起;Aufheben;;;;Podnieś
-8;Использовать;Use;使用;Benutzen;;;;Użyj
-9;Съесть;Eat;吃;Essen;;;;Zjedz
-10;Выпить;Drink;喝;Trinken;;;;Wypij
-11;Применить;Apply;使用;Anwenden;;;;Nałóż
-12;Использовать;Use;使用;Benutzen;;;;Użyj
-13;Выбросить;Drop;丢弃;Ablegen;;;;Wyrzuć
-14;Взаимодействовать;Interact;互动;Interagieren;;;;Interakcja
-15;Экипировать;Equip;装备;Ausrüsten;;;;Wyposaż
-16;Починить;Repair;修理;Reparieren;;;;Napraw
-17;Снять;Remove;移除;Entfernen;;;;Usuń
-18;Обезвредить;Disarm;拆除;Entschärfen;;;;Rozbrój
-19;Проскочить;Avoid;躲避;Vermeiden;;;;Omiń
-20;Открыть (ключ);Open (Key);打开（钥匙）;Öffnen (Schlüssel);;;;Otwórz (Kluczem)
-21;Изучить;Inspect;查看;Untersuchen;;;;Sprawdź
-22;Опознать;Identify;鉴定;Identifizieren;;;;Identyfikuj
-23;Прочесть;Read;阅读;Lesen;;;;Czytaj
-24;Шанс проскочить:;Chance to avoid:;躲避几率：;Ausweichen-Chance:;;;;Szansa na uniknięcie:
-25;Шанс обезвредить:;Disarm chance:;拆除几率：;Entschärfen-Chance;;;;Szansa na rozbrojenie:
+7;Поднять;Pegar;拿起;Aufheben;;;;Podnieś
+8;Использовать;Usar;使用;Benutzen;;;;Użyj
+9;Съесть;Comer;吃;Essen;;;;Zjedz
+10;Выпить;Beber;喝;Trinken;;;;Wypij
+11;Применить;Aplicar;使用;Anwenden;;;;Nałóż
+12;Использовать;Usar;使用;Benutzen;;;;Użyj
+13;Выбросить;Dropar;丢弃;Ablegen;;;;Wyrzuć
+14;Взаимодействовать;Interagir;互动;Interagieren;;;;Interakcja
+15;Экипировать;Equipamento;装备;Ausrüsten;;;;Wyposaż
+16;Починить;Reparar;修理;Reparieren;;;;Napraw
+17;Снять;Remover;移除;Entfernen;;;;Usuń
+18;Обезвредить;Disarmar;拆除;Entschärfen;;;;Rozbrój
+19;Проскочить;Desviar;躲避;Vermeiden;;;;Omiń
+20;Открыть (ключ);Abrir (Chave);打开（钥匙）;Öffnen (Schlüssel);;;;Otwórz (Kluczem)
+21;Изучить;Inspecionar;查看;Untersuchen;;;;Sprawdź
+22;Опознать;Identificar;鉴定;Identifizieren;;;;Identyfikuj
+23;Прочесть;Ler;阅读;Lesen;;;;Czytaj
+24;Шанс проскочить:;Chance de Desviar:;躲避几率：;Ausweichen-Chance:;;;;Szansa na uniknięcie:
+25;Шанс обезвредить:;Chance de Desarmar:;拆除几率：;Entschärfen-Chance;;;;Szansa na rozbrojenie:
 26;Объединить;Merge;归拢;Zusammenführen;;;;Połącz
 27;Переместить;Move;移动;Bewegen;;;;Przenieś
 28;Осмотреть;Inspect;查看;Untersuchen;;;;Sprawdź
@@ -496,39 +496,39 @@ Female;Женщина;Female;女;Weiblich;;;;Kobieta
 10;Параметры игрока;Character Panel;人物面板;Charakterfenster;;;;Panel Postaci
 11;Сменить вооружение;Switch Weapons;切换武器;Waffen wechseln;;;;Zmień Bronie
 12;Сменить панель;Switch Hotbar;切换快捷栏;Schnellzugriffsleiste wechseln;;;;Zmień Pasek
-13;ИГРАТЬ;PLAY;开始游戏;SPIELEN;;;;GRAJ
-14;НАСТРОЙКИ;SETTINGS;游戏设置;EINSTELLUNGEN;;;;USTAWIENIA
-15;ВЫХОД;EXIT;退出;BEENDEN;;;;WYJDŹ
-16;Нажмите ENTER, чтобы покинуть игру#Нажмите ESCAPE, чтобы вернуться назад;Press ENTER to exit the game#Press ESCAPE to continue playing;按ENTER键退出游戏#按ESC键继续游戏;Drücke ENTER, um das Spiel zu verlassen.#Drücke ESC, um weiter zu spielen.;;;;Wciśnij ENTER by wyjść z gry#Wciśnij ESCAPE, by kontynuować
-17;НАЗАД;BACK;返回;ZURÜCK;;;;WRÓĆ
+13;ИГРАТЬ;JOGAR;开始游戏;SPIELEN;;;;GRAJ
+14;НАСТРОЙКИ;OPÇÕES;游戏设置;EINSTELLUNGEN;;;;USTAWIENIA
+15;ВЫХОД;SAIR;退出;BEENDEN;;;;WYJDŹ
+16;Нажмите ENTER, чтобы покинуть игру#Нажмите ESCAPE, чтобы вернуться назад;Pressione ENTER para sair do jogo#Pressione ESC para continuar jogando;按ENTER键退出游戏#按ESC键继续游戏;Drücke ENTER, um das Spiel zu verlassen.#Drücke ESC, um weiter zu spielen.;;;;Wciśnij ENTER by wyjść z gry#Wciśnij ESCAPE, by kontynuować
+17;НАЗАД;V0LTAR;返回;ZURÜCK;;;;WRÓĆ
 18;РУССКИЙ;Русский;Русский;RUSSISCH;;;;ROSYJSKI
 19;АНГЛИЙСКИЙ;ENGLISH;English;ENGLISCH;;;;ANGIELSKI
-20;НОВАЯ ИГРА;NEW GAME;新的游戏;NEUES SPIEL;;;;NOWA GRA
-21;ПРОДОЛЖИТЬ;CONTINUE;继续游戏;WEITER;;;;KONTYNUUJ
-22;Закрыть;Close;关闭;Schließen;;;;Zamknij
-23;Взять все;Take All;全部拿走;Alles nehmen;;;;Zbierz wszystko
-24;Общая громкость;Master Volume;主音量;Gesamtlautstärke;;;;Głośność całkowita
-25;Громкость музыки;Music;音乐;Musik;;;;Muzyka
+20;НОВАЯ ИГРА;NOVO JOGO;新的游戏;NEUES SPIEL;;;;NOWA GRA
+21;ПРОДОЛЖИТЬ;CONTINUAR;继续游戏;WEITER;;;;KONTYNUUJ
+22;Закрыть;Fechar;关闭;Schließen;;;;Zamknij
+23;Взять все;Pegar Tudo;全部拿走;Alles nehmen;;;;Zbierz wszystko
+24;Общая громкость;Volume Principal;主音量;Gesamtlautstärke;;;;Głośność całkowita
+25;Громкость музыки;Musica;音乐;Musik;;;;Muzyka
 26;Громкость звуков;SFX;声效;Soundeffekte;;;;Efekty dźwiękowe
-27;Громкость диалогов;Dialogues;对话;Dialoge;;;;Dialogi
-28;Громкость окружения;Ambience;环境;Umgebung;;;;Otoczenie
+27;Громкость диалогов;Dialogos;对话;Dialoge;;;;Dialogi
+28;Громкость окружения;Ambiente;环境;Umgebung;;;;Otoczenie
 29;Покачивание спрайтов;Sprite Wobbling;立绘摇晃;Spritewackeln;;;;Animacje sprite
 30;Всплывающие надписи;Pop-up Inscriptions;弹出文字;Pop-up Instruktionen;;;;Opisy typu pop-up
 31;Числа урона;Damage Numbers;伤害数值;Schadensnummern;;;;Liczby obrażeń
-32;Тряска экрана;Screen Shake;屏幕振动;Bildschirmwackeln;;;;Wstrząsy kamery
-33;Полный экран;Fullscreen;全屏;Vollbild;;;;Pełen ekran
-34;Закрытие инвентаря при закрытии контейнера;Close Inventory after closing loot window;关闭战利窗口自动关闭物品栏;Inventar schließen, nachdem Beutefenster geschlossen wurde;;;;Zamknij ekwipunek po otwarciu łupu
-35;ИГРА;GAME;游戏;SPIEL;;;;GRA
-36;ЗВУК;SOUND;声音;SOUND;;;;DŹWIĘKI
+32;Тряска экрана;Vibração de Tela;屏幕振动;Bildschirmwackeln;;;;Wstrząsy kamery
+33;Полный экран;Tela Cheia;全屏;Vollbild;;;;Pełen ekran
+34;Закрытие инвентаря при закрытии контейнера;Feche o inventário após fechar a aba de pilhagem;关闭战利窗口自动关闭物品栏;Inventar schließen, nachdem Beutefenster geschlossen wurde;;;;Zamknij ekwipunek po otwarciu łupu
+35;ИГРА;JOGO;游戏;SPIEL;;;;GRA
+36;ЗВУК;SOM;声音;SOUND;;;;DŹWIĘKI
 37;ВИДЕО;VIDEO;图像;VIDEO;;;;GRAFIKA
-38;УПРАВЛЕНИЕ;CONTROLS;键位;STEUERUNG;;;;STEROWANIE
-39;ПРИМЕНИТЬ;APPLY;应用;ANWENDEN;;;;AKCEPTUJ
-40;ОТМЕНА;CANCEL;取消;ABBRUCH;;;;ANULUJ
-41;ПО УМОЛЧАНИЮ;DEFAULTS;恢复默认;STANDARD;;;;DOMYŚLNE
-42;Разрешение;Resolution;分辨率;Auflösung;;;;Rodzielczość
+38;УПРАВЛЕНИЕ;CONTROLES;键位;STEUERUNG;;;;STEROWANIE
+39;ПРИМЕНИТЬ;APLICAR;应用;ANWENDEN;;;;AKCEPTUJ
+40;ОТМЕНА;CANCELAR;取消;ABBRUCH;;;;ANULUJ
+41;ПО УМОЛЧАНИЮ;PADRÃO;恢复默认;STANDARD;;;;DOMYŚLNE
+42;Разрешение;Resolução;分辨率;Auflösung;;;;Rodzielczość
 43;Поддержка других разрешений будет добавлена позже.;Other resolutions support will be added later.;未来将支持其他的分辨率。;Unterstützung für anderen Auflösungen kommt später.;;;;Inne rozdzielczości będą obsługiwane wkrótce.
-44;Язык;Language;语言;Sprache;;;;Język
-45;ГЛАВНОЕ МЕНЮ;MAIN MENU;主菜单;HAUPTMENÜ;;;;MENU GŁÓWNE
+44;Язык;Linguagem;语言;Sprache;;;;Język
+45;ГЛАВНОЕ МЕНЮ;MENU PRINCIPAL;主菜单;HAUPTMENÜ;;;;MENU GŁÓWNE
 46;Выйти в главное меню?;Return to the main menu?;返回主菜单？;Zurück zum Hauptmenü?;;;;Powrócić do menu głównego?
 47;Выйти из игры?;Exit game?;退出游戏？;Spiel verlassen?;;;;Wyjść z gry?
 48;Игра находится в ранней бета-версии.#Многие аспекты игры ещё не реализованы.#Некоторые механики и системы будут изменены и доработаны.;This game is in the early Beta stage.#Many aspects of gameplay have not been implemented yet.#Present features may be a subject to change.;游戏目前处于早期Beta测试阶段#游戏的许多玩法未来将会陆续实现#现有机制以后可能有所调整;Dieses Spiel befindet sich in der frühen Beta-Phase.#Viele Aspekte des Gameplays wurden noch nicht implementiert.#Vorhandene Funktionen können sich ändern.;;;;Ta gra znajduje się we wczesnej fazie Beta.#Wiele elementów mechaniki gry nie zostało ukończonych.#Aktualna treść gry może ulec zmianie.
@@ -557,7 +557,7 @@ Female;Женщина;Female;女;Weiblich;;;;Kobieta
 71;Вы погибли;You Are Dead;你已死亡;Du Bist Tot;;;;Jesteś martwy
 72;УЖЕ ДОСТУПНО;NOW AVAILABLE;现已发售;JETZT VERFÜGBAR;;;;DODAJ GRĘ DO LISTY ŻYCZEŃ
 73;Создано на;Powered by;游戏引擎;Angetrieben von;;;;Napędzane przez
-74;Показывать подсказки;Show hints;显示提示;Tipps an/aus;;;;Włącz podpowiedzi
+74;Показывать подсказки;Mostrar dicas;显示提示;Tipps an/aus;;;;Włącz podpowiedzi
 75;СОЗДАТЬ ПЕРСОНАЖА;CREATE CHARACTER;创建人物;CHARAKTER ERSTELLEN;;;;STWÓRZ
 76;ВЫБОР ПЕРСОНАЖА;SELECT CHARACTER;选择人物;CHARAKTER AUSWÄHLEN;;;;WYBIERZ
 77;СКЛОННОСТИ;AFFINITY;擅用武器;AFFINITÄT;;;;POWIĄZANIE
@@ -576,62 +576,62 @@ Female;Женщина;Female;女;Weiblich;;;;Kobieta
 ;button_hover_end;button_hover_end;button_hover_end;button_hover_end;;;;button_hover_end
 ;;;;;;;;
 ;control_buttons;control_buttons;control_buttons;control_buttons;;;;control_buttons
-1;Вверх;Up;上;Hoch;;;;W górę
-2;Вниз;Down;下;Runter;;;;W dół
-3;Влево;Left;左;Links;;;;Lewo
-4;Вправо;Right;右;Rechts;;;;Prawo
-5;Вправо и вверх;Right Up;右上;Rechts Hoch;;;;Prawa Góa
-6;Влево и вверх;Left Up;左上;Links Hoch;;;;Lewa Góra
-7;Вправо и вниз;Right Down;右下;Rechts Runter;;;;Prawy Dół
-8;Влево и вниз;Left Down;左下;Links Runter;;;;Lewy Dół
-9;Пропуск хода;Skip Turn;跳过回合;Runde überspringen;;;;Pomiń Turę
-10;Режим взаимодействия;Interaction Mode;互动模式;Interaktionsmodus;;;;Tryb Interakcji
-11;Вариант вооружения;Weapon Loadout;武器组合;Bewaffnung;;;;Wyposażenie
-12;Режим атаки;Attack Mode;攻击模式;Angriffsmodus;;;;Tryb Ataku
-13;Меню персонажа;Character Menu;人物窗口;Charaktermenü;;;;Menu Postaci
-14;Инвентарь;Inventory;物品栏;Inventar;;;;Ekwipunek
-15;Меню способностей;Skill Menu;技能窗口;Fertigkeitenmenü;;;;Menu Umiejętności
-16;Меню режимов;Mode Menu;模式窗口;Modusmenü;;;;Menu Trybów
-17;Показать добычу;Loot Hovers;显示战利品;Beute schwebt;;;;Informacje o łupie
-18;Взять всё;Take All;全部拿走;Alles nehmen;;;;Weź wszystko
-19;Режим отдыха;Rest Mode;休息模式;Ruhemodus;;;;Tryb Odpoczynku
-20;Журнал;Journal;日志;Tagebuch;;;;Dziennik
+1;Вверх;Cima;上;Hoch;;;;W górę
+2;Вниз;Baixo;下;Runter;;;;W dół
+3;Влево;Esquerda;左;Links;;;;Lewo
+4;Вправо;Direita;右;Rechts;;;;Prawo
+5;Вправо и вверх;Canto Superior Direito;右上;Rechts Hoch;;;;Prawa Góa
+6;Влево и вверх;Canto Superior Esquerdo;左上;Links Hoch;;;;Lewa Góra
+7;Вправо и вниз;Direita para Baixo;右下;Rechts Runter;;;;Prawy Dół
+8;Влево и вниз;Esquerda para Baixo;左下;Links Runter;;;;Lewy Dół
+9;Пропуск хода;Pular Turno;跳过回合;Runde überspringen;;;;Pomiń Turę
+10;Режим взаимодействия;Modo de Interação;互动模式;Interaktionsmodus;;;;Tryb Interakcji
+11;Вариант вооружения;Carregamento de Armas;武器组合;Bewaffnung;;;;Wyposażenie
+12;Режим атаки;Modo Ataque;攻击模式;Angriffsmodus;;;;Tryb Ataku
+13;Меню персонажа;Menu de Personagens;人物窗口;Charaktermenü;;;;Menu Postaci
+14;Инвентарь;Inventário;物品栏;Inventar;;;;Ekwipunek
+15;Меню способностей;Menu de Habildades;技能窗口;Fertigkeitenmenü;;;;Menu Umiejętności
+16;Меню режимов;Modo Menu;模式窗口;Modusmenü;;;;Menu Trybów
+17;Показать добычу;Mostrar Loot;显示战利品;Beute schwebt;;;;Informacje o łupie
+18;Взять всё;Pegar Tudo;全部拿走;Alles nehmen;;;;Weź wszystko
+19;Режим отдыха;Modo de Repouso;休息模式;Ruhemodus;;;;Tryb Odpoczynku
+20;Журнал;Diário;日志;Tagebuch;;;;Dziennik
 21;Карта;Mapa;地图;KARTE;;;;MAPA
 ;control_buttons_end;control_buttons_end;control_buttons_end;control_buttons_end;;;;control_buttons_end
 ;;;;;;;;
 ;trade_category;trade_category;trade_category;trade_category;;;;trade_category
-1;Всё;Everything;所有东西;Alles;;;;Wszystko
-2;Оружие;Weapons;武器;Waffen;;;;Bronie
-3;Броня;Armor;护具;Rüstung;;;;Pancerze
-4;Украшения;Jewelry;首饰;Schmuck;;;;Amulety i Pierścienie
-5;Медицина;Medicine;药品;Medizin;;;;Medykamenty
-6;Съестное и напитки;Food & Drinks;饮食;Essen & Getränke;;;;Napoje i Jedzenie
+1;Всё;Tudo;所有东西;Alles;;;;Wszystko
+2;Оружие;Armas;武器;Waffen;;;;Bronie
+3;Броня;Armaduras;护具;Rüstung;;;;Pancerze
+4;Украшения;Jóias;首饰;Schmuck;;;;Amulety i Pierścienie
+5;Медицина;Remédios;药品;Medizin;;;;Medykamenty
+6;Съестное и напитки;Comidas e Bebidas;饮食;Essen & Getränke;;;;Napoje i Jedzenie
 7;Инструменты;Ferramentas;工具;Werkzeuge;;;;Narzędzia
-8;Зелья;Potions;药剂;Tränke;;;;Mikstury
-9;Свитки и книги;Scrolls & Books;书卷;Spruchrollen & Bücher;;;;Zwoje i Księgi
-10;Материалы и реагенты;Reagents & Materials;材料;Reagenzien & Materialien;;;;Reagenty i Materiały
-11;Драгоценности;Valuables;贵重物品;Wertvolles;;;;Kosztowności
-12;Другое;Other;其他;Sonstiges;;;;Inne
+8;Зелья;Poções;药剂;Tränke;;;;Mikstury
+9;Свитки и книги;Pergaminhos e Livros;书卷;Spruchrollen & Bücher;;;;Zwoje i Księgi
+10;Материалы и реагенты;Reagentes e Materiais;材料;Reagenzien & Materialien;;;;Reagenty i Materiały
+11;Драгоценности;Objetos de Valor;贵重物品;Wertvolles;;;;Kosztowności
+12;Другое;Outros;其他;Sonstiges;;;;Inne
 ;trade_category_end;trade_category_end;trade_category_end;trade_category_end;;;;trade_category_end
 ;;;;;;;;
 ;map;map;map;map;;;;map
 1;Осбрук;Osbrook;奥斯布鲁克;Osbrook;;;;Osbrook
 2;Манншир;Mannshire;曼郡;Mannshire;;;;Mannshire
-3;Бастион;Bastion;棱堡;Bastion;;;;Bastion
-4;Склеп;Crypt;墓穴;Gruft;;;;Krypta
-5;Катакомбы;Catacombs;墓道;Katakomben;;;;Katakumby
-6;Лагерь;Camp;营地;Lager;;;;Obóz
-7;Хижина ведьмы;Witch's Hut;女巫小屋;Hexenhütte;;;;Chata Wiedźmy
-8;Винокурня;Winery;酒厂;Weingut;;;;Winiarnia
-9;Мельница;Mill;磨坊;Mühle;;;;Młyn
-10;Поле;Field;田野;Feld;;;;Pola
-11;Лес;Forest;树林;Wald;;;;Lasy
-12;с дорогой;with a road;（有路）;mit Strasse;;;;z drogą
-13;Аббатство Святого Откровения;Abbey of the Holy Revelation;圣示修院;Abtei der Heiligen Offenbarung;;;;Opactwo Świętego Objawienia
-14;Точка интереса;Point of Interest;地点;Sehenswürdigkeit;;;;Interesujące Miejsca
-15;Опасность;Danger;危险程度;Gefahr;;;;Niebezpieczeństwo
-16;Низкая;Low;低;Niedrig;;;;Niskie
-17;Средняя;Average;中;Durchschnittlich;;;;Średnie
-18;Высокая;High;高;Hoch;;;;Wysokie
-19;Очень высокая;Very High;很高;Sehr Hoch;;;;Bardzo Wysokie
+3;Бастион;Bastião;棱堡;Bastion;;;;Bastion
+4;Склеп;Cripta;墓穴;Gruft;;;;Krypta
+5;Катакомбы;Catacumbas;墓道;Katakomben;;;;Katakumby
+6;Лагерь;Acampamento;营地;Lager;;;;Obóz
+7;Хижина ведьмы;Cabana da bruxa;女巫小屋;Hexenhütte;;;;Chata Wiedźmy
+8;Винокурня;Vinícola;酒厂;Weingut;;;;Winiarnia
+9;Мельница;Moinho;磨坊;Mühle;;;;Młyn
+10;Поле;Campo;田野;Feld;;;;Pola
+11;Лес;Floresta;树林;Wald;;;;Lasy
+12;с дорогой;com uma estrada;（有路）;mit Strasse;;;;z drogą
+13;Аббатство Святого Откровения;Abadia da Santa Revelação;圣示修院;Abtei der Heiligen Offenbarung;;;;Opactwo Świętego Objawienia
+14;Точка интереса;Ponto de Interesse;地点;Sehenswürdigkeit;;;;Interesujące Miejsca
+15;Опасность;Perigo;危险程度;Gefahr;;;;Niebezpieczeństwo
+16;Низкая;Baixo;低;Niedrig;;;;Niskie
+17;Средняя;Médio;中;Durchschnittlich;;;;Średnie
+18;Высокая;Alto;高;Hoch;;;;Wysokie
+19;Очень высокая;Muito alto;很高;Sehr Hoch;;;;Bardzo Wysokie
 ;map_end;map_end;map_end;map_end;;;;map_end

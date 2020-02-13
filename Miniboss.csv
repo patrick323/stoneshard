@@ -1,276 +1,276 @@
-Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Polski
-специальные теги, не удалять, не изменять, при добавлении переносить вниз;Title;Title;Title;Title;;;;
-;;;;;;;;
-;;;;;;;;
-Possessed;Possessed;Possessed;Possessed;Possessed;;;;Possessed
-;Демонический;the Demonic;“魔上身”;der Dämonische;;;;Demoniczny
-;Безумный;the Mad;疯子;der Verrückte;;;;Szalony
-;Бесноватый;the Raving;狂人;der Tobende;;;;Majaczący
-;Помешанный;the Deranged;失心疯;der Geisteskranke;;;;Obłąkany
-Possessed_end;Possessed_end;Possessed_end;Possessed_end;Possessed_end;;;;Possessed_end
-;;;;;;;;
-;;;;;;;;
-Powerful;Powerful;Powerful;Powerful;Powerful;;;;Powerful
-;Силач;the Mighty;大力士;der Mächtige;;;;Potężny
-;Богатырь;the Powerful;“力大无比”;der Kräftige;;;;Mocny
-;Большой;the Big;大个子;der Große;;;;Wielki
-;Неодолимый;the Overpowering;“力大如牛”;der Übermächtige;;;;Nadludzki
-;Громоздкий;the Bulky;傻大个;der Sperrige;;;;Masywny
-Powerful_end;Powerful_end;Powerful_end;Powerful_end;Powerful_end;;;;Powerful_end
-;;;;;;;;
-Vindictive;Vindictive;Vindictive;Vindictive;Vindictive;;;;Vindictive
-;Злобный;the Wicked;“睚眦必报”;der Boshafte;;;;Niegodziwy
-;Ненавистник;the Malicious;恶人;der Heimtückische;;;;Złośliwy
-;Злопамятный;the Vindictive;“有仇必报”;der Rachsüchtige;;;;Mściwy
-Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end;;;;Vindictive_end
-;;;;;;;;
-Persistent;Persistent;Persistent;Persistent;Persistent;;;;Persistent
-;Здоровяк;the Husky;大块头;der Bärenstarke;;;;Krzepki
-;Крепкий;the Sturdy;“虎背熊腰”;der Stämmige;;;;Silny
-;Толстый;the Fat;胖子;der Fette;;;;Grubas
-;Толстокожий;the Thick-skinned;“皮糙肉厚”;der Dickhäutige;;;;Gruboskórny
-Persistent_end;Persistent_end;Persistent_end;Persistent_end;Persistent_end;;;;Persistent_end
-;;;;;;;;
-;;;;;;;;
-Trapmaker;Trapmaker;Trapmaker;Trapmaker;Trapmaker;;;;Trapmaker
-;Охотник;the Hunter;猎手;der Jäger;;;;Łowczy
-;Сетелов;the Netcatcher;布网高手;der Netzfänger;;;;Chwytający
-;Ловчий;the Catcher;捕手;der Fänger;;;;Łapiący
-Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end;;;;Trapmaker_end
-;;;;;;;;
-;;;;;;;;
-Resistant;Resistant;Resistant;Resistant;Resistant;;;;Resistant
-;Закалённый;the Tempered;“金刚不坏”;der Gemäßigte;;;;Hartowany
-;Благословлённый;the Blessed;“福大命大”;der Gesegnete;;;;Błogosławiony
-;Непробиваемый;the Bladeproof;“刀斧不入”;der Klingensichere;;;;Odporny
-;Усиленный;the Strengthened;“铜皮铁骨”;der Gestärkte;;;;Wzmocniony
-Resistant_end;Resistant_end;Resistant_end;Resistant_end;Resistant_end;;;;Resistant_end
-;;;;;;;;
-Summoner;Summoner;Summoner;Summoner;Summoner;;;;Summoner
-;Повелитель;the Overlord;the Overlord;der Oberherr;;;;Władczy
-;Владыка;the Master;the Master;der Meister;;;;Mistrzowski
-;Командир;the Commander;the Commander;der Kommandant;;;;Dowódczy
-;Властитель;the Lord;the Lord;der Herr;;;;Lordowski
-Summoner_end;Summoner_end;Summoner_end;Summoner_end;Summoner_end;;;;Summoner_end
-;;;;;;;;
-Fatebinded;Fatebinded;Fatebinded;Fatebinded;Fatebinded;;;;Fatebinded
-;Ткач Судеб;the Fate Weaver;the Fate Weaver;der Schicksalsweber;;;;Wiążący Losy
-;На цепи;the Chained;the Chained;der Angekettete;;;;Połączony
-;Всеединый;the United;the United;der Vereinte;;;;Zjednoczony
-;Неделимый;the Indivisible;the Indivisible;der Unteilbare;;;;Niepodzielny
-Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end;;;;Fatebinded_end
-;;;;;;;;
-Berserking;Berserking;Berserking;Berserking;Berserking;;;;Berserking
-;Бешеный;the Enraged;“丧心病狂”;der Zornige;;;;Wściekły
-;Кровавый;the Bloody;“穷凶极恶”;der Blutige;;;;Krwawy
-;Безрассудный;the Reckless;“杀人如麻”;der Rücksichtslose;;;;Bezlitosny
-;Обезумевший;the Distraught;嗜血狂;der Verzweifelte;;;;Oszalały
-;Кровожад;the Bloodlusting;“嗜血成性”;der Blutrünstige;;;;Żądny Krwi
-Berserking_end;Berserking_end;Berserking_end;Berserking_end;Berserking_end;;;;Berserking_end
-;;;;;;;;
-Immortal;Immortal;Immortal;Immortal;Immortal;;;;Immortal
-;Неубиваемый;the Unkillable;“杀不死”;der Unkaputtbare;;;;Nieśmiertelny
-;Воскресший;the Revived;“死而复生”;der Wiederbelebte;;;;Wskrzeszony
-;Вечный;the Eternal;“长命百岁”;der Ewige;;;;Przedwieczny
-;Нетленный;the Imperishable;“长生不死”;der Unvergängliche;;;;Niepokonany
-;Неумирающий;the Undying;“不死之身”;der Unsterbliche;;;;Nieginący
-Immortal_end;Immortal_end;Immortal_end;Immortal_end;Immortal_end;;;;Immortal_end
-;;;;;;;;
-Illusionist;Illusionist;Illusionist;Illusionist;Illusionist;;;;Illusionist
-;Плут;the Deceiver;the Deceiver;der Täuscher;;;;Oszust
-;Обманщик;the Crook;骗子;der Gauner;;;;Łotr
-;Лжец;the Liar;“谎话连篇”;der Lügner;;;;Kłamca
-;Хитрец;the Sly;“油头滑脑”;das Schlitzohr;;;;Chytry
-;Пройдоха;the Scoundrel;无耻之徒;der Schuft;;;;Łotr
-Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end;;;;Illusionist_end
-;;;;;;;;
-Overcharged;Overcharged;Overcharged;Overcharged;Overcharged;;;;Overcharged
-;Неугасимый;the Quenchless;“欲求不满”;der Unstillbare;;;;Nieugaszony
-;Озарённый;the Illuminated;“走火入魔”;der Erleuchtete;;;;Oświetlony
-Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end;;;;Overcharged_end
-;;;;;;;;
-Leeching;Leeching;Leeching;Leeching;Leeching;;;;Leeching
-;Похититель;the Reaver;“血虱子”;der Plünderer;;;;Rozbójnik
-;Паразит;the Parasite;寄生虫;der Parasit;;;;Pasożyt
-Leeching_end;Leeching_end;Leeching_end;Leeching_end;Leeching_end;;;;Leeching_end
-;;;;;;;;
-Auramancer;Auramancer;Auramancer;Auramancer;Auramancer;;;;Auramancer
-;Ауромант;the Auromancer;the Auromancer;der Auromant;;;;Auromancer
-Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end;;;;Auramancer_end
-;;;;;;;;
-Unstable;Unstable;Unstable;Unstable;Unstable;;;;Unstable
-;Непредсказуемый;the Unpredictable;“鬼见愁”;der Unvorhersehbare;;;;Nieprzewidywalny
-;Внезапный;the Sudden;“攻人不备”;der Plötzliche;;;;Niespodziewany
-;Неудержимый;the Rampant;“随心所欲”;der Zügellose;;;;Nieokiełznany
-Unstable_end;Unstable_end;Unstable_end;Unstable_end;Unstable_end;;;;Unstable_end
-;;;;;;;;
-Raging;Raging;Raging;Raging;Raging;;;;Raging
-;Гневный;the Angry;“怒火冲天”;der Wütende;;;;Zły
-;Убийца;the Slayer;“杀人不眨眼”;der Mörder;;;;Morderca
-;Грозный;the Fearsome;惊天煞;der Furchtbare;;;;Nieustraszony
-;Дикий;the Wild;“辣手摧花”;der Wilde;;;;Dziki
-;Буйный;the Rowdy;“恼羞成怒”;der Rowdy;;;;Hałaśliwy
-;Неистовый;the Frantic;“暴跳如雷”;der Rasende;;;;Szalony
-Raging_end;Raging_end;Raging_end;Raging_end;Raging_end;;;;Raging_end
-;;;;;;;;
-Nimble;Nimble;Nimble;Nimble;Nimble;;;;Nimble
-;Неуловимый;the Elusive;“身轻如燕”;der Flüchtige;;;;Unikający
-;Проворный;the Prompt;“风驰电掣”;der Auffordernde;;;;Skłonny
-;Ловкач;the Dodger;“无影”;der Ausweichende;;;;Omijający
-;Быстрый;the Quick;“快手快脚”;der Schnelle;;;;Szybki
-;Резвый;the Frisky;“活蹦乱跳”;der Verspielte;;;;Ruchliwy
-Nimble_end;Nimble_end;Nimble_end;Nimble_end;Nimble_end;;;;Nimble_end
-;;;;;;;;
-Exhausting;Exhausting;Exhausting;Exhausting;Exhausting;;;;Exhausting
-;Мучитель;the Tormentor;“无恶不作”;der Peiniger;;;;Dręczyciel
-;Живодёр;the Flayer;“剥皮抽筋”;der Schinder;;;;Obdzierający
-;Истязатель;the Torturer;“心狠手辣”;der Folterer;;;;Torturujący
-;Изверг;the Fiend;“恶魔”;der Unhold;;;;Diabelski
-;Палач;the Slaughterer;“辣手屠夫”;der Schlächter;;;;Zabójczy
-Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end;;;;Exhausting_end
-;;;;;;;;
-Masochistic;Masochistic;Masochistic;Masochistic;Masochistic;;;;Masochistic
-;Страдающий;the Suffering;“痛不欲生”;der Leidende;;;;Cierpiący
-;Извращённый;the Perverted;受虐狂;der Pervertierte;;;;Perwersyjny
-Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end;;;;Masochistic_end
-;;;;;;;;
-Restorating;Restorating;Restorating;Restorating;Restorating;;;;Restorating
-;Целитель;the Healer;治疗师;der Heiler;;;;Leczący
-;Лекарь;the Witchdoctor;巫医;der Hexendoktor;;;;Szaman
-;Знахарь;the Medicaster;庸医;der Medizinmann;;;;Medykomant
-Restorating_end;Restorating_end;Restorating_end;Restorating_end;Restorating_end;;;;Restorating_end
-;;;;;;;;
-Fiery;Fiery;Fiery;Fiery;Fiery;;;;Fiery
-;Огненосный;the Igniferous;“烈火燎原”;der Ignorant;;;;Ignorant
-;Пламенеющий;the Blazing;“无情似火”;der Glühende;;;;Rozjarzony
-;Тлеющий;the Smoldering;“余烬不灭”;der Schwelende;;;;Zbutwiały
-;Обожжённый;the Scorched;“烈焰种”;der Verbrannte;;;;Przypalony
-;Огнетворец;the Flamebringer;“唤焰”;der Flammenbringer;;;;Sprowadzacz Ognia
-;Пепельный;the Ashen;“孽火”;der Aschgraue;;;;Spopielony
-;Обжигающий;the Flaming;“怒火中烧”;der Brennende;;;;Płonący
-Fiery_end;Fiery_end;Fiery_end;Fiery_end;Fiery_end;;;;Fiery_end
-;;;;;;;;
-Toxic;Toxic;Toxic;Toxic;Toxic;;;;Toxic
-;Отравитель;the Poisoning;“毒物”;der Vergiftende;;;;Otruwacz
-;Неприкасаемый;the Untouchable;“不可触及”;der Unberührbare;;;;Niedotykalny
-;Зараженный;the Infected;“身有毒疾”;der Infizierte;;;;Zaraziciel
-;Чумотворец;the Plaguebringer;“瘟神”;der Pestbringer;;;;Sprowadzacz Zarazy
-;Ядовитый;the Venomous;“剧毒在身”;der Giftbringende;;;;Truciciel
-Toxic_end;Toxic_end;Toxic_end;Toxic_end;Toxic_end;;;;Toxic_end
-;;;;;;;;
-Acidic;Acidic;Acidic;Acidic;Acidic;;;;Acidic
-;Изъеденный;the Corroded;“腐蚀入髓”;der Zerfressene;;;;Skorodowany
-;Уродливый;the Wretched;“皮开肉绽”;der Elende;;;;Żałosny
-;Безобразный;the Disfigured;“面目全非”;der Verunstaltete;;;;Przepoczwarzony
-Acidic_end;Acidic_end;Acidic_end;Acidic_end;Acidic_end;;;;Acidic_end
-;;;;;;;;
-;;;;;;;;
-Watchful;Watchful;Watchful;Watchful;Watchful;;;;Watchful
-;Всевидящий;the All-Seeing;“眼观六路”;der Allessehende;;;;Wszechwidzący
-;Наблюдатель;the Beholder;“机敏过人”;der Beobachter;;;;Beholder
-;Страж;the Warden;“耳听八方”;der Aufseher;;;;Opiekun
-;Недремлющий;the Unslumbering;“动如脱兔”;der Nichtschlafende;;;;Nieśpiący
-;Остроглазый;the Sharpsighted;“好眼力”;der Scharfsichtige;;;;Ostrowidzący
-;Проницательный;the Clairvoyant;千里眼;der Hellsichtige;;;;Jasnowidzący
-Watchful_end;Watchful_end;Watchful_end;Watchful_end;Watchful_end;;;;Watchful_end
-;;;;;;;;
-;;;;;;;;
-boss_name_part_1;boss_name_part_1;boss_name_part_1;boss_name_part_1;boss_name_part_1;;;;boss_name_part_1
-;Аг;Ag;阿格;Ag;;;;Ag
-;Аза;Aza;阿扎;Aza;;;;Aza
-;Аль;Al;埃尔;Al;;;;Al
-;Ар;Ar;阿尔;Ar;;;;Ar
-;Ас;As;阿斯;As;;;;As
-;Ва;Wa;瓦;Wa;;;;Wa
-;Ви;Vi;维;Vi;;;;Vi
-;Во;Wo;沃;Wo;;;;Wo
-;До;Do;多;Do;;;;Do
-;Да;Da;达;Da;;;;Da
-;Два;Dva;德瓦;Dva;;;;Dva
-;Зак;Zak;扎克;Zak;;;;Zak
-;Иззи;Yzzi;伊兹;Yzzi;;;;Yzzi
-;Йо;Jo;约;Jo;;;;Jo
-;Йорра;Jorra;约拉;Jorra;;;;Jorra
-;Ка;Ka;卡;Ka;;;;Ka
-;Ма;Ma;马;Ma;;;;Ma
-;Раг;Rag;拉戈;Rag;;;;Rag
-;Сак;Sak;萨科;Sak;;;;Sak
-;Сог;Sog;索格;Sog;;;;Sog
-;Урра;Urra;尤拉;Urra;;;;Urra
-;Э;E;艾;E;;;;E
-;Эзза;Ezza;艾扎;Ezza;;;;Ezza
-boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;;;;boss_name_part_1_end
-;;;;;;;;
-boss_name_part_2;boss_name_part_2;boss_name_part_2;boss_name_part_2;boss_name_part_2;;;;boss_name_part_2
-;ар;ar;阿尔;ar;;;;ar
-;баар;baar;巴尔;baar;;;;baar
-;бад;bad;拜德;bad;;;;bad
-;ганар;ganar;噶纳;ganar;;;;ganar
-;гарот;garoth;噶洛斯;garoth;;;;garoth
-;гат;gath;噶斯;gath;;;;gath
-;гонот;gonoth;葛诺斯;gonoth;;;;gonoth
-;гор;goh;戈;goh;;;;goh
-;гур;gur;谷尔;gur;;;;gur
-;дос;dos;多斯;dos;;;;dos
-;дум;dum;杜姆;dum;;;;dum
-;зан;zan;赞;zan;;;;zan
-;дар;dar;达尔;dar;;;;dar
-;зар;zar;扎尔;zar;;;;zar
-;ззун;zzun;兹尊;zzun;;;;zzun
-;зот;zot;佐特;zot;;;;zot
-;кар;kar;喀尔;kar;;;;kar
-;кор;kor;廓尔;kor;;;;kor
-;лаак;laak;拉克;laak;;;;laak
-;роз;roz;罗兹;roz;;;;roz
-;рот;rot;罗特;rot;;;;rot
-;тазар;tazar;塔扎尔;tazar;;;;tazar
-;тар;tar;塔尔;tar;;;;tar
-boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;;;;boss_name_part_2_end
-;;;;;;;;
-boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand;;;;boss_name_brigand
-;Абер;Aber;亚博;Aber;;;;
-;Адал;Adal;亚达尔;Adal;;;;
-;Алан;Alan;阿兰;Alan;;;;
-;Альвин;Alwyn;阿尔文;Alwyn;;;;Alwyn
-;Альфред;Alfred;阿尔弗雷德;Alfred;;;;Alfred
-;Анзельм;Anselm;安塞尔姆;Anselm;;;;Anselm
-;Аренн;Arenn;阿伦;Arenn;;;;Arenn
-;Арн;Arn;阿尔恩;Arn;;;;Arn
-;Берт;Bert;博特;Bert;;;;Bert
-;Герлот;Gerlot;格洛特;Gerlot;;;;Gerlot
-;Джебар;Jebar;耶巴尔;Jebar;;;;Jebar
-;Джодар;Jodar;约达尔;Jodar;;;;Jodar
-;Дирк;Dirk;德克;Dirk;;;;Dirk
-;Дитрих;Dietrich;狄特里奇;Dietrich;;;;Dietrich
-;Иврик;Ivrick;伊弗里希;Ivrick;;;;Ivrick
-;Идрих;Idrich;伊德里奇;Idrich;;;;Idrich
-;Йорр;Yorr;约尔;Yorr;;;;Yorr
-;Йотан;Jotan;约坦;Jotan;;;;Jotan
-;Йоран;Yoran;约兰;Yoran;;;;Yoran
-;Ирвен;Yrven;伊尔文;Yrven;;;;Yrven
-;Кнуд;Knud;克努特;Knud;;;;Knud
-;Лотар;Lotar;劳塔尔;Lotar;;;;Lotar
-;Линд;Lynd;林特;Lynd;;;;Lynd
-;Манн;Mann;马恩;Mann;;;;Mann
-;Овир;Ovyr;埃威尔;Ovyr;;;;Ovyr
-;Ормонд;Ormond;欧尔蒙特;Ormond;;;;Ormond
-;Ральд;Rald;莱特;Rald;;;;Rald
-;Рам;Ram;兰姆;Ram;;;;Ram
-;Рикерд;Rickerd;里柯特;Rickerd;;;;Rickerd
-;Рольд;Rold;劳特;Rold;;;;Rold
-;Свенн;Svenn;斯温;Svenn;;;;Svenn
-;Стон;Ston;斯顿;Ston;;;;Ston
-;Тирон;Tyron;提荣;Tyron;;;;Tyron
-;Унар;Unar;乌纳;Unar;;;;Unar
-;Фрид;Fried;弗依特;Fried;;;;Fried
-;Хейд;Hejd;希特;Hejd;;;;Hejd
-;Хольд;Hold;霍特;Hold;;;;Hold
-;Эберт;Ebert;埃博特;Ebert;;;;Ebert
-;Эдман;Edman;埃德曼;Edman;;;;Edman
-;Эльм;Elm;埃姆;Elm;;;;Elm
-;Эрн;Ern;厄恩;Ern;;;;Ern
-;Юрг;Jurg;尤格;Jurg;;;;Jurg
-boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;;;;boss_name_brigand_end
-;;;;;;;;
-;;;;;;;;
-Title_end;Title_end;Title_end;Title_end;Title_end;;;;Title_end
+Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Português;Polski
+специальные теги, не удалять, не изменять, при добавлении переносить вниз;Title;Title;Title;Title;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Possessed;Possessed;Possessed;Possessed;Possessed;Possessed;Possessed;Possessed;Possessed;Possessed
+;Демонический;the Demonic;“魔上身”;der Dämonische;;;;;Demoniczny
+;Безумный;the Mad;疯子;der Verrückte;;;;;Szalony
+;Бесноватый;the Raving;狂人;der Tobende;;;;;Majaczący
+;Помешанный;the Deranged;失心疯;der Geisteskranke;;;;;Obłąkany
+Possessed_end;Possessed_end;Possessed_end;Possessed_end;Possessed_end;Possessed_end;Possessed_end;Possessed_end;Possessed_end;Possessed_end
+;;;;;;;;;
+;;;;;;;;;
+Powerful;Powerful;Powerful;Powerful;Powerful;Powerful;Powerful;Powerful;Powerful;Powerful
+;Силач;the Mighty;大力士;der Mächtige;;;;;Potężny
+;Богатырь;the Powerful;“力大无比”;der Kräftige;;;;;Mocny
+;Большой;the Big;大个子;der Große;;;;;Wielki
+;Неодолимый;the Overpowering;“力大如牛”;der Übermächtige;;;;;Nadludzki
+;Громоздкий;the Bulky;傻大个;der Sperrige;;;;;Masywny
+Powerful_end;Powerful_end;Powerful_end;Powerful_end;Powerful_end;Powerful_end;Powerful_end;Powerful_end;Powerful_end;Powerful_end
+;;;;;;;;;
+Vindictive;Vindictive;Vindictive;Vindictive;Vindictive;Vindictive;Vindictive;Vindictive;Vindictive;Vindictive
+;Злобный;the Wicked;“睚眦必报”;der Boshafte;;;;;Niegodziwy
+;Ненавистник;the Malicious;恶人;der Heimtückische;;;;;Złośliwy
+;Злопамятный;the Vindictive;“有仇必报”;der Rachsüchtige;;;;;Mściwy
+Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end;Vindictive_end
+;;;;;;;;;
+Persistent;Persistent;Persistent;Persistent;Persistent;Persistent;Persistent;Persistent;Persistent;Persistent
+;Здоровяк;the Husky;大块头;der Bärenstarke;;;;;Krzepki
+;Крепкий;the Sturdy;“虎背熊腰”;der Stämmige;;;;;Silny
+;Толстый;the Fat;胖子;der Fette;;;;;Grubas
+;Толстокожий;the Thick-skinned;“皮糙肉厚”;der Dickhäutige;;;;;Gruboskórny
+Persistent_end;Persistent_end;Persistent_end;Persistent_end;Persistent_end;Persistent_end;Persistent_end;Persistent_end;Persistent_end;Persistent_end
+;;;;;;;;;
+;;;;;;;;;
+Trapmaker;Trapmaker;Trapmaker;Trapmaker;Trapmaker;Trapmaker;Trapmaker;Trapmaker;Trapmaker;Trapmaker
+;Охотник;the Hunter;猎手;der Jäger;;;;;Łowczy
+;Сетелов;the Netcatcher;布网高手;der Netzfänger;;;;;Chwytający
+;Ловчий;the Catcher;捕手;der Fänger;;;;;Łapiący
+Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end;Trapmaker_end
+;;;;;;;;;
+;;;;;;;;;
+Resistant;Resistant;Resistant;Resistant;Resistant;Resistant;Resistant;Resistant;Resistant;Resistant
+;Закалённый;the Tempered;“金刚不坏”;der Gemäßigte;;;;;Hartowany
+;Благословлённый;the Blessed;“福大命大”;der Gesegnete;;;;;Błogosławiony
+;Непробиваемый;the Bladeproof;“刀斧不入”;der Klingensichere;;;;;Odporny
+;Усиленный;the Strengthened;“铜皮铁骨”;der Gestärkte;;;;;Wzmocniony
+Resistant_end;Resistant_end;Resistant_end;Resistant_end;Resistant_end;Resistant_end;Resistant_end;Resistant_end;Resistant_end;Resistant_end
+;;;;;;;;;
+Summoner;Summoner;Summoner;Summoner;Summoner;Summoner;Summoner;Summoner;Summoner;Summoner
+;Повелитель;the Overlord;the Overlord;der Oberherr;;;;;Władczy
+;Владыка;the Master;the Master;der Meister;;;;;Mistrzowski
+;Командир;the Commander;the Commander;der Kommandant;;;;;Dowódczy
+;Властитель;the Lord;the Lord;der Herr;;;;;Lordowski
+Summoner_end;Summoner_end;Summoner_end;Summoner_end;Summoner_end;Summoner_end;Summoner_end;Summoner_end;Summoner_end;Summoner_end
+;;;;;;;;;
+Fatebinded;Fatebinded;Fatebinded;Fatebinded;Fatebinded;Fatebinded;Fatebinded;Fatebinded;Fatebinded;Fatebinded
+;Ткач Судеб;the Fate Weaver;the Fate Weaver;der Schicksalsweber;;;;;Wiążący Losy
+;На цепи;the Chained;the Chained;der Angekettete;;;;;Połączony
+;Всеединый;the United;the United;der Vereinte;;;;;Zjednoczony
+;Неделимый;the Indivisible;the Indivisible;der Unteilbare;;;;;Niepodzielny
+Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end;Fatebinded_end
+;;;;;;;;;
+Berserking;Berserking;Berserking;Berserking;Berserking;Berserking;Berserking;Berserking;Berserking;Berserking
+;Бешеный;the Enraged;“丧心病狂”;der Zornige;;;;;Wściekły
+;Кровавый;the Bloody;“穷凶极恶”;der Blutige;;;;;Krwawy
+;Безрассудный;the Reckless;“杀人如麻”;der Rücksichtslose;;;;;Bezlitosny
+;Обезумевший;the Distraught;嗜血狂;der Verzweifelte;;;;;Oszalały
+;Кровожад;the Bloodlusting;“嗜血成性”;der Blutrünstige;;;;;Żądny Krwi
+Berserking_end;Berserking_end;Berserking_end;Berserking_end;Berserking_end;Berserking_end;Berserking_end;Berserking_end;Berserking_end;Berserking_end
+;;;;;;;;;
+Immortal;Immortal;Immortal;Immortal;Immortal;Immortal;Immortal;Immortal;Immortal;Immortal
+;Неубиваемый;the Unkillable;“杀不死”;der Unkaputtbare;;;;;Nieśmiertelny
+;Воскресший;the Revived;“死而复生”;der Wiederbelebte;;;;;Wskrzeszony
+;Вечный;the Eternal;“长命百岁”;der Ewige;;;;;Przedwieczny
+;Нетленный;the Imperishable;“长生不死”;der Unvergängliche;;;;;Niepokonany
+;Неумирающий;the Undying;“不死之身”;der Unsterbliche;;;;;Nieginący
+Immortal_end;Immortal_end;Immortal_end;Immortal_end;Immortal_end;Immortal_end;Immortal_end;Immortal_end;Immortal_end;Immortal_end
+;;;;;;;;;
+Illusionist;Illusionist;Illusionist;Illusionist;Illusionist;Illusionist;Illusionist;Illusionist;Illusionist;Illusionist
+;Плут;the Deceiver;the Deceiver;der Täuscher;;;;;Oszust
+;Обманщик;the Crook;骗子;der Gauner;;;;;Łotr
+;Лжец;the Liar;“谎话连篇”;der Lügner;;;;;Kłamca
+;Хитрец;the Sly;“油头滑脑”;das Schlitzohr;;;;;Chytry
+;Пройдоха;the Scoundrel;无耻之徒;der Schuft;;;;;Łotr
+Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end;Illusionist_end
+;;;;;;;;;
+Overcharged;Overcharged;Overcharged;Overcharged;Overcharged;Overcharged;Overcharged;Overcharged;Overcharged;Overcharged
+;Неугасимый;the Quenchless;“欲求不满”;der Unstillbare;;;;;Nieugaszony
+;Озарённый;the Illuminated;“走火入魔”;der Erleuchtete;;;;;Oświetlony
+Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end;Overcharged_end
+;;;;;;;;;
+Leeching;Leeching;Leeching;Leeching;Leeching;Leeching;Leeching;Leeching;Leeching;Leeching
+;Похититель;the Reaver;“血虱子”;der Plünderer;;;;;Rozbójnik
+;Паразит;the Parasite;寄生虫;der Parasit;;;;;Pasożyt
+Leeching_end;Leeching_end;Leeching_end;Leeching_end;Leeching_end;Leeching_end;Leeching_end;Leeching_end;Leeching_end;Leeching_end
+;;;;;;;;;
+Auramancer;Auramancer;Auramancer;Auramancer;Auramancer;Auramancer;Auramancer;Auramancer;Auramancer;Auramancer
+;Ауромант;the Auromancer;the Auromancer;der Auromant;;;;;Auromancer
+Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end;Auramancer_end
+;;;;;;;;;
+Unstable;Unstable;Unstable;Unstable;Unstable;Unstable;Unstable;Unstable;Unstable;Unstable
+;Непредсказуемый;the Unpredictable;“鬼见愁”;der Unvorhersehbare;;;;;Nieprzewidywalny
+;Внезапный;the Sudden;“攻人不备”;der Plötzliche;;;;;Niespodziewany
+;Неудержимый;the Rampant;“随心所欲”;der Zügellose;;;;;Nieokiełznany
+Unstable_end;Unstable_end;Unstable_end;Unstable_end;Unstable_end;Unstable_end;Unstable_end;Unstable_end;Unstable_end;Unstable_end
+;;;;;;;;;
+Raging;Raging;Raging;Raging;Raging;Raging;Raging;Raging;Raging;Raging
+;Гневный;the Angry;“怒火冲天”;der Wütende;;;;;Zły
+;Убийца;the Slayer;“杀人不眨眼”;der Mörder;;;;;Morderca
+;Грозный;the Fearsome;惊天煞;der Furchtbare;;;;;Nieustraszony
+;Дикий;the Wild;“辣手摧花”;der Wilde;;;;;Dziki
+;Буйный;the Rowdy;“恼羞成怒”;der Rowdy;;;;;Hałaśliwy
+;Неистовый;the Frantic;“暴跳如雷”;der Rasende;;;;;Szalony
+Raging_end;Raging_end;Raging_end;Raging_end;Raging_end;Raging_end;Raging_end;Raging_end;Raging_end;Raging_end
+;;;;;;;;;
+Nimble;Nimble;Nimble;Nimble;Nimble;Nimble;Nimble;Nimble;Nimble;Nimble
+;Неуловимый;the Elusive;“身轻如燕”;der Flüchtige;;;;;Unikający
+;Проворный;the Prompt;“风驰电掣”;der Auffordernde;;;;;Skłonny
+;Ловкач;the Dodger;“无影”;der Ausweichende;;;;;Omijający
+;Быстрый;the Quick;“快手快脚”;der Schnelle;;;;;Szybki
+;Резвый;the Frisky;“活蹦乱跳”;der Verspielte;;;;;Ruchliwy
+Nimble_end;Nimble_end;Nimble_end;Nimble_end;Nimble_end;Nimble_end;Nimble_end;Nimble_end;Nimble_end;Nimble_end
+;;;;;;;;;
+Exhausting;Exhausting;Exhausting;Exhausting;Exhausting;Exhausting;Exhausting;Exhausting;Exhausting;Exhausting
+;Мучитель;the Tormentor;“无恶不作”;der Peiniger;;;;;Dręczyciel
+;Живодёр;the Flayer;“剥皮抽筋”;der Schinder;;;;;Obdzierający
+;Истязатель;the Torturer;“心狠手辣”;der Folterer;;;;;Torturujący
+;Изверг;the Fiend;“恶魔”;der Unhold;;;;;Diabelski
+;Палач;the Slaughterer;“辣手屠夫”;der Schlächter;;;;;Zabójczy
+Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end;Exhausting_end
+;;;;;;;;;
+Masochistic;Masochistic;Masochistic;Masochistic;Masochistic;Masochistic;Masochistic;Masochistic;Masochistic;Masochistic
+;Страдающий;the Suffering;“痛不欲生”;der Leidende;;;;;Cierpiący
+;Извращённый;the Perverted;受虐狂;der Pervertierte;;;;;Perwersyjny
+Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end;Masochistic_end
+;;;;;;;;;
+Restorating;Restorating;Restorating;Restorating;Restorating;Restorating;Restorating;Restorating;Restorating;Restorating
+;Целитель;the Healer;治疗师;der Heiler;;;;;Leczący
+;Лекарь;the Witchdoctor;巫医;der Hexendoktor;;;;;Szaman
+;Знахарь;the Medicaster;庸医;der Medizinmann;;;;;Medykomant
+Restorating_end;Restorating_end;Restorating_end;Restorating_end;Restorating_end;Restorating_end;Restorating_end;Restorating_end;Restorating_end;Restorating_end
+;;;;;;;;;
+Fiery;Fiery;Fiery;Fiery;Fiery;Fiery;Fiery;Fiery;Fiery;Fiery
+;Огненосный;the Igniferous;“烈火燎原”;der Ignorant;;;;;Ignorant
+;Пламенеющий;the Blazing;“无情似火”;der Glühende;;;;;Rozjarzony
+;Тлеющий;the Smoldering;“余烬不灭”;der Schwelende;;;;;Zbutwiały
+;Обожжённый;the Scorched;“烈焰种”;der Verbrannte;;;;;Przypalony
+;Огнетворец;the Flamebringer;“唤焰”;der Flammenbringer;;;;;Sprowadzacz Ognia
+;Пепельный;the Ashen;“孽火”;der Aschgraue;;;;;Spopielony
+;Обжигающий;the Flaming;“怒火中烧”;der Brennende;;;;;Płonący
+Fiery_end;Fiery_end;Fiery_end;Fiery_end;Fiery_end;Fiery_end;Fiery_end;Fiery_end;Fiery_end;Fiery_end
+;;;;;;;;;
+Toxic;Toxic;Toxic;Toxic;Toxic;Toxic;Toxic;Toxic;Toxic;Toxic
+;Отравитель;the Poisoning;“毒物”;der Vergiftende;;;;;Otruwacz
+;Неприкасаемый;the Untouchable;“不可触及”;der Unberührbare;;;;;Niedotykalny
+;Зараженный;the Infected;“身有毒疾”;der Infizierte;;;;;Zaraziciel
+;Чумотворец;the Plaguebringer;“瘟神”;der Pestbringer;;;;;Sprowadzacz Zarazy
+;Ядовитый;the Venomous;“剧毒在身”;der Giftbringende;;;;;Truciciel
+Toxic_end;Toxic_end;Toxic_end;Toxic_end;Toxic_end;Toxic_end;Toxic_end;Toxic_end;Toxic_end;Toxic_end
+;;;;;;;;;
+Acidic;Acidic;Acidic;Acidic;Acidic;Acidic;Acidic;Acidic;Acidic;Acidic
+;Изъеденный;the Corroded;“腐蚀入髓”;der Zerfressene;;;;;Skorodowany
+;Уродливый;the Wretched;“皮开肉绽”;der Elende;;;;;Żałosny
+;Безобразный;the Disfigured;“面目全非”;der Verunstaltete;;;;;Przepoczwarzony
+Acidic_end;Acidic_end;Acidic_end;Acidic_end;Acidic_end;Acidic_end;Acidic_end;Acidic_end;Acidic_end;Acidic_end
+;;;;;;;;;
+;;;;;;;;;
+Watchful;Watchful;Watchful;Watchful;Watchful;Watchful;Watchful;Watchful;Watchful;Watchful
+;Всевидящий;o que Tudo vê;“眼观六路”;der Allsehende;;;;;Wszechwidzący
+;Наблюдатель;O Beholder;“机敏过人”;der Beobachter;;;;;Beholder
+;Страж;O Vigia“耳听八方”;der Aufseher;;;;;Opiekun
+;Недремлющий;the Unslumbering;“动如脱兔”;der Nichtschlafende;;;;;Nieśpiący
+;Остроглазый;the Sharpsighted;“好眼力”;der Scharfsichtige;;;;;Ostrowidzący
+;Проницательный;the Clairvoyant;千里眼;der Hellsichtige;;;;;Jasnowidzący
+Watchful_end;Watchful_end;Watchful_end;Watchful_end;Watchful_end;Watchful_end;Watchful_end;Watchful_end;Watchful_end;Watchful_end
+;;;;;;;;;
+;;;;;;;;;
+boss_name_part_1;boss_name_part_1;boss_name_part_1;boss_name_part_2;boss_name_part_3;boss_name_part_4;boss_name_part_5;boss_name_part_6;boss_name_part_8;boss_name_part_7
+;Аг;Ag;阿格;Ag;;;;;Ag
+;Аза;Aza;阿扎;Aza;;;;;Aza
+;Аль;Al;埃尔;Al;;;;;Al
+;Ар;Ar;阿尔;Ar;;;;;Ar
+;Ас;As;阿斯;As;;;;;As
+;Ва;Wa;瓦;Wa;;;;;Wa
+;Ви;Vi;维;Vi;;;;;Vi
+;Во;Wo;沃;Wo;;;;;Wo
+;До;Do;多;Do;;;;;Do
+;Да;Da;达;Da;;;;;Da
+;Два;Dva;德瓦;Dva;;;;;Dva
+;Зак;Zak;扎克;Zak;;;;;Zak
+;Иззи;Yzzi;伊兹;Yzzi;;;;;Yzzi
+;Йо;Jo;约;Jo;;;;;Jo
+;Йорра;Jorra;约拉;Jorra;;;;;Jorra
+;Ка;Ka;卡;Ka;;;;;Ka
+;Ма;Ma;马;Ma;;;;;Ma
+;Раг;Rag;拉戈;Rag;;;;;Rag
+;Сак;Sak;萨科;Sak;;;;;Sak
+;Сог;Sog;索格;Sog;;;;;Sog
+;Урра;Urra;尤拉;Urra;;;;;Urra
+;Э;E;艾;E;;;;;E
+;Эзза;Ezza;艾扎;Ezza;;;;;Ezza
+boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end;boss_name_part_1_end
+;;;;;;;;;
+boss_name_part_2;boss_name_part_2;boss_name_part_2;boss_name_part_3;boss_name_part_4;boss_name_part_5;boss_name_part_6;boss_name_part_7;boss_name_part_9;boss_name_part_8
+;ар;ar;阿尔;ar;;;;;ar
+;баар;baar;巴尔;baar;;;;;baar
+;бад;bad;拜德;bad;;;;;bad
+;ганар;ganar;噶纳;ganar;;;;;ganar
+;гарот;garoth;噶洛斯;garoth;;;;;garoth
+;гат;gath;噶斯;gath;;;;;gath
+;гонот;gonoth;葛诺斯;gonoth;;;;;gonoth
+;гор;goh;戈;goh;;;;;goh
+;гур;gur;谷尔;gur;;;;;gur
+;дос;dos;多斯;dos;;;;;dos
+;дум;dum;杜姆;dum;;;;;dum
+;зан;zan;赞;zan;;;;;zan
+;дар;dar;达尔;dar;;;;;dar
+;зар;zar;扎尔;zar;;;;;zar
+;ззун;zzun;兹尊;zzun;;;;;zzun
+;зот;zot;佐特;zot;;;;;zot
+;кар;kar;喀尔;kar;;;;;kar
+;кор;kor;廓尔;kor;;;;;kor
+;лаак;laak;拉克;laak;;;;;laak
+;роз;roz;罗兹;roz;;;;;roz
+;рот;rot;罗特;rot;;;;;rot
+;тазар;tazar;塔扎尔;tazar;;;;;tazar
+;тар;tar;塔尔;tar;;;;;tar
+boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end;boss_name_part_2_end
+;;;;;;;;;
+boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand;boss_name_brigand
+;Абер;Aber;亚博;Aber;;;;;
+;Адал;Adal;亚达尔;Adal;;;;;
+;Алан;Alan;阿兰;Alan;;;;;
+;Альвин;Alwyn;阿尔文;Alwyn;;;;;Alwyn
+;Альфред;Alfred;阿尔弗雷德;Alfred;;;;;Alfred
+;Анзельм;Anselm;安塞尔姆;Anselm;;;;;Anselm
+;Аренн;Arenn;阿伦;Arenn;;;;;Arenn
+;Арн;Arn;阿尔恩;Arn;;;;;Arn
+;Берт;Bert;博特;Bert;;;;;Bert
+;Герлот;Gerlot;格洛特;Gerlot;;;;;Gerlot
+;Джебар;Jebar;耶巴尔;Jebar;;;;;Jebar
+;Джодар;Jodar;约达尔;Jodar;;;;;Jodar
+;Дирк;Dirk;德克;Dirk;;;;;Dirk
+;Дитрих;Dietrich;狄特里奇;Dietrich;;;;;Dietrich
+;Иврик;Ivrick;伊弗里希;Ivrick;;;;;Ivrick
+;Идрих;Idrich;伊德里奇;Idrich;;;;;Idrich
+;Йорр;Yorr;约尔;Yorr;;;;;Yorr
+;Йотан;Jotan;约坦;Jotan;;;;;Jotan
+;Йоран;Yoran;约兰;Yoran;;;;;Yoran
+;Ирвен;Yrven;伊尔文;Yrven;;;;;Yrven
+;Кнуд;Knud;克努特;Knud;;;;;Knud
+;Лотар;Lotar;劳塔尔;Lotar;;;;;Lotar
+;Линд;Lynd;林特;Lynd;;;;;Lynd
+;Манн;Mann;马恩;Mann;;;;;Mann
+;Овир;Ovyr;埃威尔;Ovyr;;;;;Ovyr
+;Ормонд;Ormond;欧尔蒙特;Ormond;;;;;Ormond
+;Ральд;Rald;莱特;Rald;;;;;Rald
+;Рам;Ram;兰姆;Ram;;;;;Ram
+;Рикерд;Rickerd;里柯特;Rickerd;;;;;Rickerd
+;Рольд;Rold;劳特;Rold;;;;;Rold
+;Свенн;Svenn;斯温;Svenn;;;;;Svenn
+;Стон;Ston;斯顿;Ston;;;;;Ston
+;Тирон;Tyron;提荣;Tyron;;;;;Tyron
+;Унар;Unar;乌纳;Unar;;;;;Unar
+;Фрид;Fried;弗依特;Fried;;;;;Fried
+;Хейд;Hejd;希特;Hejd;;;;;Hejd
+;Хольд;Hold;霍特;Hold;;;;;Hold
+;Эберт;Ebert;埃博特;Ebert;;;;;Ebert
+;Эдман;Edman;埃德曼;Edman;;;;;Edman
+;Эльм;Elm;埃姆;Elm;;;;;Elm
+;Эрн;Ern;厄恩;Ern;;;;;Ern
+;Юрг;Jurg;尤格;Jurg;;;;;Jurg
+boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end;boss_name_brigand_end
+;;;;;;;;;
+;;;;;;;;;
+Title_end;Title_end;Title_end;Title_end;Title_end;Title_end;Title_end;Title_end;Title_end;Title_end

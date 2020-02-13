@@ -3,11 +3,11 @@
 ;;;;;;;;
 ;// Живучесть и энергия;// Vitality & Energy;// Vitality & Energy;// Vitality & Energy;;;;// Vitality & Energy
 ;;;;;;;;
-HP;Здоровье;Vida;生命;Gesundheit;;;;Zdrowie
-max_hp;Запас здоровья;Vida Máxima;生命上限;max. Gesundheit;;;;Maksymalne Zdrowie
-Health_Restoration;Регенерация здоровья;Restauração da Vida;生命自动恢复;Gesundheitsregeneration;;;;Regeneracja Zdrowia
+HP;Здоровье;Saúde;生命;Gesundheit;;;;Zdrowie
+max_hp;Запас здоровья;Saúde Máxima;生命上限;max. Gesundheit;;;;Maksymalne Zdrowie
+Health_Restoration;Регенерация здоровья;Restauração da Saúde;生命自动恢复;Gesundheitsregeneration;;;;Regeneracja Zdrowia
 Healing_Received;Эффективность лечения;Eficiência de cura;治疗效果;Heilungseffizienz;;;;Skuteczność Leczenia
-max_hp_res;Восполнение здоровья;Restauração de Vida;生命恢复;Gesundheitsauffüllung;;;;Odnawianie Zdrowia
+max_hp_res;Восполнение здоровья;Restauração de Saúde;生命恢复;Gesundheitsauffüllung;;;;Odnawianie Zdrowia
 Health_Threshold;Порог здоровья;Limite máximo de integridade;生命恢复上限;max. Gesundheitsschwelle;;;;Czynnik Maksymalnej Ilości Zdrowia
 MP;Энергия;Energia;精力;Energie;;;;Energia
 max_mp;Запас энергии;Energia Máxima;精力上限;max. Energie;;;;Maksymalna Energia
@@ -15,10 +15,11 @@ MP_Restoration;Регенерация энергии;Restauração de Energia;�
 max_mp_res;Восполнение энергии;Reabastecimento de energia;精力恢复;Energieauffüllung;;;;Odnawianie Energii
 Damage_Received;Получаемый урон;Dano recebido;所受伤害;Erlittener Schaden;;;;Otrzymane Obrażenia
 Damage_Returned;Отражение урона;Dano Relfetido;反伤;Reflektierter Schaden;;;;Odbicie Obrażeń
-Lifesteal;Похищение жизни;Vida Drenada;生命吸取;Lebensentzug;;;;Wykradanie Zdrowia
+Lifesteal;Похищение жизни;Saúde Drenada;生命吸取;Lebensentzug;;;;Wykradanie Zdrowia
 Manasteal;Похищение энергии;Energia Drenada;精力吸取;Energieentzug;;;;Wykradanie Energii
 DEF;Защита;De Proteção;防护;Schutz;;;;Obrony
 Fortitude;Стойкость;Fortitude;坚忍;Robustheit;;;;Zahartowanie
+MP_turn;Энергия в ход;Energy Per Turn;Energy Per Turn;Energy Per Turn;;;;Energia Por Turno;Energii na Turę;Energy Per Turn
 ;;;;;;;;
 ;// Прокачка;// Levelling;// Levelling;// Levelling;;;;// Levelling
 ;;;;;;;;
@@ -71,7 +72,7 @@ Knockback_Chance;Шанс отбрасывания;Chance de Contra-ataque;击�
 Daze_Chance;Шанс ошеломления;Chance de confundir;击晕几率;Benommen-Chance;;;;Szansa na Oszołomienie
 Stun_Chance;Шанс оглушения;Chance de atordoamento;硬直几率;Betäuben-Chance;;;;Szansa na Ogłuszenie
 ;;;;;;;;
-Knockback_Resistance;Сопр. отбрасыванию;Resistência a Contra=ataque;击退抗性;Zurückstoßen-Resistenz;;;;Odporność na Odepchnięcie
+Knockback_Resistance;Сопр. отбрасыванию;Resistência a Contra-ataque;击退抗性;Zurückstoßen-Resistenz;;;;Odporność na Odepchnięcie
 Stun_Resistance;Сопр. оглушению;Resistência a Atordoamento;硬直抗性;Betäuben-Resistenz;;;;Odporność na Ogłuszenie
 Bleeding_Resistance;Сопр. кровотечению;Resistência a Sangramento;出血抗性;Bluten-Resistenz;;;;Odporność na Krwawienie
 ;;;;;;;;
@@ -86,8 +87,8 @@ Piercing_Damage;Колющий урон;De Dano de Perfuração;穿刺伤害;Sti
 Blunt_Damage;Дробящий урон;De Dano Bruto;钝器伤害;Schmetterschaden;;;;Obrażeń Obalających
 Rending_Damage;Разрывающий урон;De Dano de laceração;撕裂伤害;Reißschaden;;;;Obrażeń Rozdzierających
 ;;;;;;;;
-Frost_Damage;Урон морозом;Dano de Gelo;霜冻伤害;Frostschaden;;;;Obrażenia od Zamrożenia
-Shock_Damage;Урон электричеством;Dano de Choque;电击伤害;Schockschaden;;;;Obrażenia od Porażenia
+Frost_Damage;Урон морозом;Dano Congelante;霜冻伤害;Frostschaden;;;;Obrażenia od Zamrożenia
+Shock_Damage;Урон электричеством;Dano de Eletricidade;电击伤害;Schockschaden;;;;Obrażenia od Porażenia
 Poison_Damage;Урон ядом;Dano de Veneno;中毒伤害;Giftschaden;;;;Obrażenia od Trucizn
 Fire_Damage;Урон огнём;Dano de Fogo;灼烧伤害;Feuerschaden;;;;Obrażenia od Ognia
 Caustic_Damage;Урон разъеданием;Dano Cáustico;腐蚀伤害;Säureschaden;;;;Obrażenia od Kwasów
@@ -107,14 +108,14 @@ Magic_Resistance;Сопр. магии;Resistência Mágica;魔法抗性;Magieres
 ;;;;;;;;
 Slashing_Resistance;Сопр. рубящему урону;Resistência à Cortes;劈砍抗性;Schnittresistenz;;;;Odporność na obr. cięte
 Piercing_Resistance;Сопр. колющему урону;Resistência à Perfurações;穿刺抗性;Stichresistenz;;;;Odporność na obr. przebijające
-Blunt_Resistance;Сопр. дробящему урону;Resistência à atq bruto;钝器抗性;Schmetterresistenz;;;;Odporność na obr. obalające
+Blunt_Resistance;Сопр. дробящему урону;Resistência à Contusão;钝器抗性;Schmetterresistenz;;;;Odporność na obr. obalające
 Rending_Resistance;Сопр. разрыву;Resistência à laceração;撕裂抗性;Reißresistenz;;;;Odporność na obr. rozdzierające
 ;;;;;;;;
 Fire_Resistance;Сопр. огню;Resistência ao Fogo;灼烧抗性;Feuerresistenz;;;;Odporność na ogień
-Frost_Resistance;Сопр. морозу;Resistência ao Gelo;霜冻抗性;Frostresistenz;;;;Odporność na zamrożenie
-Shock_Resistance;Сопр. электричеству;Resistência ao Choque;电击抗性;Schockresistenz;;;;Odporność na porażenie
+Frost_Resistance;Сопр. морозу;Resistência ao Congelamento;霜冻抗性;Frostresistenz;;;;Odporność na zamrożenie
+Shock_Resistance;Сопр. электричеству;Resistência  à Eletricidade;电击抗性;Schockresistenz;;;;Odporność na porażenie
 Caustic_Resistance;Сопр. разъеданию;Resistência Cáustica;腐蚀抗性;Säureresistenz;;;;Odporność na kwasy
-Poison_Resistance;Сопр. яду;Resistência ao veneno;中毒抗性;Giftresistenz;;;;Odporność na trucizny
+Poison_Resistance;Сопр. яду;Resistência ao Veneno;中毒抗性;Giftresistenz;;;;Odporność na trucizny
 ;;;;;;;;
 Arcane_Resistance;Сопр. аркане;Resistência Arcana;秘术抗性;Arkane Resistenz;;;;Odporność na obr. tajemne
 Unholy_Resistance;Сопр. нечестивому урону;Resistência Profana;邪术抗性;Unheilige Resistenz;;;;Odporność na obr. przeklęte
@@ -267,20 +268,20 @@ Slashing_Resistance;Процент уменьшения всего получа�
 Piercing_Resistance;Процент уменьшения всего получаемого колющего урона.;A porcentagem de redução de todos os danos causados por perfuração que você recebe.;你所受到的穿刺伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Stichschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń Przebijających, które otrzymujesz.
 Rending_Resistance;Процент уменьшения всего получаемого разрывающего урона.;A percentagem de redução para todos os danos causados por laceração que você toma;你所受到的撕裂伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Reißschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń Rozrywających, które otrzymujesz.
 Blunt_Resistance;Процент уменьшения всего получаемого дробящего урона.;A percentagem de redução para todos os Danos de Esmagamento que você toma.;你所受到的钝器伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Schmetterschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń Obalających, które otrzymujesz.
-;;N/A;N/A;N/A;;;;N/A
+;;N/A;N/A;N/A;;;;N/A;N/A;Yok
 Fire_Resistance;Процент уменьшения всего получаемого огненного урона.;A porcentagem de redução de todos os danos de Fogo que você recebe.;你所受到的灼烧伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Feuerschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Ognia, które otrzymujesz.
 Frost_Resistance;Процент уменьшения всего получаемого морозного урона.;A porcentagem de redução de todos os danos de Gelo que você recebe.;你所受到的霜冻伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Frostschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Zamrożenia, które otrzymujesz.
 Shock_Resistance;Процент уменьшения всего получаемого электрического урона.;A porcentagem de redução de todos os danos de Choque que você recebe.;你所受到的电击伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Schockschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Porażeń, które otrzymujesz.
 Caustic_Resistance;Процент уменьшения всего получаемого разъедающего урона.;A porcentagem de redução de todos os danos Cáusticos que você recebe.;你所受到的腐蚀伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Säureschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Kwasów, które otrzymujesz.
 Poison_Resistance;Процент уменьшения всего получаемого ядовитого урона.;A porcentagem de redução de todos os danos Venenosos que você recebe.;你所受到的中毒伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten Giftschadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od Trucizn, które otrzymujesz.
-;;N/A;N/A;N/A;;;;N/A
+;;N/A;N/A;N/A;;;;N/A;N/A;Yok;N/A;Yok
 Arcane_Resistance;Процент уменьшения всего получаемого арканического урона.;A porcentagem de redução de todo os danos Arcanos que você recebe.;你所受到的秘术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten arkanen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Tajemnej, które otrzymujesz.
 Unholy_Resistance;Процент уменьшения всего получаемого нечестивого урона.;A porcentagem de redução de todos os dano Profanos que você recebe.;你所受到的邪术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten unheiligen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Przeklętej, które otrzymujesz.
 Sacred_Resistance;Процент уменьшения всего получаемого священного урона.;A porcentagem de redução de todos os danos Sagrados que você recebe.;你所受到的神圣伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten heiligen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Świętej, które otrzymujesz.
 Psionic_Resistance;Процент уменьшения всего получаемого псионического урона.;A porcentagem de redução de todos os danos Psiônicos que você recebe.;你所受到的灵术伤害都会减少这么多百分比。;Prozentuale Verringerung des gesamten psionischen Schadens den du erleidest.;;;;Procentowa redukcja wszystkich obrażeń od magii Psychicznej, które otrzymujesz.
-;;;;;;;;
+;;;;;;;;;;
 ;// Выживание;// Sobrevivência;// Survival;// Survival;;;;// Survival
-;;;;;;;;
+;;;;;;;;;;
 Pain_Limit;Максимальный предел боли, который может почувствовать ваш персонаж.#Чем ниже здоровье, тем выше порог боли.;O limite máximo de dor que seu personagem pode sofrer.#Quanto menor a saúde, maior o limite de dor.;你最多能够忍受这么多疼痛。#生命越少，疼痛忍耐极限越高。;Das maximale Limit des Schmerzes, den dein Charakter erleiden kann.#Je geringer die Gesundheit, um so höher die Schmerzgrenze.;;;;Maksymalna siła Bólu, jaką twoja postać jest w stanie wytrzymać.#Im niższy poziom Zdrowia tym wyższy limit Bólu.
 Pain_Change;Показатель ежеходного изменения боли.;Indica quanto sua dor muda por turno.;表示疼痛每回合变化的幅度。;Zeigt an, wie sich deine Schmerzen pro Runde ändert.;;;;Wyznacza w jaki sposób zmienia się Ból twojej postaci, co turę.
 Toxicity_Change;Показатель ежеходного изменения интоксикации.;Indica quanto sua intoxicação muda por turno;表示迷醉每回合变化的幅度。;Zeigt an, wie sich deine Vergiftung pro Runde ändert.;;;;Wyznacza w jaki sposób zmienia się Zatrucie twojej postaci, co turę.
@@ -291,7 +292,7 @@ Morale_Change;Показатель ежеходного изменения мо�
 Pain_Resistance;Изменяет скорость накопления боли.;Altera a taxa de ganho de dor.;影响疼痛加剧的速度。;Ändert das Tempo mit dem Schmerz zunimmt.;;;;Zmienia szybkość z jaką rośnie Ból.
 Hunger_Resistance;Изменяет скорость накопления голода.;Altera a taxa de ganho de fome.;影响饥饿加剧的速度。;Ändert das Tempo mit dem Hunger zunimmt.;;;;Zmienia szybkość z jaką rośnie Głod.
 Toxicity_Resistance;Изменяет скорость накопления интоксикации.;Altera a taxa de intoxicação.;影响迷醉加重的速度。;Ändert das Tempo mit dem Vergiftung zunimmt.;;;;Zmienia szybkość z jaką rośnie Zatrucie.
-;;;;;;;;
+;;;;;;;;;;
 Hunger;Уровень голода персонажа.#Растёт со временем в зависимости от уровня активности и прочих действий.##На рубежах в ~r~25%~/~, ~r~50%~/~ и ~r~75%~/~ возникает негативный эффект.;O nível de fome do seu personagem.#Aumenta com o tempo, dependendo de suas atividades e ações.##Ao atingir ~r~25%~/~, ~r~50%~/~ e ~r~75%~/~, produz um efeito negativo.;你的饥饿程度。#不断加剧，速度取决于你的活动和行为。##饥饿程度达到~r~25%~/~、~r~50%~/~和~r~75%~/~之后，将会产生负面影响。;Gibt an, wie hungrig dein Charakter ist.#Erhöht sich mit der Zeit, je nach Aktivität und deinen Aktionen.##Wenn der Hunger ~r~25%~/~, ~r~50%~/~ und ~r~75%~/~, erreicht, führt das zu negativen Effekten.;;;;Poziom Głodu twojej postaci.#Zwiększa się z czasem w zależności od aktywności i wykonywanych akcji.##Kiedy osiągnie ~r~25%~/~, ~r~50%~/~ oraz ~r~75%~/~ postać otrzymuje negatywny efekt.
 Thirsty;Уровень жажды персонажа.#Растёт со временем в зависимости от уровня активности и прочих действий.##На рубежах в ~r~25%~/~, ~r~50%~/~ и ~r~75%~/~ возникает негативный эффект.;O nível da sede do seu personagem.#Aumenta com o tempo, dependendo de suas atividades e ações.##Ao atingir ~r~25%~/~, ~r~50%~/~ e ~r~75%~/~, produz um efeito negativo.;你的口渴程度。#不断加剧，速度取决于你的活动和行为。##饥饿程度达到~r~25%~/~、~r~50%~/~和~r~75%~/~之后，将会产生负面影响。;Gibt an, wie durstig dein Charakter ist.#Erhöht sich mit der Zeit, je nach Aktivität und deinen Aktionen.##Wenn der Durst ~r~25%~/~, ~r~50%~/~ und ~r~75%~/~, erreicht, führt das zu negativen Effekten.;;;;Poziom Spragnienia twojej postaci.#Zwiększa się z czasem w zależności od aktywności i wykonywanych akcji.##Kiedy osiągnie ~r~25%~/~, ~r~50%~/~ oraz ~r~75%~/~ postać otrzymuje negatywny efekt.
 Intoxication;Уровень интоксикации персонажа.#Частый побочный эффект алкоголя, наркотиков, некоторых трав и медикаментов.##На рубежах в ~r~25%~/~, ~r~50%~/~ и ~r~75%~/~ возникает негативный эффект. ;O nível de intoxicação do seu personagem.#É um efeito colateral comum do álcool, drogas, certas ervas e medicamentos.##Ao atingir ~r~25%~/~, ~r~50%~/~ e ~r~75%~/~, produz um efeito negativo.;你的迷醉程度。#不断加剧，速度取决于你的活动和行为。##饥饿程度达到~r~25%~/~、~r~50%~/~和~r~75%~/~之后，将会产生负面影响。;Gibt an, wie vergiftet dein Charakter ist.#Dies ist ein häufiger Nebeneffekt von Alkohol, Drogen, diversen Kräutern und Medikamenten.##Wenn der Wert ~r~25%~/~, ~r~50%~/~ und ~r~75%~/~, erreicht, führt das zu negativen Effekten.;;;;Poziom Zatrucia twojej postaci.#To typowy efekt po zażyciu silnych leków, alkoholu, niektórych ziół oraz narkotyków.##Kiedy osiągnie ~r~25%~/~, ~r~50%~/~ oraz ~r~75%~/~ postać otrzymuje negatywny efekt.
@@ -299,9 +300,9 @@ Pain;Уровень боли персонажа.#Растёт от получе�
 Immunity;Сопротивляемость различным хворям.;A resistência a uma variedade de doenças.;对于不同负面状态的抗性。;Die Resistenz gegen diverse Übel.;;;;Odporność na różne Dolegliwości.
 Morale;Боевой дух персонажа.#Падает от низкого уровня здоровья, получения травм, высокого голода и жажды.##При морали ниже ~r~50%~/~ у персонажа начинают развиваться негативные психические состояния. ;O espírito de luta do seu personagem.#Diminui com baixa Vida, Lesões, Fome e Sede.##Se o moral cai abaixo de ~r~50%~/~, o personagem pode começar a sofrer efeitos mentais negativos.;你战斗的意志。#生命减少、受伤、饥饿或口渴加剧，斗志便会降低。##如果斗志低于~r~50%~/~，你将出现负面的心智状态。;Der Kampfgeist deines Charakters.#Er sinkt bei wenig Gesundheit, Verletzungen, hohem Hunger und Durst.##Wenn die Moral unter ~r~50%~/~ sinkt, kann der Charakter anfangen unter negativen mentalen Effekten zu leiden.;;;;Duch waleczności twojej postaci.#Spada wraz z niskim Zdrowiem, Ranami, dużym Głodem lub Pragnieniem.##Jeżeli Morale spadnie poniżej ~r~50%~/~ postać może zacząć cierpieć na różne negatywne efekty psychiczne.
 Sanity;Показатель того, насколько адекватно персонаж воспринимает действительность.#Падает от пугающих врагов, нечестивого урона, травм головы, магических негативных эффектов, высокой боли и интоксикации.##При рассудке ниже ~r~50%~/~ у персонажа начинают развиваться негативные психические состояния.;O grau de clareza com que seu personagem percebe a realidade.#É reduzido por inimigos aterrorizantes, Dano Profano, Ferimentos na Cabeça, efeitos mágicos negativos, alto nível de Dor e intoxicação.##Se a Sanidade cai abaixo de ~r~50%~/~, o personagem pode começar a sofrer efeitos mentais negativos.;你清醒认知现实的能力。#如果遇到令人胆寒的敌人，受到邪术伤害，头部受伤，受到负面魔法影响，或疼痛与迷醉的程度加深，神智便会降低。##如果神智低于~r~50%~/~，你将出现负面的心智状态。;Der Grad der Klarheit, mit der dein Charakter die Realität wahrnimmt.#Wird reduziert durch furchteinflößende Gegner, unheiligen Schaden, Kopfverletzungen, negative Magieeffekte, große Schmerze und Vergiftungen.##Sinkt der Zustand unter ~r~50%~/~, kann der Charakter anfangen, unter negativen mentalen Effekten zu leiden.;;;;Wskazuje to, jak trzeźwo twoja postać postrzega rzeczywistość.#Spada wraz z napotykaniem dużo silniejszych przeciwników, od obrażeń od Przeklętej Magii, Ran głowy, negatywnych efektów Magii, silnego Bólu oraz Zatrucia.##Jeżeli Zdrowie Psychiczne spadnie poniżej ~r~50%~/~, postać może zacząć cierpieć na różne negatywne efekty psychiczne.
-;;;;;;;;
+;;;;;;;;;;
 ;// Сила веток магии;// Poder das Escolas de Magia;// Magic Schools Power;// Magic Schools Power;;;;// Magic Schools Power
-;;;;;;;;
+;;;;;;;;;;
 Pyromantic_Power;Показатель эффективности всех заклинаний пиромантии;Indica a eficácia de todos os feitiços Piromancia.;表示所有炎系法术的效果。;Zeigt die Effektivität von Pyromantischen Zaubersprüchen.;;;;Wskazuje skuteczność wszystkich czarów Piromancji.
 Geomantic_Power;Показатель эффективности всех заклинаний геомантии.;Indica a eficácia de todos os feitiços de Geomancia.;表示所有地系法术的效果。;Zeigt die Effektivität von Geomantischen Zaubersprüchen.;;;;Wskazuje skuteczność wszystkich czarów Geomancji.
 Venomantic_Power;Показатель эффективности всех заклинаний веномантии.;Indica a eficácia de todos os feitiços de Venomancia.;表示所有毒系法术的效果。;Zeigt die Effektivität von Venomantischen Zaubersprüchen.;;;;Wskazuje skuteczność wszystkich czarów Truciznmancji.
@@ -311,5 +312,5 @@ Arcanistic_Power;Показатель эффективности всех зак
 Astromantic_Power;Показатель эффективности всех заклинаний астромантии.;Indica a eficácia de todos os feitiços de Astromancia.;表示所有星系法术的效果。;Zeigt die Effektivität von Astromantischen Zaubersprüchen.;;;;Wskazuje skuteczność wszystkich czarów Astromancji.
 Psimantic_Power;Показатель эффективности всех заклинаний псимантии.;Indica a eficácia de todos os feitiços Psiônicos.;表示所有灵系法术的效果。;Zeigt die Effektivität von Psionischen Zaubersprüchen.;;;;Wskazuje skuteczność wszystkich czarów Psychicznych.
 Chronomantic_Power;Показатель эффективности всех заклинаний хрономантии.;Indica a eficácia de todos os feitiços de cronomancia.;表示所有命系法术的效果。;Zeigt die Effektivität von Chronomantischen Zaubersprüchen.;;;;Wskazuje skuteczność wszystkich czarów Chronomancji.
-;;;;;;;;
-;attribute_desc_end;attribute_desc_end;attribute_desc_end;attribute_desc_end;;;;attribute_desc_end
+;;;;;;;;;;
+;attribute_desc_end;attribute_desc_end;attribute_desc_end;attribute_desc_end;attribute_desc_end;attribute_desc_end;attribute_desc_end;attribute_desc_end;attribute_desc_end;attribute_desc_end
