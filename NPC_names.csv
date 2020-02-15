@@ -90,7 +90,7 @@ innkeeperess;Трактирщица;Innkeeperess;老板娘;Gastwirtin;;;;;Gospod
 host;Хозяин;Host;老板;Host;;;;;Gospodarz
 apprentice;Подмастерье;Apprentice;学徒;Lehrling;;;;;Nowicjusz
 old_hilda;Крестьянка;Peasant;农民;Bauer;;;;;Wieśniak
-priest;Священник;Priest;牧师;Priester;;;;;Kapłan
+healer;Священник;Priest;牧师;Priester;;;;;Kapłan
 shepherd;Пастух;Shepherd;羊倌;Schäfer;;;;;Pasterz
 ;;;;;;;;;
 NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end

@@ -13,7 +13,7 @@ blockPart;~w~$~/~ $. ~w~$~/~ блокирует часть урона и тер�
 evade;~w~$~/~ $, но промахивается.;~w~$~/~ $, but misses.;~w~$~/~$，但是没有击中。;~w~$~/~ $, aber verfehlt.;;;;;~w~$~/~ $, ale pudłuje.
 playerDeath;~w~$~/~ погибает.;~w~$~/~ morreu.;~w~$~/~死了。;~w~$~/~ stirbt.;;;;;~w~$~/~ umiera.
 enemyDeath;~w~$~/~ погибает. (~y~$~/~);~w~$~/~ morreu. (~y~$~/~);~w~$~/~死了。（~y~$~/~）;~w~$~/~ stirbt. (~y~$~/~);;;;;~w~$~/~ umiera. (~y~$~/~)
-pickupEffect;~w~$~/~ получает эффект ~ly~$~/~.;~w~$~/~ receives ~ly~$~/~.;~w~$~/~获得~ly~$~/~。;~w~$~/~ erhält ~ly~$~/~.;;;;;~w~$~/~ otrzymuje ~ly~$~/~.
+pickupEffect;~w~$~/~ получает эффект ~ly~$~/~.;~w~$~/~ recebe ~ly~$~/~.;~w~$~/~获得~ly~$~/~。;~w~$~/~ erhält ~ly~$~/~.;;;;;~w~$~/~ otrzymuje ~ly~$~/~.
 dropEffect;~w~$~/~ больше не под действием эффекта ~ly~$~/~!;~w~$~/~ is no longer affected by ~ly~$~/~!;~w~$~/~身上的~ly~$~/~效果消失了！;~w~$~/~ wird nicht länger beeinflusst von ~ly~$~/~!;;;;;~w~$~/~ nie jest dłużej pod wpływem ~ly~$~/~!
 breakLockSuccess;~w~$~/~ успешно взламывает замок (~w~$~/~).;~w~$~/~ destrancou a/o ~w~$~/~ com uma gazua.;~w~$~/~打开了~w~$~/~的锁。;~w~$~/~ knackt erfolgreich ~w~$~/~ Schloss.;;;;;~w~$~/~ z sukcesem otwiera ~w~$~/~ zamek.
 breakLockFail;~w~$~/~ безуспешно пытается взломать замок (~w~$~/~).;~w~$~/~ fails to pick ~w~$~/~ lock.;~w~$~/~没能打开~w~$~/~的锁。;~w~$~/~ kann ~w~$~/~ Schloss nicht knacken.;;;;;~w~$~/~ nie daje rady otworzyć zamka ~w~$~/~.
@@ -37,7 +37,7 @@ playerDropItem;~w~$~/~ выбрасывает ~lg~$~/~.;~w~$~/~ throws away ~lg~
 drop;Из контейнера (~w~$~/~) выпадает:;~w~$~/~ drops:;~w~$~/~掉落：;~w~$~/~ lässt fallen:;;;;;~w~$~/~ upuszcza:
 useSkill;~w~$~/~ использует умение ~g~$~/~.;~w~$~/~ uses ~g~$~/~.;~w~$~/~使用了~g~$~/~。;~w~$~/~ verwendet ~g~$~/~.;;;;;~w~$~/~ używa ~g~$~/~.
 useSkillTarget;~w~$~/~ использует умение ~g~$~/~. Цель - ~w~$~/~.;~w~$~/~ uses ~g~$~/~ on ~w~$~/~.;~w~$~/~使用了~g~$~/~，目标：~w~$~/~。;~w~$~/~ verwendet ~g~$~/~ an ~w~$~/~.;;;;;~w~$~/~ używa ~g~$~/~ na ~w~$~/~.
-skillAttack;~w~$~/~ теряет ~w~$~/~ $ от умения ~g~$~/~;~w~$~/~ loses ~w~$~/~ $ from ~g~$~/~;~w~$~/~失去了~w~$~/~点$，原因：~g~$~/~;~w~$~/~ verliert ~w~$~/~ $ von ~g~$~/~;;;;;~w~$~/~ traci ~w~$~/~ $ od ~g~$~/~
+skillAttack;~w~$~/~ теряет ~w~$~/~ $ от умения ~g~$~/~;~w~$~/~ perdeu ~w~$~/~ $ de ~g~$~/~;~w~$~/~失去了~w~$~/~点$，原因：~g~$~/~;~w~$~/~ verliert ~w~$~/~ $ von ~g~$~/~;;;;;~w~$~/~ traci ~w~$~/~ $ od ~g~$~/~
 level;~w~$~/~ получает ~y~$~/~ уровень.;~w~$~/~ level ups to ~y~$~/~ level.;~w~$~/~升到了~y~$~/~级。;~w~$~/~ steigt auf Stufe ~y~$~/~ auf.;;;;;~w~$~/~ awansuje na ~y~$~/~ poziom.
 speech;~w~$~/~ говорит: ~ly~$~/~.;~w~$~/~ says: ~ly~$~/~.;~w~$~/~说：~ly~$~/~。;~w~$~/~ sagt: ~ly~$~/~.;;;;;~w~$~/~ mówi: ~ly~$~/~.
 shout;~w~$~/~ кричит: ~ly~$~/~.;~w~$~/~ shouts: ~ly~$~/~.;~w~$~/~大喊：~ly~$~/~。;~w~$~/~ ruft: ~ly~$~/~.;;;;;~w~$~/~ krzyczy: ~ly~$~/~.
@@ -92,7 +92,7 @@ painDamage;~w~$~/~ ~r~слабеет~/~ от смертельной боли!;~w
 toxicDamage;~w~$~/~ ~r~слабеет~/~ от смертельной интоксикации!;~w~$~/~ ~r~grows weaker~/~ from critical intoxication!;~w~$~/~因为严重迷醉，身体有所虚弱。;~w~$~/~ ~r~wird schwächer~/~ von der kritischen Vergiftung!;;;;;~w~$~/~ ~r~słabnie~/~ przez silne zatrucie!
 heroism;~w~$~/~ испытывает прилив отваги.;~w~$~/~ feels courageous!;~w~$~/~无所畏惧！;~w~$~/~ fühlt sich mutig!;;;;;~w~$~/~ czuje odwagę!
 secondWind;~w~$~/~ чувствует второе дыхание!;~w~$~/~ gets a second wind!;~w~$~/~元气恢复！;~w~$~/~ ist im Zweiten Wind!;;;;;~w~$~/~ dostaje drugą szansę!
-optimism;~w~$~/~ начинает надеяться на лучшее.;~w~$~/~ hopes for the best.;~w~$~/~斗志昂扬！;~w~$~/~ hofft auf das Beste.;;;;;~w~$~/~ ma dobre nadzieje.
+optimism;~w~$~/~ начинает надеяться на лучшее.;~w~$~/~ espera pelo melhor.;~w~$~/~斗志昂扬！;~w~$~/~ hofft auf das Beste.;;;;;~w~$~/~ ma dobre nadzieje.
 prudence;~w~$~/~ решает действовать благоразумно.;~w~$~/~ decides to be prudent.;~w~$~/~决定谨慎一点。;~w~$~/~ beschließt, vorsichtig zu sein.;;;;;~w~$~/~ decyduje się na ostrożność.
 sadism;~w~$~/~ наслаждается чужими страданиями.;~w~$~/~ enjoys bringing pain.;~w~$~/~喜欢让人痛苦。;~w~$~/~ genießt es, Schmerzen zu bringen.;;;;;~w~$~/~ cieszy się z zadawania bólu.
 masochism;~w~$~/~ наслаждается собственной болью.;~w~$~/~ enjoys their own suffering.;~w~$~/~享受自己的痛苦。;~w~$~/~ genießt das eigene Leiden.;;;;;~w~$~/~ cieszy się z cierpienia.
@@ -141,7 +141,7 @@ sleepDanger;Сон здесь небезопасен: неподалёку вр�
 ;words;words;words;words;words;words;words;words;words
 attack;атакует;atacou;攻击;attackiert;;;;;atakuje
 counterAttack;контратакует;counterattacks;反击;kontert;;;;;kontratakuje
-health;здоровья;Vida;生命;Gesundheit;;;;;zdrowia
+health;здоровья;de Vida;生命;Gesundheit;;;;;zdrowia
 durability;прочности;de durabilidade;耐久;Haltbarkeit;;;;;wytrzymałości
 morale;Мораль;Moral;斗志;Moral;;;;;Morale
 sanity;Рассудок;Sanidade;神智;geistige Gesundheit;;;;;Zdrowia Psychicznego
@@ -181,15 +181,15 @@ other;использует;usou;用了;benutzt;;;;;używa
 ;actions_end;actions_end;actions_end;actions_end;actions_end;actions_end;actions_end;actions_end;actions_end
 ;;;;;;;;;
 ;damages;damages;damages;damages;damages;damages;damages;damages;damages
-Slashing;рубящего;cortante;点劈砍;schlitzend;;;;;Przecinających
-Piercing;колющего;perfurante;点穿刺;stechend;;;;;Przebijających
+Slashing;рубящего;de dano cortante;点劈砍;schlitzend;;;;;Przecinających
+Piercing;колющего;de dano perfurante;点穿刺;stechend;;;;;Przebijających
 Blunt;дробящего;de dano brusco;点钝器;schmetternd;;;;;Obalających
-Rending;разрывающего;localizou;点撕裂;reißend;;;;;Rozcinających
+Rending;разрывающего;de dano de laceração;点撕裂;reißend;;;;;Rozcinających
 Fire;огненного;de dano de fogo;点灼烧;feuer;;;;;od Ognia
 Frost;морозного;de dano de gelo;点霜冻;frost;;;;;od Zamrożenia
 Shock;электрического;de dano eletrico;点电击;schock;;;;;od Porażenia
 Poison;ядовитого;veneno;点中毒;gift;;;;;od Trucizn
-Caustic;разъедающего;cde dano áustico;点腐蚀;säure;;;;;od Kwasów
+Caustic;разъедающего;de dano cáustico;点腐蚀;säure;;;;;od Kwasów
 Psionic;псионического;de dano psiônico;点灵术;psionisch;;;;;Psychicznych
 Arcane;арканического;ade dano rcano;点秘术;arkan;;;;;Tajemnych
 Sacred;священного;de dano sagrado;点神圣;heilig;;;;;Świętych

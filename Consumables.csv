@@ -73,12 +73,12 @@ ale;Тёмный эль;Cerveja Escura;深色艾尔啤酒;Dunkelbier;;;;;Ciemne 
 spirit;Спиртовая вытяжка;Espírito;烈酒;Spiritus;;;;;Spirytus;İspirto;//
 milk;Кувшин молока;Jarro de Leite;牛奶;Krug mit Milch;;;;;Dzban Mleka;Süt Testisi;//
 ;;;;;;;;;;;//
-apple;Яблоко;Apple;苹果;Apfel;;;;;Jabłko;Elma;//
-apple_rot;Гнилое яблоко;Rotten Apple;烂苹果;Verdorbener Apfel;;;;;Zgniłe Jabłko;Çürük Elma;//
-pear;Груша;Pear;梨;Birne;;;;;Gruszka;Armut;//
-pear_rot;Гнилая груша;Rotten Pear;烂梨;Verdorbene Birne;;;;;Zgniła Gruszka;Çürük Armut;//
-grape;Виноград;Grape;葡萄;Trauben;;;;;Winogrono;Üzüm;//
-grape_rot;Гнилой виноград;Rotten Grape;烂葡萄;Verdorbene Trauben;;;;;Zgniłe Winogrono;Çürük Üzüm;//
+apple;Яблоко;Maçã;苹果;Apfel;;;;;Jabłko;Elma;//
+apple_rot;Гнилое яблоко;Maçã Podre烂苹果;Verdorbener Apfel;;;;;Zgniłe Jabłko;Çürük Elma;//
+pear;Груша;Pêra;梨;Birne;;;;;Gruszka;Armut;//
+pear_rot;Гнилая груша;Pêra Podre;烂梨;Verdorbene Birne;;;;;Zgniła Gruszka;Çürük Armut;//
+grape;Виноград;Uvas;葡萄;Trauben;;;;;Winogrono;Üzüm;//
+grape_rot;Гнилой виноград;Uvas Podres;烂葡萄;Verdorbene Trauben;;;;;Zgniłe Winogrono;Çürük Üzüm;//
 fig;Инжир;Fig;无花果;Feige;;;;;Figa;İncir;//
 fig_rot;Сушеный инжир;Dried Fig;烂无花果;Getrocknete Feige;;;;;Sucha Figa;Kuru İncir;//
 citrus;Эльфийский цитрус;Elven Citrus;精灵柑橘;Elfische Zitrusfrucht;;;;;Elficki Cytrus;Elf Narenciyesi;//

@@ -32,7 +32,7 @@ Jorgrim_dungeon_complete;%dungeon_name% пустует, blöddanar. Я убил 
 Jorgrim_rent_room;Пусти переночевать. [позволяет сохранить игру];Eu preciso de um beliche. [permite salvar o jogo];还有床没有？[可以保存游戏进度];Ich brauche eine Koje. [erlaubt es, das Spiel zu speichern];;;;Potrzebne mi łoże. [pozwala na zapis gry]
 Jorgrim_continue;*Продолжить разговор*;*Continue ouvindo*;*继续听对方说*;*Hör weiter zu*;;;;*Słuchaj dalej*
 Jorgrim_chat;Выкладывай новости.;Me conte os rumores.;最近有啥小道消息么？;Erzähle mir von Gerüchten.;;;;Opowiedz mi plotki.
-Jorgrim_work;Хочу подзаработать, elräd.;Estou procurando trabalho, elräd.;有啥我能干的活儿吗？;Ich suche nach Arbeit, elräd.;;;;Szukam roboty, elräd.
+Jorgrim_work;Хочу подзаработать, elräd.;Estou procurando trabalho.;有啥我能干的活儿吗？;Ich suche nach Arbeit, elräd.;;;;Szukam roboty, elräd.
 Jorgrim_trade;Покажи товар.;Me mostre seus bens.;给我瞅瞅你卖的东西。;Zeige mir deine Waren.;;;;Pokaż mi swoje klamoty.
 Jorgrim_leave;*Уйти*;*Ir embora*;*离开*;*Geh weg*;;;;*Odejdź*
 Jorgrim_this_place;Расскажи про деревню.;Conte-me sobre sua vila.;跟我唠叨唠叨你们这地方。;Erzähl mir über dieses Dorf.;;;;Gadaj no, co we wsi.
