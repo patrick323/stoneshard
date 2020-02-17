@@ -74,161 +74,161 @@ spirit;Спиртовая вытяжка;Espírito;烈酒;Spiritus;;;;;Spirytus;
 milk;Кувшин молока;Jarro de Leite;牛奶;Krug mit Milch;;;;;Dzban Mleka;Süt Testisi;//
 ;;;;;;;;;;;//
 apple;Яблоко;Maçã;苹果;Apfel;;;;;Jabłko;Elma;//
-apple_rot;Гнилое яблоко;Maçã Podre烂苹果;Verdorbener Apfel;;;;;Zgniłe Jabłko;Çürük Elma;//
+apple_rot;Гнилое яблоко;Maçã Estragado烂苹果;Verdorbener Apfel;;;;;Zgniłe Jabłko;Çürük Elma;//
 pear;Груша;Pêra;梨;Birne;;;;;Gruszka;Armut;//
-pear_rot;Гнилая груша;Pêra Podre;烂梨;Verdorbene Birne;;;;;Zgniła Gruszka;Çürük Armut;//
+pear_rot;Гнилая груша;Pêra Estragado;烂梨;Verdorbene Birne;;;;;Zgniła Gruszka;Çürük Armut;//
 grape;Виноград;Uvas;葡萄;Trauben;;;;;Winogrono;Üzüm;//
-grape_rot;Гнилой виноград;Uvas Podres;烂葡萄;Verdorbene Trauben;;;;;Zgniłe Winogrono;Çürük Üzüm;//
+grape_rot;Гнилой виноград;Uvas Estragados;烂葡萄;Verdorbene Trauben;;;;;Zgniłe Winogrono;Çürük Üzüm;//
 fig;Инжир;Figo;无花果;Feige;;;;;Figa;İncir;//
-fig_rot;Сушеный инжир;Figo Podre;烂无花果;Getrocknete Feige;;;;;Sucha Figa;Kuru İncir;//
+fig_rot;Сушеный инжир;Figo Estragado;烂无花果;Getrocknete Feige;;;;;Sucha Figa;Kuru İncir;//
 citrus;Эльфийский цитрус;Citrus Élfico;精灵柑橘;Elfische Zitrusfrucht;;;;;Elficki Cytrus;Elf Narenciyesi;//
-citrus_rot;Испорченный эльфийский цитрус;Citrus Élfico Podre;变质的精灵柑橘;Verdorbene elfische Zitrusfrucht;;;;;Zgniły Elficki Cytrus;Bozulmuş Elf Narenciyesi;//
+citrus_rot;Испорченный эльфийский цитрус;Citrus Élfico Estragado;变质的精灵柑橘;Verdorbene elfische Zitrusfrucht;;;;;Zgniły Elficki Cytrus;Bozulmuş Elf Narenciyesi;//
 dragonfruit;Драконов плод;Fruta do Dragão;火龙果;Drachenfrucht;;;;;Smoczy Owoc;Pitaya;//
-dragonfruit_rot;Испорченный драконов плод;Fruta do Dragão Podre;烂火龙果;Verdorbene Drachenfrucht;;;;;Zgniły Smoczy Owoc;Bozulmuş Pitaya;//
+dragonfruit_rot;Испорченный драконов плод;Fruta do Dragão Estragado;烂火龙果;Verdorbene Drachenfrucht;;;;;Zgniły Smoczy Owoc;Bozulmuş Pitaya;//
 ;;;;;;;;;;;//
 ;;;;;;;;;;;//
-carrot;Морковь;Carrot;胡萝卜;Möhre;;;;;Marchew;Havuç;//
-carrot_rot;Гнилая морковь;Rotten Carrot;变质的胡萝卜;Verdorbene Möhre;;;;;Zgniła Marchew;Çürük Havuç;//
-potato;Картофелина;Potato;土豆;Kartoffel;;;;;Ziemniak;Patates;//
-potato_rot;Гнилая картофелина;Rotten Potato;烂土豆;Verdorbene Kartoffel;;;;;Zgniły Ziemniak;Çürük Patates;//
-leek;Лук-порей;Leek;韭葱;Lauch;;;;;Por;Pırasa;//
-leek_rot;Гнилой лук-порей;Rotten Leek;烂韭葱;Verdorbenes Lauch;;;;;Znigły Por;Çürük Pırasa;//
-onion;Лук;Onion;洋葱;Zwiebel;;;;;Cebula;Soğan;//
-onion_rot;Гнилой лук;Rotten Onion;烂洋葱;Verdorbene Zwiebel;;;;;Zgniła Cebula;Çürük Soğan;//
-white_radish;Белый редис;White Radish;白萝卜;Weißer Rettich;;;;;Biała Rzodkiew;Beyaz Turp;//
-white_radish_rot;Гнилой белый редис;Rotten White Radish;烂白萝卜;Verdorbener weißer Rettich;;;;;Zgniła Biała Rzodkiew;Çürük Beyaz Turp;//
-garlic;Чеснок;Garlic;大蒜;Knoblauch;;;;;Czosnek;Sarımsak;//
-garlic_rot;Гнилой чеснок;Rotten Garlic;烂蒜;Verdorbener Knoblauch;;;;;Znigły Czosnek;Çürük Sarımsak;//
-beet;Свёкла;Beet;甜菜头;Rote Beete;;;;;Burak;Pancar;//
-beet_rot;Гнилая свёкла;Rotten Beet;烂甜菜头;Verdorbene rote Beete;;;;;Zgniły Burak;Çürük Pancar;//
-tomato;Помидор;Tomato;番茄;Tomate;;;;;Pomidor;Domates;//
-tomato_rot;Гнилой помидор;Rotten Tomato;烂番茄;Verdorbene Tomate;;;;;Zgniły Pomidor;Çürük Domates;//
+carrot;Морковь;Cenoura;胡萝卜;Möhre;;;;;Marchew;Havuç;//
+carrot_rot;Гнилая морковь;Cenoura Estragado;变质的胡萝卜;Verdorbene Möhre;;;;;Zgniła Marchew;Çürük Havuç;//
+potato;Картофелина;Batata;土豆;Kartoffel;;;;;Ziemniak;Patates;//
+potato_rot;Гнилая картофелина;Batata Estragado;烂土豆;Verdorbene Kartoffel;;;;;Zgniły Ziemniak;Çürük Patates;//
+leek;Лук-порей;Alho-Poró;韭葱;Lauch;;;;;Por;Pırasa;//
+leek_rot;Гнилой лук-порей;Alho-Poró Estragado;烂韭葱;Verdorbenes Lauch;;;;;Znigły Por;Çürük Pırasa;//
+onion;Лук;Cebola;洋葱;Zwiebel;;;;;Cebula;Soğan;//
+onion_rot;Гнилой лук;Cebola Estragado;烂洋葱;Verdorbene Zwiebel;;;;;Zgniła Cebula;Çürük Soğan;//
+white_radish;Белый редис;Rabanete Branco;白萝卜;Weißer Rettich;;;;;Biała Rzodkiew;Beyaz Turp;//
+white_radish_rot;Гнилой белый редис;Rabanete Branco Estragado;烂白萝卜;Verdorbener weißer Rettich;;;;;Zgniła Biała Rzodkiew;Çürük Beyaz Turp;//
+garlic;Чеснок;Alho;大蒜;Knoblauch;;;;;Czosnek;Sarımsak;//
+garlic_rot;Гнилой чеснок;Alho Estragado;烂蒜;Verdorbener Knoblauch;;;;;Znigły Czosnek;Çürük Sarımsak;//
+beet;Свёкла;Beterraba;甜菜头;Rote Beete;;;;;Burak;Pancar;//
+beet_rot;Гнилая свёкла;Beterraba Estragado;烂甜菜头;Verdorbene rote Beete;;;;;Zgniły Burak;Çürük Pancar;//
+tomato;Помидор;Tomate;番茄;Tomate;;;;;Pomidor;Domates;//
+tomato_rot;Гнилой помидор;Tomate Estragado;烂番茄;Verdorbene Tomate;;;;;Zgniły Pomidor;Çürük Domates;//
 ;;;;;;;;;;;//
-meat;Приготовленная оленина;Cooked Venison;熟鹿肉;Gekochtes Wildbret;;;;;Upieczona Dziczyzna;Pişmiş Geyik Eti;//
-meat_raw;Сырая оленина;Venison;鹿肉;Wildbret;;;;;Dziczyzna;Geyik Eti;//
-meat_rot;Тухлая оленина;Rotten Venison;变质的鹿肉;Verdorbenes Wildbret;;;;;Zgniła Dziczyzna;Çürük Geyik Eti;//
-chicken;Приготовленная ножка;Roasted Drumstick;烤鸡腿;Gebratene Keule;;;;;Upieczone Mięso;Kızarmış But;//
-chicken_raw;Сырая ножка;Raw Drumstick;生鸡腿;Rohe Keule;;;;;Surowe Mięso;Çiğ But;//
-chicken_rot;Тухлая ножка;Rotten Drumstick;变质的鸡腿;Verdorbene Keule;;;;;Zgniłe Mięso;Çürük But;//
-sausage;Колбаса;Sausage;香肠;Wurst;;;;;Kiełbasa;Sosis;//
-ham;Копченый окорок;Smoked Ham;烟熏火腿;Geräucherter Schinken;;;;;Wędzona Szynka;Kuru Et;//
+meat;Приготовленная оленина;Carne de veado Assada;熟鹿肉;Gekochtes Wildbret;;;;;Upieczona Dziczyzna;Pişmiş Geyik Eti;//
+meat_raw;Сырая оленина;Carne de veado;鹿肉;Wildbret;;;;;Dziczyzna;Geyik Eti;//
+meat_rot;Тухлая оленина;Carne de veado Estragada;变质的鹿肉;Verdorbenes Wildbret;;;;;Zgniła Dziczyzna;Çürük Geyik Eti;//
+chicken;Приготовленная ножка;Coxa Assada;烤鸡腿;Gebratene Keule;;;;;Upieczone Mięso;Kızarmış But;//
+chicken_raw;Сырая ножка;Coxa de Frango Cru;生鸡腿;Rohe Keule;;;;;Surowe Mięso;Çiğ But;//
+chicken_rot;Тухлая ножка;Coxa de Frango Estragada;变质的鸡腿;Verdorbene Keule;;;;;Zgniłe Mięso;Çürük But;//
+sausage;Колбаса;Linguiça;香肠;Wurst;;;;;Kiełbasa;Sosis;//
+ham;Копченый окорок;Presunto Defumado;烟熏火腿;Geräucherter Schinken;;;;;Wędzona Szynka;Kuru Et;//
 ;;;;;;;;;;;//
-fish;Приготовленный карась;Сooked Carp;熟鲤鱼;Gekochter Karpfen;;;;;Ugotowany Karp;Pişmiş Sazan;//
-fish_raw;Карась;Carp;鲤鱼;Karpfen;;;;;Karp;Sazan;//
-fish_rot;Тухлый карась;Rotten Carp;变质的鲤鱼;Verdorbener Karpfen;;;;;Zgniły Karp;Çürük Sazan;//
+fish;Приготовленный карась;Carpa cozida;熟鲤鱼;Gekochter Karpfen;;;;;Ugotowany Karp;Pişmiş Sazan;//
+fish_raw;Карась;Carpa;鲤鱼;Karpfen;;;;;Karp;Sazan;//
+fish_rot;Тухлый карась;Carpa Estragada;变质的鲤鱼;Verdorbener Karpfen;;;;;Zgniły Karp;Çürük Sazan;//
 ;;;;;;;;;;;//
-agrimony;Репешок;Agrimony;龙牙草;Odermennig;;;;;Agrymonia;Koyunotu;//
-bogbean;Трилистник;Bogbean;睡菜;Bitterklee;;;;;Trójliść;Su Yoncası;//
-burdock;Лопух;Burdock;牛蒡;Klette;;;;;Łopian;Dulavratotu;//
-horsetail;Хвощ;Horsetail;木贼;Schachtelhalm;;;;;Skrzyp;Atkuyruğu;//
-mindwort;Зверобой;Mindwort;金丝桃;Minzwurzel;;;;;Korzeń Umysłu;Sarı Kantaron;//
-peppermint;Перечная мята;Peppermint;辣薄荷;Pfefferminze;;;;;Mięta Pieprzowa;Nane;//
-poppy;Мак;Poppy;罂粟;Mohn;;;;;Mak;Gelincik;
-thyme;Тимьян;Thyme;百里香;Thymian;;;;;Tymianek;Kekik;
+agrimony;Репешок;Agrimonia;龙牙草;Odermennig;;;;;Agrymonia;Koyunotu;//
+bogbean;Трилистник;Trevo-de-Água;睡菜;Bitterklee;;;;;Trójliść;Su Yoncası;//
+burdock;Лопух;Arctium;牛蒡;Klette;;;;;Łopian;Dulavratotu;//
+horsetail;Хвощ;Cavalinha;木贼;Schachtelhalm;;;;;Skrzyp;Atkuyruğu;//
+mindwort;Зверобой;Hipérico;金丝桃;Minzwurzel;;;;;Korzeń Umysłu;Sarı Kantaron;//
+peppermint;Перечная мята;Hortelã-pimenta;辣薄荷;Pfefferminze;;;;;Mięta Pieprzowa;Nane;//
+poppy;Мак;Papoula;罂粟;Mohn;;;;;Mak;Gelincik;
+thyme;Тимьян;Tomilho;百里香;Thymian;;;;;Tymianek;Kekik;
 ;;;;;;;;;;;//
-bread;Хлеб;Bread;面包;Brot;;;;;Chleb;Ekmek;//
-bread_rot;Плесневелый хлеб;Moldy Bread;发霉的面包;Schimmeliges Brot;;;;;Suchy Chleb;Küflü Ekmek;//
-cheese;Сыр;Cheese;奶酪;Käse;;;;;Ser;Peynir;//
-cheese_rot;Протухший сыр;Spoiled Cheese;发霉的奶酪;Verdorbener Käse;;;;;Zepsuty Ser;Bozulmuş Peynir;//
-goatcheese;Козий сыр;Goat Cheese;山羊奶酪;Ziegenkäse;;;;;Kozi Ser;Keçi Peyniri;//
-goatcheese_rot;Протухший козий сыр;Spoiled Goat Cheese;发霉的山羊奶酪;Verdorbener Ziegenkäse;;;;;Zepsuty Kozi Ser;Bozulmuş Keçi Peyniri;//
-dumpling;Клёцка;Dumpling;小饼;Teigtasche;;;;;Kluska;Meyveli Börek;//
-dumpling_rot;Испорченная клёцка;Spoiled Dumpling;变质的小饼;Verdorbene Teigtasche;;;;;Zepsuta Kluska;Bozulmuş Meyveli Börek;//
+bread;Хлеб;Pão;面包;Brot;;;;;Chleb;Ekmek;//
+bread_rot;Плесневелый хлеб;Pão Mofado;发霉的面包;Schimmeliges Brot;;;;;Suchy Chleb;Küflü Ekmek;//
+cheese;Сыр;Queijo;奶酪;Käse;;;;;Ser;Peynir;//
+cheese_rot;Протухший сыр;Queijo Estragado;发霉的奶酪;Verdorbener Käse;;;;;Zepsuty Ser;Bozulmuş Peynir;//
+goatcheese;Козий сыр;Queijo de Cabra;山羊奶酪;Ziegenkäse;;;;;Kozi Ser;Keçi Peyniri;//
+goatcheese_rot;Протухший козий сыр;Queijo de Cabra Estragado;发霉的山羊奶酪;Verdorbener Ziegenkäse;;;;;Zepsuty Kozi Ser;Bozulmuş Keçi Peyniri;//
+dumpling;Клёцка;Bolinho de Massa;小饼;Teigtasche;;;;;Kluska;Meyveli Börek;//
+dumpling_rot;Испорченная клёцка;Bolinho de Massa Estragado;变质的小饼;Verdorbene Teigtasche;;;;;Zepsuta Kluska;Bozulmuş Meyveli Börek;//
 pretzel;Крендель;Pretzel;蝴蝶脆饼;Bretzel;;;;;Precel;Kraker;//
-pretzel_rot;Испорченный крендель;Spoiled Pretzel;变质的蝴蝶脆饼;Verdorbene Bretzel;;;;;Suchy Precel;Bozulmuş Kraker;//
-pancakes;Оладьи;Pancakes;薄饼;Pfannkuchen;;;;;Naleśniki;Krep;//
-pancakes_rot;Протухшие оладьи;Spoiled Pancakes;变质的薄饼;Verdorbene Pfannkuchen;;;;;Zepsute Naleśniki;Bozulmuş Krep;//
-lentil_soup;Чечевичная похлёбка;Lentil Soup;小扁豆汤;Linsensuppe;;;;;Soczewica;Mercimek Çorbası;//
-lentil_soup_rot;Протухшая чечевичная похлёбка;Spoiled Lentil Soup;变质的小扁豆汤;Verdorbene Linsensuppe;;;;;Zepsuta Soczewica;Bozulmuş Mercimek Çorbası;//
-peasant_soup;Крестьянская похлёбка;Peasant Stew;农家炖菜;Bauerntopf;;;;;Gulasz Wieśniaka;Tas Kebabı;//
-peasant_soup_rot;Протухшая крестьянская похлёбка;Spoiled Peasant Stew;变质的农家炖菜;Verdorbener Bauerntopf;;;;;Zepsuty Gulasz Wieśniaka;Bozulmuş Tas Kebabı;//
+pretzel_rot;Испорченный крендель;Pretzel Estragado;变质的蝴蝶脆饼;Verdorbene Bretzel;;;;;Suchy Precel;Bozulmuş Kraker;//
+pancakes;Оладьи;Panquecas;薄饼;Pfannkuchen;;;;;Naleśniki;Krep;//
+pancakes_rot;Протухшие оладьи;Panquecas Estragadas;变质的薄饼;Verdorbene Pfannkuchen;;;;;Zepsute Naleśniki;Bozulmuş Krep;//
+lentil_soup;Чечевичная похлёбка;Sopa de Lentilha;小扁豆汤;Linsensuppe;;;;;Soczewica;Mercimek Çorbası;//
+lentil_soup_rot;Протухшая чечевичная похлёбка;Sopa de Lentilha Estragada;变质的小扁豆汤;Verdorbene Linsensuppe;;;;;Zepsuta Soczewica;Bozulmuş Mercimek Çorbası;//
+peasant_soup;Крестьянская похлёбка;Guisado do Camponês;农家炖菜;Bauerntopf;;;;;Gulasz Wieśniaka;Tas Kebabı;//
+peasant_soup_rot;Протухшая крестьянская похлёбка;Guisado do Camponês Estragado;变质的农家炖菜;Verdorbener Bauerntopf;;;;;Zepsuty Gulasz Wieśniaka;Bozulmuş Tas Kebabı;//
 ;;;;;;;;;;;//
-mapscroll;Карта;Map;地图;Karte;;;;;Mapa;Harita;//
-scroll_identification;Свиток определения;Identification Scroll;鉴定卷轴;Identifizieren-Spruchrolle;;;;;Zwój Identyfikacji;Tanımlama Parşömeni;//
-scroll_disenchant;Свиток снятия чар;Disenchantment Scroll;祛魔卷轴;Entzaubern-Spruchrolle;;;;;Zwój Oczyszczenia;;//
-scroll_enchant;Свиток зачарования;Enchantment Scroll;附魔卷轴;Verzaubern-Spruchrolle;;;;;Zwój Zaklinania;;//
+mapscroll;Карта;Mapa;地图;Karte;;;;;Mapa;Harita;//
+scroll_identification;Свиток определения;Pergaminho de Indentificação;鉴定卷轴;Identifizieren-Spruchrolle;;;;;Zwój Identyfikacji;Tanımlama Parşömeni;//
+scroll_disenchant;Свиток снятия чар;Pergaminho de Desencanto;祛魔卷轴;Entzaubern-Spruchrolle;;;;;Zwój Oczyszczenia;;//
+scroll_enchant;Свиток зачарования;Pergaminho de Encantamento;附魔卷轴;Verzaubern-Spruchrolle;;;;;Zwój Zaklinania;;//
 ;;;;;;;;;;;//
 ;;;;;;;;;;;//
 stoneshard;Осколок Камня;Stoneshard;紫色晶石;Steinsplitter;;;;;Stoneshard;Stoneshard;//
 ;;;;;;;;;;;//
-bounty_figurine;Священная статуэтка;Holy Figurine;圣像;Heilige Figur;;;;;Święta Figurka;Kutsal Heykel;//
-bounty_grimoir;Запретный гримуар;Forbidden Grimoir;禁忌魔法书;Verbotenes Zauberbuch;;;;;Zapomniany Grimuar;Yasaklı Büyü Kitabı;//
-heraldic_note;Фамильная грамота;Heraldic Note;引荐书;Heraldische Botschaft;;;;;Herbowa Notatka;Hanedan Notu;//
-wheat_bag;Мешок зерна;Sack of Grain;粮食;Getreidesack;;;;;Wór Zboża;Tahıl Çuvalı;//
-reliquary;Реликварий;Reliquary;圣物箱;Reliquiar;;;;;Relikwiarz;Röliker;//
-alchemy_kit;Алхимический аппарат;Alchemy Apparatus;炼金设备;Alchemieapparatur;;;;;Aparatura Alchemiczna;Simya Aleti;//
-letter_pile;Кипа донесений;Pile of Reports;文书;Stapel Berichte;;;;;Plik Raportów;Rapor Yığını;
-wicked_hand;Рука каторжника;Convict's Hand;逃犯的手;Hand des Sträflings;;;;;Ręka Skazańca;Hükümlü Eli;
+bounty_figurine;Священная статуэтка;Estatueta Sagrada;圣像;Heilige Figur;;;;;Święta Figurka;Kutsal Heykel;//
+bounty_grimoir;Запретный гримуар;Grimório Proibido;禁忌魔法书;Verbotenes Zauberbuch;;;;;Zapomniany Grimuar;Yasaklı Büyü Kitabı;//
+heraldic_note;Фамильная грамота;Nota Heráldica;引荐书;Heraldische Botschaft;;;;;Herbowa Notatka;Hanedan Notu;//
+wheat_bag;Мешок зерна;Saco de Grãos;粮食;Getreidesack;;;;;Wór Zboża;Tahıl Çuvalı;//
+reliquary;Реликварий;Relicário;圣物箱;Reliquiar;;;;;Relikwiarz;Röliker;//
+alchemy_kit;Алхимический аппарат;Aparelho de Alquimia;炼金设备;Alchemieapparatur;;;;;Aparatura Alchemiczna;Simya Aleti;//
+letter_pile;Кипа донесений;Pilha de Relatórios;文书;Stapel Berichte;;;;;Plik Raportów;Rapor Yığını;
+wicked_hand;Рука каторжника;Mão do Condenado;逃犯的手;Hand des Sträflings;;;;;Ręka Skazańca;Hükümlü Eli;
 ;;;;;;;;;;;//
-pinecap;Хвойник;Pinecap;松乳菇;Kiefernkappe;;;;;Czapnik;Ephedra;//
-flyagaric;Мухомор;Fly Agaric;毒蝇伞;Fliegenpilz;;;;;Muchomor;Sinek Mantarı;//
-stool;Бледная поганка;Death Cap;毒鹅膏;Todeskappe;;;;;Sromotnik;Köygöçüren;//
-magefungus;Магофунгус;Magefungus;魔法蘑菇;Magierfungus;;;;;Magiczny Grzyb;Sihirli Mantar;//
-spider;Паук;Spider;蜘蛛;Spinne;;;;;Pająk;Örümcek;//
-maggot;Личинка;Maggot;蛆;Made;;;;;Robal;Kurtçuk;//
-bone_foot;Костяная стопа;Bone Foot;足骨;Knochenfuß;;;;;Kość Stopy;Ayak Kemiği;//
-bone;Кость;Bone;骨头;Knochen;;;;;Kość;Kemik;//
-skull;Череп;Skull;头骨;Schädel;;;;;Czaszka;Kafatası;//
-rib_cage;Грудная клетка;Rib Cage;肋骨;Brustkorb;;;;;Klatka Piersiowa;Göğüs Kafesi;//
-pelvic_bone;Тазовая кость;Pelvic Bone;骨盆;Hüftknochen;;;;;Miednica;Leğen Kemiği;//
-rag;Тряпка;Rag;布条;Lumpen;;;;;Szmata;Paçavra;//
-coal;Кусок угля;Coal Chunk;煤块;Kohlestück;;;;;Węgiel;Kömür Yığını;//
-iron_ingot;Железный слиток;Iron Ingot;铁锭;Eisenbarren;;;;;Żelazna Sztabka;Demir Külçesi;//
-gold_ingot;Золотой слиток;Gold Ingot;金锭;Goldbarren;;;;;Złota Sztabka;Altın Külçesi;//
-rope;Моток верёвки;Rope;绳子;Seil;;;;;Lina;İp;//
-horseshoe;Подкова;Horseshoe;马蹄铁;Hufeisen;;;;;Podkowa;Nal;//
-clay_jug;Кувшин;Jug;壶;Krug;;;;;Dzban;Testi;//
-clay_plate;Плошка;Plate;盘子;Teller;;;;;Talerz;Tabak;//
-clay_pot;Горшок;Pot;罐子;Topf;;;;;Garnek;Çömlek;//
-ladle;Черпак;Ladle;勺子;Kelle;;;;;Chochła;Kepçe;//
-straw;Охапка соломы;Straw;稻草;Stroh;;;;;Słoma;Saman;//
-candleend;Свечной огарок;Candle-end;蜡烛头;Kerzenrest;;;;;Świeca;Mum Artığı;//
-simple_earrings;Неказистые серёжки;Simple Earrings;普通耳环;Einfache Ohrringe;;;;;Proste Kolczyki;Basit Küpe;//
-wooden_bucket;Ведро;Bucket;桶;Eimer;;;;;Wiadro;Kova;//
-wooden_comb;Гребень;Comb;梳子;Kamm;;;;;Grzebień;Tarak;//
-wooden_bowl;Тарелка;Bowl;碗;Schüssel;;;;;Miska;Kase;//
-mug;Кружка;Mug;杯子;Becher;;;;;Dzban;Kupa;//
-nails;Гвозди;Nails;钉子;Nägel;;;;;Gwoździe;Tırnak;//
-pot;Походный котелок;Travel Pot;露营锅;Reisetopf;;;;;Garnek Podróżny;Taşınabilir Çömlek;//
-hide_boar;Шкура вепря;Boar Hide;野猪皮;Wildschweinleder;;;;;Skóra Dzika;Domuz Derisi;//
-hide_bear;Медвежья шкура;Bear Pelt;熊皮;Bärenpelz;;;;;Futro Niedźwiedzia;Ayı Postu;//
-hide_fox;Лисья шкура;Fox Pelt;狐狸毛皮;Fuchspelz;;;;;Futro Lisa;Tilki Postu;//
-hide_wolf;Волчья шкура;Wolf Pelt;狼毛皮;Wolfspelz;;;;;Futro Wilka;Kurt Postu;//
-hide_deer;Оленья шкура;Deer Hide;鹿皮;Hirschleder;;;;;Skóra Jelenia;;//
-hide_moose;Лосиная шкура;Moose Hide;驼鹿皮;Elchsleder;;;;;Skóra Łosia;;//
-hide_rabbit01;Кроличья шубка;Rabbit Pelt;兔子毛皮;Hasenfell;;;;;Futro Kólika;;//
-hide_rabbit02;Кроличья шубка;Rabbit Pelt;兔子毛皮;Hasenfell;;;;;Futro Królika;;//
-horns_deer;Оленьи рога;Deer Antlers;鹿角;Hirschgeweih;;;;;Poroże Jelenia;;//
-horns_moose;Лосиные рога;Moose Antlers;驼鹿角;Elchsgeweih;;;;;Poroże Łosia;;//
+pinecap;Хвойник;Pine cap;松乳菇;Kiefernkappe;;;;;Czapnik;Ephedra;//
+flyagaric;Мухомор;Amanita Muscaria;毒蝇伞;Fliegenpilz;;;;;Muchomor;Sinek Mantarı;//
+stool;Бледная поганка;Cicuta Verde;毒鹅膏;Todeskappe;;;;;Sromotnik;Köygöçüren;//
+magefungus;Магофунгус;Cogumelo Mágico;魔法蘑菇;Magierfungus;;;;;Magiczny Grzyb;Sihirli Mantar;//
+spider;Паук;Aranha;蜘蛛;Spinne;;;;;Pająk;Örümcek;//
+maggot;Личинка;Larva;蛆;Made;;;;;Robal;Kurtçuk;//
+bone_foot;Костяная стопа;Osso do Pé;足骨;Knochenfuß;;;;;Kość Stopy;Ayak Kemiği;//
+bone;Кость;Osso;骨头;Knochen;;;;;Kość;Kemik;//
+skull;Череп;Crânio;头骨;Schädel;;;;;Czaszka;Kafatası;//
+rib_cage;Грудная клетка;Caixa Toráxica;肋骨;Brustkorb;;;;;Klatka Piersiowa;Göğüs Kafesi;//
+pelvic_bone;Тазовая кость;Osso Pélvico;骨盆;Hüftknochen;;;;;Miednica;Leğen Kemiği;//
+rag;Тряпка;Rag;Tira de Pano;Lumpen;;;;;Szmata;Paçavra;//
+coal;Кусок угля;Pedaço de Carvão;煤块;Kohlestück;;;;;Węgiel;Kömür Yığını;//
+iron_ingot;Железный слиток;Lingote de Ferro;铁锭;Eisenbarren;;;;;Żelazna Sztabka;Demir Külçesi;//
+gold_ingot;Золотой слиток;Lingote de Ouro;金锭;Goldbarren;;;;;Złota Sztabka;Altın Külçesi;//
+rope;Моток верёвки;Corda;绳子;Seil;;;;;Lina;İp;//
+horseshoe;Подкова;Ferradura;马蹄铁;Hufeisen;;;;;Podkowa;Nal;//
+clay_jug;Кувшин;Jarro;壶;Krug;;;;;Dzban;Testi;//
+clay_plate;Плошка;Prato;盘子;Teller;;;;;Talerz;Tabak;//
+clay_pot;Горшок;Pote;罐子;Topf;;;;;Garnek;Çömlek;//
+ladle;Черпак;Concha;勺子;Kelle;;;;;Chochła;Kepçe;//
+straw;Охапка соломы;Palha;稻草;Stroh;;;;;Słoma;Saman;//
+candleend;Свечной огарок;Fim da Vela;蜡烛头;Kerzenrest;;;;;Świeca;Mum Artığı;//
+simple_earrings;Неказистые серёжки;Brincos Simples;普通耳环;Einfache Ohrringe;;;;;Proste Kolczyki;Basit Küpe;//
+wooden_bucket;Ведро;Balde;桶;Eimer;;;;;Wiadro;Kova;//
+wooden_comb;Гребень;Pente;梳子;Kamm;;;;;Grzebień;Tarak;//
+wooden_bowl;Тарелка;tigela;碗;Schüssel;;;;;Miska;Kase;//
+mug;Кружка;Caneca;杯子;Becher;;;;;Dzban;Kupa;//
+nails;Гвозди;Unhas;钉子;Nägel;;;;;Gwoździe;Tırnak;//
+pot;Походный котелок;Pote de Viagem;露营锅;Reisetopf;;;;;Garnek Podróżny;Taşınabilir Çömlek;//
+hide_boar;Шкура вепря;Pele de Javali;野猪皮;Wildschweinleder;;;;;Skóra Dzika;Domuz Derisi;//
+hide_bear;Медвежья шкура;Pele de Urso;熊皮;Bärenpelz;;;;;Futro Niedźwiedzia;Ayı Postu;//
+hide_fox;Лисья шкура;Pele de Raposa;狐狸毛皮;Fuchspelz;;;;;Futro Lisa;Tilki Postu;//
+hide_wolf;Волчья шкура;Pele de Lobo;狼毛皮;Wolfspelz;;;;;Futro Wilka;Kurt Postu;//
+hide_deer;Оленья шкура;Pele de Veado;鹿皮;Hirschleder;;;;;Skóra Jelenia;;//
+hide_moose;Лосиная шкура;Pele de Alce;驼鹿皮;Elchsleder;;;;;Skóra Łosia;;//
+hide_rabbit01;Кроличья шубка;Pele de Coelho;兔子毛皮;Hasenfell;;;;;Futro Kólika;;//
+hide_rabbit02;Кроличья шубка;Pele de Coelho;兔子毛皮;Hasenfell;;;;;Futro Królika;;//
+horns_deer;Оленьи рога;Chifres de Veado;鹿角;Hirschgeweih;;;;;Poroże Jelenia;;//
+horns_moose;Лосиные рога;Chifres de Alce;驼鹿角;Elchsgeweih;;;;;Poroże Łosia;;//
 ;;;;;;;;;;;//
 ;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;//
 ;;;;;;;;;;;//
 ;consum_mid;consum_mid;consum_mid;consum_mid;consum_mid;consum_mid;consum_mid;consum_mid;consum_mid;consum_mid;//
-bandage;Останавливает кровотечение на выбранной части тела.;Stops a selected body part from bleeding;可以止血;Stoppt den ausgewählten Körperteil vom Bluten.;;;;;Zatrzymuje krwawienie z wybranej części ciała.;;//
-antivenom;Вызывает ~r~замешательство~/~.##Снимает ~lg~отравление~/~.;Causes ~r~confusion~/~.##Removes ~lg~poisoning~/;导致~r~迷惑~/~。##解毒;Verursacht ~r~Verwirrung~/~.##Entfernt ~lg~ Vergiftung~/;;;;;Powoduje ~r~Dezorientację~/~.##Usuwa ~lg~otrucie~/;;//
+bandage;Останавливает кровотечение на выбранной части тела.;Estanca uma parte do corpo selecionada fazendo parando de sangrar;可以止血;Stoppt den ausgewählten Körperteil vom Bluten.;;;;;Zatrzymuje krwawienie z wybranej części ciała.;;//
+antivenom;Вызывает ~r~замешательство~/~.##Снимает ~lg~отравление~/~.;Causa ~r~confusão~/~.##Remove ~lg~envenenamento~/;导致~r~迷惑~/~。##解毒;Verursacht ~r~Verwirrung~/~.##Entfernt ~lg~ Vergiftung~/;;;;;Powoduje ~r~Dezorientację~/~.##Usuwa ~lg~otrucie~/;;//
 antitoxin;;;;;;;;;;;//
-splint;Стабилизирует травму на выбранной части тела.#Может применяться только на травмированные части тела.;Stabilizes the injury of a selected body part.#Can only be applied to injured body parts.;可以稳定受伤的身体部位。#只能用于受伤的地方。;Stabilisiert die Verletzung eines ausgewählten Körperteils.#Kann nur mit verletzten Körperteilen verwendet werden.;;;;;Stabilizuje złamania i ciężkie rany wybranych części ciała.#Może być założony wyłącznie na uszkodzone.;;//
-leech;Применяется на выбранную часть тела.#Каждый ход в течение 30 ходов:##~lg~+1%~/~ состояния части тела#~lg~+25%~/~ к эффективности лечения#~lg~-0.5%~/~ к интоксикации#~r~+0.2%~/~ к боли;Is used on a selected body part.#Each turn for 30 turns:##~lg~+1%~/~ Body Part Condition#+~lg~25%~/~ Healing Efficiency#~lg~-0.5%~/~ Intoxicaton#~r~+0.2%~/~ Pain;可以用于一个身体部位。#每回合（效果持续30回合）：##身体部位状态~lg~+1%~/~#治疗效果+~lg~25%~/~#迷醉~lg~-0.5%~/~#疼痛~r~+0.2%~/~;Wird an einem verletzten Körperteil verwendet.#Jede Runde für 30 Runden:##~lg~+1%~/~ Körperteilzustand#+~lg~25%~/~ Heilungseffizienz#~lg~-0,5%~/~ Vergiftung#~r~+0,2%~/~ Schmerz;;;;;Można wykorzystać na wybranej części ciała.#Każdej tury przez 30 tur:##~lg~+1%~/~ stan Części Ciała#+~lg~25%~/~ Skuteczności Leczenia#~lg~-0.5%~/~ Zatrucia#~r~+0.2%~/~ Bólu;;//
+splint;Стабилизирует травму на выбранной части тела.#Может применяться только на травмированные части тела.;Estabiliza uma lesão de uma parte do corpo selecionada.#Só pode ser aplicada em partes do corpo lesionadas.;可以稳定受伤的身体部位。#只能用于受伤的地方。;Stabilisiert die Verletzung eines ausgewählten Körperteils.#Kann nur mit verletzten Körperteilen verwendet werden.;;;;;Stabilizuje złamania i ciężkie rany wybranych części ciała.#Może być założony wyłącznie na uszkodzone.;;//
+leech;Применяется на выбранную часть тела.#Каждый ход в течение 30 ходов:##~lg~+1%~/~ состояния части тела#~lg~+25%~/~ к эффективности лечения#~lg~-0.5%~/~ к интоксикации#~r~+0.2%~/~ к боли;É usado em uma parte do corpo selecionada.#A cada turno por 30 turnos:##~lg~+1%~/~ Condição da parte do corpo# +~lg~25%~/~ de Eficiência de cura#~lg~-0.5%~/~ de Intoxicação#~r~+0,2%~/~ de Dor;可以用于一个身体部位。#每回合（效果持续30回合）：##身体部位状态~lg~+1%~/~#治疗效果+~lg~25%~/~#迷醉~lg~-0.5%~/~#疼痛~r~+0.2%~/~;Wird an einem verletzten Körperteil verwendet.#Jede Runde für 30 Runden:##~lg~+1%~/~ Körperteilzustand#+~lg~25%~/~ Heilungseffizienz#~lg~-0,5%~/~ Vergiftung#~r~+0,2%~/~ Schmerz;;;;;Można wykorzystać na wybranej części ciała.#Każdej tury przez 30 tur:##~lg~+1%~/~ stan Części Ciała#+~lg~25%~/~ Skuteczności Leczenia#~lg~-0.5%~/~ Zatrucia#~r~+0.2%~/~ Bólu;;//
 inhaler;;;;;;;;;;;//
-sponge;Вгоняет в ~r~сон~/~.;Puts you to ~r~sleep~/~.;可以令你~r~入睡~/~。;Versetzt dich in den ~r~Schlaf~/~.;;;;;Najzwyczajniej w świecie ~r~usypia~/~.;;//
+sponge;Вгоняет в ~r~сон~/~.;Coloca você para ~r~dormir~/~.;可以令你~r~入睡~/~。;Versetzt dich in den ~r~Schlaf~/~.;;;;;Najzwyczajniej w świecie ~r~usypia~/~.;;//
 incense;;;;;;;;;;;//
 herbal;;;;;;;;;;;//
-aqua_vitae;Избавляет от всех негативных эффектов.;Removes all negative effects;可以消除所有负面效果;Entfernt alle negativen Effekte.;;;;;Usuwa wszystkie negatywne efekty.;;//
-stardust;Звездной пылью не стоит злоупотреблять при низком рассудке.;Do not abuse stardust while having low sanity.;神智较低的时候，不要随意服用星尘。;Missbrauche den Sternenstaub nicht, wenn dein geistiger Zustand schlecht ist.;;;;;Lepiej nie przesadzać z tym pyłkiem mając kiepski stan psychiki.;;//
-salve;Если часть тела ~r~травмирована~/~, эффективность лечения мазью снижается на ~r~50%~/~.;If a selected body part is ~r~injured~/~, salve's healing efficiency is reduced by ~r~50%~/~.;如果所选身体部位~r~受伤~/~，药膏的治疗效果将减弱~r~50%~/~。;Wenn ein ausgewählter Körperteil ~r~verletzt~/~ ist, wird die Heileffizienz der Heilsalbe um ~r~50%~/~ reduziert.;;;;;Wybrana część ciała otrzymuje ~r~zranienie~/~, skuteczność maści leczących jest zmniejszona o ~r~50%~/~.;;//
+aqua_vitae;Избавляет от всех негативных эффектов.;Remove todos os efeitos negativos;可以消除所有负面效果;Entfernt alle negativen Effekte.;;;;;Usuwa wszystkie negatywne efekty.;;//
+stardust;Звездной пылью не стоит злоупотреблять при низком рассудке.;Não abuse da poeira estelar enquanto estiver com sanidade baixa.;神智较低的时候，不要随意服用星尘。;Missbrauche den Sternenstaub nicht, wenn dein geistiger Zustand schlecht ist.;;;;;Lepiej nie przesadzać z tym pyłkiem mając kiepski stan psychiki.;;//
+salve;Если часть тела ~r~травмирована~/~, эффективность лечения мазью снижается на ~r~50%~/~.;Se uma parte do corpo selecionada esta ~r~ferida~/~, a eficiência de cura da pomada é reduzida em ~r~50%~/~.;如果所选身体部位~r~受伤~/~，药膏的治疗效果将减弱~r~50%~/~。;Wenn ein ausgewählter Körperteil ~r~verletzt~/~ ist, wird die Heileffizienz der Heilsalbe um ~r~50%~/~ reduziert.;;;;;Wybrana część ciała otrzymuje ~r~zranienie~/~, skuteczność maści leczących jest zmniejszona o ~r~50%~/~.;;//
 essence;;;;;;;;;;;//
 pipe;;;;;;;;;;;//
 ;;;;;;;;;;;//
 torch;Факел;Torch;火把;Fackel;;;;;Pochodnia;;//
-surgeon;Значительно улучшает состояние выбранной части тела.##Чем хуже состояние оперируемой части тела, тем болезненней операция.;Greatly improves condition of a selected body part.##Pain suffered during the operation depends on the current condition of the body part.;大幅改善身体某一部位的状态。##手术期间的疼痛程度因身体部位当前的状态而异。;Verbessert den Zustand eines ausgewählten Körperteils enorm.##Schmerzen bei der Operation sind abhängig vom Zustand des Körperteils.;;;;;Doskonale poprawia stan wybranej części ciała.##Ból jaki powstanie w wyniku operacji zależy od aktualnego stanu wybranej części ciała.;;//
-lancet;Вызывает кровотечение, но выводит токсины.;Causes Bleeding but reduces Intoxication.;会导致出血，但是可以缓解迷醉。;Verursacht Bluten, aber reduziert Vergiftung.;;;;;Powoduje Krwawienie, ale redukuje Zatrucie.;;//
-tinker;Гарантированно взламывает замок или обезвреживает механическую ловушку.;Guaranteed to pick a lock or disarm a mechanical trap.;肯定可以撬开锁或者拆除机械陷阱。;Garantiertes Knacken eines Schlosses oder Entschärfen einer mechanischen Falle.;;;;;Gwarantuje otwarcie zamka lub rozbrojenie mechanicznej pułapki.;;//
-repkit;Восстанавливает ~lg~30~/~ ед. прочности выбранному предмету.;Restores ~lg~30~/~ durability points to a selected item.;可以令一件物品恢复~lg~30~/~点耐久。;Stellt ~lg~30~/~ Haltbarkeitspunkte eines ausgewählten Gegenstands wieder her.;;;;;Odnawia ~lg~30~/~ punktów wytrzymałości przedmiotowi.;;//
-lockpicks;Позволяют взламывать замки.##Ломаются при неудачной попытке взлома.;Allows picking locks.##Breaks if the lockpicking attempt fails.;可以开锁。##如果开锁失败，就会损坏。;Ermöglicht das Schlossknacken.##Zerbricht, wenn der Versuch fehl schlägt.;;;;;Pozwala otwierać zamki.##Zużywa się jeżeli otwarcie nie powiedzie się.;;//
-skeleton_key;Отпирает любые замки.;Opens any lock.;可以打开任意锁具。;Öffnet jedes Schloss.;;;;;Otwiera jakikolwiek zamek.;;//
-key;Единожды отпирает любой замок.;Opens a single lock.;可以打开一把锁。;Öffnet ein einzelnes Schloss.;;;;;Otwiera jeden zamek.;;//
-backpack;Используется для хранения предметов.;Can be used to store items.;可以存放物品。;Zum Verstauen von Gegenständen.;;;;;Może być użyty do przechowywania przedmiotów.;;//
-moneybag;Используется для хранения монет.;Can be used to store coins.;可以存放钱币。;Zum Verstauen von Münzen.;;;;;Może być użyta do przechowywania monet.;;//
+surgeon;Значительно улучшает состояние выбранной части тела.##Чем хуже состояние оперируемой части тела, тем болезненней операция.;Melhora bastante a condição de uma parte do corpo selecionada.##A dor sofrida durante a operação depende da condição atual da parte do corpo.;大幅改善身体某一部位的状态。##手术期间的疼痛程度因身体部位当前的状态而异。;Verbessert den Zustand eines ausgewählten Körperteils enorm.##Schmerzen bei der Operation sind abhängig vom Zustand des Körperteils.;;;;;Doskonale poprawia stan wybranej części ciała.##Ból jaki powstanie w wyniku operacji zależy od aktualnego stanu wybranej części ciała.;;//
+lancet;Вызывает кровотечение, но выводит токсины.;Causa sangramento, mas reduz a intoxicação.;会导致出血，但是可以缓解迷醉。;Verursacht Bluten, aber reduziert Vergiftung.;;;;;Powoduje Krwawienie, ale redukuje Zatrucie.;;//
+tinker;Гарантированно взламывает замок или обезвреживает механическую ловушку.;Garantido para destrancar uma fechadura ou desarmar uma armadilha mecânica.;肯定可以撬开锁或者拆除机械陷阱。;Garantiertes Knacken eines Schlosses oder Entschärfen einer mechanischen Falle.;;;;;Gwarantuje otwarcie zamka lub rozbrojenie mechanicznej pułapki.;;//
+repkit;Восстанавливает ~lg~30~/~ ед. прочности выбранному предмету.;Restaura ~lg~30~/~ pontos de durabilidade em um item selecionado.;可以令一件物品恢复~lg~30~/~点耐久。;Stellt ~lg~30~/~ Haltbarkeitspunkte eines ausgewählten Gegenstands wieder her.;;;;;Odnawia ~lg~30~/~ punktów wytrzymałości przedmiotowi.;;//
+lockpicks;Позволяют взламывать замки.##Ломаются при неудачной попытке взлома.;Permite destrancar fechaduras.##Interrompe se a tentativa de destrancar falhar.;可以开锁。##如果开锁失败，就会损坏。;Ermöglicht das Schlossknacken.##Zerbricht, wenn der Versuch fehl schlägt.;;;;;Pozwala otwierać zamki.##Zużywa się jeżeli otwarcie nie powiedzie się.;;//
+skeleton_key;Отпирает любые замки.;Abre qualquer fechadura.;可以打开任意锁具。;Öffnet jedes Schloss.;;;;;Otwiera jakikolwiek zamek.;;//
+key;Единожды отпирает любой замок.;Abre uma fechadura única.;可以打开一把锁。;Öffnet ein einzelnes Schloss.;;;;;Otwiera jeden zamek.;;//
+backpack;Используется для хранения предметов.;Pode ser usado para guardar itens.;可以存放物品。;Zum Verstauen von Gegenständen.;;;;;Może być użyty do przechowywania przedmiotów.;;//
+moneybag;Используется для хранения монет.;Pode ser usado para guardar moedas.;可以存放钱币。;Zum Verstauen von Münzen.;;;;;Może być użyta do przechowywania monet.;;//
 ;;;;;;;;;;;//
 aquamarine;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这件东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
 ruby;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
@@ -312,8 +312,8 @@ meat_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Po
 chicken;;;;;;;;;;;//
 chicken_raw;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 chicken_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
-sausage;Не портится со временем.;Does not spoil over time.;不会变质。;Kann nicht verderben.;;;;;Nie psuje się z upływem czasu.;;//
-ham;Не портится со временем.;Does not spoil over time.;不会变质。;Kann nicht verderben.;;;;;Nie psuje się z upływem czasu.;;//
+sausage;Не портится со временем.;Não estraga com o tempo.;不会变质。;Kann nicht verderben.;;;;;Nie psuje się z upływem czasu.;;//
+ham;Не портится со временем.;Não estraga com o tempo.;不会变质。;Kann nicht verderben.;;;;;Nie psuje się z upływem czasu.;;//
 ;;;;;;;;;;;//
 fish;;;;;;;;;;;//
 fish_raw;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
@@ -323,9 +323,9 @@ agrimony;;;;;;;;;;;//
 bogbean;;;;;;;;;;;//
 burdock;;;;;;;;;;;//
 horsetail;;;;;;;;;;;//
-mindwort;Снимает эффекты ~lg~опьянения~/~ и ~lg~прихода~/~.;Removes the effects of ~lg~bad trip~/~ and being ~lg~drunk~/~.;可以消除~lg~惊慌失措~/~和~lg~醉酒~/~的影响。;Beseitigt die Auswirkungen von ~lg~Horrortrip~/~ und ~lg~Trunkenheit~/~.;;;;;Usuwa efekt ~lg~urwanego filmu~/~, czyni cię ~lg~pijanym~/~.;;//
+mindwort;Снимает эффекты ~lg~опьянения~/~ и ~lg~прихода~/~.;Remove os efeitos de ~lg~viagem ruim~/~ e de estar ~lg~drunk~/~.;可以消除~lg~惊慌失措~/~和~lg~醉酒~/~的影响。;Beseitigt die Auswirkungen von ~lg~Horrortrip~/~ und ~lg~Trunkenheit~/~.;;;;;Usuwa efekt ~lg~urwanego filmu~/~, czyni cię ~lg~pijanym~/~.;;//
 peppermint;;;;;;;;;;;//
-poppy;Возможны ~r~сон~/~ или ~r~приход~/~.;May put to ~r~sleep~/~ or cause ~r~bad trip~/~.;可能令人~r~入睡~/~，或导致~r~惊慌失措~/~。;Kann dich in ~r~Schlaf~/~ versetzen, oder einen ~r~Horrortrip~/~ auslösen;;;;;Może cię ~r~uśpić~/~ albo wywołać ~r~urwany film~/~.;;//
+poppy;Возможны ~r~сон~/~ или ~r~приход~/~.;Pode te por para ~r~dormir~/~ ou causar uma ~r~viagem ruim~/~.;可能令人~r~入睡~/~，或导致~r~惊慌失措~/~。;Kann dich in ~r~Schlaf~/~ versetzen, oder einen ~r~Horrortrip~/~ auslösen;;;;;Może cię ~r~uśpić~/~ albo wywołać ~r~urwany film~/~.;;//
 thyme;;;;;;;;;;;//
 ;;;;;;;;;;;//
 bread;;;;;;;;;;;//
@@ -345,21 +345,21 @@ lentil_soup_rot;Возможны ~r~отравление~/~ или ~r~рвота
 peasant_soup;;;;;;;;;;;//
 peasant_soup_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 ;;;;;;;;;;;//
-mapscroll;Облегчает навигацию.#Увы, не гарантирует того, что вы не заблудитесь.;Helps with navigation.#Alas, does not guarantee that you won't get lost.;有助于找路。#不过呢，不能保证你一定不会迷路。;Hilft mit der Navigation.#Allerdings gibt es keine Garantie dafür, dass du dich nicht doch verirrst.;;;;;Pomaga w nawigacji.#Atlas świata nie gwarantuje tego, że się nie zgubisz.;;//
-scroll_identification;~lg~Определяет~/~ свойства выбранного предмета.;~lg~Identifies~/~ an item and reveals its properties.;可以~lg~鉴定~/~物品，了解其属性。;~lg~Identifiziert~/~ einen Gegenstand und offenbart seine Eigenschaften.;;;;;~lg~Identyfikuje~/~ przedmiot i pozwala poznać jego statystyki.;;//
-scroll_disenchant;~lg~Очищает~/~ выбранный предмет от всех зачарований и проклятий.;~lg~Cleanses~/~ all enchantments and curses from an item.;可以~lg~消除~/~物品上的所有附魔和诅咒。;~lg~Entfernt~/~ alle Verzauberungen und Flüche von einem Gegenstand.;;;;;~lg~Oczyszcza~/~ przedmiot z zaklęć oraz klątw.;;//
-scroll_enchant;~lg~Зачаровывает~/~ выбранный предмет.##~w~Изменяет чары~/~ на зачарованных предметах.;~lg~Enchants~/~ an item. ~lg~Alters~/~ existing enchantments.;可以给物品~lg~附魔~/~，会~lg~改变~/~已有的附魔。;~lg~Verzaubert~/~ einen Gegenstand. ~lg~Ändert~/~ vorhandene Verzauberungen.;;;;;~lg~Zaklina~/~ przedmiot. ~lg~Miesza~/~ aktualne zaklęcia lub zwykłym przedmiotom nadaje nowe.;;//
+mapscroll;Облегчает навигацию.#Увы, не гарантирует того, что вы не заблудитесь.;Ajuda na navegação.#Infelizmente, não garante que você não se perca.;有助于找路。#不过呢，不能保证你一定不会迷路。;Hilft mit der Navigation.#Allerdings gibt es keine Garantie dafür, dass du dich nicht doch verirrst.;;;;;Pomaga w nawigacji.#Atlas świata nie gwarantuje tego, że się nie zgubisz.;;//
+scroll_identification;~lg~Определяет~/~ свойства выбранного предмета.;~lg~Indentifica~/~ um item e revela suas propriedades.;可以~lg~鉴定~/~物品，了解其属性。;~lg~Identifiziert~/~ einen Gegenstand und offenbart seine Eigenschaften.;;;;;~lg~Identyfikuje~/~ przedmiot i pozwala poznać jego statystyki.;;//
+scroll_disenchant;~lg~Очищает~/~ выбранный предмет от всех зачарований и проклятий.;~lg~Tira~/~ todos os encantamentos e maldições de um item.;可以~lg~消除~/~物品上的所有附魔和诅咒。;~lg~Entfernt~/~ alle Verzauberungen und Flüche von einem Gegenstand.;;;;;~lg~Oczyszcza~/~ przedmiot z zaklęć oraz klątw.;;//
+scroll_enchant;~lg~Зачаровывает~/~ выбранный предмет.##~w~Изменяет чары~/~ на зачарованных предметах.;~lg~Encanta~/~ um item. ~lg~Altera~/~ encantamentos existentes.;可以给物品~lg~附魔~/~，会~lg~改变~/~已有的附魔。;~lg~Verzaubert~/~ einen Gegenstand. ~lg~Ändert~/~ vorhandene Verzauberungen.;;;;;~lg~Zaklina~/~ przedmiot. ~lg~Miesza~/~ aktualne zaklęcia lub zwykłym przedmiotom nadaje nowe.;;//
 ;;;;;;;;;;;//
-stoneshard;Магический артефакт с неизвестными свойствами.;A magical artifact with unknown properties.;拥有魔力，属性不明。;Ein magisches Artefakt mit unbekannten Eigenschaften.;;;;;Magiczny przedmiot o nieznanych właściwościach.;;//
+stoneshard;Магический артефакт с неизвестными свойствами.;Um artefato mágico com propriedades desconhecidas.;拥有魔力，属性不明。;Ein magisches Artefakt mit unbekannten Eigenschaften.;;;;;Magiczny przedmiot o nieznanych właściwościach.;;//
 ;;;;;;;;;;;//
-bounty_figurine;Этот предмет - цель вашего ~lg~контракта~/~.;This item is required to receive the reward for your ~lg~contract~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um ein ~lg~Kopfgeld~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;//
-bounty_grimoir;Этот предмет - цель вашего ~lg~контракта~/~.;This item is required to receive the reward for your ~lg~contract~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um ein ~lg~Kopfgeld~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;//
-heraldic_note;Может быть использована для повышения репутации у ~bl~Великого Магистрата~/~ или продана.;Can be used to improve your standing with ~bl~Grand Magistrate~/~ or sold away.;可以卖掉，也可以用来加深你和~bl~城市联盟~/~的关系。;Kann verwendet werden, um dich mit dem ~b~Großen Magistrat~/~ besser zu stellen, oder man verkauft es einfach.;;;;;Można wykorzystać, by poprawić twoje relacje z ~bl~Wielkim Magistratem~/~ albo można to sprzedać.;;//
+bounty_figurine;Этот предмет - цель вашего ~lg~контракта~/~.;Este item é necessário para receber a recompensa pelo seu ~lg~contrato~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um ein ~lg~Kopfgeld~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;//
+bounty_grimoir;Этот предмет - цель вашего ~lg~контракта~/~.;Este item é necessário para receber a recompensa pelo seu ~lg~contrato~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um ein ~lg~Kopfgeld~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;//
+heraldic_note;Может быть использована для повышения репутации у ~bl~Великого Магистрата~/~ или продана.;Pode ser usado para melhorar sua posição com ~bl~Grande Magistrado~/~ ou  pode ser vendido.;可以卖掉，也可以用来加深你和~bl~城市联盟~/~的关系。;Kann verwendet werden, um dich mit dem ~b~Großen Magistrat~/~ besser zu stellen, oder man verkauft es einfach.;;;;;Można wykorzystać, by poprawić twoje relacje z ~bl~Wielkim Magistratem~/~ albo można to sprzedać.;;//
 wheat_bag;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-reliquary;Этот предмет - цель вашего ~lg~контракта~/~.##Может заинтересовать некоторых торговцев.;This item is required to receive the reward for your ~lg~contract~/~.##Este item pode interessar a alguns comerciantes.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。##有些商人可能会对这个东西感兴趣。;Dieser Gegenstand wird gebraucht, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.##Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~. ##Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+reliquary;Этот предмет - цель вашего ~lg~контракта~/~.##Может заинтересовать некоторых торговцев.;Este item é necessário para receber a recompensa pelo seu ~lg~contrato~/~.##Este item pode interessar a alguns comerciantes.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。##有些商人可能会对这个东西感兴趣。;Dieser Gegenstand wird gebraucht, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.##Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~. ##Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
 alchemy_kit;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-letter_pile;Этот предмет - цель вашего ~lg~контракта~/~.;This item is required to receive the reward for your ~lg~contract~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;
-wicked_hand;Этот предмет - цель вашего ~lg~контракта~/~.;This item is required to receive the reward for your ~lg~contract~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;
+letter_pile;Этот предмет - цель вашего ~lg~контракта~/~.;Este item é necessário para receber a recompensa pelo seu ~lg~contrato~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;
+wicked_hand;Этот предмет - цель вашего ~lg~контракта~/~.;Este item é necessário para receber a recompensa pelo seu ~lg~contrato~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;
 ;;;;;;;;;;;//
 pinecap;;;;;;;;;;;//
 flyagaric;;;;;;;;;;;//
@@ -431,16 +431,16 @@ key;Немного проржавел, но должен подойти.;It's a 
 backpack;Поможет унести на своих плечах побольше добычи.;It will help you carry more loot on your back.;可以多背几件东西;Hilft dir, mehr Beute auf deinem Rücken zu tragen.;;;;;Pozwoli ci nieść więcej klamotów na plecach.;;//
 moneybag;Чем туже он набит, тем легче на душе.;The heavier it is, the lighter your worries.;这个东西越沉，你需要担心的事情就越少。;Je schwerer er ist, um so leichter deine Sorgen.;;;;;Im cięższa tym mniejsze twoje zmartwienia.;;//
 ;;;;;;;;;;;//
-aquamarine;Многие верят, что аквамарин - мощный магический оберег, и готовы отдать за него неплохие деньги.;Many people believe that aquamarine is a powerful magical ward, and they are willing to pay good money for it.;很多人都觉得海蓝宝石具有强大的魔力，可以辟邪驱魔，花再大的价钱也要买一颗。;Viele Leute glauben, dass Aquamarin magisch ist, und sind gewillt viel Geld dafür zu zahlen.;;;;;Wielu ludzi wierzy, że w akwamarynie zaklęte są potężne możliwości, więc są gotowi sporo za nią zapłacić.;;//
-ruby;Этот камень стоит целое состояние. Зачарователи ценят его за особые магические свойства.;This gem is worth a fortune. Enchanters value it for its unique magical properties.;这种宝石价值连城，而且拥有特别的魔法属性，因而备受附魔师珍惜。;Dieser Edelstein ist ein Vermögen wert. Verzauberer schätzen ihn wegen seiner einzigartigen magischen Eigenschaften.;;;;;Ten klejnot jest wart małą fortunę. Zaklinacze cenią sobie jego unikalne magiczne właściwości.;;//
-emerald;Очень редкий самоцвет. Заполучить такой мечтает каждый ювелир.;A very rare gemstone. Every jeweler dreams of getting one.;这种宝石极其稀罕，所有珠宝商贩都梦寐以求。;Ein sehr seltener Edelstein. Jeder Juwelier träumt davon, einen davon zu besitzen.;;;;;Bardzo rzadki klejnot. Każdy jubiler o takim marzy.;;//
-diamond;Настоящий шедевр огранки. Такому самое место в королевской короне.;A real masterpiece of gem-cutting. Fit for a royal crown.;切割完美，王冠钻石的不二之选。;Ein echtes Meisterstück. Geeignet für eine königliche Krone.;;;;;Niesamowity pokaz sztuki jubilerskiej. Pasuje do królewskiej korony.;;//
-sapphire;Мудрецы утверждают, что сапфиры отлично проводят магию. Так что на них всегда есть спрос.;Sages say that sapphires are great conductors of magic. They are always in great demand.;据圣人称，蓝宝石传导魔法的能力极强，所以需求量极大。;Weise erzählen, dass Saphire gute magische Leiter sind. Sie sind immer stark nachgefragt.;;;;;Mędrcy mówią, że szafiry doskonale przewodzą magię. Zawsze są pożądane.;;//
-topaz;Топазы встречаются чаще других самоцветов. Даже купеческие жёны могут их себе позволить.;Topaz is more common than other gems. Even merchant wives can afford to buy them.;黄玉这种宝石相对比较普通，即便是商贩家里的妇人也买得起。;Topase sind häufiger zu finden als andere Edelsteine. Sogar die Ehefrauen der Händler können sie sich leisten.;;;;;Topazy są częściej spotykane niż inne klejnoty. Nawet żony handlarzy często na nie stać.;;//
-amethyst;Ценится за свой насыщенный цвет.;This gem is prized for its rich color.;这种宝石因为颜色靓丽而受人追崇。;Dieser Edelstein wird wegen seiner kräftigen Farbe geschätzt.;;;;;Ten klejnot jest uznawany za cenny ze względu na swój kolor.;;//
-seapearl;Идеально ровные. Всё ещё хранят в себе прохладу южных морей.;Perfectly smooth. They still preserve the coolness of the southern seas inside them.;非常光滑，表面没有丝毫坑洼，珍珠内部依然能够感受到南方海洋的凉爽。;Perfekt glatt. Man spürt die Kühle der südlichen Meere in ihnen.;;;;;Idealnie gładki. Wciąż mają nutkę przyjemnego chłodu mórz południa.;;//
-amber;Должно быть, его добыли на берегах далёкой Скадии. В некоторых камешках сохранились диковинные насекомые.;This gem most likely came from the shores of distant Skadia. Some of these stones contain exotic insects.;很有可能源自斯卡迪亚的沿海地区，有些琥魄里面还有异域的昆虫。;Dieser Edelstein kommt wahrscheinlich von den Stränden des fernen Skadia. Einige dieser Steine enthalten exotische Insekten.;;;;;Ten kamień najprawdopodobniej przywędrował z północnych krain Skadii. Czasami trafiają się takie, w których widać egzotyczne insekty.;;//
-golden_cup;Отлит из золота высшей пробы в период расцвета Альдора.;Made of the purest gold in the heyday of Aldor.;足金打造，产于奥尔多最为繁荣的时期。;In der Blütezeit Aldors aus dem reinsten Gold gefertigt.;;;;;Zrobiona z najczystszego złota pośród szczytów Aldoru.;;//
+aquamarine;Многие верят, что аквамарин - мощный магический оберег, и готовы отдать за него неплохие деньги.;Muitas pessoas acreditam que a água-marinha é uma poderosa ala mágica e estão dispostas a pagar um bom dinheiro por ela..;很多人都觉得海蓝宝石具有强大的魔力，可以辟邪驱魔，花再大的价钱也要买一颗。;Viele Leute glauben, dass Aquamarin magisch ist, und sind gewillt viel Geld dafür zu zahlen.;;;;;Wielu ludzi wierzy, że w akwamarynie zaklęte są potężne możliwości, więc są gotowi sporo za nią zapłacić.;;//
+ruby;Этот камень стоит целое состояние. Зачарователи ценят его за особые магические свойства.;Esta jóia vale uma fortuna. Encantadores valorizam suas propriedades mágicas únicas.;这种宝石价值连城，而且拥有特别的魔法属性，因而备受附魔师珍惜。;Dieser Edelstein ist ein Vermögen wert. Verzauberer schätzen ihn wegen seiner einzigartigen magischen Eigenschaften.;;;;;Ten klejnot jest wart małą fortunę. Zaklinacze cenią sobie jego unikalne magiczne właściwości.;;//
+emerald;Очень редкий самоцвет. Заполучить такой мечтает каждый ювелир.;Uma pedra preciosa muito rara. Todo joalheiro sonha em conseguir uma.;这种宝石极其稀罕，所有珠宝商贩都梦寐以求。;Ein sehr seltener Edelstein. Jeder Juwelier träumt davon, einen davon zu besitzen.;;;;;Bardzo rzadki klejnot. Każdy jubiler o takim marzy.;;//
+diamond;Настоящий шедевр огранки. Такому самое место в королевской короне.;Uma verdadeira obra-prima do corte de pedras preciosas. Apto para uma coroa real.;切割完美，王冠钻石的不二之选。;Ein echtes Meisterstück. Geeignet für eine königliche Krone.;;;;;Niesamowity pokaz sztuki jubilerskiej. Pasuje do królewskiej korony.;;//
+sapphire;Мудрецы утверждают, что сапфиры отлично проводят магию. Так что на них всегда есть спрос.;Os sábios dizem que as safiras são grandes condutores de magia. Elas estão sempre em grande procura.;据圣人称，蓝宝石传导魔法的能力极强，所以需求量极大。;Weise erzählen, dass Saphire gute magische Leiter sind. Sie sind immer stark nachgefragt.;;;;;Mędrcy mówią, że szafiry doskonale przewodzą magię. Zawsze są pożądane.;;//
+topaz;Топазы встречаются чаще других самоцветов. Даже купеческие жёны могут их себе позволить.;Topázio é mais comum do que outras gemas. Até as esposas dos comerciantes podem comprá-las..;黄玉这种宝石相对比较普通，即便是商贩家里的妇人也买得起。;Topase sind häufiger zu finden als andere Edelsteine. Sogar die Ehefrauen der Händler können sie sich leisten.;;;;;Topazy są częściej spotykane niż inne klejnoty. Nawet żony handlarzy często na nie stać.;;//
+amethyst;Ценится за свой насыщенный цвет.;Esta jóia é apreciada por sua rica cor.;这种宝石因为颜色靓丽而受人追崇。;Dieser Edelstein wird wegen seiner kräftigen Farbe geschätzt.;;;;;Ten klejnot jest uznawany za cenny ze względu na swój kolor.;;//
+seapearl;Идеально ровные. Всё ещё хранят в себе прохладу южных морей.;Perfeitamente suave. Eles ainda preservam a frescura dos mares do sul dentro delas.;非常光滑，表面没有丝毫坑洼，珍珠内部依然能够感受到南方海洋的凉爽。;Perfekt glatt. Man spürt die Kühle der südlichen Meere in ihnen.;;;;;Idealnie gładki. Wciąż mają nutkę przyjemnego chłodu mórz południa.;;//
+amber;Должно быть, его добыли на берегах далёкой Скадии. В некоторых камешках сохранились диковинные насекомые.;Esta jóia provavelmente veio das margens da distante Skadia. Algumas dessas pedras contêm um insetos exóticos.;很有可能源自斯卡迪亚的沿海地区，有些琥魄里面还有异域的昆虫。;Dieser Edelstein kommt wahrscheinlich von den Stränden des fernen Skadia. Einige dieser Steine enthalten exotische Insekten.;;;;;Ten kamień najprawdopodobniej przywędrował z północnych krain Skadii. Czasami trafiają się takie, w których widać egzotyczne insekty.;;//
+golden_cup;Отлит из золота высшей пробы в период расцвета Альдора.;Feito do ouro mais puro do auge de Aldor.;足金打造，产于奥尔多最为繁荣的时期。;In der Blütezeit Aldors aus dem reinsten Gold gefertigt.;;;;;Zrobiona z najczystszego złota pośród szczytów Aldoru.;;//
 hourglass;Кажется, время кому-нибудь их продать.;Looks like it's time to sell this thing off.;这件东西看样子是该卖掉了。;Es ist wohl an der Zeit dieses Ding zu verkaufen.;;;;;Wygląda na to, że czas to sprzedać.;;//
 inkpot;Когда-то эта чернильница принадлежала какому-то эльфийскому писцу или сборщику податей.;This inkwell used to be in possession of some elven scribe or tax collector.;这只墨瓶原本属于精灵族的某个书记员或收税官。;Dieses Tintenfass gehörte womöglich zum Besitz eines elfischen Schreibers oder Steuereintreibers.;;;;;Taki kałamarz najczęściej był w posiadaniu elfich skrybów albo poborców podatkowych.;;//
 ivory;Доподлинно о слонах в Альдоре знают лишь то, что они необычайно большие, а их бивни можно задорого продать.;The only thing known for sure in Aldor about elephants is that they are extraordinarily large, and that their tusks can be sold at a high price.;奥尔多的人对于大象的认知十分有限，他们只知道这种动物体型庞大，牙齿可以卖出高价。;Das was man in Aldor wirklich über Elefanten weiss, ist, dass sie verdammt groß sind, und die Stoßzähne für einen hohen Preis verkauft werden können.;;;;;Jedyne, co wiadomo o słoniach w Aldor to, że były ogromne, a ich ciosy mogą być sprzedane za dużo złota.;;//
@@ -529,38 +529,38 @@ peppermint;Мята славится целым ворохом полезных 
 poppy;Деревенские лекари часто включают мак в свои травяные настои из-за его дурманящих свойств.;Village healers often include poppy into their herbal infusions for its sedative qualities.;具有镇定的功效，村里的治疗师配药汤的时候经常用到它。;Dorfheiler verwenden Mohn wegen seiner beruhigenden Wirkung oft in Infusionen.;;;;;Uzdrowiciele na wsi często dodają mak do swoich naparów ziołowych ze względu na jego uspokajające działanie.;;
 thyme;У тимьяна есть множество применений: из него делают душистые приправы и всевозможные целебные отвары. ;Thyme has a variety of uses as a fragrant spice as well as a part of numerous healing concoctions.;百里香用途多样，既可以用作香料，也可以用来配药。;Thymian findet vielfältige Verwendung als feines Gewürz, und als Zusatz in vielen heilenden Zubereitungen.;;;;;Tymianek ma wiele zastosowań - może być aromatyczną przyprawą albo częścią mikstur leczniczych.;;
 ;;;;;;;;;;;
-bread;Добрый ломоть деревенского хлеба. Несколько вязнет в зубах.;A good chunk of rustic bread. Sticks to the teeth.;很大一块面包，粘牙。;Ein gutes Stück rustikalen Brotes. Klebt an den Zähnen.;;;;;Dobry kawał wiejskiego chleba. Wchodzi między zęby.;;//
-bread_rot;Покрыт толстым слоем плесени.;It's covered with a thick layer of mold.;上面长了厚厚一层的霉。;Überzogen mit einer dicken Schicht Schimmel.;;;;;Trochę pokryty zielonkawym nalotem.;;//
-cheese;Прекрасное добавление к любому рациону.;A perfect addition to any diet.;不论早中晚，吃点这个都不会错。;Perfekt für jede Diät.;;;;;Doskonały dodatek każdej diety.;;//
-cheese_rot;Плесень явно не делает этот сыр аристократичнее.;Mold clearly does not make this cheese seem more noble.;不论早中晚，都不能再吃了。;Schimmel macht diesen Käse nicht adliger.;;;;;Zielona otulina nie nadaje temu serowi szlachetności.;;//
-goatcheese;Пахнет так себе, но на вкус неплох.;It smells funny, but tastes good enough.;闻着难闻，吃着好吃。;Riecht seltsam, schmeckt aber gut genug.;;;;;Śmiesznie pachnie, ale nieźle smakuje.;;//
-goatcheese_rot;Этот запах уже ничем не перебить.;Nothing can fight this smell.;这个味道……天下第一。;Nichts kann gegen diesen Geruch anstinken.;;;;;Nic tego zapachu nie przebije.;;//
-dumpling;Лепёшка из пшеничной муки - обычный обед городской бедноты.;A flatbread made of wheat flour is a common lunch of poor city folks.;麦面小饼，城里穷苦人家餐桌上的常客。;Ein häufiges Essen der armen Stadtbevölkerung.;;;;;Zupa chlebowa jest typowym daniem biednych wieśniaków.;;//
-dumpling_rot;Такой уж точно не наешься.;This certainly won't sate your hunger.;这个肯定不能吃了。;Das wird deinen Magen garantiert nicht sättigen.;;;;;Raczej głodu nie zaspokoi.;;//
-pretzel;В меру солёный кренделёк. Довольно сытный.;A tastefully salty pretzel. Pretty nourishing.;咸味可口，很有营养。;Eine leckere Salzbrezel. Sehr nahrhaft.;;;;;Pyszniutki solony precel. Całkiem odżywczy.;;//
-pretzel_rot;Зачерствел и покрылся плесенью.;Stale and covered in mold.;不新鲜了，而且发霉了。;Muffig und mit Schimmel überzogen.;;;;;Nieświeże i pokryte pleśnią.;;//
-pancakes;Горстка очень аппетитных медовых оладий. Кажется, ещё тёплые.;A stack of appetising honey pancakes. Looks like they're still warm.;一沓蜂蜜博饼，好像还热乎，看着经让人流口水。;Ein Stapel Pfannkuchen mit Honig. Scheinbar noch warm.;;;;;Cały zestaw apetycznych naleśników. Wyglądają jakby były jeszcze ciepłe.;;//
-pancakes_rot;Изрядно попахивают.;They don't smell good at all.;闻着就没胃口了。;Die riechen wirklich nicht gut.;;;;;Nie pachną zachęcająco.;;//
-lentil_soup;Пища из чечевицы способствует поддержанию душевного здоровья. Эта похлёбка - не исключение.;Lentil foods help you keep it together. This soup is no exception.;喝了小扁豆汤，人就会精神很多。;Linsengerichte helfen dir, dich zu zusammenzureißen. Diese Suppe ist keine Ausnahme.;;;;;Dania z soczewicy pozwalają zebrać się do kupy. Ta zupa nie jest wyjątkiem.;;//
-lentil_soup_rot;Такой чечевичной похлёбкой настроение только испортишь.;This lentil soup will just ruin your day.;喝了这个小扁豆汤，你今天一天都别想干别的了。;Diese Linsensuppe wird dir nur den Tag ruinieren.;;;;;Ta zupa zrobi ci to samo - zupę - z tylnej dziury.;;//
-peasant_soup;Варится из всего, что попадётся под руку. Помогает немного набить брюхо.;Cooked with whatever was at hand. Helps fill the belly a bit.;有啥炖啥，填饱肚子就行。;Zusammengekochtes. Füllt dir ein wenig den Magen.;;;;;Ugotowane ze wszystkiego, co pod ręką. Pomoże napełnić żołądek, trochę.;;//
-peasant_soup_rot;Вылейте уже её наконец.;Just pour it out already.;赶紧倒了吧。;Schütte das bloß weg.;;;;;Wylej to...;;//
+bread;Добрый ломоть деревенского хлеба. Несколько вязнет в зубах.;Um bom pedaço de pão rústico. Fica preso nos dentes..;很大一块面包，粘牙。;Ein gutes Stück rustikalen Brotes. Klebt an den Zähnen.;;;;;Dobry kawał wiejskiego chleba. Wchodzi między zęby.;;//
+bread_rot;Покрыт толстым слоем плесени.;Está coberto com uma camada espessa de mofo.;上面长了厚厚一层的霉。;Überzogen mit einer dicken Schicht Schimmel.;;;;;Trochę pokryty zielonkawym nalotem.;;//
+cheese;Прекрасное добавление к любому рациону.;Um complemento perfeito para qualquer dieta.;不论早中晚，吃点这个都不会错。;Perfekt für jede Diät.;;;;;Doskonały dodatek każdej diety.;;//
+cheese_rot;Плесень явно не делает этот сыр аристократичнее.;O mofo claramente não faz esse queijo parecer mais nobre.;不论早中晚，都不能再吃了。;Schimmel macht diesen Käse nicht adliger.;;;;;Zielona otulina nie nadaje temu serowi szlachetności.;;//
+goatcheese;Пахнет так себе, но на вкус неплох.;Cheira engraçado, mas tem um gosto muito bom.;闻着难闻，吃着好吃。;Riecht seltsam, schmeckt aber gut genug.;;;;;Śmiesznie pachnie, ale nieźle smakuje.;;//
+goatcheese_rot;Этот запах уже ничем не перебить.;Nada pode combater esse cheiro.;这个味道……天下第一。;Nichts kann gegen diesen Geruch anstinken.;;;;;Nic tego zapachu nie przebije.;;//
+dumpling;Лепёшка из пшеничной муки - обычный обед городской бедноты.;Um pão achatado feito de farinha de trigo, é um almoço comum para os pobres da cidade.;麦面小饼，城里穷苦人家餐桌上的常客。;Ein häufiges Essen der armen Stadtbevölkerung.;;;;;Zupa chlebowa jest typowym daniem biednych wieśniaków.;;//
+dumpling_rot;Такой уж точно не наешься.;Isso certamente não vai saciar sua fome.;这个肯定不能吃了。;Das wird deinen Magen garantiert nicht sättigen.;;;;;Raczej głodu nie zaspokoi.;;//
+pretzel;В меру солёный кренделёк. Довольно сытный.;Um pretzel salgado com bom gosto. Muito nutritivo.;咸味可口，很有营养。;Eine leckere Salzbrezel. Sehr nahrhaft.;;;;;Pyszniutki solony precel. Całkiem odżywczy.;;//
+pretzel_rot;Зачерствел и покрылся плесенью.;Velho e coberto de mofo.;不新鲜了，而且发霉了。;Muffig und mit Schimmel überzogen.;;;;;Nieświeże i pokryte pleśnią.;;//
+pancakes;Горстка очень аппетитных медовых оладий. Кажется, ещё тёплые.;Uma pilha de panquecas de mel apetitosas. Parece que eles ainda estão quentes.;一沓蜂蜜博饼，好像还热乎，看着经让人流口水。;Ein Stapel Pfannkuchen mit Honig. Scheinbar noch warm.;;;;;Cały zestaw apetycznych naleśników. Wyglądają jakby były jeszcze ciepłe.;;//
+pancakes_rot;Изрядно попахивают.;Eles não cheiram bem.;闻着就没胃口了。;Die riechen wirklich nicht gut.;;;;;Nie pachną zachęcająco.;;//
+lentil_soup;Пища из чечевицы способствует поддержанию душевного здоровья. Эта похлёбка - не исключение.;Os alimentos de lentilha ajudam a mantê-lo unido. Esta sopa não é excepção.;喝了小扁豆汤，人就会精神很多。;Linsengerichte helfen dir, dich zu zusammenzureißen. Diese Suppe ist keine Ausnahme.;;;;;Dania z soczewicy pozwalają zebrać się do kupy. Ta zupa nie jest wyjątkiem.;;//
+lentil_soup_rot;Такой чечевичной похлёбкой настроение только испортишь.;Esta sopa de lentilha vai estragar o seu dia.;喝了这个小扁豆汤，你今天一天都别想干别的了。;Diese Linsensuppe wird dir nur den Tag ruinieren.;;;;;Ta zupa zrobi ci to samo - zupę - z tylnej dziury.;;//
+peasant_soup;Варится из всего, что попадётся под руку. Помогает немного набить брюхо.;Cozido com o que tinha na mão. Ajuda a encher um pouco a barriga.;有啥炖啥，填饱肚子就行。;Zusammengekochtes. Füllt dir ein wenig den Magen.;;;;;Ugotowane ze wszystkiego, co pod ręką. Pomoże napełnić żołądek, trochę.;;//
+peasant_soup_rot;Вылейте уже её наконец.;Despeje-o fora.;赶紧倒了吧。;Schütte das bloß weg.;;;;;Wylej to...;;//
 ;;;;;;;;;;;//
-mapscroll;Карта южной Бриннской марки и местных достопримечательностей. Которых, к слову, не то чтобы много.;A map of the southern march of Brynn and its landmarks. Although there aren't many of them.;画了奥斯布鲁克村和周边地区，没有多少值得留意的地点。;Eine Karte der südlichen Marsch von Brynn und seiner Sehenswürdigkeiten. Obwohl es nicht viele davon gibt.;;;;;Mapa południowej marchii Brynn i miejsc charakterystycznych. Niestety tutaj nie ma ich wiele.;;//
-scroll_identification;Результат давнишнего противостояния Гильдии магов и Гильдии зачарователей.;A result of a longstanding clash between the Mages Guild and the Enchanters Guild.;法师公会与附魔公会冲突由来已久，这就是双方矛盾的一个产物。;Das Resultat eines lang andauernden Konflikts zwischen der Magiergilde und der Verzauberergilde.;;;;;Skutek ciągłych starć pomiędzy Gildią Magów oraz Gildią Zaklinaczy.;;//
-scroll_enchant;Еще один мощный удар Гильдии магов по Гильдии зачарователей.;Another powerful blow delivered by the Mages Guild to the Enchanters Guild.;这是法师公会给予附魔公会的又一大打击。;Noch ein erfolgreicher Schlag der Magiergilde gegen die Verzauberergilde.;;;;;Kolejny mocny cios zadany przez Gildię Magów w stronę Gildii Zaklinaczy.;;//
-scroll_disenchant;Клин клином вышибают: магически очищает предметы от малейших следов магии.;Fight fire with fire: it magically purges items of all traces of magic.;以火攻火：可以消除物品的所有魔法属性。;Bekämpfe Feuer mit Feuer: sie befreit magische Gegenstände von allen magischen Spuren.;;;;;Walcz ogniem przeciwko ogniu. Magicznie oczyszcza przedmioty ze wszelkich śladów magii.;;//
+mapscroll;Карта южной Бриннской марки и местных достопримечательностей. Которых, к слову, не то чтобы много.;Um mapa da marcha do sul de Brynn e seus marcos. Embora não haja muitos deles.;画了奥斯布鲁克村和周边地区，没有多少值得留意的地点。;Eine Karte der südlichen Marsch von Brynn und seiner Sehenswürdigkeiten. Obwohl es nicht viele davon gibt.;;;;;Mapa południowej marchii Brynn i miejsc charakterystycznych. Niestety tutaj nie ma ich wiele.;;//
+scroll_identification;Результат давнишнего противостояния Гильдии магов и Гильдии зачарователей.;Resultado de um conflito de longa data entre a Guilda dos Magos e a Guilda dos Encantadores.;法师公会与附魔公会冲突由来已久，这就是双方矛盾的一个产物。;Das Resultat eines lang andauernden Konflikts zwischen der Magiergilde und der Verzauberergilde.;;;;;Skutek ciągłych starć pomiędzy Gildią Magów oraz Gildią Zaklinaczy.;;//
+scroll_enchant;Еще один мощный удар Гильдии магов по Гильдии зачарователей.;Outro golpe poderoso dado pela Guilda dos magos à Guilda dos Encantadores.;这是法师公会给予附魔公会的又一大打击。;Noch ein erfolgreicher Schlag der Magiergilde gegen die Verzauberergilde.;;;;;Kolejny mocny cios zadany przez Gildię Magów w stronę Gildii Zaklinaczy.;;//
+scroll_disenchant;Клин клином вышибают: магически очищает предметы от малейших следов магии.;Combata fogo com fogo: ele magicamente elimina todos os vestígios de magia de itens encantados.;以火攻火：可以消除物品的所有魔法属性。;Bekämpfe Feuer mit Feuer: sie befreit magische Gegenstände von allen magischen Spuren.;;;;;Walcz ogniem przeciwko ogniu. Magicznie oczyszcza przedmioty ze wszelkich śladów magii.;;//
 ;;;;;;;;;;;//
-stoneshard;До сих пор источает жар.;It still radiates heat.;仍在施放热量。;Strahlt noch immer Hitze aus.;;;;;Wciąż emanuje gorącem.;;//
-;Интересно, чей это дневник?;Whose diary could it be?;这会是谁的日记呢？;Wessen Tagebuch könnte es sein?;;;;;Czyim dziennikiem mógł być?;;//
-bounty_figurine;Местная реликвия - фигурка какой-то святой благодетельницы.;This local relic is a figurine of some holy benefactress.;这是某位圣母的雕像。;Dieses örtliche Relikt ist eine Figur irgendeiner heiligen Wohltäterin.;;;;;Ten lokalny relikt jest figurką jakiejś świętej dobrodziejki.;;//
-bounty_grimoir;Из него явственно исходит нечто зловещее.;Something ominous emanates from it.;这本书散发着某种不详的东西。;Es strahlt irgend etwas Ominöses aus.;;;;;Coś złowieszczego emanuje z tego przedmiotu.;;//
-heraldic_note;Лично заверенная благодарность от какого-то магистратского вельможи.;A personally signed letter of gratitude from some magistrate official.;某位官员亲笔签名的感谢信。;Ein persönlich signierter Brief der Dankbarkeit von jemanden aus dem Magistrat.;;;;;Osobiście podpisany list gratulacyjny od jakiegoś oficjela Magistraru.;;//
-wheat_bag;Мешок отборного зерна - большая ценность в голодное военное время.;A sack of high quality grain, treasured during famines of war.;一袋上好的粮食，战乱年代闹饥荒的时候，比什么都金贵。;Ein Sack mit hochwertigem Getreide, das während der Hungersnöte des Krieges geschätzt wird.;;;;;Worek doskonałego zboża, wielki skarb w czasach wojen.;;//
-reliquary;Богато отделанный реликварий, украшенный фигурами святых и резными строками молитв.;A richly decorated reliquary, adorned with figurines of saints and carved prayers.;装饰精美，外面画了一些圣人的形象，还雕了一些祷文。;Ein reich verziertes Reliquiar, geschmückt mit Heiligenfiguren und eingeritzten Gebeten.;;;;;Bogato dekorowany relikwiarz, oprawiony figurami świętych, z wytłoczonymi modlitwami.;;//
-alchemy_kit;Если хорошенько его прогреть, залить внутрь царской водки, угробить пятьдесят лет на штудирование алхимических трактатов, а затем вывести правильную формулу - с помощью такого аппарата можно получить философский камень. Наверное.;If you heat it up, fill it with aqua regia, spend fifty years of your life studying alchemy treatises, and then come up with a correct formula, this contraption will allow you to create a philosopher's stone. Maybe.;你要是先给这个东西加上火，倒上王水，再研究五十五年的炼金文献，然后想出合适的化学方程式，就能造出贤者之石了，吧。;Wenn du es erhitzt, mit Königswasser füllst, fünfzig Jahre deines Lebens damit verbringst, Alchemietraktate zu studieren, und eine richtige Formel findest, dann wird diese Apparatur es dir ermöglichen, einen Stein der Weisen zu schaffen. Vielleicht...;;;;;Jeżeli go podgrzejesz, napełnisz wodą królewską, spędzisz pięćdziesiąt lat na badaniu alchemii, a później odkryjesz formułę, to urządzenie pozwoli ci stworzyć kamień filozoficzny. Może.;;//
-letter_pile;Объёмная пачка писем, заметок и докладных записок, густо испещрённых неизвестными вам именами и обозначениями.;A decently sized pile of letters, notes, and reports, densely covered in unfamiliar names and designations.;一些信件、字条和报告，摞得整整齐齐，写满了陌生的名字和职位。;Ein ordentlich großer Stapel von Briefen, Notizen und Berichten, dicht beschrieben mit unbekannten Namen und Bezeichnungen.;;;;;;;//
-wicked_hand;На тыльной стороне ладони отчётливо виднеется каторжное клеймо - их выжигают на коже ещё до отправления на камнеломни.;The convict's brand is clearly visible on the back of this hand - such markings are burned into the skin before sending a criminal to the quarries.;手背还能清晰得看到皮肤上的烙印，囚犯去石场之前，身上都要先用烙铁烫几个这样的印记。;Das Brandzeichen des Sträflings ist auf dem Handrücken deutlich sichtbar - solche Zeichen werden in die Haut eingebrannt, bevor ein Krimineller in die Steinbrüche geschickt wird.;;;;;Stos liter, notatek, raportów, gęsto zapisanych nieznanymi nazwami i oznaczeniami.;;
+stoneshard;До сих пор источает жар.;Ainda irradia calor.;仍在施放热量。;Strahlt noch immer Hitze aus.;;;;;Wciąż emanuje gorącem.;;//
+;Интересно, чей это дневник?;De quem poderia ser o diário?;这会是谁的日记呢？;Wessen Tagebuch könnte es sein?;;;;;Czyim dziennikiem mógł być?;;//
+bounty_figurine;Местная реликвия - фигурка какой-то святой благодетельницы.;Esta relíquia local é uma figura de algum santo benfeitor.;这是某位圣母的雕像。;Dieses örtliche Relikt ist eine Figur irgendeiner heiligen Wohltäterin.;;;;;Ten lokalny relikt jest figurką jakiejś świętej dobrodziejki.;;//
+bounty_grimoir;Из него явственно исходит нечто зловещее.;Algo ameaçador emana dele.;这本书散发着某种不详的东西。;Es strahlt irgend etwas Ominöses aus.;;;;;Coś złowieszczego emanuje z tego przedmiotu.;;//
+heraldic_note;Лично заверенная благодарность от какого-то магистратского вельможи.;Uma carta de gratidão assinada pessoalmente por algum funcionário do magistrado.;某位官员亲笔签名的感谢信。;Ein persönlich signierter Brief der Dankbarkeit von jemanden aus dem Magistrat.;;;;;Osobiście podpisany list gratulacyjny od jakiegoś oficjela Magistraru.;;//
+wheat_bag;Мешок отборного зерна - большая ценность в голодное военное время.;Um saco de grãos de alta qualidade, valorizado durante a fome da guerra.;一袋上好的粮食，战乱年代闹饥荒的时候，比什么都金贵。;Ein Sack mit hochwertigem Getreide, das während der Hungersnöte des Krieges geschätzt wird.;;;;;Worek doskonałego zboża, wielki skarb w czasach wojen.;;//
+reliquary;Богато отделанный реликварий, украшенный фигурами святых и резными строками молитв.;Relicário ricamente decorado, adornado com figuras de santos e orações esculpidas.;装饰精美，外面画了一些圣人的形象，还雕了一些祷文。;Ein reich verziertes Reliquiar, geschmückt mit Heiligenfiguren und eingeritzten Gebeten.;;;;;Bogato dekorowany relikwiarz, oprawiony figurami świętych, z wytłoczonymi modlitwami.;;//
+alchemy_kit;Если хорошенько его прогреть, залить внутрь царской водки, угробить пятьдесят лет на штудирование алхимических трактатов, а затем вывести правильную формулу - с помощью такого аппарата можно получить философский камень. Наверное.;Se você o aquecer, encha-o de aqua regia, gaste cinquenta anos de sua vida estudando tratados de alquimia e, em seguida, elabore uma fórmula correta, essa engenhoca permitirá que você crie uma pedra filosofal. Talvez.;你要是先给这个东西加上火，倒上王水，再研究五十五年的炼金文献，然后想出合适的化学方程式，就能造出贤者之石了，吧。;Wenn du es erhitzt, mit Königswasser füllst, fünfzig Jahre deines Lebens damit verbringst, Alchemietraktate zu studieren, und eine richtige Formel findest, dann wird diese Apparatur es dir ermöglichen, einen Stein der Weisen zu schaffen. Vielleicht...;;;;;Jeżeli go podgrzejesz, napełnisz wodą królewską, spędzisz pięćdziesiąt lat na badaniu alchemii, a później odkryjesz formułę, to urządzenie pozwoli ci stworzyć kamień filozoficzny. Może.;;//
+letter_pile;Объёмная пачка писем, заметок и докладных записок, густо испещрённых неизвестными вам именами и обозначениями.;Uma pilha de cartas, notas e relatórios de tamanho decente, densamente coberta de nomes e designações desconhecidas.;一些信件、字条和报告，摞得整整齐齐，写满了陌生的名字和职位。;Ein ordentlich großer Stapel von Briefen, Notizen und Berichten, dicht beschrieben mit unbekannten Namen und Bezeichnungen.;;;;;;;//
+wicked_hand;На тыльной стороне ладони отчётливо виднеется каторжное клеймо - их выжигают на коже ещё до отправления на камнеломни.;A marca do condenado é claramente visível no dorso desta mão - essas marcações são queimadas na pele antes de enviar um criminoso às pedreiras.;手背还能清晰得看到皮肤上的烙印，囚犯去石场之前，身上都要先用烙铁烫几个这样的印记。;Das Brandzeichen des Sträflings ist auf dem Handrücken deutlich sichtbar - solche Zeichen werden in die Haut eingebrannt, bevor ein Krimineller in die Steinbrüche geschickt wird.;;;;;Stos liter, notatek, raportów, gęsto zapisanych nieznanymi nazwami i oznaczeniami.;;
 ;;;;;;;;;;;//
 pinecap;Травники уверяют, будто в сыром виде хвойники впитывают яды и придают сил.;Herbalistas afirmam que o cogumelo  pine cap cru pode absorver venenos e conceder vigor.;药师说生的松乳菇可以吸收毒药，给人活力。;Kräuterkundige behaupten, dass rohe Kiefernkappen Gifte absorbieren können, und außerdem Vitalität verleihen.;;;;;Zielarze uważają, że surowe szyszki mogą pochłaniać trucizny i dodawać wigoru.;;//
 flyagaric;Не настолько коварный, как поганка - его яркая шляпа издали бросается в глаза.;Não é tão enganoso como um gorro da morte, mas é facilmente reconhecido pelas suas cores brilhantes.;毒蝇伞的菌盖颜色鲜艳，因此没有某些毒鹅膏那么具有欺骗性。;Nicht ganz so trügerisch wie die Todeskappe, da er an seinen grellen Farben erkannt werden kann.;;;;;Nie tak groźny jak muchomor, łatwo rozpoznać po jasnych kolorach.;;//
