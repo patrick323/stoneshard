@@ -76,31 +76,31 @@ milk;Кувшин молока;Jarro de Leite;牛奶;Krug mit Milch;;;;;Dzban Ml
 apple;Яблоко;Maçã;苹果;Apfel;;;;;Jabłko;Elma;//
 apple_rot;Гнилое яблоко;Maçã Estragado烂苹果;Verdorbener Apfel;;;;;Zgniłe Jabłko;Çürük Elma;//
 pear;Груша;Pêra;梨;Birne;;;;;Gruszka;Armut;//
-pear_rot;Гнилая груша;Pêra Estragado;烂梨;Verdorbene Birne;;;;;Zgniła Gruszka;Çürük Armut;//
+pear_rot;Гнилая груша;Pêra Estragada;烂梨;Verdorbene Birne;;;;;Zgniła Gruszka;Çürük Armut;//
 grape;Виноград;Uvas;葡萄;Trauben;;;;;Winogrono;Üzüm;//
-grape_rot;Гнилой виноград;Uvas Estragados;烂葡萄;Verdorbene Trauben;;;;;Zgniłe Winogrono;Çürük Üzüm;//
+grape_rot;Гнилой виноград;Uvas Estragadas;烂葡萄;Verdorbene Trauben;;;;;Zgniłe Winogrono;Çürük Üzüm;//
 fig;Инжир;Figo;无花果;Feige;;;;;Figa;İncir;//
 fig_rot;Сушеный инжир;Figo Estragado;烂无花果;Getrocknete Feige;;;;;Sucha Figa;Kuru İncir;//
 citrus;Эльфийский цитрус;Citrus Élfico;精灵柑橘;Elfische Zitrusfrucht;;;;;Elficki Cytrus;Elf Narenciyesi;//
 citrus_rot;Испорченный эльфийский цитрус;Citrus Élfico Estragado;变质的精灵柑橘;Verdorbene elfische Zitrusfrucht;;;;;Zgniły Elficki Cytrus;Bozulmuş Elf Narenciyesi;//
 dragonfruit;Драконов плод;Fruta do Dragão;火龙果;Drachenfrucht;;;;;Smoczy Owoc;Pitaya;//
-dragonfruit_rot;Испорченный драконов плод;Fruta do Dragão Estragado;烂火龙果;Verdorbene Drachenfrucht;;;;;Zgniły Smoczy Owoc;Bozulmuş Pitaya;//
+dragonfruit_rot;Испорченный драконов плод;Fruta do Dragão Estragada;烂火龙果;Verdorbene Drachenfrucht;;;;;Zgniły Smoczy Owoc;Bozulmuş Pitaya;//
 ;;;;;;;;;;;//
 ;;;;;;;;;;;//
 carrot;Морковь;Cenoura;胡萝卜;Möhre;;;;;Marchew;Havuç;//
-carrot_rot;Гнилая морковь;Cenoura Estragado;变质的胡萝卜;Verdorbene Möhre;;;;;Zgniła Marchew;Çürük Havuç;//
+carrot_rot;Гнилая морковь;Cenoura Estragada;变质的胡萝卜;Verdorbene Möhre;;;;;Zgniła Marchew;Çürük Havuç;//
 potato;Картофелина;Batata;土豆;Kartoffel;;;;;Ziemniak;Patates;//
-potato_rot;Гнилая картофелина;Batata Estragado;烂土豆;Verdorbene Kartoffel;;;;;Zgniły Ziemniak;Çürük Patates;//
+potato_rot;Гнилая картофелина;Batata Estragada;烂土豆;Verdorbene Kartoffel;;;;;Zgniły Ziemniak;Çürük Patates;//
 leek;Лук-порей;Alho-Poró;韭葱;Lauch;;;;;Por;Pırasa;//
 leek_rot;Гнилой лук-порей;Alho-Poró Estragado;烂韭葱;Verdorbenes Lauch;;;;;Znigły Por;Çürük Pırasa;//
 onion;Лук;Cebola;洋葱;Zwiebel;;;;;Cebula;Soğan;//
-onion_rot;Гнилой лук;Cebola Estragado;烂洋葱;Verdorbene Zwiebel;;;;;Zgniła Cebula;Çürük Soğan;//
+onion_rot;Гнилой лук;Cebola Estragada;烂洋葱;Verdorbene Zwiebel;;;;;Zgniła Cebula;Çürük Soğan;//
 white_radish;Белый редис;Rabanete Branco;白萝卜;Weißer Rettich;;;;;Biała Rzodkiew;Beyaz Turp;//
 white_radish_rot;Гнилой белый редис;Rabanete Branco Estragado;烂白萝卜;Verdorbener weißer Rettich;;;;;Zgniła Biała Rzodkiew;Çürük Beyaz Turp;//
 garlic;Чеснок;Alho;大蒜;Knoblauch;;;;;Czosnek;Sarımsak;//
 garlic_rot;Гнилой чеснок;Alho Estragado;烂蒜;Verdorbener Knoblauch;;;;;Znigły Czosnek;Çürük Sarımsak;//
 beet;Свёкла;Beterraba;甜菜头;Rote Beete;;;;;Burak;Pancar;//
-beet_rot;Гнилая свёкла;Beterraba Estragado;烂甜菜头;Verdorbene rote Beete;;;;;Zgniły Burak;Çürük Pancar;//
+beet_rot;Гнилая свёкла;Beterraba Estragada;烂甜菜头;Verdorbene rote Beete;;;;;Zgniły Burak;Çürük Pancar;//
 tomato;Помидор;Tomate;番茄;Tomate;;;;;Pomidor;Domates;//
 tomato_rot;Гнилой помидор;Tomate Estragado;烂番茄;Verdorbene Tomate;;;;;Zgniły Pomidor;Çürük Domates;//
 ;;;;;;;;;;;//
@@ -325,7 +325,7 @@ burdock;;;;;;;;;;;//
 horsetail;;;;;;;;;;;//
 mindwort;Снимает эффекты ~lg~опьянения~/~ и ~lg~прихода~/~.;Remove os efeitos de ~lg~viagem ruim~/~ e de estar ~lg~drunk~/~.;可以消除~lg~惊慌失措~/~和~lg~醉酒~/~的影响。;Beseitigt die Auswirkungen von ~lg~Horrortrip~/~ und ~lg~Trunkenheit~/~.;;;;;Usuwa efekt ~lg~urwanego filmu~/~, czyni cię ~lg~pijanym~/~.;;//
 peppermint;;;;;;;;;;;//
-poppy;Возможны ~r~сон~/~ или ~r~приход~/~.;Pode te por para ~r~dormir~/~ ou causar uma ~r~viagem ruim~/~.;可能令人~r~入睡~/~，或导致~r~惊慌失措~/~。;Kann dich in ~r~Schlaf~/~ versetzen, oder einen ~r~Horrortrip~/~ auslösen;;;;;Może cię ~r~uśpić~/~ albo wywołać ~r~urwany film~/~.;;//
+poppy;Возможны ~r~сон~/~ или ~r~приход~/~.;Pode fazer você ~r~dormir~/~ ou causar uma ~r~viagem ruim~/~.;可能令人~r~入睡~/~，或导致~r~惊慌失措~/~。;Kann dich in ~r~Schlaf~/~ versetzen, oder einen ~r~Horrortrip~/~ auslösen;;;;;Może cię ~r~uśpić~/~ albo wywołać ~r~urwany film~/~.;;//
 thyme;;;;;;;;;;;//
 ;;;;;;;;;;;//
 bread;;;;;;;;;;;//
