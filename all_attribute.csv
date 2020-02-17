@@ -19,7 +19,7 @@ Lifesteal;Похищение жизни;Saúde Drenada;生命吸取;Lebensentzug
 Manasteal;Похищение энергии;Energia Drenada;精力吸取;Energieentzug;;;;Wykradanie Energii
 DEF;Защита;De Proteção;防护;Schutz;;;;Obrony
 Fortitude;Стойкость;Fortitude;坚忍;Robustheit;;;;Zahartowanie
-MP_turn;Энергия в ход;Energy Per Turn;Energy Per Turn;Energy Per Turn;;;;Energia Por Turno;Energii na Turę;Energy Per Turn
+MP_turn;Энергия в ход;Energia Por Turno;Energy Per Turn;Energy Per Turn;;;;Energia Por Turno;Energii na Turę;Energy Per Turn
 ;;;;;;;;
 ;// Прокачка;// Levelling;// Levelling;// Levelling;;;;// Levelling
 ;;;;;;;;
@@ -242,7 +242,7 @@ Offhand_Efficiency;Эффективность рук влияет на атак�
 ;;;;;;;;
 Noise_Produced;Количество шума, издаваемого вашими действиями.;A quantidade de ruído produzido por suas ações.;你的行动会造成这么大的声响。;Die Stärke des Lärms, den deine Aktionen verursachen.;;;;Ilość Hałasu, jaki generuje twoja postać.
 Bodypart_Damage;Бонусная травмоопасность ваших ударов.;O dano bônus que você causa nas partes do corpo de seus inimigos.;你会对敌人的肢体额外造成这么多伤害。;Der Bonusschaden, den du an Körperteilen deiner Gegner verursachst.;;;;Bonusowe obrażenia zadawane w części ciała przeciwników.
-Armor_Damage;Бонусный урон по броне врагов, наносимый вашими атаками.;The bonus damage you deal to your enemies' armor.;你会对敌人的防具额外造成这么多伤害。;Der Bonusschaden, den du der Rüstung deiner Gegner zufügst.;;;;Bonusowe obrażenia zadawane Pancerzowi przeciwników.
+Armor_Damage;Бонусный урон по броне врагов, наносимый вашими атаками.;O dano bônus que você causa à armadura de seus inimigos.;你会对敌人的防具额外造成这么多伤害。;Der Bonusschaden, den du der Rüstung deiner Gegner zufügst.;;;;Bonusowe obrażenia zadawane Pancerzowi przeciwników.
 Armor_Piercing;Процент брони, игнорируемый вашими атаками.;A porcentagem de armadura ignorada pelos seus ataques.;你的攻击会无视防具这么多防御。;Der prozentuale Anteil der Rüstung, den deine Angriffe ignorieren.;;;;Procentowa ilość pancerza ignorowana przez twoje ataki.
 ;;;;;;;;
 Bleeding_Chance;Шанс вызвать у цели кровотечение атакой.;A chance de causar um sangramento ao atacar.;你的攻击有这么大的几率造成出血。;Die Chance, bei Angriffen, Blutungen zu verursachen.;;;;Szansa na wywołanie Krwiawienia atakami.

@@ -1,66 +1,66 @@
 #-символ переноса строки, использовать вместо Entera;;;;;;;;;;;
 Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Português;Polski;Türkçe;//
 специальные теги, не удалять, не изменять, при добавлении переносить вниз;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;
-bandage;Бинт;Bandage;绷带;Verband;;;;;Bandaż;Bandaj;//
-antivenom;Инъекция противоядия;Antidote;解药;Gegenmittel;;;;;Antidotum;Panzehir;//
-antitoxin;Антитоксин;Antitoxin;抗毒素;Antitoxin;;;;;Antytoksyna;Antitoksin;//
-splint;Шина;Splint;夹板;Schiene;;;;;Stabilizator;Atel;//
-leech;Пиявки;Leeches;水蛭;Blutegel;;;;;Pijawki;Sülük;//
-inhaler;Эфирный ингалятор;Ether Inhaler;乙醚;Äther-Inhalator;;;;;Inhalator Etheru;Eter İnhalatörü;//
-sponge;Усыпляющая губка;Soporific Sponge;致眠海绵;Schlafmittelschwamm;;;;;Gąbka Nasenna;Uyku Süngeri;//
-incense;Благовония;Incense;迷香;Räucherwerk;;;;;Kadzidło;Tütsü;//
-herbal;Травяной экстракт;Herbal Extract;药草精粹;Kräuterextrakt;;;;;Ekstrakt Ziołowy;Bitki Özü;//
-aqua_vitae;Эликсир Гвиннела;Gwynnel's Elixir;葛文涅尔的灵药;Gwynnel's Elixir;;;;;Eliksir Gwynnela;Gwynnel'ın İksiri;//
-stardust;Звездная пыль;Stardust;星尘;Sternenstaub;;;;;Gwiezdny Pył;Yıldıztozu;//
-salve;Целебная мазь;Healing Salve;疗伤药膏;Heilsalbe;;;;;Maść Lecznicza;İyileştirici Merhem;//
-essence;Живительная эссенция;Vivifying Essence;赋活精华;Belebende Essenz;;;;;Ożywcza Esencja;Canlandırıcı Esans;//
-pipe;Курительная трубка;Smoking Pipe;烟斗;Pfeife;;;;;Fajka;Nargile;//
+bandage;Бинт;Curativo;绷带;Verband;;;;;Bandaż;Bandaj;//
+antivenom;Инъекция противоядия;Antídoto;解药;Gegenmittel;;;;;Antidotum;Panzehir;//
+antitoxin;Антитоксин;Antitoxina;抗毒素;Antitoxin;;;;;Antytoksyna;Antitoksin;//
+splint;Шина;Tala;夹板;Schiene;;;;;Stabilizator;Atel;//
+leech;Пиявки;Sanguessuga;水蛭;Blutegel;;;;;Pijawki;Sülük;//
+inhaler;Эфирный ингалятор;Inalador de Éter;乙醚;Äther-Inhalator;;;;;Inhalator Etheru;Eter İnhalatörü;//
+sponge;Усыпляющая губка;Esponja Soporífica;致眠海绵;Schlafmittelschwamm;;;;;Gąbka Nasenna;Uyku Süngeri;//
+incense;Благовония;Incenso;迷香;Räucherwerk;;;;;Kadzidło;Tütsü;//
+herbal;Травяной экстракт;Extrato de Erva;药草精粹;Kräuterextrakt;;;;;Ekstrakt Ziołowy;Bitki Özü;//
+aqua_vitae;Эликсир Гвиннела;Elixir de Gwynnel;葛文涅尔的灵药;Gwynnel's Elixir;;;;;Eliksir Gwynnela;Gwynnel'ın İksiri;//
+stardust;Звездная пыль;Poeira Estelar;星尘;Sternenstaub;;;;;Gwiezdny Pył;Yıldıztozu;//
+salve;Целебная мазь;Salva de Cura;疗伤药膏;Heilsalbe;;;;;Maść Lecznicza;İyileştirici Merhem;//
+essence;Живительная эссенция;Essência Vivificante;赋活精华;Belebende Essenz;;;;;Ożywcza Esencja;Canlandırıcı Esans;//
+pipe;Курительная трубка;Cachimbo;烟斗;Pfeife;;;;;Fajka;Nargile;//
 ;;;;;;;;;;;//
-torch;Факел;Torch;火把;Fackel;;;;;Pochodnia;Meşale;//
-surgeon;Хирургический набор;Surgeon's Toolkit;手术工具;Chirurgisches Besteck;;;;;Zestaw Chirurgiczny;Cerrahi Set;//
-lancet;Ланцет для кровопускания;Bloodletting Lancet;放血刀;Aderlasslanzette;;;;;Narzędzie do upuszczania krwi;Kanalma İğnesi;//
-tinker;Ломик;Crowbar;撬棍;Brechstange;;;;;Łom;Levye;//
-repkit;Набор для починки;Repair Kit;维修工具;Reparaturset;;;;;Zestaw Naprawczy;Tamir Seti;//
+torch;Факел;Tocha;火把;Fackel;;;;;Pochodnia;Meşale;//
+surgeon;Хирургический набор;Kit de Ferramentas de Cirurgião;手术工具;Chirurgisches Besteck;;;;;Zestaw Chirurgiczny;Cerrahi Set;//
+lancet;Ланцет для кровопускания;Canivete de Sangramento;放血刀;Aderlasslanzette;;;;;Narzędzie do upuszczania krwi;Kanalma İğnesi;//
+tinker;Ломик;Pé de Cabra;撬棍;Brechstange;;;;;Łom;Levye;//
+repkit;Набор для починки;Kit de reparação;维修工具;Reparaturset;;;;;Zestaw Naprawczy;Tamir Seti;//
 lockpicks;Отмычки;Gazuas;开锁工具;Dietriche;;;;;Wytrychy;Maymuncuklar;//
-skeleton_key;Ключ от всех дверей;Skeleton Key;万能钥匙;Skelettschlüssel;;;;;Wytrych Uniwersalny;İskelet Anahtar;//
-key;Ключ;Key;钥匙;Schlüssel;;;;;Klucz;Anahtar;//
-backpack;Рюкзак;Backpack;背包;Rucksack;;;;;Plecak;Sırt Çantası;//
-moneybag;Кошель;Purse;钱袋;Geldbeutel;;;;;Sakiewka;Para Kesesi;//
+skeleton_key;Ключ от всех дверей;Chave Metra;万能钥匙;Skelettschlüssel;;;;;Wytrych Uniwersalny;İskelet Anahtar;//
+key;Ключ;Chave;钥匙;Schlüssel;;;;;Klucz;Anahtar;//
+backpack;Рюкзак;Mochila;背包;Rucksack;;;;;Plecak;Sırt Çantası;//
+moneybag;Кошель;Bolsa;钱袋;Geldbeutel;;;;;Sakiewka;Para Kesesi;//
 ;;;;;;;;;;;//
-aquamarine;Аквамарин;Aquamarine;海蓝宝石;Aquamarin;;;;;Akwamaryna;Gök Zümrüt;//
-ruby;Рубин;Ruby;红宝石;Rubin;;;;;Rubin;Yakut;//
-emerald;Изумруд;Emerald;祖母绿;Smaragd;;;;;Szmaragd;Zümrüt;//
-diamond;Бриллиант;Diamond;钻石;Diamant;;;;;Diament;Elmas;//
-sapphire;Сапфир;Sapphire;蓝宝石;Saphir;;;;;Szafir;Safir;//
-topaz;Топаз;Topaz;黄玉;Topas;;;;;Topaz;Topaz;//
-amethyst;Аметист;Amethyst;紫水晶;Amethyst;;;;;Ametyst;Ametist;//
-seapearl;Морской жемчуг;Sea Pearls;海水珍珠;Meeresperlen;;;;;Perły;İnci;//
-amber;Россыпь янтаря;Handful Of Amber;琥魄;Handvoll Bernstein;;;;;Garść Bursztynów;Bir Avuç Kehribar;//
-golden_cup;Золотой кубок;Golden Cup;金杯;Goldener Becher;;;;;Złoty Puchar;Altın Kupa;//
-hourglass;Песочные часы;Hourglass;沙漏;Stundenglas;;;;;Klepsydra;Kum Saati;//
-inkpot;Украшенная чернильница;Decorated Inkpot;精美的墨瓶;Ziertintenfass;;;;;Dekorowany Kałamarz;Dekoratif Hokka;//
-ivory;Слоновая кость;Ivory;象牙;Elfenbein;;;;;Kość Słoniowa;Fildişi;//
-casket;Искусная шкатулка;Exquisite Casket;精致的匣子;Exquisite Schutulle;;;;;Zdobiona Kasetka;Süslü Tabut;//
-porcelain;Фарфоровая ваза;Porcelain Vase;瓷花瓶;Porzellanvase;;;;;Porcelanowa Waza;Porselen Vazo;//
-golden_earrings;Золотые серёжки;Golden Earrings;金耳环;Goldene Ohrringe;;;;;Złote Kolczyki;Altın Küpe;//
-golden_brooch;Золотая брошь;Golden Brooch;金饰针;Goldene Brosche;;;;;Złota Broszka;Altın Broş;//
-candelabrum;Золотой подсвечник;Golden Candelabrum;金烛台;Goldener Kandelaber;;;;;Złoty Świecznik;Altın Şamdan;//
-silver_cup;Серебряная чаша;Silver Cup;银杯;Silberner Becher;;;;;Srebrny Kubek;Gümüş Kupa;//
-golden_tooth;Золотой зуб;Golden Tooth;金牙;Goldzahn;;;;;Złoty Ząb;Altın Diş;//
-gold;Кроны;Crowns;金币;Kronen;;;;;Korony;Taç;//
-ancient_coin;Древняя монета;Ancient Coin;古代钱币;Antike Münze;;;;;Starożytna Moneta;Antika Sikke;//
-elven_coin;Эльфийский абаз;Elven Abazi;精灵阿巴斯币;Elfen Abazi;;;;;Elficka Abazi;Elf Abazi;//
-dwarven_coin;Дварфийский фьялл;Dwarven Fjall;矮人菲欧币;Zwergen Fjall;;;;;Krasnoludzka Fjall;Cüce Dağı;//
-jade_figurine;Нефритовая статуэтка;Jade Figurine;玉雕;Jadefigur;;;;;Jadeitowa Figurka;Yeşim Figür;//
-silver_plate;Серебряное блюдо;Silver Plate;银盘;Silberteller;;;;;Srebrny Talerz;Gümüş Tabak;//
-silver_cutlery;Серебряные приборы;Silver Cutlery;银刀叉;Silberbesteck;;;;;Srebrny Nóż;Gümüş Sofra Seti;//
-elven_silk;Шелк;Silk;丝绸;Seide;;;;;Jedwab;İpek;//
-ruby_beads;Рубиновые четки;Ruby Beads;红玉珠串;Rubinrote Glasperlen;;;;;Rubinowe Korale;Yakut Boncuklar;//
-old_agraphe;Старинный аграф;Old Agraffe;古董夹扣;Alte Agraffe;;;;;Stara Agrafka;Eski Agraf;//
-agate;Агат;Agate;玛瑙;Achat;;;;;Agat;Akik;//
+aquamarine;Аквамарин;água-Marinha;海蓝宝石;Aquamarin;;;;;Akwamaryna;Gök Zümrüt;//
+ruby;Рубин;Rubi;红宝石;Rubin;;;;;Rubin;Yakut;//
+emerald;Изумруд;Esmeralda;祖母绿;Smaragd;;;;;Szmaragd;Zümrüt;//
+diamond;Бриллиант;Diamante;钻石;Diamant;;;;;Diament;Elmas;//
+sapphire;Сапфир;Safira;蓝宝石;Saphir;;;;;Szafir;Safir;//
+topaz;Топаз;Topázio;黄玉;Topas;;;;;Topaz;Topaz;//
+amethyst;Аметист;Ametista;紫水晶;Amethyst;;;;;Ametyst;Ametist;//
+seapearl;Морской жемчуг;Pérolas do Mar;海水珍珠;Meeresperlen;;;;;Perły;İnci;//
+amber;Россыпь янтаря;Punhado de Âmbar;琥魄;Handvoll Bernstein;;;;;Garść Bursztynów;Bir Avuç Kehribar;//
+golden_cup;Золотой кубок;Taça de Ouro;金杯;Goldener Becher;;;;;Złoty Puchar;Altın Kupa;//
+hourglass;Песочные часы;Ampulheta;沙漏;Stundenglas;;;;;Klepsydra;Kum Saati;//
+inkpot;Украшенная чернильница;Tinteiro Decorado;精美的墨瓶;Ziertintenfass;;;;;Dekorowany Kałamarz;Dekoratif Hokka;//
+ivory;Слоновая кость;Marfim;象牙;Elfenbein;;;;;Kość Słoniowa;Fildişi;//
+casket;Искусная шкатулка;Caixa Requintado;精致的匣子;Exquisite Schutulle;;;;;Zdobiona Kasetka;Süslü Tabut;//
+porcelain;Фарфоровая ваза;Vaso de Porcelana;瓷花瓶;Porzellanvase;;;;;Porcelanowa Waza;Porselen Vazo;//
+golden_earrings;Золотые серёжки;Brincos Dourados;金耳环;Goldene Ohrringe;;;;;Złote Kolczyki;Altın Küpe;//
+golden_brooch;Золотая брошь;Broche de Ouro;金饰针;Goldene Brosche;;;;;Złota Broszka;Altın Broş;//
+candelabrum;Золотой подсвечник;Candelabro de Ouro;金烛台;Goldener Kandelaber;;;;;Złoty Świecznik;Altın Şamdan;//
+silver_cup;Серебряная чаша;Taça de Prata;银杯;Silberner Becher;;;;;Srebrny Kubek;Gümüş Kupa;//
+golden_tooth;Золотой зуб;Dente de Ouro;金牙;Goldzahn;;;;;Złoty Ząb;Altın Diş;//
+gold;Кроны;Coroas;金币;Kronen;;;;;Korony;Taç;//
+ancient_coin;Древняя монета;Moeda Antiga;古代钱币;Antike Münze;;;;;Starożytna Moneta;Antika Sikke;//
+elven_coin;Эльфийский абаз;Abazi Élfico;精灵阿巴斯币;Elfen Abazi;;;;;Elficka Abazi;Elf Abazi;//
+dwarven_coin;Дварфийский фьялл;Fjall de Anão;矮人菲欧币;Zwergen Fjall;;;;;Krasnoludzka Fjall;Cüce Dağı;//
+jade_figurine;Нефритовая статуэтка;Estatueta de Jade;玉雕;Jadefigur;;;;;Jadeitowa Figurka;Yeşim Figür;//
+silver_plate;Серебряное блюдо;Prato de Prata;银盘;Silberteller;;;;;Srebrny Talerz;Gümüş Tabak;//
+silver_cutlery;Серебряные приборы;Prato de prata;银刀叉;Silberbesteck;;;;;Srebrny Nóż;Gümüş Sofra Seti;//
+elven_silk;Шелк;Seda;丝绸;Seide;;;;;Jedwab;İpek;//
+ruby_beads;Рубиновые четки;Perolas de Rubi;红玉珠串;Rubinrote Glasperlen;;;;;Rubinowe Korale;Yakut Boncuklar;//
+old_agraphe;Старинный аграф;Agraffe Antigo;古董夹扣;Alte Agraffe;;;;;Stara Agrafka;Eski Agraf;//
+agate;Агат;Ágata;玛瑙;Achat;;;;;Agat;Akik;//
 jade;Нефрит;Jade;玉;Jade;;;;;Jadeitowa Figurka;Yeşim;//
-marble_bear;Мраморный медведь;Marble Bear;大理石熊;Bär aus Marmor;;;;;Marmurowy Niedźwiedź;Mermer Ayı;//
-bronze_eagle;Бронзовый орёл;Bronze Eagle;青铜鹰;Bronzeadler;;;;;Brązowy Orzeł;Bronz Kartal;//
+marble_bear;Мраморный медведь;Urso de Mármore;大理石熊;Bär aus Marmor;;;;;Marmurowy Niedźwiedź;Mermer Ayı;//
+bronze_eagle;Бронзовый орёл;Águia de Bronze;青铜鹰;Bronzeadler;;;;;Brązowy Orzeł;Bronz Kartal;//
 ;;;;;;;;;;;//
 wineskin;Бурдюк с водой;Odre;水;Wasserschlauch;;;;;Bukłak;Deri Matara;//
 coffee;Эльфийская гуща;Lama Élfica;精灵咖啡泥;Elfen-Schlamm;;;;;Elficki Osad;Elf Kahvesi;//
@@ -79,12 +79,12 @@ pear;Груша;Pêra;梨;Birne;;;;;Gruszka;Armut;//
 pear_rot;Гнилая груша;Pêra Podre;烂梨;Verdorbene Birne;;;;;Zgniła Gruszka;Çürük Armut;//
 grape;Виноград;Uvas;葡萄;Trauben;;;;;Winogrono;Üzüm;//
 grape_rot;Гнилой виноград;Uvas Podres;烂葡萄;Verdorbene Trauben;;;;;Zgniłe Winogrono;Çürük Üzüm;//
-fig;Инжир;Fig;无花果;Feige;;;;;Figa;İncir;//
-fig_rot;Сушеный инжир;Dried Fig;烂无花果;Getrocknete Feige;;;;;Sucha Figa;Kuru İncir;//
-citrus;Эльфийский цитрус;Elven Citrus;精灵柑橘;Elfische Zitrusfrucht;;;;;Elficki Cytrus;Elf Narenciyesi;//
-citrus_rot;Испорченный эльфийский цитрус;Spoiled Elven Citrus;变质的精灵柑橘;Verdorbene elfische Zitrusfrucht;;;;;Zgniły Elficki Cytrus;Bozulmuş Elf Narenciyesi;//
-dragonfruit;Драконов плод;Dragon Fruit;火龙果;Drachenfrucht;;;;;Smoczy Owoc;Pitaya;//
-dragonfruit_rot;Испорченный драконов плод;Spoiled Dragon Fruit;烂火龙果;Verdorbene Drachenfrucht;;;;;Zgniły Smoczy Owoc;Bozulmuş Pitaya;//
+fig;Инжир;Figo;无花果;Feige;;;;;Figa;İncir;//
+fig_rot;Сушеный инжир;Figo Podre;烂无花果;Getrocknete Feige;;;;;Sucha Figa;Kuru İncir;//
+citrus;Эльфийский цитрус;Citrus Élfico;精灵柑橘;Elfische Zitrusfrucht;;;;;Elficki Cytrus;Elf Narenciyesi;//
+citrus_rot;Испорченный эльфийский цитрус;Citrus Élfico Podre;变质的精灵柑橘;Verdorbene elfische Zitrusfrucht;;;;;Zgniły Elficki Cytrus;Bozulmuş Elf Narenciyesi;//
+dragonfruit;Драконов плод;Fruta do Dragão;火龙果;Drachenfrucht;;;;;Smoczy Owoc;Pitaya;//
+dragonfruit_rot;Испорченный драконов плод;Fruta do Dragão Podre;烂火龙果;Verdorbene Drachenfrucht;;;;;Zgniły Smoczy Owoc;Bozulmuş Pitaya;//
 ;;;;;;;;;;;//
 ;;;;;;;;;;;//
 carrot;Морковь;Carrot;胡萝卜;Möhre;;;;;Marchew;Havuç;//
@@ -230,94 +230,94 @@ key;Единожды отпирает любой замок.;Opens a single lock
 backpack;Используется для хранения предметов.;Can be used to store items.;可以存放物品。;Zum Verstauen von Gegenständen.;;;;;Może być użyty do przechowywania przedmiotów.;;//
 moneybag;Используется для хранения монет.;Can be used to store coins.;可以存放钱币。;Zum Verstauen von Münzen.;;;;;Może być użyta do przechowywania monet.;;//
 ;;;;;;;;;;;//
-aquamarine;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这件东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-ruby;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-emerald;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-diamond;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-sapphire;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-topaz;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-amethyst;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-seapearl;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-amber;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-golden_cup;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hourglass;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-inkpot;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-ivory;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-casket;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-porcelain;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-golden_earrings;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-golden_brooch;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-candelabrum;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-silver_cup;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-golden_tooth;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-gold;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-ancient_coin;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-elven_coin;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-dwarven_coin;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-jade_figurine;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-silver_plate;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-silver_cutlery;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-elven_silk;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-ruby_beads;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-old_agraphe;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-agate;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-jade;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-marble_bear;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-bronze_eagle;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这件东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+aquamarine;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这件东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+ruby;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+emerald;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+diamond;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+sapphire;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+topaz;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+amethyst;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+seapearl;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+amber;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+golden_cup;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hourglass;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+inkpot;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+ivory;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+casket;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+porcelain;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+golden_earrings;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+golden_brooch;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+candelabrum;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+silver_cup;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+golden_tooth;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+gold;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+ancient_coin;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+elven_coin;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+dwarven_coin;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+jade_figurine;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+silver_plate;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+silver_cutlery;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+elven_silk;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+ruby_beads;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+old_agraphe;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+agate;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+jade;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+marble_bear;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+bronze_eagle;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这件东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
 ;;;;;;;;;;;//
 wineskin;;;;;;;;;;;//
-coffee;Вызывает ~lg~бодрость~/~.;Makes you ~lg~vigorous~/~.;可以让你~lg~精神焕发~/~。;Macht dich ~lg~Energetisch~/~.;;;;;Czyni cię ~lg~energicznym~/~.;;//
-wine;Вызывает ~r~опьянение~/~.;Makes you ~r~drunk~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
-wine1;Вызывает ~r~опьянение~/~.;Makes you ~r~drunk~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
-wine2;Вызывает ~r~опьянение~/~.;Makes you ~r~drunk~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
-mead;Вызывает ~r~опьянение~/~.;Makes you ~r~drunk~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
-brandy;Вызывает ~r~опьянение~/~.;Makes you ~r~drunk~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
-ale;Вызывает ~r~опьянение~/~.;Makes you ~r~drunk~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
-spirit;Вызывает ~r~опьянение~/~.;Makes you ~r~drunk~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
+coffee;Вызывает ~lg~бодрость~/~.;Faz você ficar ~lg~vigoroso~/~.;可以让你~lg~精神焕发~/~。;Macht dich ~lg~Energetisch~/~.;;;;;Czyni cię ~lg~energicznym~/~.;;//
+wine;Вызывает ~r~опьянение~/~.;Faz você ficar ~r~bêbado~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
+wine1;Вызывает ~r~опьянение~/~.;Faz você ficar ~r~bêbado~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
+wine2;Вызывает ~r~опьянение~/~.;Faz você ficar ~r~bêbado~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
+mead;Вызывает ~r~опьянение~/~.;Faz você ficar ~r~bêbado~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
+brandy;Вызывает ~r~опьянение~/~.;Faz você ficar ~r~bêbado~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
+ale;Вызывает ~r~опьянение~/~.;Faz você ficar ~r~bêbado~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
+spirit;Вызывает ~r~опьянение~/~.;Faz você ficar ~r~bêbado~/~.;会让你~lg~醉酒~/~。;Macht dich ~r~Betrunken~/~.;;;;;Czyni cię ~lg~pijanym~/~.;;//
 milk;;;;;;;;;;;//
 ;;;;;;;;;;;//
 apple;;;;;;;;;;;//
-apple_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+apple_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 pear;;;;;;;;;;;//
-pear_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+pear_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 grape;;;;;;;;;;;//
-grape_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+grape_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 fig;;;;;;;;;;;//
 fig_rot;;;;;;;;;;;//
 citrus;;;;;;;;;;;//
-citrus_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+citrus_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 dragonfruit;;;;;;;;;;;//
-dragonfruit_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;;;//
+dragonfruit_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;;;//
 ;;;;;;;;;Może spowodować ~r~wymioty~/~.;;//
 carrot;;;;;;;;;;;//
-carrot_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+carrot_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 potato;;;;;;;;;;;//
-potato_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+potato_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 leek;;;;;;;;;;;//
-leek_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+leek_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 onion;;;;;;;;;;;//
-onion_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+onion_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 white_radish;;;;;;;;;;;//
-white_radish_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+white_radish_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 garlic;;;;;;;;;;;//
-garlic_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+garlic_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 beet;;;;;;;;;;;//
-beet_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+beet_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 tomato;;;;;;;;;;;//
-tomato_rot;Возможна ~r~рвота~/~.;May cause ~r~vomiting~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
+tomato_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 ;;;;;;;;;;;//
 meat;;;;;;;;;;;//
-meat_raw;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
-meat_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+meat_raw;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+meat_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 chicken;;;;;;;;;;;//
-chicken_raw;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
-chicken_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+chicken_raw;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+chicken_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 sausage;Не портится со временем.;Does not spoil over time.;不会变质。;Kann nicht verderben.;;;;;Nie psuje się z upływem czasu.;;//
 ham;Не портится со временем.;Does not spoil over time.;不会变质。;Kann nicht verderben.;;;;;Nie psuje się z upływem czasu.;;//
 ;;;;;;;;;;;//
 fish;;;;;;;;;;;//
-fish_raw;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
-fish_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+fish_raw;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+fish_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 ;;;;;;;;;;;//
 agrimony;;;;;;;;;;;//
 bogbean;;;;;;;;;;;//
@@ -329,21 +329,21 @@ poppy;Возможны ~r~сон~/~ или ~r~приход~/~.;May put to ~r~sle
 thyme;;;;;;;;;;;//
 ;;;;;;;;;;;//
 bread;;;;;;;;;;;//
-bread_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+bread_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 cheese;;;;;;;;;;;//
-cheese_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+cheese_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 goatcheese;;;;;;;;;;;//
-goatcheese_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+goatcheese_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 dumpling;;;;;;;;;;;//
-dumpling_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+dumpling_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 pretzel;;;;;;;;;;;//
-pretzel_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+pretzel_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 pancakes;;;;;;;;;;;//
-pancakes_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+pancakes_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 lentil_soup;;;;;;;;;;;//
-lentil_soup_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+lentil_soup_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 peasant_soup;;;;;;;;;;;//
-peasant_soup_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;May cause ~r~poisoning~/~ or ~r~vomiting~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
+peasant_soup_rot;Возможны ~r~отравление~/~ или ~r~рвота~/~.;Pode causar ~r~envenenamento~/~ ou ~r~vômito~/~.;可能导致~r~中毒~/~或~r~呕吐~/~。;Kann ~r~Vergiftung~/~ oder ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~zatrucie~/~ albo ~r~wymioty~/~.;;//
 ;;;;;;;;;;;//
 mapscroll;Облегчает навигацию.#Увы, не гарантирует того, что вы не заблудитесь.;Helps with navigation.#Alas, does not guarantee that you won't get lost.;有助于找路。#不过呢，不能保证你一定不会迷路。;Hilft mit der Navigation.#Allerdings gibt es keine Garantie dafür, dass du dich nicht doch verirrst.;;;;;Pomaga w nawigacji.#Atlas świata nie gwarantuje tego, że się nie zgubisz.;;//
 scroll_identification;~lg~Определяет~/~ свойства выбранного предмета.;~lg~Identifies~/~ an item and reveals its properties.;可以~lg~鉴定~/~物品，了解其属性。;~lg~Identifiziert~/~ einen Gegenstand und offenbart seine Eigenschaften.;;;;;~lg~Identyfikuje~/~ przedmiot i pozwala poznać jego statystyki.;;//
@@ -355,9 +355,9 @@ stoneshard;Магический артефакт с неизвестными с�
 bounty_figurine;Этот предмет - цель вашего ~lg~контракта~/~.;This item is required to receive the reward for your ~lg~contract~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um ein ~lg~Kopfgeld~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;//
 bounty_grimoir;Этот предмет - цель вашего ~lg~контракта~/~.;This item is required to receive the reward for your ~lg~contract~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um ein ~lg~Kopfgeld~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;//
 heraldic_note;Может быть использована для повышения репутации у ~bl~Великого Магистрата~/~ или продана.;Can be used to improve your standing with ~bl~Grand Magistrate~/~ or sold away.;可以卖掉，也可以用来加深你和~bl~城市联盟~/~的关系。;Kann verwendet werden, um dich mit dem ~b~Großen Magistrat~/~ besser zu stellen, oder man verkauft es einfach.;;;;;Można wykorzystać, by poprawić twoje relacje z ~bl~Wielkim Magistratem~/~ albo można to sprzedać.;;//
-wheat_bag;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-reliquary;Этот предмет - цель вашего ~lg~контракта~/~.##Может заинтересовать некоторых торговцев.;This item is required to receive the reward for your ~lg~contract~/~.##This item may interest some merchants.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。##有些商人可能会对这个东西感兴趣。;Dieser Gegenstand wird gebraucht, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.##Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~. ##Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-alchemy_kit;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+wheat_bag;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+reliquary;Этот предмет - цель вашего ~lg~контракта~/~.##Может заинтересовать некоторых торговцев.;This item is required to receive the reward for your ~lg~contract~/~.##Este item pode interessar a alguns comerciantes.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。##有些商人可能会对这个东西感兴趣。;Dieser Gegenstand wird gebraucht, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.##Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~. ##Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+alchemy_kit;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
 letter_pile;Этот предмет - цель вашего ~lg~контракта~/~.;This item is required to receive the reward for your ~lg~contract~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;
 wicked_hand;Этот предмет - цель вашего ~lg~контракта~/~.;This item is required to receive the reward for your ~lg~contract~/~.;要有这件东西，才能拿到~lg~契据~/~约定的奖赏。;Dieser Gegenstand wird benötigt, um die Belohnung für deinen ~lg~Auftrag~/~ zu erhalten.;;;;;Ten przedmiot jest wymagany, by otrzymać nagrodę za ~lg~kontrakt~/~.;;
 ;;;;;;;;;;;//
@@ -367,40 +367,40 @@ magefungus;;;;;;;;;;;//
 spider;;;;;;;;;;;//
 stool;;;;;;;;;;;//
 maggot;;;;;;;;;;;//
-bone_foot;Может быть измельчена в костяную муку.;Can be ground to bonedust.;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
-bone;Может быть измельчена в костяную муку.;Can be ground to bonedust.;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
-skull;Может быть измельчён в костяную муку.;Can be ground to bonedust.;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
-rib_cage;Может быть измельчена в костяную муку.;Can be ground to bonedust.;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
-pelvic_bone;Может быть измельчена в костяную муку.;Can be ground to bonedust.;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
-rag;Останавливает кровотечение на выбранной части тела.;Stops a body part from bleeding;可以止血。;Stoppt ein Körperteil vom Bluten.;;;;;Zatrzymuje krwawienie z wybranej części ciała.;;//
-iron_ingot;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-gold_ingot;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-coal;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-rope;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-horseshoe;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-clay_jug;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-clay_plate;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-clay_pot;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-ladle;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-straw;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-candleend;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-simple_earrings;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-wooden_bucket;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-wooden_comb;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-wooden_bowl;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-mug;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-nails;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-pot;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hide_boar;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hide_bear;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hide_fox;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hide_wolf;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hide_deer;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hide_moose;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hide_rabbit01;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-hide_rabbit02;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-horns_deer;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
-horns_moose;Может заинтересовать некоторых торговцев.;This item may interest some merchants.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+bone_foot;Может быть измельчена в костяную муку.;Pode ser moído até virar pó de osso..;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
+bone;Может быть измельчена в костяную муку.;Pode ser moído até virar pó de osso..;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
+skull;Может быть измельчён в костяную муку.;Pode ser moído até virar pó de osso..;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
+rib_cage;Может быть измельчена в костяную муку.;Pode ser moído até virar pó de osso..;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
+pelvic_bone;Может быть измельчена в костяную муку.;Pode ser moído até virar pó de osso..;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
+rag;Останавливает кровотечение на выбранной части тела.;Faz parar o sangramento de uma parte do corpo;可以止血。;Stoppt ein Körperteil vom Bluten.;;;;;Zatrzymuje krwawienie z wybranej części ciała.;;//
+iron_ingot;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+gold_ingot;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+coal;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+rope;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+horseshoe;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+clay_jug;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+clay_plate;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+clay_pot;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+ladle;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+straw;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+candleend;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+simple_earrings;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+wooden_bucket;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+wooden_comb;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+wooden_bowl;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+mug;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+nails;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+pot;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hide_boar;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hide_bear;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hide_fox;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hide_wolf;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hide_deer;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hide_moose;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hide_rabbit01;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+hide_rabbit02;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+horns_deer;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
+horns_moose;Может заинтересовать некоторых торговцев.;Este item pode interessar a alguns comerciantes.;有些商人可能会对这个东西感兴趣。;Dieser Gegenstand mag einige Händler interessieren.;;;;;Ten przedmiot może być interesujący dla niektórych handlarzy.;;//
 ;;;;;;;;;;;//
 ;consum_mid_end;consum_mid_end;consum_mid_end;consum_mid_end;consum_mid_end;consum_mid_end;consum_mid_end;consum_mid_end;consum_mid_end;consum_mid_end;//
 ;;;;;;;;;;;//
@@ -562,64 +562,64 @@ alchemy_kit;Если хорошенько его прогреть, залить 
 letter_pile;Объёмная пачка писем, заметок и докладных записок, густо испещрённых неизвестными вам именами и обозначениями.;A decently sized pile of letters, notes, and reports, densely covered in unfamiliar names and designations.;一些信件、字条和报告，摞得整整齐齐，写满了陌生的名字和职位。;Ein ordentlich großer Stapel von Briefen, Notizen und Berichten, dicht beschrieben mit unbekannten Namen und Bezeichnungen.;;;;;;;//
 wicked_hand;На тыльной стороне ладони отчётливо виднеется каторжное клеймо - их выжигают на коже ещё до отправления на камнеломни.;The convict's brand is clearly visible on the back of this hand - such markings are burned into the skin before sending a criminal to the quarries.;手背还能清晰得看到皮肤上的烙印，囚犯去石场之前，身上都要先用烙铁烫几个这样的印记。;Das Brandzeichen des Sträflings ist auf dem Handrücken deutlich sichtbar - solche Zeichen werden in die Haut eingebrannt, bevor ein Krimineller in die Steinbrüche geschickt wird.;;;;;Stos liter, notatek, raportów, gęsto zapisanych nieznanymi nazwami i oznaczeniami.;;
 ;;;;;;;;;;;//
-pinecap;Травники уверяют, будто в сыром виде хвойники впитывают яды и придают сил.;Herbalists claim that raw pinecaps can absorb poisons and grant vigor.;药师说生的松乳菇可以吸收毒药，给人活力。;Kräuterkundige behaupten, dass rohe Kiefernkappen Gifte absorbieren können, und außerdem Vitalität verleihen.;;;;;Zielarze uważają, że surowe szyszki mogą pochłaniać trucizny i dodawać wigoru.;;//
-flyagaric;Не настолько коварный, как поганка - его яркая шляпа издали бросается в глаза.;Not as deceptive as a death cap, it's easily recognizable by its bright colors.;毒蝇伞的菌盖颜色鲜艳，因此没有某些毒鹅膏那么具有欺骗性。;Nicht ganz so trügerisch wie die Todeskappe, da er an seinen grellen Farben erkannt werden kann.;;;;;Nie tak groźny jak muchomor, łatwo rozpoznać po jasnych kolorach.;;//
-stool;На её счету множество жизней неосторожных грибников.;It claimed many lives of careless mushroomers.;许多人因为不慎采食这种蘑菇而丧命。;Die Leben vieler Pilzsammler nahm dieser Pilz schon.;;;;;Pochłonął życia wielu nieostrożnych grzybiarzy.;;//
-magefungus;Редкий гриб, растущий лишь в самых тёмных пещерах. Народная молва издавна наделяла его волшебными свойствами.;A rare mushroom, which can only be found in the darkest of caves. Some folks say that it has magical properties.;这种蘑菇十分稀罕，仅见于洞穴最黑暗的地方，有的人说这种蘑菇具有魔力。;Ein seltener Pilz, der sich nur in den dunkelsten Höhlen finden lässt. Man sagt, er habe magische Eigenschaften.;;;;;Rzadki grzyb, którego odnaleźć można jedynie w najciemniejszych jaskiniach. Niektórzy mówią, że ma magiczną moc.;;//
-spider;Паук;Spider;蜘蛛;Spinne;;;;;Pająk;;//
-maggot;Личинка;Maggot;蛆;Made;;;;;Robal;;//
-bone_foot;Разваливается в руках.;It crumbles to dust in your hands.;你刚放在手上，就碎成了粉末。;Zerfällt in deinen Händen zu Staub.;;;;;Zamienia się w pył w twoich dłoniach.;;//
-bone;На такую даже собака не позарится.;Won't even interest a dog.;狗都不会多看一眼。;Kein Hund wird daran interessiert sein.;;;;;Nawet psa by to nie zaciekawiło.;;//
-skull;На удивление хорошо сохранился.;Surprisingly well preserved.;保存得极为完好。;Überraschend gut erhalten.;;;;;Zaskakująco nieźle zachowane.;;//
-rib_cage;Отличное анатомическое пособие.;Handy for anatomy lessons.;解剖课的绝佳教具。;Gut für den Anatomiekurs.;;;;;Przydaje się w lekcjach anatomii.;;//
-pelvic_bone;Когда-то к ней крепились чьи-то ноги.;Someone's legs used to be attached to it.;本来连着两条腿。;Da waren einmal Beine dran.;;;;;Zazwyczaj do tego dołączona jest czyjaś noga.;;//
-rag;Тряпьё, которым можно перевязать кровоточащую рану.;These rags can be used to bandage a bleeding wound.;这些布条可以包扎出血的伤口。;Diese Tücher können als Verbände genutzt werden.;;;;;Te szmaty mogą przydać się do zatamowania krwawienia.;;//
-iron_ingot;Слиток доброго железа, который с радостью купит любой кузнец;An ingot of solid iron. Any smith will gladly buy it.;熟铁锭，是个铁匠肯定都愿意买。;Ein Barren aus solidem Eisen. Jeder Schmied wird ihn gerne kaufen.;;;;;Sztabka dobrej stali. Jakiś kowal z chęcią ją odkupi.;;//
-gold_ingot;Полновесное золото будет в ходу даже после конца света.;Pure gold will be changing hands even after the end of the world.;就算到了世界末日，足金肯定还是会有市场。;Pures Gold wechselt seine Besitzer, selbst nach dem Ende der Welt.;;;;;Czyste złoto będzie zmieniać właściciela nawet na końcu świata.;;//
-rope;Трудно найти в хозяйстве вещь полезней верёвки.;The most useful item in every household.;家家户户都离不开它。;Der nützlichste Gegenstand in jedem Haushalt.;;;;;Najbardziej użyteczny przedmiot w każdym domu.;;//
-coal;Последние годы уголь сильно упал в цене.;Over the last few years coal has greatly dropped in price.;最近几年，煤价掉得很厉害。;Über die letzten Jahre hinweg, sind die Preise für Kohle in den Keller gegangen.;;;;;Przez ostatnie lata cena węgla drastycznie spadła.;;//
-horseshoe;Чья-то старая подкова, то ли случайно позабытая, то ли оставленная на счастье.;An old horseshoe, either misplaced by accident or used as a good luck charm.;一块旧马蹄铁，要么是不小心掉了，要么就是被人用来招好运了。;Ein altes Hufeisen, entweder aus Versehen verloren und als Glückstalisman benutzt.;;;;;Stara podkowa, albo źle założona przez przypadek albo używana jako talizman.;;//
-clay_jug;Такой есть у каждой хозяйки.;Every landlady has one of these.;谁家的包租婆会没有这样东西？;Jeden Landfrau hat einen davon.;;;;;Każda miejska dziewoja ma takie.;;//
-clay_plate;Обычная глиняная тарелка, покрытая сетью царапин и мелких трещин.;A common clay plate covered in web of scratch marks and small fractures.;普普通通的陶土盘子，表面净是划痕和细小的裂纹。;Eine einfacher Tonteller, mit einem Netz aus Kratzern und kleinen Rissen überzogen.;;;;;Typowy gliniany talerz pokryty pajęczynami, trochę wyszczerbiony.;;//
-clay_pot;Когда-то в этом горшочке держали что-то вкусное.;This pot used to hold something tasty.;这个罐子装过一些美味可口的东西。;Dieser Topf enthielt einmal Leckeres.;;;;;Ten garnek krył niegdyś coś pysznego.;;//
-ladle;Судя по затёртой до блеска ручке, этот черпак не залёживался.;Judging by the shiny handle, this ladle hasn't been sitting idly.;勺子的柄光亮可鉴，看样子平时没闲着。;Vom glänzenden Griff her zu urteilen, wurde diese Kelle oft benutzt.;;;;;Sądząc po błyszczącej rączce, ten przedmiot nie leżał sobie w kącie.;;//
-straw;Не забудьте подстелить, если вдруг надумаете падать.;Be careful when loading this on a camel.;往骆驼背上装这个的时候，小心一点。;Vorsichtig damit, wenn du es auf ein Kamel lädst.;;;;;Trzeba uważać ładując to na wielbłąda.;;//
-candleend;Недолго же осталось гореть этой свечке.;This candle won't last long.;这根蜡烛用不不了多久了。;Diese Kerze wird nicht lange halten.;;;;;Ta świeca długo nie wytrzyma.;;//
-simple_earrings;Предел мечтаний простой крестьянки.;The best jewelry a peasant woman can hope for.;农家妇女能有这么一件首饰，就已经开心极了。;Der beste Schmuck auf den eine Bauersfrau hoffen kann.;;;;;Najlepsza biżuteria, jaką wieśniaczka może posiadać.;;//
-wooden_bucket;В жаркий день им можно набрать студёной колодезной воды.;Can be used to haul some cool well water on a hot day.;天热的时候，什么都比不了一桶凉爽的井水。;Zum Holen von kaltem Wasser an heißen Tagen.;;;;;Przyda się do niesienia zimnej wody ze strumienia w gorący dzień.;;//
-wooden_comb;Крестьянки стараются заботиться о своих волосах в меру своих скромных возможностей.;Peasant women try to keep their hair well groomed to the best of their modest means.;尽管农家生活贫乏，农妇也会想尽办法收拾好自己的头发。;Bauersfrauen halten damit ihr Haar in Ordnung, jedenfalls so gut sie können.;;;;;Wiejskie kobiety starają się zawsze mieć wyczesane włosy. To oznaka czystości...;;//
-wooden_bowl;Деревянная миска, потемневшая от жира.;A wooden bowl, dark from cooking fat.;黑漆漆的木碗，沾了太多肥油。;Eine hölzerne Schüssel, dunkel vom Bratfett.;;;;;Drewniana miska, czarna od zużytego oleju.;;//
-mug;Наполнить бы её доверху пенистым элем...;Would be much more preferable if it was filled to the brim with foamy ale...;要是装了满满一杯冒着泡沫的艾尔啤酒，那就再好不过了！;Würde gut gefüllt mit schaumigen Bier viel besser sein.;;;;;Byłoby dużo lepiej, gdyby był wypełniony po brzegi jakimś dobrym ale...;;//
-nails;В наше время без гвоздей никуда.;Can't do without nails these days.;这年头没了钉子，根本没法生活。;Ohne Nägel geht es heutzutage nicht.;;;;;Nic nie da się zrobić bez groździ w tych czasach.;;//
-pot;Котелок хоть куда - в таком можно сварить и кашу, и мясо, и похлёбку.;A fine pot like this can be used to cook many things: porridge, meat, soup...;这种锅特别方便，用途很多，能煮粥，能炖肉，能煲汤……;Ein feiner Topf wie dieser kann zum Kochen vieler Dinge verwendet werden: Brei, Fleisch, Suppe...;;;;;Dobry garniec jak ten nada się na wszystko: pożywkę, mięso, zupę...;;//
-hide_boar;Особо ценится кожевниками - из таких шкур выходят первоклассная сапоги и пояса.;Boar hides are valued by tanners - they make for good shoes and belts.;野猪皮能做上好的鞋和腰带，所以很受皮匠欢迎。;Wildschweinhäute werden von Gerbern geschätzt, denn daraus lassen sich gute Schuhe und Gürtel machen.;;;;;Skóry z dzików są cenione przez garbarzy - robią z nich dobre buty i pasy.;;//
-hide_bear;Сходить на медведя и вернуться обратно под силу далеко не каждому, поэтому это очень почётный охотничий трофей.;Going after a bear and living to share the tale is quite a feat. This hide makes for an impressive hunting trophy.;亲手干掉一头熊，还能活着回来，绝对是一件不得了的事情。这张熊皮是一件顶好的战利品。;Einen Bären zu jagen und noch zu leben, um die Geschichte zu erzählen, ist schon etwas. Dieses Fell ergibt eine beeindruckende Jagdtrophäe.;;;;;Wyprawa na niedźwiedzia i umiejętność opowiedzenia o tym historii to niezły wyczyn. Te futro to niezłe trofeum.;;//
-hide_fox;Из лисьего меха получаются изящные и долговечные шапки и шубы, так что на него есть большой спрос.;Fox fur is used to sew durable hats and coats, so there is always a demand.;狐狸的皮毛可以缝制耐穿的帽子和大衣，所以需求从来没断过。;Fuchspelz wird für haltbare Hüte und Mäntel verwendet, so dass die Nachfrage nie versiegt.;;;;;Futro z lisa często używa się do czapek i płaszczy, więc i popyt jest duży.;;//
-hide_wolf;За волчьи шкуры можно выручить неплохие деньги - человек знающий найдёт им много применений.;Wolf pelts can catch good money - a skilled craftsman can find many uses for them.;狼皮能卖上很好的价钱，因为到了有能耐的匠人手里，能够发挥用途的地方很多。;Wolfspelze bringen gutes Geld - ein guter Handwerker kann viel mit ihnen anfangen.;;;;;Futra z wilków potrafią dać sporo złota - utalentowany rzemyślnik zrobi z nich użytek.;;//
-hide_deer;Олени в Альдорских лесах встречаются часто, так что стоят их шкуры недорого - но зато легко находят своего покупателя.;Deer of Aldorian forest are ubiquitous, so their hide is cheap - but it always finds its buyer.;奥尔多的树林到处都能看见鹿，所以鹿皮卖不上价钱，不过买的人倒不算少。;Hirsche der Aldorianischen Wälder sind allgegenwärtig, und die Häute billig - es findet sich aber immer ein Käufer.;;;;;Jelenie w Aldor są wszechobecne w lasach, więc ich skóra jest tania, ale zawsze znajdzie kupca.;;//
-hide_moose;В охоте на лося многое зависит от удачи. Но если уж вернулся не с пустыми руками, то без денег не останешься.;It takes luck to hunt down a moose. But if you return triumphant, you don't go hungry.;要想干倒一头驼鹿，不光要有实力，运气也要够好才行。你只要能胜利而归，就不会担心饿着肚子了。;Es braucht Glück, um einen Elch zu erlegen. Kehrst du triumphierend zurück, bleibst du nicht hungrig.;;;;;Trzeba mieć szczęście, by upolować łosia. Ale jak wrócisz w chwale, nie będziesz głodny.;;//
-hide_rabbit01;Несмотря на всю осторожность и верткость кроликов, подстрелить их не так уж сложно. Их шкурки обычно пускают на одежду.;Despite how cautious and skittish rabbits can be, hunting one down isn't that hard. Their pelts are usually used to make clothes.;虽然兔子机警善跑，但是猎捕并没有那么困难。兔子的皮毛通常用来缝制衣服。;Auch wenn die Hasen vorsichtig und schreckhaft sind, lassen sie sich leicht erlegen. Die Pelze werden für die Kleiderherstellung verwendet.;;;;;Pomimo tego jak ostrożne i podejrzliwe są zające i króliki, polowanie na nie jest dość proste. Ich futra służą głównie na ubrania.;;//
-hide_rabbit02;Несмотря на всю осторожность и верткость кроликов, подстрелить их не так уж сложно. Серый кроличий мех ценится немного выше.;Despite how cautious and skittish rabbits can be, hunting one down isn't that hard. Grey rabbit fur can catch slightly more money.;虽然兔子机警善跑，但是猎捕并没有那么困难。灰兔的皮毛比一般的兔皮值钱一些。;Auch wenn die Hasen vorsichtig und schreckhaft sind, lassen sie sich leicht erlegen. Die Pelze grauer Hasen bringen ein wenig mehr Geld.;;;;;Pomimo tego jak ostrożne i podejrzliwe są zające i króliki, polowanie na nie jest dość proste. Ich futra służą głównie na ubrania.;;//
-horns_deer;Оленьим рогам можно найти множество применения - зелья, лекарства, украшения...;Deer antlers can be used for many things: potions, medicine, jewelry...;鹿角的用途很多，可以入药，也可以用作陈设……;Hirschgeweihe sind vielseitig verwendbar: Tränke, Medizin, Schmuck,...;;;;;Poroża jeleni mogą służyć do wielu rzeczy: mikstur, medykamentów, ozdób...;;//
-horns_moose;У лосиных рогов есть множество применений в алхимии и фармацевтике. У аптекарей они не залёживаются.;Moose antlers have lots of uses in alchemy and medicine making. Apothecaries are always willing to buy some.;驼鹿的角在炼金和制药领域应用广泛，药剂师一般都不会拒绝。;Elchgeweihe werden in der Alchemie und in der Medizin verwendet. Apotheker sind gewillt sie aufzukaufen.;;;;;Poroża łosi mają wiele zastosowań w alchemii oraz medycynie. Aptekarze zawsze zapłacą za nie wiele.;;//
+pinecap;Травники уверяют, будто в сыром виде хвойники впитывают яды и придают сил.;Herbalistas afirmam que o cogumelo  pine cap cru pode absorver venenos e conceder vigor.;药师说生的松乳菇可以吸收毒药，给人活力。;Kräuterkundige behaupten, dass rohe Kiefernkappen Gifte absorbieren können, und außerdem Vitalität verleihen.;;;;;Zielarze uważają, że surowe szyszki mogą pochłaniać trucizny i dodawać wigoru.;;//
+flyagaric;Не настолько коварный, как поганка - его яркая шляпа издали бросается в глаза.;Não é tão enganoso como um gorro da morte, mas é facilmente reconhecido pelas suas cores brilhantes.;毒蝇伞的菌盖颜色鲜艳，因此没有某些毒鹅膏那么具有欺骗性。;Nicht ganz so trügerisch wie die Todeskappe, da er an seinen grellen Farben erkannt werden kann.;;;;;Nie tak groźny jak muchomor, łatwo rozpoznać po jasnych kolorach.;;//
+stool;На её счету множество жизней неосторожных грибников.;Tirou muitas vidas de cogumelos descuidados.;许多人因为不慎采食这种蘑菇而丧命。;Die Leben vieler Pilzsammler nahm dieser Pilz schon.;;;;;Pochłonął życia wielu nieostrożnych grzybiarzy.;;//
+magefungus;Редкий гриб, растущий лишь в самых тёмных пещерах. Народная молва издавна наделяла его волшебными свойствами.;Um cogumelo raro, que só pode ser encontrado nas cavernas mais escuras. Algumas pessoas dizem que tem propriedades mágicas.;这种蘑菇十分稀罕，仅见于洞穴最黑暗的地方，有的人说这种蘑菇具有魔力。;Ein seltener Pilz, der sich nur in den dunkelsten Höhlen finden lässt. Man sagt, er habe magische Eigenschaften.;;;;;Rzadki grzyb, którego odnaleźć można jedynie w najciemniejszych jaskiniach. Niektórzy mówią, że ma magiczną moc.;;//
+spider;Паук;Aranha;蜘蛛;Spinne;;;;;Pająk;;//
+maggot;Личинка;Larva;蛆;Made;;;;;Robal;;//
+bone_foot;Разваливается в руках.;Ele se desfaz em pó nas suas mãos.;你刚放在手上，就碎成了粉末。;Zerfällt in deinen Händen zu Staub.;;;;;Zamienia się w pył w twoich dłoniach.;;//
+bone;На такую даже собака не позарится.;Nem um cachorro vai se interessar.;狗都不会多看一眼。;Kein Hund wird daran interessiert sein.;;;;;Nawet psa by to nie zaciekawiło.;;//
+skull;На удивление хорошо сохранился.;Surpreendentemente bem preservado.;保存得极为完好。;Überraschend gut erhalten.;;;;;Zaskakująco nieźle zachowane.;;//
+rib_cage;Отличное анатомическое пособие.;Útil para aulas de anatomia.;解剖课的绝佳教具。;Gut für den Anatomiekurs.;;;;;Przydaje się w lekcjach anatomii.;;//
+pelvic_bone;Когда-то к ней крепились чьи-то ноги.;As pernas de alguém costumava estar grudadas nela.;本来连着两条腿。;Da waren einmal Beine dran.;;;;;Zazwyczaj do tego dołączona jest czyjaś noga.;;//
+rag;Тряпьё, которым можно перевязать кровоточащую рану.;Esses panos podem ser usados para curar uma ferida sangrando.;这些布条可以包扎出血的伤口。;Diese Tücher können als Verbände genutzt werden.;;;;;Te szmaty mogą przydać się do zatamowania krwawienia.;;//
+iron_ingot;Слиток доброго железа, который с радостью купит любой кузнец;Um lingote de ferro sólido. Qualquer ferreiro terá prazer em comprá-lo.;熟铁锭，是个铁匠肯定都愿意买。;Ein Barren aus solidem Eisen. Jeder Schmied wird ihn gerne kaufen.;;;;;Sztabka dobrej stali. Jakiś kowal z chęcią ją odkupi.;;//
+gold_ingot;Полновесное золото будет в ходу даже после конца света.;O ouro puro estará mudando de mãos mesmo após o fim do mundo.;就算到了世界末日，足金肯定还是会有市场。;Pures Gold wechselt seine Besitzer, selbst nach dem Ende der Welt.;;;;;Czyste złoto będzie zmieniać właściciela nawet na końcu świata.;;//
+rope;Трудно найти в хозяйстве вещь полезней верёвки.;O item mais útil em todos os lares.;家家户户都离不开它。;Der nützlichste Gegenstand in jedem Haushalt.;;;;;Najbardziej użyteczny przedmiot w każdym domu.;;//
+coal;Последние годы уголь сильно упал в цене.;Nos últimos anos, o carvão caiu bastante de preço.;最近几年，煤价掉得很厉害。;Über die letzten Jahre hinweg, sind die Preise für Kohle in den Keller gegangen.;;;;;Przez ostatnie lata cena węgla drastycznie spadła.;;//
+horseshoe;Чья-то старая подкова, то ли случайно позабытая, то ли оставленная на счастье.;Uma ferradura velha, extraviada por acidente ou usada como amuleto da boa sorte.;一块旧马蹄铁，要么是不小心掉了，要么就是被人用来招好运了。;Ein altes Hufeisen, entweder aus Versehen verloren und als Glückstalisman benutzt.;;;;;Stara podkowa, albo źle założona przez przypadek albo używana jako talizman.;;//
+clay_jug;Такой есть у каждой хозяйки.;Toda senhoria tem um desses.;谁家的包租婆会没有这样东西？;Jeden Landfrau hat einen davon.;;;;;Każda miejska dziewoja ma takie.;;//
+clay_plate;Обычная глиняная тарелка, покрытая сетью царапин и мелких трещин.;Um prato de barro comum coberto de teias de aranhas e pequenas rachaduras.;普普通通的陶土盘子，表面净是划痕和细小的裂纹。;Eine einfacher Tonteller, mit einem Netz aus Kratzern und kleinen Rissen überzogen.;;;;;Typowy gliniany talerz pokryty pajęczynami, trochę wyszczerbiony.;;//
+clay_pot;Когда-то в этом горшочке держали что-то вкусное.;Este pote costumava guardar algo saboroso.;这个罐子装过一些美味可口的东西。;Dieser Topf enthielt einmal Leckeres.;;;;;Ten garnek krył niegdyś coś pysznego.;;//
+ladle;Судя по затёртой до блеска ручке, этот черпак не залёживался.;A julgar pelo cabo brilhante, esta concha não está parada atoa;勺子的柄光亮可鉴，看样子平时没闲着。;Vom glänzenden Griff her zu urteilen, wurde diese Kelle oft benutzt.;;;;;Sądząc po błyszczącej rączce, ten przedmiot nie leżał sobie w kącie.;;//
+straw;Не забудьте подстелить, если вдруг надумаете падать.;Tenha cuidado ao carregar isso em um camelo.;往骆驼背上装这个的时候，小心一点。;Vorsichtig damit, wenn du es auf ein Kamel lädst.;;;;;Trzeba uważać ładując to na wielbłąda.;;//
+candleend;Недолго же осталось гореть этой свечке.;Esta vela não vai durar muito.;这根蜡烛用不不了多久了。;Diese Kerze wird nicht lange halten.;;;;;Ta świeca długo nie wytrzyma.;;//
+simple_earrings;Предел мечтаний простой крестьянки.;As melhores jóias que uma camponesa pode esperar.;农家妇女能有这么一件首饰，就已经开心极了。;Der beste Schmuck auf den eine Bauersfrau hoffen kann.;;;;;Najlepsza biżuteria, jaką wieśniaczka może posiadać.;;//
+wooden_bucket;В жаркий день им можно набрать студёной колодезной воды.;Pode ser usado para transportar um pouco de água fria em um dia quente.;天热的时候，什么都比不了一桶凉爽的井水。;Zum Holen von kaltem Wasser an heißen Tagen.;;;;;Przyda się do niesienia zimnej wody ze strumienia w gorący dzień.;;//
+wooden_comb;Крестьянки стараются заботиться о своих волосах в меру своих скромных возможностей.;As camponesas tentam manter os cabelos bem arrumados da melhor maneira possível.;尽管农家生活贫乏，农妇也会想尽办法收拾好自己的头发。;Bauersfrauen halten damit ihr Haar in Ordnung, jedenfalls so gut sie können.;;;;;Wiejskie kobiety starają się zawsze mieć wyczesane włosy. To oznaka czystości...;;//
+wooden_bowl;Деревянная миска, потемневшая от жира.;Uma tigela de madeira, escura por cozinhar gordura.;黑漆漆的木碗，沾了太多肥油。;Eine hölzerne Schüssel, dunkel vom Bratfett.;;;;;Drewniana miska, czarna od zużytego oleju.;;//
+mug;Наполнить бы её доверху пенистым элем...;Seria muito mais preferível se estivesse cheio de cerveja espumosa até a borda...;要是装了满满一杯冒着泡沫的艾尔啤酒，那就再好不过了！;Würde gut gefüllt mit schaumigen Bier viel besser sein.;;;;;Byłoby dużo lepiej, gdyby był wypełniony po brzegi jakimś dobrym ale...;;//
+nails;В наше время без гвоздей никуда.;Não posso ficar sem unhas hoje em dia.;这年头没了钉子，根本没法生活。;Ohne Nägel geht es heutzutage nicht.;;;;;Nic nie da się zrobić bez groździ w tych czasach.;;//
+pot;Котелок хоть куда - в таком можно сварить и кашу, и мясо, и похлёбку.;Uma panela fina como esta pode ser usada para cozinhar muitas coisas: mingau, carne, sopa ...;这种锅特别方便，用途很多，能煮粥，能炖肉，能煲汤……;Ein feiner Topf wie dieser kann zum Kochen vieler Dinge verwendet werden: Brei, Fleisch, Suppe...;;;;;Dobry garniec jak ten nada się na wszystko: pożywkę, mięso, zupę...;;//
+hide_boar;Особо ценится кожевниками - из таких шкур выходят первоклассная сапоги и пояса.;Os couros dos javalis são valorizados pelos curtidores - eles proporcionam bons sapatos e cintos.;野猪皮能做上好的鞋和腰带，所以很受皮匠欢迎。;Wildschweinhäute werden von Gerbern geschätzt, denn daraus lassen sich gute Schuhe und Gürtel machen.;;;;;Skóry z dzików są cenione przez garbarzy - robią z nich dobre buty i pasy.;;//
+hide_bear;Сходить на медведя и вернуться обратно под силу далеко не каждому, поэтому это очень почётный охотничий трофей.;Ir atrás de um urso e viver para compartilhar a história é uma façanha. Esse couro é um impressionante troféu de caça.;亲手干掉一头熊，还能活着回来，绝对是一件不得了的事情。这张熊皮是一件顶好的战利品。;Einen Bären zu jagen und noch zu leben, um die Geschichte zu erzählen, ist schon etwas. Dieses Fell ergibt eine beeindruckende Jagdtrophäe.;;;;;Wyprawa na niedźwiedzia i umiejętność opowiedzenia o tym historii to niezły wyczyn. Te futro to niezłe trofeum.;;//
+hide_fox;Из лисьего меха получаются изящные и долговечные шапки и шубы, так что на него есть большой спрос.;A pele de raposa é usada para costurar chapéus e casacos duráveis, por isso há sempre uma demanda.;狐狸的皮毛可以缝制耐穿的帽子和大衣，所以需求从来没断过。;Fuchspelz wird für haltbare Hüte und Mäntel verwendet, so dass die Nachfrage nie versiegt.;;;;;Futro z lisa często używa się do czapek i płaszczy, więc i popyt jest duży.;;//
+hide_wolf;За волчьи шкуры можно выручить неплохие деньги - человек знающий найдёт им много применений.;As peles de lobo podem render um bom dinheiro - um artesão qualificado pode encontrar muitos usos para elas.;狼皮能卖上很好的价钱，因为到了有能耐的匠人手里，能够发挥用途的地方很多。;Wolfspelze bringen gutes Geld - ein guter Handwerker kann viel mit ihnen anfangen.;;;;;Futra z wilków potrafią dać sporo złota - utalentowany rzemyślnik zrobi z nich użytek.;;//
+hide_deer;Олени в Альдорских лесах встречаются часто, так что стоят их шкуры недорого - но зато легко находят своего покупателя.;Os cervos da floresta de Aldorian são onipresentes, então sua pele é barata - mas sempre encontrará um comprador.;奥尔多的树林到处都能看见鹿，所以鹿皮卖不上价钱，不过买的人倒不算少。;Hirsche der Aldorianischen Wälder sind allgegenwärtig, und die Häute billig - es findet sich aber immer ein Käufer.;;;;;Jelenie w Aldor są wszechobecne w lasach, więc ich skóra jest tania, ale zawsze znajdzie kupca.;;//
+hide_moose;В охоте на лося многое зависит от удачи. Но если уж вернулся не с пустыми руками, то без денег не останешься.;É preciso sorte para caçar um alce. Mas se você voltar triunfante, não ficará com fome.;要想干倒一头驼鹿，不光要有实力，运气也要够好才行。你只要能胜利而归，就不会担心饿着肚子了。;Es braucht Glück, um einen Elch zu erlegen. Kehrst du triumphierend zurück, bleibst du nicht hungrig.;;;;;Trzeba mieć szczęście, by upolować łosia. Ale jak wrócisz w chwale, nie będziesz głodny.;;//
+hide_rabbit01;Несмотря на всю осторожность и верткость кроликов, подстрелить их не так уж сложно. Их шкурки обычно пускают на одежду.;Apesar de quão cautelosos e coelhos podem ser, caçar um não é tão difícil. Suas peles são geralmente usadas para fazer roupas.;虽然兔子机警善跑，但是猎捕并没有那么困难。兔子的皮毛通常用来缝制衣服。;Auch wenn die Hasen vorsichtig und schreckhaft sind, lassen sie sich leicht erlegen. Die Pelze werden für die Kleiderherstellung verwendet.;;;;;Pomimo tego jak ostrożne i podejrzliwe są zające i króliki, polowanie na nie jest dość proste. Ich futra służą głównie na ubrania.;;//
+hide_rabbit02;Несмотря на всю осторожность и верткость кроликов, подстрелить их не так уж сложно. Серый кроличий мех ценится немного выше.;Apesar de quão cautelosos e coelhos podem ser, caçar um não é tão difícil. Pele de coelho cinza pode pagar um pouco mais de dinheiro.;虽然兔子机警善跑，但是猎捕并没有那么困难。灰兔的皮毛比一般的兔皮值钱一些。;Auch wenn die Hasen vorsichtig und schreckhaft sind, lassen sie sich leicht erlegen. Die Pelze grauer Hasen bringen ein wenig mehr Geld.;;;;;Pomimo tego jak ostrożne i podejrzliwe są zające i króliki, polowanie na nie jest dość proste. Ich futra służą głównie na ubrania.;;//
+horns_deer;Оленьим рогам можно найти множество применения - зелья, лекарства, украшения...;Chifres de veado podem ser usados para muitas coisas: poções, remédios, jóias ...;鹿角的用途很多，可以入药，也可以用作陈设……;Hirschgeweihe sind vielseitig verwendbar: Tränke, Medizin, Schmuck,...;;;;;Poroża jeleni mogą służyć do wielu rzeczy: mikstur, medykamentów, ozdób...;;//
+horns_moose;У лосиных рогов есть множество применений в алхимии и фармацевтике. У аптекарей они не залёживаются.;Os chifres de alce têm muitos usos na alquimia e na fabricação de medicamentos. Os boticários estão sempre dispostos a comprar alguns.;驼鹿的角在炼金和制药领域应用广泛，药剂师一般都不会拒绝。;Elchgeweihe werden in der Alchemie und in der Medizin verwendet. Apotheker sind gewillt sie aufzukaufen.;;;;;Poroża łosi mają wiele zastosowań w alchemii oraz medycynie. Aptekarze zawsze zapłacą za nie wiele.;;//
 ;;;;;;;;;;;//
 ;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;//
 ;;;;;;;;;;;//
 ;consum_type;consum_type;consum_type;consum_type;consum_type;consum_type;consum_type;consum_type;consum_type;consum_type;//
-food;еда;food;食物;Essen;;;;;Jedzenie;;//
-alcohol;алкоголь;alcohol;酒水;Alkohol;;;;;Alkohol;;//
-tool;инструмент;tool;工具;Werkzeug;;;;;Narzędzie;;//
-medicine;медикамент;medicine;医药;Medizin;;;;;Medykament;;//
-drug;наркотик;drug;毒品;Droge;;;;;Narkotyk;;//
-beverage;напиток;beverage ;饮料;Getränk;;;;;Napój;;//
-potion;зелье;potion;药剂;Trank;;;;;Mikstura;;//
-other;другое;other;其他;Anderes;;;;;Inne;;//
+food;еда;comida;食物;Essen;;;;;Jedzenie;;//
+alcohol;алкоголь;álcool;酒水;Alkohol;;;;;Alkohol;;//
+tool;инструмент;ferramenta;工具;Werkzeug;;;;;Narzędzie;;//
+medicine;медикамент;remédio;医药;Medizin;;;;;Medykament;;//
+drug;наркотик;droga;毒品;Droge;;;;;Narkotyk;;//
+beverage;напиток;bebida ;饮料;Getränk;;;;;Napój;;//
+potion;зелье;poção;药剂;Trank;;;;;Mikstura;;//
+other;другое;outro;其他;Anderes;;;;;Inne;;//
 ;;;;;;;;;;;//
 ;;;;;;;;;;;//
-scroll;свиток;scroll;卷轴;Spruchrolle;;;;;Zwój;;//
-ingredient;ингредиент;ingredient;原料;Zutat;;;;;Składnik;;//
+scroll;свиток;pergaminho;卷轴;Spruchrolle;;;;;Zwój;;//
+ingredient;ингредиент;ingrediente;原料;Zutat;;;;;Składnik;;//
 material;материал;material;材料;Material;;;;;Materiał;;//
-valuable;ценность;valuable;贵重物品;Wertvoll;;;;;Kosztowność;;//
-junk;хлам;junk;废品;Schrott;;;;;Śmieć;;//
-bag;сумка;bag;包;Tasche;;;;;Torba;;
+valuable;ценность;valioso;贵重物品;Wertvoll;;;;;Kosztowność;;//
+junk;хлам;sucata;废品;Schrott;;;;;Śmieć;;//
+bag;сумка;bolsa;包;Tasche;;;;;Torba;;
 ;consum_type_end;consum_type_end;consum_type_end;consum_type_end;consum_type_end;consum_type_end;consum_type_end;consum_type_end;consum_type_end;consum_type_end;//

@@ -1,21 +1,21 @@
 Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Português;Polski
 специальные теги, не удалять, не изменять, при добавлении переносить вниз;weapon_name;weapon_name;weapon_name;weapon_name;weapon_name;weapon_name;weapon_name;weapon_name;weapon_name
 ;;;;;;;;;
-Wooden Sword;Деревянный меч;Wooden Sword;木剑;Holzschwert;;;;;Drewniany Miecz
-Rusty Sword;Ржавый меч;Rusty Sword;锈剑;Rostiges Schwert;;;;;Zardzewiały Miecz
-Homemade Blade;Самодельный клинок;Home-made Sword;土剑;Selbstgebautes Schwert;;;;;Miecz Domowej Roboty
-Goblin Sword;Гоблинский меч;Goblin Sword;哥布林剑;Goblinschwert;;;;;Gobliński Miecz
-Battle Cleaver;Боевой тесак;Battle Cleaver;战刀;Kampfbeil;;;;;Bojowy Tasak
-Inelaborate Falchion;Кустарный фальшион;Crude Falchion;粗锻斩剑;Plumpes Falchion;;;;;Kiepski Bułat
-Traveller's Blade;Клинок путешественника;Traveller's Blade;旅人之剑;Reiseklinge;;;;;Ostrze Podróżnika
-Shortsword;Короткий меч;Shortsword;短剑;Kurzschwert;;;;;Krótki Miecz
-Brigand Blade;Разбойничий меч;Brigand Blade;土匪剑;Banditenschwert;;;;;Ostrze Bandyty
-Footman Sword;Пехотный меч;Footman Sword;步兵配剑;Fußsoldatenschwert;;;;;Miecz Piechura
-Orcish Blade;Орочий клинок;Orcish Blade;奥克剑;Orkische Klinge;;;;;Ostrze Orków
-Vanguard Sword;Меч воина авангарда;Vanguard's Sword;前锋配剑;Schwert der Vorhut;;;;;Awangardowy Miecz
-Guild Blade;Гильдейский клинок;Guild Blade;公会配剑;Gildenschwert;;;;;Ostrze Gildii
-Watchman Sword;Меч стражника;Watchman Sword;守卫配剑;Gardistenschwert;;;;;Miecz Strażnika
-Norse Blade;Северный клинок;Norse Blade;诺斯剑;Nordische Klinge;;;;;Nordycki Miecz
+Wooden Sword;Деревянный меч;Espada de Madeira;木剑;Holzschwert;;;;;Drewniany Miecz
+Rusty Sword;Ржавый меч;Espada Enferrujada;锈剑;Rostiges Schwert;;;;;Zardzewiały Miecz
+Homemade Blade;Самодельный клинок;Espada Caseira;土剑;Selbstgebautes Schwert;;;;;Miecz Domowej Roboty
+Goblin Sword;Гоблинский меч;Espada Goblin;哥布林剑;Goblinschwert;;;;;Gobliński Miecz
+Battle Cleaver;Боевой тесак;Cutelo da Batalha;战刀;Kampfbeil;;;;;Bojowy Tasak
+Inelaborate Falchion;Кустарный фальшион;Falchion Bruto;粗锻斩剑;Plumpes Falchion;;;;;Kiepski Bułat
+Traveller's Blade;Клинок путешественника;Lâmina do Viajante;旅人之剑;Reiseklinge;;;;;Ostrze Podróżnika
+Shortsword;Короткий меч;Espada Curta;短剑;Kurzschwert;;;;;Krótki Miecz
+Brigand Blade;Разбойничий меч;Lâmina do Bandido;土匪剑;Banditenschwert;;;;;Ostrze Bandyty
+Footman Sword;Пехотный меч;Espada da Infantaria;步兵配剑;Fußsoldatenschwert;;;;;Miecz Piechura
+Orcish Blade;Орочий клинок;Lâmina Orc;奥克剑;Orkische Klinge;;;;;Ostrze Orków
+Vanguard Sword;Меч воина авангарда;Espada da Vanguarda;前锋配剑;Schwert der Vorhut;;;;;Awangardowy Miecz
+Guild Blade;Гильдейский клинок;Lâmina da Guilda;公会配剑;Gildenschwert;;;;;Ostrze Gildii
+Watchman Sword;Меч стражника;Espada do Vigilante;守卫配剑;Gardistenschwert;;;;;Miecz Strażnika
+Norse Blade;Северный клинок;Lâmina Nórdica;诺斯剑;Nordische Klinge;;;;;Nordycki Miecz
 Orcish Cleaver;Орочий тесак;Orcish Cleaver;奥克大刀;Orkisches Schlitzmesser;;;;;Tasak Orków
 Jagged Falchion;Зазубренный фальшион;Jagged Falchion;齿刃斩剑;Gezacktes Falchion;;;;;Szczerbaty Bułat
 Jarl Blade;Ярлов клинок;Jarl Blade;亚尔剑;Jarlklinge;;;;;Ostrze Jarla
@@ -107,26 +107,26 @@ Decorated Flanged Mace;Украшенный пернач;Ornate Flanged Mace;饰
 ;;;;;;;;;
 Peasant Hatchet;Крестьянский топорик;Peasant Hatchet;劈柴手斧;Bauernbeil;;;;;Toporek Wieśniaka
 Hunter Hatchet;Топорик охотника;Hunter Hatchet;猎人手斧;Jagdbeil;;;;;Toporek Łowcy
-Felling Axe;Топор лесоруба;Felling Axe;伐木斧;Fallaxt;;;;;Topór Drwala
-Bearded Axe;Бородовидный топор;Bearded Axe;钩斧;Bartaxt;;;;;Ciosany Topór
-Norse Axe;Северный топор;Norse Axe;诺斯斧;Nordische Axt;;;;;Norski Topór
-Barbaric Axe;Варварский топор;Barbaric Axe;野蛮人斧;Barbarenaxt;;;;;Barbarzyński Topór
-Dwarven Axe;Дварфийский топор;Dwarven Axe;矮人斧;Zwergenaxt;;;;;Kradnoludzki Topór
-Battle Axe;Боевой топор;Battle Axe;战斧;Kampfaxt;;;;;Topór Bojowy
-Orcish Axe;Орочий топор;Orcish Axe;奥克斧;Orkische Axt;;;;;Topór Orków
-Footman Axe;Пехотный топор;Footman Axe;步兵斧;Fußsoldatenaxt;;;;;Topór Piechura
-Eastern Sagaris;Сагарис кочевника;Nomad Sagaris;游牧长斧;Nomaden-Sagaris;;;;;Topór Nomada
-Boarding Axe;Абордажный топор;Boarding Axe;开船斧;Enteraxt;;;;;Topór Abordażowy
+Felling Axe;Топор лесоруба;Machado de Abate;伐木斧;Fallaxt;;;;;Topór Drwala
+Bearded Axe;Бородовидный топор;Machado Barbudo;钩斧;Bartaxt;;;;;Ciosany Topór
+Norse Axe;Северный топор;Machado Nórdico;诺斯斧;Nordische Axt;;;;;Norski Topór
+Barbaric Axe;Варварский топор;Machado Bárbaro;野蛮人斧;Barbarenaxt;;;;;Barbarzyński Topór
+Dwarven Axe;Дварфийский топор;Machado do Anão;矮人斧;Zwergenaxt;;;;;Kradnoludzki Topór
+Battle Axe;Боевой топор;Machado de Batalha;战斧;Kampfaxt;;;;;Topór Bojowy
+Orcish Axe;Орочий топор;Machado do Orc;奥克斧;Orkische Axt;;;;;Topór Orków
+Footman Axe;Пехотный топор;Machado da Infataria;步兵斧;Fußsoldatenaxt;;;;;Topór Piechura
+Eastern Sagaris;Сагарис кочевника;Machado Sagaris Nômade;游牧长斧;Nomaden-Sagaris;;;;;Topór Nomada
+Boarding Axe;Абордажный топор;Machado de Embarque;开船斧;Enteraxt;;;;;Topór Abordażowy
 Skadian Chekan;Скадийский чекан;Skadian Chekan;斯卡迪亚锤头斧;Skadianische Chekan;;;;;Skadiański Czakan
-Naval Hatchet;Флотский топорик;Naval Hatchet;海员斧;Marinebeil;;;;;Morski Toporek
-Knightly Axe;Рыцарский топор;Knightly Axe;骑士斧;Ritteraxt;;;;;Topór Rycerski
+Naval Hatchet;Флотский топорик;Machado Naval;海员斧;Marinebeil;;;;;Morski Toporek
+Knightly Axe;Рыцарский топор;Machado do Cavaleiro;骑士斧;Ritteraxt;;;;;Topór Rycerski
 Elven Tabar;Табар;Tabar;塔巴长斧;Tabar;;;;;Tabar
-Rider Axe;Топор наездника;Rider Axe;骑斧;Reiteraxt;;;;;Topór Najeźdźcy
-Broadaxe;Бродэкс;Broadaxe;阔斧;Breitaxt;;;;;Długi Topór
-Heavy Broadaxe;Тяжёлый бродэкс;Heavy Broadaxe;重型阔斧;Schwere Breitaxt;;;;;Ciężki Długi Topór
-Brynn Hatchet;Бриннский топорик;Brynn Hatchet;布林手斧;Brynn Beil;;;;;Topór z Brynn
-Reinforced Axe;Усиленный топор;Reinforced Axe;包铁手斧;Verstärkte Axt;;;;;Wzmocniony Topór
-Mercenary Axe;Топор наёмника;Mercenary Axe;佣兵斧;Söldneraxt;;;;;Topór Najemnika
+Rider Axe;Топор наездника;Machado do Cavaleiro;骑斧;Reiteraxt;;;;;Topór Najeźdźcy
+Broadaxe;Бродэкс;Machado Largo;阔斧;Breitaxt;;;;;Długi Topór
+Heavy Broadaxe;Тяжёлый бродэкс;Machado Pesado;重型阔斧;Schwere Breitaxt;;;;;Ciężki Długi Topór
+Brynn Hatchet;Бриннский топорик;Machadinha Brynn;布林手斧;Brynn Beil;;;;;Topór z Brynn
+Reinforced Axe;Усиленный топор;Machado Reforçado;包铁手斧;Verstärkte Axt;;;;;Wzmocniony Topór
+Mercenary Axe;Топор наёмника;Machado do Mercenário;佣兵斧;Söldneraxt;;;;;Topór Najemnika
 ;;;;;;;;;
 Peasant Bow;Крестьянский лук;Peasant Bow;农家土弓;Bauernbogen;;;;;Łuk Wieśniaka
 Shortbow;Короткий лук;Short Bow;短弓;Kurzbogen;;;;;Krótki Łuk

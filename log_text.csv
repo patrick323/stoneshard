@@ -140,7 +140,7 @@ sleepDanger;Сон здесь небезопасен: неподалёку вр�
 ;;;;;;;;;
 ;words;words;words;words;words;words;words;words;words
 attack;атакует;atacou;攻击;attackiert;;;;;atakuje
-counterAttack;контратакует;counterattacks;反击;kontert;;;;;kontratakuje
+counterAttack;контратакует;contra-atacou;反击;kontert;;;;;kontratakuje
 health;здоровья;de Vida;生命;Gesundheit;;;;;zdrowia
 durability;прочности;de durabilidade;耐久;Haltbarkeit;;;;;wytrzymałości
 morale;Мораль;Moral;斗志;Moral;;;;;Morale
@@ -161,14 +161,14 @@ leftLeg;левая нога;perna esquerda;左腿;linkes Bein;;;;;lewa noga
 rightLeg;правая нога;perna direita;右腿;rechtes Bein;;;;;prawa noga
 head;голова;Cabeça;头部;Kopf;;;;;głowa
 torso;торс;tronco;躯干;Rumpf;;;;;tułów
-well;колодца;well;水井;Brunnen;;;;;studni
-waterfall;водопада;waterfall;瀑布;Wasserfall;;;;;wodospadu
-hatred;Ненависть;Hatred;敌对;Verhasst;;;;;znienawidzony
-dislike;Неприязнь;Resentment;反感;Abneigung;;;;;zły
-neutral;Нейтралитет;Neutrality;不好不坏;Neutral;;;;;neutralny
-admiration;Благосклонность;Benevolence;友好;Wohlwollen;;;;;życzliwy
-amity;Дружелюбие;Amity;和睦;Freundschaft;;;;;przyjazny
-respect;Уважение;Respect;敬重;Respekt;;;;;szanuje cię
+well;колодца;bem;水井;Brunnen;;;;;studni
+waterfall;водопада;cascata;瀑布;Wasserfall;;;;;wodospadu
+hatred;Ненависть;Ódio;敌对;Verhasst;;;;;znienawidzony
+dislike;Неприязнь;Ressentimento;反感;Abneigung;;;;;zły
+neutral;Нейтралитет;Neutralidade;不好不坏;Neutral;;;;;neutralny
+admiration;Благосклонность;Benevolência;友好;Wohlwollen;;;;;życzliwy
+amity;Дружелюбие;Amizade;和睦;Freundschaft;;;;;przyjazny
+respect;Уважение;Respeito;敬重;Respekt;;;;;szanuje cię
 ;words_end;words_end;words_end;words_end;words_end;words_end;words_end;words_end;words_end
 ;;;;;;;;;
 ;actions;actions;actions;actions;actions;actions;actions;actions;actions
