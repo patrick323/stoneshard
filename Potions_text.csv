@@ -1,133 +1,133 @@
 ;Русский;English;中文;Deutsch;Español;Français;Italiano;Português;Polski
 специальные теги, не удалять, не изменять, при добавлении переносить вниз;potion_name;potion_name;potion_name;potion_name;potion_name;potion_name;potion_name;potion_name;potion_name
-good_pt_healing;исцеления / Исцеляющее;of Healing / Healing;治疗;der Heilung / Heilend;;;;;Leczenia / Leczenia
-bad_pt_harm;вреда / Губительное;of Harm / Harmful;有害;der Schädigung / Schädigend;;;;;Bólu / Boląca
-bad_pt_poison;отравления / Ядовитое;of Poison / Poisonous;毒性;des Giftes / Giftig;;;;;Trucizny / Trująca
-bad_pt_explosion;взрыва / Взрывоопасное;of Explosion / Explosive;爆炸;der Explosion / Explosiv;;;;;Eksplozji / Wybuchowa
-good_pt_pure;очищения / Очищающее;of Purification / Purifying;净化;der Reinigung / Reinigend;;;;;Oczyszczenia / Oczyszczająca
-bad_pt_narcotic;галлюцинаций / Наркотическое;of Hallucinations / Narcotic;致幻;der Halluzinationen / Narkotisch;;;;;Halucynacji / Narkotyczna
+good_pt_healing;исцеления / Исцеляющее;de Cura;治疗;der Heilung / Heilend;;;;;Leczenia / Leczenia
+bad_pt_harm;вреда / Губительное;Nocivo;有害;der Schädigung / Schädigend;;;;;Bólu / Boląca
+bad_pt_poison;отравления / Ядовитое;de veneno;毒性;des Giftes / Giftig;;;;;Trucizny / Trująca
+bad_pt_explosion;взрыва / Взрывоопасное; explosiva;爆炸;der Explosion / Explosiv;;;;;Eksplozji / Wybuchowa
+good_pt_pure;очищения / Очищающее;da Purificação;净化;der Reinigung / Reinigend;;;;;Oczyszczenia / Oczyszczająca
+bad_pt_narcotic;галлюцинаций / Наркотическое;da Alucinação;致幻;der Halluzinationen / Narkotisch;;;;;Halucynacji / Narkotyczna
 good_pt_teleport;//;//;//;//;;;;;//
 bad_pt_unstable;//;//;//;//;;;;;//
-good_pt_anestetic;анестезии / Обезболивающее;of Anesthesia / Anesthetic;麻醉;der Anästhesie / Anästhetisch;;;;;Znieczulenia / Znieczulająca
-good_pt_curiosity;любопытства / Любопытное;of Curiosity / Curious;好奇;der Neugierde / Neugierig;;;;;Ciekawości / Ciekawa
+good_pt_anestetic;анестезии / Обезболивающее;Anestésica;麻醉;der Anästhesie / Anästhetisch;;;;;Znieczulenia / Znieczulająca
+good_pt_curiosity;любопытства / Любопытное;da Curiosidade;好奇;der Neugierde / Neugierig;;;;;Ciekawości / Ciekawa
 bad_pt_oblivious;//;//;//;//;;;;;//
 good_pt_advancing;//;//;//;//;;;;;//
-good_pt_lifesteal;вампиризма / Вампирическое;of Life Drain / Vampiric;吸血;des Lebensentzugs / Vampirisch;;;;;Wykradania Zdrowia / Wampiryczna
-bad_pt_manaburn;выжигания / Выжигающее;of Manaburn / Manaburning;精力损耗;des Manabrands / Manaverbrennend;;;;;Spalania Many / Spalająca Manę
-good_pt_mana;энергии / Восстанавливающее;of Energy / Energizing;精力;der Energie / Energetisch;;;;;Energii / Energetyczna
-bad_pt_painfull;страданий / Болезненное;of Suffering / Painful;痛苦;des Leidens / Schmerzhaft;;;;;Cierpienia / Bolesna
-good_pt_painkilling;болеутоления / Болеутоляющее;of Painkilling / Painkilling;止痛;der Schmerzstillung / Schmerzstillend;;;;;Uśnieżająca / Uśnieżenia
-bad_pt_sedative;усыпления / Снотворное;of Sleeping / Sedative;安眠;des Schlafens / Sedierend;;;;;Śpiąca / Usypiająca
-good_pt_antivenom;противоядия / Знахарское;of Antivenom / Antivenomous;解毒;des Gegengifts / Entgiftend;;;;;Odtrucia / Odtruwająca
-good_pt_stoneskin;каменной кожи / Защитное;of Stoneskin / Protective;石肤;der Steinhaut / Schützend;;;;;Kamienna / Ochronna
-good_pt_satitution;насыщения / Питательное;of Satiety / Nutritional;营养;der Sättigung / Sättigend;;;;;Nasycenia / Nasycająca
-bad_pt_hunger;голода / Истощающее;of Hunger / Famished;饥饿;des Hungers / Aushungernd;;;;;Głodu / Głodująca
-bad_pt_ignition;воспламенения / Огнеопасное;of Ignition / Flammable;燃烧;der Entzündung / Entzündend;;;;;Podpalenia / Podpalająca
-bad_pt_freezing;оледенения / Замораживающее;of Frost / Freezing;霜冻;des Frosts / Einfrierend;;;;;Zamrożenia / Zamrażająca
-bad_pt_confuse;замешательства / Дезориентирующее;of Confusion / Disorienting;混乱;der Verwirrung / Desorientierend;;;;;Zdziwienia / Dezorientująca
-bad_pt_blinding;слепоты / Ослепляющее;of Blindness / Blinding;盲目;der Blindheit / Blendend;;;;;Ślepoty / Oślepiająca
-good_pt_regeneration;регенерации / Лечебное;of Restoration / Restorative;恢复;der Wiederherstellung / Wiederherstellend;;;;;Odnowienia / Odnawiająca
-good_pt_evasive;неуловимости / Уклончивое;of Elusiveness / Evasive;灵敏;der Flüchtigkeit / Ausweichend;;;;;Omijająca / Omijania
-good_pt_accuracy;точности / Стабилизирующее;of Precision / Stabilizing;精准;der Präzision / Stabilisierend;;;;;Precyzji / Stabilizująca
-good_pt_fortifying;крепости / Укрепляющее;of Sturdiness / Fortifying;健壮;der Robustheit / Stärkend;;;;;Twardości / Fortyfikująca
-good_pt_rage;ярости / Разъяряющее;of Rage / Infuriating;愤怒;der Wut / Wütendmachen;;;;;Wściekłości / Wściekła
-good_pt_deadless;смертоносности / Беспощадное;of Deadliness / Merciless;无情;der Tödlichkeit / Gnadenlos;;;;;Zabójczości / Bezlitosna
-bad_pt_drunk;опьянения / Крепкое;of Drunkenness / Potent;醉酒;der Trunkenheit / Potent;;;;;Pijaństwa / Mocna
-bad_pt_clymsy;неуклюжести / Неуклюжее;of Clumsiness / Awkward;笨拙;der Ungeschicklichkeit / Unbeholfen;;;;;Nieostrożności / Dziwna
-bad_pt_fragility;хрупкости / Смягчающее;of Frailness / Softening;脆弱;der Gebrechlichkeit / Weichmachend;;;;;Kruchości / Delikatna
-bad_pt_weakening;ослабления / Обессиливающее;of Weakening / Enervating;虚弱;der Schwächung / Enervierend;;;;;Osłabienia / Osłabiająca
+good_pt_lifesteal;вампиризма / Вампирическое;Vampirica;吸血;des Lebensentzugs / Vampirisch;;;;;Wykradania Zdrowia / Wampiryczna
+bad_pt_manaburn;выжигания / Выжигающее;de Perda de Energia;精力损耗;des Manabrands / Manaverbrennend;;;;;Spalania Many / Spalająca Manę
+good_pt_mana;энергии / Восстанавливающее;da Energia;精力;der Energie / Energetisch;;;;;Energii / Energetyczna
+bad_pt_painfull;страданий / Болезненное;do Sofrimento;痛苦;des Leidens / Schmerzhaft;;;;;Cierpienia / Bolesna
+good_pt_painkilling;болеутоления / Болеутоляющее;Analgésica;止痛;der Schmerzstillung / Schmerzstillend;;;;;Uśnieżająca / Uśnieżenia
+bad_pt_sedative;усыпления / Снотворное;Sedativa;安眠;des Schlafens / Sedierend;;;;;Śpiąca / Usypiająca
+good_pt_antivenom;противоядия / Знахарское;Antiveneno;解毒;des Gegengifts / Entgiftend;;;;;Odtrucia / Odtruwająca
+good_pt_stoneskin;каменной кожи / Защитное;Protetora;石肤;der Steinhaut / Schützend;;;;;Kamienna / Ochronna
+good_pt_satitution;насыщения / Питательное;da Saciedade;营养;der Sättigung / Sättigend;;;;;Nasycenia / Nasycająca
+bad_pt_hunger;голода / Истощающее;da Fome;饥饿;des Hungers / Aushungernd;;;;;Głodu / Głodująca
+bad_pt_ignition;воспламенения / Огнеопасное;Inflamável;燃烧;der Entzündung / Entzündend;;;;;Podpalenia / Podpalająca
+bad_pt_freezing;оледенения / Замораживающее;do Congelamento;霜冻;des Frosts / Einfrierend;;;;;Zamrożenia / Zamrażająca
+bad_pt_confuse;замешательства / Дезориентирующее;da Confusão;混乱;der Verwirrung / Desorientierend;;;;;Zdziwienia / Dezorientująca
+bad_pt_blinding;слепоты / Ослепляющее;da Cegueira;盲目;der Blindheit / Blendend;;;;;Ślepoty / Oślepiająca
+good_pt_regeneration;регенерации / Лечебное;da Restauração;恢复;der Wiederherstellung / Wiederherstellend;;;;;Odnowienia / Odnawiająca
+good_pt_evasive;неуловимости / Уклончивое;Evasiva;灵敏;der Flüchtigkeit / Ausweichend;;;;;Omijająca / Omijania
+good_pt_accuracy;точности / Стабилизирующее;da Precisão;精准;der Präzision / Stabilisierend;;;;;Precyzji / Stabilizująca
+good_pt_fortifying;крепости / Укрепляющее;de Fortificação;健壮;der Robustheit / Stärkend;;;;;Twardości / Fortyfikująca
+good_pt_rage;ярости / Разъяряющее;Enfurecedora;愤怒;der Wut / Wütendmachen;;;;;Wściekłości / Wściekła
+good_pt_deadless;смертоносности / Беспощадное;da Mortalidade;无情;der Tödlichkeit / Gnadenlos;;;;;Zabójczości / Bezlitosna
+bad_pt_drunk;опьянения / Крепкое;da Embriaguez;醉酒;der Trunkenheit / Potent;;;;;Pijaństwa / Mocna
+bad_pt_clymsy;неуклюжести / Неуклюжее;do Desajeitado;笨拙;der Ungeschicklichkeit / Unbeholfen;;;;;Nieostrożności / Dziwna
+bad_pt_fragility;хрупкости / Смягчающее;da Fragilidade;脆弱;der Gebrechlichkeit / Weichmachend;;;;;Kruchości / Delikatna
+bad_pt_weakening;ослабления / Обессиливающее;do Enfraquecimento;虚弱;der Schwächung / Enervierend;;;;;Osłabienia / Osłabiająca
 good_pt_enrichment;//;//;//;//;;;;;//
-good_pt_mana_drain;похищения энергии / Вытягивающее;of Energy Drain / Siphoning;精力吸取;des Energieentzugs / Absaugend;;;;;Wykradania Energii / Wysysająca
-bad_pt_intoxication;интоксикации / Токсичное;of Intoxication / Toxic;迷醉;der Vergiftung / Toxisch;;;;;Zatrucia / Toksyczna
+good_pt_mana_drain;похищения энергии / Вытягивающее;de Dreno de Energia;精力吸取;des Energieentzugs / Absaugend;;;;;Wykradania Energii / Wysysająca
+bad_pt_intoxication;интоксикации / Токсичное;da Intoxicação;迷醉;der Vergiftung / Toxisch;;;;;Zatrucia / Toksyczna
 ;potion_name_end;potion_name_end;potion_name_end;potion_name_end;potion_name_end;potion_name_end;potion_name_end;potion_name_end;potion_name_end
 ;;;;;;;;;
 ;potion_effect;potion_effect;potion_effect;potion_effect;potion_effect;potion_effect;potion_effect;potion_effect;potion_effect
-good_pt_healing;Исцеление;Healing;疗伤;Heliung;;;;;Leczenie
-bad_pt_harm;Вред;Harm;伤害;Schädigung;;;;;Ból
-bad_pt_poison;Отравление;Poison;中毒;Gift;;;;;Zatrucie
-bad_pt_explosion;Взрыв;Explosion;爆炸;Explosion;;;;;Eksplozja
-good_pt_pure;Очищение;Purification;净化;Reinigung;;;;;Oczyszczenie
-bad_pt_narcotic;Приход;Bad Trip;惊慌失措;Horrortrip;;;;;Urwany Film
+good_pt_healing;Исцеление;Cura;疗伤;Heliung;;;;;Leczenie
+bad_pt_harm;Вред;Prejudicial;伤害;Schädigung;;;;;Ból
+bad_pt_poison;Отравление;Envenenamento;中毒;Gift;;;;;Zatrucie
+bad_pt_explosion;Взрыв;Explosão;爆炸;Explosion;;;;;Eksplozja
+good_pt_pure;Очищение;Purificação;净化;Reinigung;;;;;Oczyszczenie
+bad_pt_narcotic;Приход;Viagem Ruim;惊慌失措;Horrortrip;;;;;Urwany Film
 good_pt_teleport;//;//;//;//;;;;;//
 bad_pt_unstable;//;//;//;//;;;;;//
-good_pt_anestetic;Анестезия;Anesthesia;麻醉;Anästhesie;;;;;Uśnieżenie
-good_pt_curiosity;Восприимчивость;Receptivity;好奇;Aufnahmebereitschaft;;;;;Wrażliwość
+good_pt_anestetic;Анестезия;Anestesia;麻醉;Anästhesie;;;;;Uśnieżenie
+good_pt_curiosity;Восприимчивость;Receptividade;好奇;Aufnahmebereitschaft;;;;;Wrażliwość
 bad_pt_oblivious;//;//;//;//;;;;;//
 good_pt_advancing;//;//;//;//;;;;;//
-good_pt_lifesteal;Похищение жизни;Life Drain;吸取生命;Lebensentzug;;;;;Wykradanie Zdrowia
-bad_pt_manaburn;Выжигание энергии;Energy Burn;精力损耗;Energiebrand;;;;;Wykradanie Energii
-good_pt_mana;Энергия;Energy;精力;Energie;;;;;Energia
-bad_pt_painfull;Страдание;Suffering;痛苦;Leiden;;;;;Cierpienie
-good_pt_painkilling;Болеутоление;Painkilling;止痛;Schmerzstillung;;;;;Uśnieżenie
-bad_pt_sedative;Усыпление;Sedation;镇静安眠;Sedierung;;;;;Opanowanie
-good_pt_antivenom;Противоядие;Antivenom;解毒;Gegengift;;;;;Odtrucie
+good_pt_lifesteal;Похищение жизни;Dreno da Vida;吸取生命;Lebensentzug;;;;;Wykradanie Zdrowia
+bad_pt_manaburn;Выжигание энергии;Queima de Energia;精力损耗;Energiebrand;;;;;Wykradanie Energii
+good_pt_mana;Энергия;Energia;精力;Energie;;;;;Energia
+bad_pt_painfull;Страдание;Sofrimento;痛苦;Leiden;;;;;Cierpienie
+good_pt_painkilling;Болеутоление;Analgésico;止痛;Schmerzstillung;;;;;Uśnieżenie
+bad_pt_sedative;Усыпление;Sedação;镇静安眠;Sedierung;;;;;Opanowanie
+good_pt_antivenom;Противоядие;Antiveneno;解毒;Gegengift;;;;;Odtrucie
 good_pt_stoneskin;Каменная кожа;Stoneskin;石肤;Steinhaut;;;;;Kamienna Skóra
 good_pt_satitution;Насыщение;Satiation;满足;Sättigung;;;;;Sytość
 bad_pt_hunger;Голод;Hunger;饥饿;Hunger;;;;;Głód
-bad_pt_ignition;Воспламенение;Ignition;燃烧;Entzündung;;;;;Podpalenie
-bad_pt_freezing;Оледенение;Freezing;霜冻;Frieren;;;;;Zamrożenie
-bad_pt_confuse;Замешательство;Confusion;迷惑;Verwirrung;;;;;Dezorientacja
-bad_pt_blinding;Слепота;Blindness;盲目;Blindheit;;;;;Ślepota
-good_pt_regeneration;Регенерация;Restoration;恢复;Wiederherstellung;;;;;Odnawianie
-good_pt_evasive;Неуловимость;Elusiveness;灵敏;Flüchtigkeit;;;;;Unikliwość
-good_pt_accuracy;Точность;Accuracy;准度;Genauigkeit;;;;;Celność
-good_pt_fortifying;Крепость;Sturdiness;健壮;Robustheit;;;;;Krzepkość
-good_pt_rage;Ярость;Rage;愤怒;Wut;;;;;Szał
-good_pt_deadless;Смертоносность;Deadliness;致命;Tödlichkeit;;;;;Zabójczość
-bad_pt_drunk;Опьянение;Drunkeness;醉酒;Trunkenheit;;;;;Pijaństwo
-bad_pt_clymsy;Неуклюжесть;Clumsiness;笨拙;Ungeschicklichkeit;;;;;Niezdarność
-bad_pt_fragility;Хрупкость;Frailness;脆弱;Gebrechlichkeit;;;;;Porażka
-bad_pt_weakening;Ослабление;Weakening;虚弱;Schwächung;;;;;Słabość
+bad_pt_ignition;Воспламенение;Ignição;燃烧;Entzündung;;;;;Podpalenie
+bad_pt_freezing;Оледенение;Congelamento;霜冻;Frieren;;;;;Zamrożenie
+bad_pt_confuse;Замешательство;Confusão;迷惑;Verwirrung;;;;;Dezorientacja
+bad_pt_blinding;Слепота;Cegueira;盲目;Blindheit;;;;;Ślepota
+good_pt_regeneration;Регенерация;Restauração;恢复;Wiederherstellung;;;;;Odnawianie
+good_pt_evasive;Неуловимость;Evasão;灵敏;Flüchtigkeit;;;;;Unikliwość
+good_pt_accuracy;Точность;Precisão;准度;Genauigkeit;;;;;Celność
+good_pt_fortifying;Крепость;Robustez;健壮;Robustheit;;;;;Krzepkość
+good_pt_rage;Ярость;Fúria;愤怒;Wut;;;;;Szał
+good_pt_deadless;Смертоносность;Letalidade;致命;Tödlichkeit;;;;;Zabójczość
+bad_pt_drunk;Опьянение;Embriaguez;醉酒;Trunkenheit;;;;;Pijaństwo
+bad_pt_clymsy;Неуклюжесть;Desajeitado;笨拙;Ungeschicklichkeit;;;;;Niezdarność
+bad_pt_fragility;Хрупкость;Fragilidade;脆弱;Gebrechlichkeit;;;;;Porażka
+bad_pt_weakening;Ослабление;Enfraquecimento;虚弱;Schwächung;;;;;Słabość
 good_pt_enrichment;//;//;//;//;;;;;//
-good_pt_mana_drain;Похищение энергии;Energy Drain;精力吸取;Energieentzug;;;;;Wykradanie Energii
-bad_pt_intoxication;Интоксикация;Intoxication;迷醉;Vergiftung;;;;;Zatrucie
+good_pt_mana_drain;Похищение энергии;Dreno de energia;精力吸取;Energieentzug;;;;;Wykradanie Energii
+bad_pt_intoxication;Интоксикация;Intoxicação;迷醉;Vergiftung;;;;;Zatrucie
 ;potion_effect_end;potion_effect_end;potion_effect_end;potion_effect_end;potion_effect_end;potion_effect_end;potion_effect_end;potion_effect_end;potion_effect_end
 ;;;;;;;;;
 ;potion_quality;potion_quality;potion_quality;potion_quality;potion_quality;potion_quality;potion_quality;potion_quality;potion_quality
-;Безупречное;Flawless;完美;Makellos;;;;;Czysta
-;Сбалансированное;Balanced;均衡;Ausgewogen;;;;;Zbalansowana
-;Сомнительное;Dubious;可疑;Fraglich;;;;;Podejrzana
-;Вредоносное;Harmful;有害;Schädigend;;;;;Szkodliwa
+;Безупречное;Impecável;完美;Makellos;;;;;Czysta
+;Сбалансированное;Equilibrada;均衡;Ausgewogen;;;;;Zbalansowana
+;Сомнительное;Duvidosa;可疑;Fraglich;;;;;Podejrzana
+;Вредоносное;Prejudicial;有害;Schädigend;;;;;Szkodliwa
 ;potion_quality_end;potion_quality_end;potion_quality_end;potion_quality_end;potion_quality_end;potion_quality_end;potion_quality_end;potion_quality_end;potion_quality_end
 ;;;;;;;;;
 ;potion_desc;potion_desc;potion_desc;potion_desc;potion_desc;potion_desc;potion_desc;potion_desc;potion_desc
-good_pt_healing;Восстанавливает здоровье.;Restores Health.;恢复生命。;Stellt Gesundheit wieder her.;;;;;Odnawia Zdrowie.
-bad_pt_harm;Наносит урон.;Damages Health.;损害生命。;Schädigt Gesundheit.;;;;;Obniża Zdrowie.
-bad_pt_poison;Отравляет.;Poisons.;导致中毒。;Vergiftet.;;;;;Zatruwa.
-bad_pt_explosion;Наносит травмирующий урон.;Deals Bodypart Damage;伤害肢体。;Fügt Körperteilen Schaden zu.;;;;;Zadaje obrażenia częsciom ciała.
-good_pt_pure;Избавляет от нескольких активных эффектов.;Removes some active effects.;消除当前存在的某些效果。;Entfernt einige aktive Effekte.;;;;;Usuwa część aktywnych efektów.
-bad_pt_narcotic;Вызывает галлюцинации.;Causes Bad Trip.;导致“惊慌失措”。;Löst einen Horrortrip aus.;;;;;Powoduje Urwany Film.
+good_pt_healing;Восстанавливает здоровье.;Restaura a sua Vida.;恢复生命。;Stellt Gesundheit wieder her.;;;;;Odnawia Zdrowie.
+bad_pt_harm;Наносит урон.;Prejudica a sua Vida.;损害生命。;Schädigt Gesundheit.;;;;;Obniża Zdrowie.
+bad_pt_poison;Отравляет.;Venenoso.;导致中毒。;Vergiftet.;;;;;Zatruwa.
+bad_pt_explosion;Наносит травмирующий урон.;Causa dano à alguma parte do corpo;伤害肢体。;Fügt Körperteilen Schaden zu.;;;;;Zadaje obrażenia częsciom ciała.
+good_pt_pure;Избавляет от нескольких активных эффектов.Remove alguns efeitos ativos.;消除当前存在的某些效果。;Entfernt einige aktive Effekte.;;;;;Usuwa część aktywnych efektów.
+bad_pt_narcotic;Вызывает галлюцинации.;Causa uma viagem ruim.;导致“惊慌失措”。;Löst einen Horrortrip aus.;;;;;Powoduje Urwany Film.
 good_pt_teleport;//;//;//;//;;;;;//
 bad_pt_unstable;//;//;//;//;;;;;//
-good_pt_anestetic;Полностью снимает боль. Дает полную сопротивляемость боли на некоторое время.;Resets Pain. Gives full resistance to Pain for some time.;消除疼痛，令角色在一段时间内可以完全抵抗疼痛。;Löst den Schmerz auf. Verleiht einige Zeit vollen Widerstand gegen Schmerz.;;;;;Resetuje Ból, daje pełną odporność na Ból na pewien czas.
-good_pt_curiosity;Делает восприимчивым.;Makes you Receptive.;令你好奇。;Macht dich empfänglicher.;;;;;Czyni cię Podatnym.
+good_pt_anestetic;Полностью снимает боль. Дает полную сопротивляемость боли на некоторое время.;Elimina a dor. Dá resistência total à dor durante algum tempo.;消除疼痛，令角色在一段时间内可以完全抵抗疼痛。;Löst den Schmerz auf. Verleiht einige Zeit vollen Widerstand gegen Schmerz.;;;;;Resetuje Ból, daje pełną odporność na Ból na pewien czas.
+good_pt_curiosity;Делает восприимчивым.;Deixa você receptivo.;令你好奇。;Macht dich empfänglicher.;;;;;Czyni cię Podatnym.
 bad_pt_oblivious;//;//;//;//;;;;;//
 good_pt_advancing;//;//;//;//;;;;;//
-good_pt_lifesteal;Позволяет похищать жизнь у врагов.;Allows you to Drain Health with your physical attacks.;你的物理攻击可以吸取生命。;Erlaubt dir, mit deinen phys. Angriffen, Leben zu entziehen..;;;;;Pozwala na Wykradanie Zdrowia atakami fizycznymi.
-bad_pt_manaburn;Сжигает энергию.;Burns Energy.;损耗精力。;Verbrennt Energie.;;;;;Wypala Energię.
-good_pt_mana;Восстанавливает энергию.;Restores Energy.;恢复精力。;Stellt Energie wieder her.;;;;;Odnawia Energię.
-bad_pt_painfull;Причиняет боль.;Causes Pain.;导致疼痛。;Verursacht Schmerz.;;;;;Powoduje Ból.
-good_pt_painkilling;Облегчает боль.;Decreases Pain.;缓解疼痛。;Verringert Schmerz.;;;;;Zmniejsza Ból.
-bad_pt_sedative;Погружает в сон.;Puts you to Sleep.;令你入睡。;Versetzt dich in Schlaf.;;;;;Kładzie cię spać.
-good_pt_antivenom;Снимает отравление. Снижает уровень интоксикации.;Removes Poisoning. Decreases Intoxication.;解除中毒状态，缓解迷醉状态。;Entfernt Vergiftung. Verringert Intoxikation.;;;;;Usuwa Truciznę, Zmniejsza Zatrucie.
-good_pt_stoneskin;Превращает кожу в камень.;Turns your skin into stone.;令你的皮肤变成石头。;Verwandelt deine Haut in Stein.;;;;;Zamienia twoją skórę w kamień.
-good_pt_satitution;Утоляет голод и жажду.;Satisfies Hunger and Thirst.;缓解饥饿和口渴。;Stillt Hunger und Durst.;;;;;Zaspokaja Głód i Pragnienie.
-bad_pt_hunger;Вызывает голод или жажду.;Causes Hunger or Thirst.;导致饥饿和口渴。;Verursacht Hunger oder Durst.;;;;;Powoduje Głód lub Pragnienie.
-bad_pt_ignition;Воспламеняет.;Ignites.;导致着火。;Entzündet.;;;;;Podpala.
-bad_pt_freezing;Замораживает.;Freezes.;导致冻僵。;Friert ein.;;;;;Zamraża.
-bad_pt_confuse;Вызывает замешательство.;Causes Confusion.;导致迷惑。;Verursacht Verwirrtheit.;;;;;Powoduje dezorientację.
-bad_pt_blinding;Ослепляет.;Blinds.;致盲。;Blendet.;;;;;Oślepia.
-good_pt_regeneration;Ускоряет регенерацию.;Improves your Health Restoration;提升你生命的自动恢复;Verbessert deine Gesundsheitsregeneration;;;;;Zwiększa Regenerację Zdrowia.
-good_pt_evasive;Делает неуловимым.;Makes you Elusive.;令你身手敏捷。;Macht dich schwer zu fassen.;;;;;Czyni cię Nieuchwytnym.
-good_pt_accuracy;Делает потрясающе точным.;Makes you exceptionally Accurate.;大幅提高你的准度。;Macht dich außergewöhnlich genau.;;;;;Czyni cię niezwykle Celnym.
-good_pt_fortifying;Укрепляет.;Boosts your health.;强健体魄。;Steigert deine Gesundheit.;;;;;Poprawia twoje Zdrowie.
-good_pt_rage;Вызывает ярость.;Enrages.;激怒。;Macht wütend.;;;;;Powoduje Wściekłość.
-good_pt_deadless;Делает смертоносным.;Makes you Deadly.;你可以置敌于死地。;Macht dich Tödlich.;;;;;Czyni cię Zabójczym.
-bad_pt_drunk;Опьяняет.;Makes you Drunk.;令你醉酒。;Macht dich Betrunken.;;;;;Czyni cię Pijanym.
-bad_pt_clymsy;Делает неуклюжим.;Makes you Clumsy.;令你行动笨拙。;Macht dich Ungeschickt.;;;;;Czyni cię Niezdarnym.
-bad_pt_fragility;Делает хрупким.;Makes you Fragile.;令你脆弱。;Macht dich Gebrechlich.;;;;;Czyni cię Podatnym.
-bad_pt_weakening;Ослабляет.;Weakens.;令你虚弱。;Schwächt.;;;;;Osłabia.
+good_pt_lifesteal;Позволяет похищать жизнь у врагов.;Permite drenar a saúde com seus ataques físicos.;你的物理攻击可以吸取生命。;Erlaubt dir, mit deinen phys. Angriffen, Leben zu entziehen..;;;;;Pozwala na Wykradanie Zdrowia atakami fizycznymi.
+bad_pt_manaburn;Сжигает энергию.;Queima a Energia.;损耗精力。;Verbrennt Energie.;;;;;Wypala Energię.
+good_pt_mana;Восстанавливает энергию.;Restaura a Energia.;恢复精力。;Stellt Energie wieder her.;;;;;Odnawia Energię.
+bad_pt_painfull;Причиняет боль.;Causa dor.;导致疼痛。;Verursacht Schmerz.;;;;;Powoduje Ból.
+good_pt_painkilling;Облегчает боль.;Diminui a Dor.;缓解疼痛。;Verringert Schmerz.;;;;;Zmniejsza Ból.
+bad_pt_sedative;Погружает в сон.;Faz você Dormir.;令你入睡。;Versetzt dich in Schlaf.;;;;;Kładzie cię spać.
+good_pt_antivenom;Снимает отравление. Снижает уровень интоксикации.;Remove envenenamento. Diminui a intoxicação.;解除中毒状态，缓解迷醉状态。;Entfernt Vergiftung. Verringert Intoxikation.;;;;;Usuwa Truciznę, Zmniejsza Zatrucie.
+good_pt_stoneskin;Превращает кожу в камень.;Transforma sua pele em pedra.;令你的皮肤变成石头。;Verwandelt deine Haut in Stein.;;;;;Zamienia twoją skórę w kamień.
+good_pt_satitution;Утоляет голод и жажду.;Satisfaz a fome e a sede.;缓解饥饿和口渴。;Stillt Hunger und Durst.;;;;;Zaspokaja Głód i Pragnienie.
+bad_pt_hunger;Вызывает голод или жажду.;Causa fome ou sede.;导致饥饿和口渴。;Verursacht Hunger oder Durst.;;;;;Powoduje Głód lub Pragnienie.
+bad_pt_ignition;Воспламеняет.;inflamável.;导致着火。;Entzündet.;;;;;Podpala.
+bad_pt_freezing;Замораживает.;causa Congelamento.;导致冻僵。;Friert ein.;;;;;Zamraża.
+bad_pt_confuse;Вызывает замешательство.;causa Confusão.;导致迷惑。;Verursacht Verwirrtheit.;;;;;Powoduje dezorientację.
+bad_pt_blinding;Ослепляет.;céga você.;致盲。;Blendet.;;;;;Oślepia.
+good_pt_regeneration;Ускоряет регенерацию.;Melhora a restauração de vida;提升你生命的自动恢复;Verbessert deine Gesundsheitsregeneration;;;;;Zwiększa Regenerację Zdrowia.
+good_pt_evasive;Делает неуловимым.;Deixa você Evasivo.;令你身手敏捷。;Macht dich schwer zu fassen.;;;;;Czyni cię Nieuchwytnym.
+good_pt_accuracy;Делает потрясающе точным.;Torna você excepcionalmente Preciso.;大幅提高你的准度。;Macht dich außergewöhnlich genau.;;;;;Czyni cię niezwykle Celnym.
+good_pt_fortifying;Укрепляет.;Impulsiona a sua vida.;强健体魄。;Steigert deine Gesundheit.;;;;;Poprawia twoje Zdrowie.
+good_pt_rage;Вызывает ярость.;Enfurece.;激怒。;Macht wütend.;;;;;Powoduje Wściekłość.
+good_pt_deadless;Делает смертоносным.;Deixa você mortífero.;你可以置敌于死地。;Macht dich Tödlich.;;;;;Czyni cię Zabójczym.
+bad_pt_drunk;Опьяняет.;Deixa você Bêbado.;令你醉酒。;Macht dich Betrunken.;;;;;Czyni cię Pijanym.
+bad_pt_clymsy;Делает неуклюжим.;Deixa você atrapalhado.;令你行动笨拙。;Macht dich Ungeschickt.;;;;;Czyni cię Niezdarnym.
+bad_pt_fragility;Делает хрупким.;Deixa você frágil.;令你脆弱。;Macht dich Gebrechlich.;;;;;Czyni cię Podatnym.
+bad_pt_weakening;Ослабляет.;Enfraquece.;令你虚弱。;Schwächt.;;;;;Osłabia.
 good_pt_enrichment;//;//;//;//;;;;;//
-good_pt_mana_drain;Позволяет похищать энергию у врагов.;Allows you to Drain Energy with your physical attacks.;你的物理攻击可以吸取精力。;Erlaubt dir, mit deinen phys. Angriffen, Energie zu entziehen..;;;;;Pozwala na wykradanie Energii atakami fizycznymi.
-bad_pt_intoxication;Увеличивает интоксикацию.;Increases Intoxication.;加重迷醉状态。;Erhöht Intoxikation.;;;;;Zwiększa Zatrucie.
+good_pt_mana_drain;Позволяет похищать энергию у врагов.;Permite drenar energia com seus ataques físicos.;你的物理攻击可以吸取精力。;Erlaubt dir, mit deinen phys. Angriffen, Energie zu entziehen..;;;;;Pozwala na wykradanie Energii atakami fizycznymi.
+bad_pt_intoxication;Увеличивает интоксикацию.;Aumenta a intoxicação.;加重迷醉状态。;Erhöht Intoxikation.;;;;;Zwiększa Zatrucie.
 ;potion_desc_end;potion_desc_end;potion_desc_end;potion_desc_end;potion_desc_end;potion_desc_end;potion_desc_end;potion_desc_end;potion_desc_end
