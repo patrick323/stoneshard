@@ -60,38 +60,38 @@ mannshire;Манншир;Mannshire;曼郡;Mannshire;;;;;Mannshire
 ;;;;;;;;;
 ;// factions;;;;;;;;
 ;;;;;;;;;
-Grand Magistrate;Великий Магистрат;Grand Magistrate;城市联盟;Großer Magistrat;;;;;Wielki Magistrat
+Grand Magistrate;Великий Магистрат;Grande Magistrado;城市联盟;Großer Magistrat;;;;;Wielki Magistrat
 ;;;;;;;;;
 ;// occupations;;;;;;;;
 ;;;;;;;;;
-elder;Старейшина;Elder;村长;Ältester;;;;;Starszy
-innkeeper;Трактирщик;Innkeeper;酒馆老板;Gastwirt;;;;;Karczmarz
-hostess;Хозяйка;Hostess;老板娘;Gastwirtin;;;;;Służka
-stableman;Конюх;Stableman;马夫;Stallknecht;;;;;Stajenny
-guard;Стражник;Guard;护卫;Wache;;;;;Strażnik
-guard_sergeant;Сержант;Sergeant;军官;Unteroffizier;;;;;Sierżant
-peasant;Крестьянин;Peasant;农民;Bauer;;;;;Wieśniak
-butcher;Мясник;Butcher;屠夫;Schlachter;;;;;Rzeźnik
-food_trader;Торговка едой;Food Trader;食品小贩;Essenhändler;;;;;Sprzedawca Jedzenia
-vegetable_trader;Торговка овощами;Vegetable Trader;蔬菜小贩;Gemüsehändler;;;;;Sprzedawca Warzyw
-fruit_trader;Торговка фруктами;Fruit Trader;水果小贩;Obsthändler;;;;;Sprzedawca Owoców
-merchant;Купец;Merchant;生意人;Händler;;;;;Handlarz
-smith;Кузнец;Smith;铁匠;Schmied;;;;;Kowal
-herbalist;Травник;Herbalist;药师;Kräuterkundiger;;;;;Zielarz
-carpenter;Плотник;Carpenter;木匠;Zimmermann;;;;;Stolarz
-drunkard;Пьяница;Drunkard;酒鬼;Trunkenbold;;;;;Pijaczyna
-beggar;Попрошайка;Beggar;乞丐;Bettler;;;;;Żebrak
-miller;Мельник;Miller;磨坊主;Müller;;;;;Młynarz
-tailor;Портной;Tailor;裁缝;Schneider;;;;;Krawiec
-emissar;Посланник;Emissar;大使;Gesandter;;;;;Emisariusz
-daughter;Купеческая дочка;Merchant's Daughter;生意人的女儿;Händlerstochter;;;;;Córka Handlarza
-governor;Наместник;Governor;总督;Gouverneur;;;;;Burmistrz
-innkeeperess;Трактирщица;Innkeeperess;老板娘;Gastwirtin;;;;;Gospodyni
-host;Хозяин;Host;老板;Host;;;;;Gospodarz
-apprentice;Подмастерье;Apprentice;学徒;Lehrling;;;;;Nowicjusz
-old_hilda;Крестьянка;Peasant;农民;Bauer;;;;;Wieśniak
-healer;Священник;Priest;牧师;Priester;;;;;Kapłan
-shepherd;Пастух;Shepherd;羊倌;Schäfer;;;;;Pasterz
+elder;Старейшина;Ancião;村长;Ältester;;;;;Starszy
+innkeeper;Трактирщик;Hospedeiro;酒馆老板;Gastwirt;;;;;Karczmarz
+hostess;Хозяйка;Hospedeira;老板娘;Gastwirtin;;;;;Służka
+stableman;Конюх;Estalajadeiro;马夫;Stallknecht;;;;;Stajenny
+guard;Стражник;Guarda;护卫;Wache;;;;;Strażnik
+guard_sergeant;Сержант;Sargento;军官;Unteroffizier;;;;;Sierżant
+peasant;Крестьянин;Camponês;农民;Bauer;;;;;Wieśniak
+butcher;Мясник;Açougueiro;屠夫;Schlachter;;;;;Rzeźnik
+food_trader;Торговка едой;Comerciante de Alimentos;食品小贩;Essenhändler;;;;;Sprzedawca Jedzenia
+vegetable_trader;Торговка овощами;Comerciante de Vegetais;蔬菜小贩;Gemüsehändler;;;;;Sprzedawca Warzyw
+fruit_trader;Торговка фруктами;Comerciante de Frutas;水果小贩;Obsthändler;;;;;Sprzedawca Owoców
+merchant;Купец;Comerciante;生意人;Händler;;;;;Handlarz
+smith;Кузнец;Ferreiro;铁匠;Schmied;;;;;Kowal
+herbalist;Травник;Herbalista;药师;Kräuterkundiger;;;;;Zielarz
+carpenter;Плотник;Carpinteiror;木匠;Zimmermann;;;;;Stolarz
+drunkard;Пьяница;Bêbado;酒鬼;Trunkenbold;;;;;Pijaczyna
+beggar;Попрошайка;Mendigo;乞丐;Bettler;;;;;Żebrak
+miller;Мельник;Moleiro;磨坊主;Müller;;;;;Młynarz
+tailor;Портной;Alfaiate;裁缝;Schneider;;;;;Krawiec
+emissar;Посланник;Emissário;大使;Gesandter;;;;;Emisariusz
+daughter;Купеческая дочка;Filha do Comerciante;生意人的女儿;Händlerstochter;;;;;Córka Handlarza
+governor;Наместник;Governador;总督;Gouverneur;;;;;Burmistrz
+innkeeperess;Трактирщица;estalajadeiro;老板娘;Gastwirtin;;;;;Gospodyni
+host;Хозяин;Hospedeiro;老板;Host;;;;;Gospodarz
+apprentice;Подмастерье;Aprendiz;学徒;Lehrling;;;;;Nowicjusz
+old_hilda;Крестьянка;Camponês;农民;Bauer;;;;;Wieśniak
+healer;Священник;Sacerdote;牧师;Priester;;;;;Kapłan
+shepherd;Пастух;Pastor;羊倌;Schäfer;;;;;Pasterz
 ;;;;;;;;;
 NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end;NPC_info_end
 ;;;;;;;;;

@@ -25,38 +25,38 @@ Moose;Лось;Alce;驼鹿;Elch;;;;;Łoś
 Deer;Олень;Veado;鹿;Hirsch;;;;;Jeleń
 Gulon;Гулон;Gulon;谷隆;Gulon;;;;;Gulon
 Snake;Лесная гадюка;Víbora da floresta;林蟒;Waldviper;;;;;Leśna Żmija
-Putrid Slime;Мерзкий слизняк;Putrid Slime;烂泥;Faulschleim;;;;;Zgniły Szlam
-Forest Buzzer;Смертожал;Deathstinger;亡蜂;Todesstachler;;;;;Śmierciokolec
-Buzzer Hive;Улей смертожалов;Deathstinger Hive;亡蜂巢;Todesstachler-Nest;;;;;Ul Śmierciokolców
-Spiderling;Гигантский паук;Giant Spider;巨蛛;Riesenspinne;;;;;Wielki Pająk
-Brigand Poacher;Браконьер;Poacher;盗猎者;Wilderer;;;;;Kłusownik
+Putrid Slime;Мерзкий слизняк;Lodo Pútrido;烂泥;Faulschleim;;;;;Zgniły Szlam
+Forest Buzzer;Смертожал;Ferrão da Morte;亡蜂;Todesstachler;;;;;Śmierciokolec
+Buzzer Hive;Улей смертожалов;Colmeia de Ferrões da Morte;亡蜂巢;Todesstachler-Nest;;;;;Ul Śmierciokolców
+Spiderling;Гигантский паук;Aranha Giganter;巨蛛;Riesenspinne;;;;;Wielki Pająk
+Brigand Poacher;Браконьер;Caçador;盗猎者;Wilderer;;;;;Kłusownik
 Brigand Goon;Вышибала;Goon;流氓;Schläger;;;;;Zbój
 Brigand Goon Cleaver;Вышибала;Goon;流氓;Schläger;;;;;Rozbójnik
-Brigand Thug;Бандит;Thug;恶棍;Verbrecher;;;;;Bandyta
-Brigand Trasher;Амбал;Enforcer;打手;Vollstrecker;;;;;Twardziel
-Brigand Rioter;Мятежник;Rebel;暴徒;Rebell;;;;;Rebeliant
-Brigand Kingpin;Громила;Brute;恶人;Rohling;;;;;Brutal
-Brigand Sidekick;Подельник;Sidekick;手下;Handlanger;;;;;Pomocnik
-Brigand Henchman;Подельник;Henchman;走狗;Gefolgsmann;;;;;Giermek
-Brigand Crook;Плут;Crook;骗子;Ganove;;;;;Oszust
-Brigand Renegade;Перебежчик;Turncoat;叛徒;Überläufer;;;;;Zdrajca
-Brigand Mancatcher;Ловец;Mancatcher;人贩;Menschenfänger;;;;;Łapacz
-Rogue Mage;Пиромант-разбойник;Rogue Pyromancer;土匪炎术法师;Abtrünniger Pyromant;;;;;Łajdak Piromanta
-Brigand Outlaw;Грабитель;Outlaw;歹徒;Ausgestoßener;;;;;Banita
-Brigand Freak;Безумец;Madman;疯子;Wahnsinniger;;;;;Szaleniec
-Brigand Warlock;Чернокнижник-разбойник;Brigand Warlock;土匪男巫;Banditenhexer;;;;;Zbójecki Czarnoksiężnik
+Brigand Thug;Бандит;Bandido;恶棍;Verbrecher;;;;;Bandyta
+Brigand Trasher;Амбал;Executor;打手;Vollstrecker;;;;;Twardziel
+Brigand Rioter;Мятежник;Rebelde;暴徒;Rebell;;;;;Rebeliant
+Brigand Kingpin;Громила;Brutamonte;恶人;Rohling;;;;;Brutal
+Brigand Sidekick;Подельник;Subordinado;手下;Handlanger;;;;;Pomocnik
+Brigand Henchman;Подельник;Cúmplice;走狗;Gefolgsmann;;;;;Giermek
+Brigand Crook;Плут;Trapaceiro;骗子;Ganove;;;;;Oszust
+Brigand Renegade;Перебежчик;Traidor;叛徒;Überläufer;;;;;Zdrajca
+Brigand Mancatcher;Ловец;Sequestrador;人贩;Menschenfänger;;;;;Łapacz
+Rogue Mage;Пиромант-разбойник;Piromante Ladino;土匪炎术法师;Abtrünniger Pyromant;;;;;Łajdak Piromanta
+Brigand Outlaw;Грабитель;Bandido;歹徒;Ausgestoßener;;;;;Banita
+Brigand Freak;Безумец;Louco;疯子;Wahnsinniger;;;;;Szaleniec
+Brigand Warlock;Чернокнижник-разбойник;Bandido Feiticeiro;土匪男巫;Banditenhexer;;;;;Zbójecki Czarnoksiężnik
 Brigand Swordsman;Дезертир;Desertor;逃兵;Deserteur;;;;;Dezerter
 Brigand Axeman;Дезертир;Desertor;逃兵;Deserteur;;;;;Dezerter
 Brigand Flailer;Дезертир;Desertor;逃兵;Deserteur;;;;;Dezerter
-Brigand Sergeant Hammer;Заправила;Ringleader;土匪头子;Anführer;;;;;Lider
-Brigand Sergeant Sword;Заправила;Ringleader;土匪头子;Anführer;;;;;Dowódca
-Brigand Halberdier;Изменник;Renegade;叛徒;Abtrünniger;;;;;Renegat
-Brigand Arbalester;Застрельщик;Ambusheer;弩手;Heckenschütze;;;;;Czatonik
-Brigand Conjurer;Колдун-разбойник;Brigand Sorcerer;土匪法师;Räuberischer Zauberer;;;;;Zbójecki Czarodziej
-Brigand Cutthroat;Головорез;Cutthroat;亡命之徒;Halsabschneider;;;;;Podżynacz
-Brigand Ringleader Sword;Рыцарь-разбойник;Rogue Knight;土匪骑士;Abtrünniger Ritter;;;;;Zbójecki Rycerz
-Brigand Ringleader Shield;Рыцарь-разбойник;Rogue Knight;土匪骑士;Abtrünniger Ritter;;;;;Zbójecki Rycerz
-Guard Dog;Боевой пёс;War Dog;军犬;Kriegshund;;;;;Pies Wojny
+Brigand Sergeant Hammer;Заправила;Líder do Grupo;土匪头子;Anführer;;;;;Lider
+Brigand Sergeant Sword;Заправила;Líder do Grupo;土匪头子;Anführer;;;;;Dowódca
+Brigand Halberdier;Изменник;Renegado;叛徒;Abtrünniger;;;;;Renegat
+Brigand Arbalester;Застрельщик;Bandido Atirador;弩手;Heckenschütze;;;;;Czatonik
+Brigand Conjurer;Колдун-разбойник;Bandido Feiticeiro;土匪法师;Räuberischer Zauberer;;;;;Zbójecki Czarodziej
+Brigand Cutthroat;Головорез;Assassino;亡命之徒;Halsabschneider;;;;;Podżynacz
+Brigand Ringleader Sword;Рыцарь-разбойник;Cavaleiro Desonesto;土匪骑士;Abtrünniger Ritter;;;;;Zbójecki Rycerz
+Brigand Ringleader Shield;Рыцарь-разбойник;Cavaleiro Desonesto;土匪骑士;Abtrünniger Ritter;;;;;Zbójecki Rycerz
+Guard Dog;Боевой пёс;Cão de Guerra;军犬;Kriegshund;;;;;Pies Wojny
 Proselyte Immolated;Обращённый-жертва;Proselyte Immolated;自焚变节信徒;Proselyten-Geopferter;;;;;Samospalony Neofita
 Proselyte Tormentor;Обращённый-мучитель;Proselyte Tormentor;辣手变节信徒;Proselyten-Peiniger;;;;;Neofita Dręczyciel
 Proselyte Adept;Обращённый-адепт;Proselyte Adept;血法变节信徒;Proselyten-Adept;;;;;Adept Neofitów
@@ -74,9 +74,9 @@ Vampire Noble;Вампир-аристократ;Vampire Noble;吸血贵族;Vampi
 Vampire Acolyte;Вампир-cкованный;Vampire Cagebound;吸血侍祭;Vampir-Käfighund;;;;;Wampirzy Klatownik
 Vampire Priestess;Вампир-жрица;Vampire Priestess;吸血祭司;Vampir-Priesterin;;;;;Wampiszy Kapłan
 Vampire Befouler;Вампир-осквернитель;Vampire Befouler;吸血法师;Vampir-Beschmutzer;;;;;Wampirzy Plugawiciel
-Blood Golem;Кровяной голем;Blood Golem;赤血魔像;Blutgolem;;;;;Krwawy Golem
-Proselyte Archon;Архонт;Archon;统领;Archont;;;;;Archon
-Reborn Archon;Вознёсшийся Архонт;Ascended Archon;复生统领;Aufgestiegener Archont;;;;;Wywyższony Archon
+Blood Golem;Кровяной голем;Golem de Sangue;赤血魔像;Blutgolem;;;;;Krwawy Golem
+Proselyte Archon;Архонт;Arconte;统领;Archont;;;;;Archon
+Reborn Archon;Вознёсшийся Архонт;Arconte Ascendido;复生统领;Aufgestiegener Archont;;;;;Wywyższony Archon
 Vampire Guard;Обращённый-стражник;Guarda Convertido;变节护卫;Proselyten-Wache;;;;;Strażnik Neofitów
 Vampire Lord;Вампир-лорд;Senhor dos Vampiros;吸血领主;Vampirlord;;;;;Wampirzy Lord
 enemy_name_end;enemy_name_end;enemy_name_end;enemy_name_end;enemy_name_end;enemy_name_end;enemy_name_end;enemy_name_end;enemy_name_end;enemy_name_end
@@ -94,10 +94,10 @@ Medium Ghoul;В упырей обращаются проклятые при жи
 Small Ghoul;В упырей обращаются проклятые при жизни люди. Голод этих монстров может утолить только свежая мертвечина.;People cursed during their lifetime turn into ghouls. Now their hunger can only be satisfied by fresh carrion.;人生前如果受到诅咒，死后就会变成食尸鬼，只有新鲜的腐尸才能满足他们。;Menschen, die zu Lebzeiten verflucht wurden, verwandeln sich in Ghule. Jetzt kann ihr Hunger nur noch durch frisches Aas gestillt werden.;;;;;Ludzie przeklęci za życia po śmierci zamieniająsię w ghule. Teraz ich głód może być zaspokojony tylko świeżymi flakami.
 Necromancer;Один из иерархов тайного культа, поднявшего голову в Альдоре. В совершенстве владеет искусством воскрешения мёртвых.;One of the hierarchs of the secret cult that is growing in strength in Aldor. He has perfectly mastered the art of raising the dead.;他所属的秘密教派在奥尔多的势力日益增大，他已经完全掌握了催动亡者的法门。;Einer der Hierarchen des geheimen Kults, der in Aldor an Stärke gewinnt. Er hat die Kunst der Totenerweckung perfekt gemeistert.;;;;;Jeden z hierarchów sekretnego kultu, który ostatnio rośnie w siłę w Aldor. Doskonale opanował sztukę wskrzeszania umarłych.
 Necromancer_staff;Один из иерархов тайного культа, поднявшего голову в Альдоре. В совершенстве владеет искусством воскрешения мёртвых.;One of the hierarchs of the secret cult that is growing in strength in Aldor. He has perfectly mastered the art of raising the dead.;他所属的秘密教派在奥尔多的势力日益增大，他已经完全掌握了催动亡者的法门。;Einer der Hierarchen des geheimen Kults, der in Aldor an Stärke gewinnt. Er hat die Kunst der Totenerweckung perfekt gemeistert.;;;;;Jeden z hierarchów sekretnego kultu, który ostatnio rośnie w siłę w Aldor. Doskonale opanował sztukę wskrzeszania umarłych.
-Wraith;Гости из загробного мира нередко отличаются нечеловеческой злобой и мстительностью.;Guests from the beyond are notorious for their inhuman malice and vengefulness.;来自彼界，凶恶暴戾，怨气极重。;Gäste aus dem Jenseits sind berüchtigt für ihre unmenschliche Bösartigkeit und Rachsucht.;;;;;Goście z innych światów są bardzo znani ze swojej nieludzkiej chęci zemsty i złośliwości.
-Summoned Zombie;Запретная магия поддерживает крупицы жизни в этом зловонном, разбухшем теле.;Forbidden magic sustains the specks of life in this fetid, swollen body.;臭气熏天，臃肿不堪，依靠禁忌魔法维持生力。;Verbotene Magie erhält die Lebensfunken in diesem stinkenden, geschwollenen Körper.;;;;;Zakazana magia wciąż utrzymuje resztki życia w tym cuchnącym, spuchniętym ciele.
-Dungeon Bat;Эта древняя порода гигантских нетопырей некогда населяла альдорские чащобы, но была вытеснена оттуда в глубины подземелий.;This ancient breed of giant bats once inhabited the Aldor forests, but was driven out into deep dungeons.;这种巨型蝙蝠古时出没于奥尔多的森林之中，后来被赶到了地下。;Diese alte Rasse von Riesenfledermäusen bewohnte einst die Wälder von Aldor, wurde aber in tiefe Dungeons vertrieben.;;;;;Ten starożytny gatunek gigantycznych nietoperzy niegdyś zamieszkiwał lasy Aldoru, jednak został zepchnięty głęboko do podziemi.
-Giant Rat;Порода этих особо крупных и опасных крыс появилась не так давно из-за обилия свежей падали.;This breed of especially large and dangerous rats appeared not so long ago due to the abundance of fresh carrion.;这种老鼠体积硕大，极为危险，出现的时间并没有多久，之所以出现，也是因为新鲜腐尸大量产生。;Diese Rasse besonders großer und gefährlicher Ratten ist vor nicht allzu langer Zeit aufgrund des Überflusses an frischem Aas aufgetaucht.;;;;;Ten gatunek szczególnie dużych i niebezpiecznych szczurów pojawił się nie tak dawno, ze względu na ogromny dostatek świeżych ale martwych ciał.
+Wraith;Гости из загробного мира нередко отличаются нечеловеческой злобой и мстительностью.;Os convidados do além são notórios pela sua malícia desumana e vingativa.;来自彼界，凶恶暴戾，怨气极重。;Gäste aus dem Jenseits sind berüchtigt für ihre unmenschliche Bösartigkeit und Rachsucht.;;;;;Goście z innych światów są bardzo znani ze swojej nieludzkiej chęci zemsty i złośliwości.
+Summoned Zombie;Запретная магия поддерживает крупицы жизни в этом зловонном, разбухшем теле.;A magia proibida sustenta as manchas de vida neste corpo fétido e inchado..;臭气熏天，臃肿不堪，依靠禁忌魔法维持生力。;Verbotene Magie erhält die Lebensfunken in diesem stinkenden, geschwollenen Körper.;;;;;Zakazana magia wciąż utrzymuje resztki życia w tym cuchnącym, spuchniętym ciele.
+Dungeon Bat;Эта древняя порода гигантских нетопырей некогда населяла альдорские чащобы, но была вытеснена оттуда в глубины подземелий.;Esta antiga raça de morcegos gigantes habitou as florestas de Aldor, mas foi expulsa para as masmorras profundas.;这种巨型蝙蝠古时出没于奥尔多的森林之中，后来被赶到了地下。;Diese alte Rasse von Riesenfledermäusen bewohnte einst die Wälder von Aldor, wurde aber in tiefe Dungeons vertrieben.;;;;;Ten starożytny gatunek gigantycznych nietoperzy niegdyś zamieszkiwał lasy Aldoru, jednak został zepchnięty głęboko do podziemi.
+Giant Rat;Порода этих особо крупных и опасных крыс появилась не так давно из-за обилия свежей падали.;Esta raça de ratos especialmente grandes e perigosos não apareceu há muito tempo devido à abundância de carniça fresca.;这种老鼠体积硕大，极为危险，出现的时间并没有多久，之所以出现，也是因为新鲜腐尸大量产生。;Diese Rasse besonders großer und gefährlicher Ratten ist vor nicht allzu langer Zeit aufgrund des Überflusses an frischem Aas aufgetaucht.;;;;;Ten gatunek szczególnie dużych i niebezpiecznych szczurów pojawił się nie tak dawno, ze względu na ogromny dostatek świeżych ale martwych ciał.
 Rabbit;Пушист и безобиден.;Fofo e inofensivo.;毛茸茸，人畜无害。;Flauschig, knuddelig und harmlos.;;;;;Urocze, słodkie i całkowicie niegroźne.
 Fox;Её шкура неплохо ценится.;Peles de raposas são muito caras.;狐狸皮毛相当值钱。;Fuchspelze sind ziemlich teuer.;;;;;Futra z lisów są w cenie.
 Boar;Довольно опасен, если разозлить.;Pode ser perigoso quando irritado.;激怒之后，十分危险。;Kann gefährlich werden, wenn verärgert.;;;;;Może być groźny na bliski kontakt.
