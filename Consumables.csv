@@ -1,11 +1,10 @@
-#-символ переноса строки, использовать вместо Entera;;;;;;;;;;;
 Номера по спискам;Русский;English;中文;Deutsch;Español;Français;Italiano;Português;Polski;Türkçe;//
 специальные теги, не удалять, не изменять, при добавлении переносить вниз;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;consum_name;
 bandage;Бинт;Curativo;绷带;Verband;;;;;Bandaż;Bandaj;//
 antivenom;Инъекция противоядия;Antídoto;解药;Gegenmittel;;;;;Antidotum;Panzehir;//
 antitoxin;Антитоксин;Antitoxina;抗毒素;Antitoxin;;;;;Antytoksyna;Antitoksin;//
 splint;Шина;Tala;夹板;Schiene;;;;;Stabilizator;Atel;//
-leech;Пиявки;Sanguessuga;水蛭;Blutegel;;;;;Pijawki;Sülük;//
+leech;Пиявки;Sanguessugas;水蛭;Blutegel;;;;;Pijawki;Sülük;//
 inhaler;Эфирный ингалятор;Inalador de Éter;乙醚;Äther-Inhalator;;;;;Inhalator Etheru;Eter İnhalatörü;//
 sponge;Усыпляющая губка;Esponja Soporífica;致眠海绵;Schlafmittelschwamm;;;;;Gąbka Nasenna;Uyku Süngeri;//
 incense;Благовония;Incenso;迷香;Räucherwerk;;;;;Kadzidło;Tütsü;//
@@ -36,7 +35,7 @@ topaz;Топаз;Topázio;黄玉;Topas;;;;;Topaz;Topaz;//
 amethyst;Аметист;Ametista;紫水晶;Amethyst;;;;;Ametyst;Ametist;//
 seapearl;Морской жемчуг;Pérolas do Mar;海水珍珠;Meeresperlen;;;;;Perły;İnci;//
 amber;Россыпь янтаря;Punhado de Âmbar;琥魄;Handvoll Bernstein;;;;;Garść Bursztynów;Bir Avuç Kehribar;//
-golden_cup;Золотой кубок;Taça de Ouro;金杯;Goldener Becher;;;;;Złoty Puchar;Altın Kupa;//
+golden_cup;Золотой кубок;Calice de Ouro;金杯;Goldener Becher;;;;;Złoty Puchar;Altın Kupa;//
 hourglass;Песочные часы;Ampulheta;沙漏;Stundenglas;;;;;Klepsydra;Kum Saati;//
 inkpot;Украшенная чернильница;Tinteiro Decorado;精美的墨瓶;Ziertintenfass;;;;;Dekorowany Kałamarz;Dekoratif Hokka;//
 ivory;Слоновая кость;Marfim;象牙;Elfenbein;;;;;Kość Słoniowa;Fildişi;//
@@ -65,7 +64,7 @@ bronze_eagle;Бронзовый орёл;Águia de Bronze;青铜鹰;Bronzeadler;
 wineskin;Бурдюк с водой;Odre;水;Wasserschlauch;;;;;Bukłak;Deri Matara;//
 coffee;Эльфийская гуща;Lama Élfica;精灵咖啡泥;Elfen-Schlamm;;;;;Elficki Osad;Elf Kahvesi;//
 wine;Маннширское креплёное;Mannshire Fortificado;高度曼恩酒;Mannshire-Fortified;;;;;Wzmocniona Mannshireńska;Mannshire Şarabı;//
-wine1;Бриннский вермут;Brynn Vermouth;布林威末酒;Brynn-Wermut;;;;;Mocna z Brynn;Brynn Vermut;//
+wine1;Бриннский вермут;Vermute de Brynn;布林威末酒;Brynn-Wermut;;;;;Mocna z Brynn;Brynn Vermut;//
 wine2;Эльфийское льдистое;Vinho Élfico Gelado;精灵冰酒;Elfischer Eiswein;;;;;Elfickie Wino Lodowe;Elf Buz Şarabı;//
 mead;Медовуха;Hidromel;蜂蜜酒;Met;;;;;Miód Pitny;Bal Likörü;//
 brandy;Бренди;Conhaque;白兰地;Brandy;;;;;Brandy;Konyak;//
@@ -89,7 +88,8 @@ dragonfruit_rot;Испорченный драконов плод;Fruta do Dragã
 ;;;;;;;;;;;//
 carrot;Морковь;Cenoura;胡萝卜;Möhre;;;;;Marchew;Havuç;//
 carrot_rot;Гнилая морковь;Cenoura Estragada;变质的胡萝卜;Verdorbene Möhre;;;;;Zgniła Marchew;Çürük Havuç;//
-potato;Картофелина;Batata;土豆;Kartoffel;;;;;Ziemniak;Patates;//
+potato;Картофелина;Batata;土豆;Kartoffel;;;;;Ziemniak;Patates;//							 
+potato_baked;;Batata Assada;;;;;;;;;;//
 potato_rot;Гнилая картофелина;Batata Estragada;烂土豆;Verdorbene Kartoffel;;;;;Zgniły Ziemniak;Çürük Patates;//
 leek;Лук-порей;Alho-Poró;韭葱;Lauch;;;;;Por;Pırasa;//
 leek_rot;Гнилой лук-порей;Alho-Poró Estragado;烂韭葱;Verdorbenes Lauch;;;;;Znigły Por;Çürük Pırasa;//
@@ -160,9 +160,12 @@ alchemy_kit;Алхимический аппарат;Aparelho de Alquimia;炼金�
 letter_pile;Кипа донесений;Pilha de Relatórios;文书;Stapel Berichte;;;;;Plik Raportów;Rapor Yığını;
 wicked_hand;Рука каторжника;Mão do Condenado;逃犯的手;Hand des Sträflings;;;;;Ręka Skazańca;Hükümlü Eli;
 ;;;;;;;;;;;//
-pinecap;Хвойник;Pine cap;松乳菇;Kiefernkappe;;;;;Czapnik;Ephedra;//
+pinecap;Хвойник;Chapéu de Pinho;松乳菇;Kiefernkappe;;;;;Czapnik;Ephedra;//
 flyagaric;Мухомор;Amanita Muscaria;毒蝇伞;Fliegenpilz;;;;;Muchomor;Sinek Mantarı;//
 stool;Бледная поганка;Cicuta Verde;毒鹅膏;Todeskappe;;;;;Sromotnik;Köygöçüren;//
+pinecap_fried;Жареный хвойник;Chapéu de Pinho Frito;;N/A;;;;Chapéu de Pinho Frito;N/A;Pişmiş Efedrin;;//
+toadstool_fried;Жареная поганка;Capuz da Morte Frito;;N/A;;;;Capuz da Morte Frito;N/A;Pişmiş Köygöçüren;;//
+flyagaric_fried;Жареный мухомор;Agárico Mosca Frito;;N/A;;;;Agárico Mosca Frito;N/A;Pişmiş Sinek Mantarı;;//																												 																									  																													  
 magefungus;Магофунгус;Cogumelo Mágico;魔法蘑菇;Magierfungus;;;;;Magiczny Grzyb;Sihirli Mantar;//
 spider;Паук;Aranha;蜘蛛;Spinne;;;;;Pająk;Örümcek;//
 maggot;Личинка;Larva;蛆;Made;;;;;Robal;Kurtçuk;//
@@ -182,14 +185,14 @@ clay_plate;Плошка;Prato;盘子;Teller;;;;;Talerz;Tabak;//
 clay_pot;Горшок;Pote;罐子;Topf;;;;;Garnek;Çömlek;//
 ladle;Черпак;Concha;勺子;Kelle;;;;;Chochła;Kepçe;//
 straw;Охапка соломы;Palha;稻草;Stroh;;;;;Słoma;Saman;//
-candleend;Свечной огарок;Fim da Vela;蜡烛头;Kerzenrest;;;;;Świeca;Mum Artığı;//
+candleend;Свечной огарок;Toco de Vela;蜡烛头;Kerzenrest;;;;;Świeca;Mum Artığı;//
 simple_earrings;Неказистые серёжки;Brincos Simples;普通耳环;Einfache Ohrringe;;;;;Proste Kolczyki;Basit Küpe;//
 wooden_bucket;Ведро;Balde;桶;Eimer;;;;;Wiadro;Kova;//
 wooden_comb;Гребень;Pente;梳子;Kamm;;;;;Grzebień;Tarak;//
 wooden_bowl;Тарелка;tigela;碗;Schüssel;;;;;Miska;Kase;//
 mug;Кружка;Caneca;杯子;Becher;;;;;Dzban;Kupa;//
 nails;Гвозди;Unhas;钉子;Nägel;;;;;Gwoździe;Tırnak;//
-pot;Походный котелок;Pote de Viagem;露营锅;Reisetopf;;;;;Garnek Podróżny;Taşınabilir Çömlek;//
+pot;Походный котелок;Panela para Acampamento;露营锅;Reisetopf;;;;;Garnek Podróżny;Taşınabilir Çömlek;//
 hide_boar;Шкура вепря;Pele de Javali;野猪皮;Wildschweinleder;;;;;Skóra Dzika;Domuz Derisi;//
 hide_bear;Медвежья шкура;Pele de Urso;熊皮;Bärenpelz;;;;;Futro Niedźwiedzia;Ayı Postu;//
 hide_fox;Лисья шкура;Pele de Raposa;狐狸毛皮;Fuchspelz;;;;;Futro Lisa;Tilki Postu;//
@@ -198,8 +201,8 @@ hide_deer;Оленья шкура;Pele de Veado;鹿皮;Hirschleder;;;;;Skóra Je
 hide_moose;Лосиная шкура;Pele de Alce;驼鹿皮;Elchsleder;;;;;Skóra Łosia;;//
 hide_rabbit01;Кроличья шубка;Pele de Coelho;兔子毛皮;Hasenfell;;;;;Futro Kólika;;//
 hide_rabbit02;Кроличья шубка;Pele de Coelho;兔子毛皮;Hasenfell;;;;;Futro Królika;;//
-horns_deer;Оленьи рога;Chifres de Veado;鹿角;Hirschgeweih;;;;;Poroże Jelenia;;//
-horns_moose;Лосиные рога;Chifres de Alce;驼鹿角;Elchsgeweih;;;;;Poroże Łosia;;//
+horns_deer;Оленьи рога;Galhada de Veado;鹿角;Hirschgeweih;;;;;Poroże Jelenia;;//
+horns_moose;Лосиные рога;Galhada de Alce;驼鹿角;Elchsgeweih;;;;;Poroże Łosia;;//
 ;;;;;;;;;;;//
 ;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;consum_name_end;//
 ;;;;;;;;;;;//
@@ -210,7 +213,7 @@ antitoxin;;;;;;;;;;;//
 splint;Стабилизирует травму на выбранной части тела.#Может применяться только на травмированные части тела.;Estabiliza uma lesão de uma parte do corpo selecionada.#Só pode ser aplicada em partes do corpo lesionadas.;可以稳定受伤的身体部位。#只能用于受伤的地方。;Stabilisiert die Verletzung eines ausgewählten Körperteils.#Kann nur mit verletzten Körperteilen verwendet werden.;;;;;Stabilizuje złamania i ciężkie rany wybranych części ciała.#Może być założony wyłącznie na uszkodzone.;;//
 leech;Применяется на выбранную часть тела.#Каждый ход в течение 30 ходов:##~lg~+1%~/~ состояния части тела#~lg~+25%~/~ к эффективности лечения#~lg~-0.5%~/~ к интоксикации#~r~+0.2%~/~ к боли;É usado em uma parte do corpo selecionada.#A cada turno por 30 turnos:##~lg~+1%~/~ de Condição da parte do corpo# ~lg~+25%~/~ de Eficiência de cura#~lg~-0.5%~/~ de Intoxicação#~r~+0,2%~/~ de Dor;可以用于一个身体部位。#每回合（效果持续30回合）：##身体部位状态~lg~+1%~/~#治疗效果+~lg~25%~/~#迷醉~lg~-0.5%~/~#疼痛~r~+0.2%~/~;Wird an einem verletzten Körperteil verwendet.#Jede Runde für 30 Runden:##~lg~+1%~/~ Körperteilzustand#+~lg~25%~/~ Heilungseffizienz#~lg~-0,5%~/~ Vergiftung#~r~+0,2%~/~ Schmerz;;;;;Można wykorzystać na wybranej części ciała.#Każdej tury przez 30 tur:##~lg~+1%~/~ stan Części Ciała#+~lg~25%~/~ Skuteczności Leczenia#~lg~-0.5%~/~ Zatrucia#~r~+0.2%~/~ Bólu;;//
 inhaler;;;;;;;;;;;//
-sponge;Вгоняет в ~r~сон~/~.;Coloca você para ~r~dormir~/~.;可以令你~r~入睡~/~。;Versetzt dich in den ~r~Schlaf~/~.;;;;;Najzwyczajniej w świecie ~r~usypia~/~.;;//
+sponge;Вгоняет в ~r~сон~/~.;Faz você dormir ~r~dormir~/~.;可以令你~r~入睡~/~。;Versetzt dich in den ~r~Schlaf~/~.;;;;;Najzwyczajniej w świecie ~r~usypia~/~.;;//
 incense;;;;;;;;;;;//
 herbal;;;;;;;;;;;//
 aqua_vitae;Избавляет от всех негативных эффектов.;Remove todos os efeitos negativos;可以消除所有负面效果;Entfernt alle negativen Effekte.;;;;;Usuwa wszystkie negatywne efekty.;;//
@@ -220,9 +223,9 @@ essence;;;;;;;;;;;//
 pipe;;;;;;;;;;;//
 ;;;;;;;;;;;//
 torch;Факел;Torch;火把;Fackel;;;;;Pochodnia;;//
-surgeon;Значительно улучшает состояние выбранной части тела.##Чем хуже состояние оперируемой части тела, тем болезненней операция.;Melhora bastante a condição de uma parte do corpo selecionada.##A dor sofrida durante a operação depende da condição atual da parte do corpo.;大幅改善身体某一部位的状态。##手术期间的疼痛程度因身体部位当前的状态而异。;Verbessert den Zustand eines ausgewählten Körperteils enorm.##Schmerzen bei der Operation sind abhängig vom Zustand des Körperteils.;;;;;Doskonale poprawia stan wybranej części ciała.##Ból jaki powstanie w wyniku operacji zależy od aktualnego stanu wybranej części ciała.;;//
+surgeon;Значительно улучшает состояние выбранной части тела.##Чем хуже состояние оперируемой части тела, тем болезненней операция.;Melhora muito a condição da parte do corpo selecionada.##A dor sofrida durante a operação depende da condição atual da parte do corpo.;大幅改善身体某一部位的状态。##手术期间的疼痛程度因身体部位当前的状态而异。;Verbessert den Zustand eines ausgewählten Körperteils enorm.##Schmerzen bei der Operation sind abhängig vom Zustand des Körperteils.;;;;;Doskonale poprawia stan wybranej części ciała.##Ból jaki powstanie w wyniku operacji zależy od aktualnego stanu wybranej części ciała.;;//
 lancet;Вызывает кровотечение, но выводит токсины.;Causa sangramento, mas reduz a intoxicação.;会导致出血，但是可以缓解迷醉。;Verursacht Bluten, aber reduziert Vergiftung.;;;;;Powoduje Krwawienie, ale redukuje Zatrucie.;;//
-tinker;Гарантированно взламывает замок или обезвреживает механическую ловушку.;Garantido para destrancar uma fechadura ou desarmar uma armadilha mecânica.;肯定可以撬开锁或者拆除机械陷阱。;Garantiertes Knacken eines Schlosses oder Entschärfen einer mechanischen Falle.;;;;;Gwarantuje otwarcie zamka lub rozbrojenie mechanicznej pułapki.;;//
+tinker;Гарантированно взламывает замок или обезвреживает механическую ловушку.;Garante arrombar uma fechadura ou desarmar uma armadilha mecânica.;肯定可以撬开锁或者拆除机械陷阱。;Garantiertes Knacken eines Schlosses oder Entschärfen einer mechanischen Falle.;;;;;Gwarantuje otwarcie zamka lub rozbrojenie mechanicznej pułapki.;;//
 repkit;Восстанавливает ~lg~30~/~ ед. прочности выбранному предмету.;Restaura ~lg~30~/~ pontos de durabilidade em um item selecionado.;可以令一件物品恢复~lg~30~/~点耐久。;Stellt ~lg~30~/~ Haltbarkeitspunkte eines ausgewählten Gegenstands wieder her.;;;;;Odnawia ~lg~30~/~ punktów wytrzymałości przedmiotowi.;;//
 lockpicks;Позволяют взламывать замки.##Ломаются при неудачной попытке взлома.;Permite destrancar fechaduras.##Interrompe se a tentativa de destrancar falhar.;可以开锁。##如果开锁失败，就会损坏。;Ermöglicht das Schlossknacken.##Zerbricht, wenn der Versuch fehl schlägt.;;;;;Pozwala otwierać zamki.##Zużywa się jeżeli otwarcie nie powiedzie się.;;//
 skeleton_key;Отпирает любые замки.;Abre qualquer fechadura.;可以打开任意锁具。;Öffnet jedes Schloss.;;;;;Otwiera jakikolwiek zamek.;;//
@@ -292,6 +295,7 @@ dragonfruit_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;�
 carrot;;;;;;;;;;;//
 carrot_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 potato;;;;;;;;;;;//
+						  
 potato_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
 leek;;;;;;;;;;;//
 leek_rot;Возможна ~r~рвота~/~.;Pode causar ~r~vômito~/~.;可能导致~r~呕吐~/~。;Kann ~r~Erbrechen~/~ verursachen.;;;;;Może spowodować ~r~wymioty~/~.;;//
@@ -364,9 +368,12 @@ wicked_hand;Этот предмет - цель вашего ~lg~контракт
 pinecap;;;;;;;;;;;//
 flyagaric;;;;;;;;;;;//
 magefungus;;;;;;;;;;;//
+pinecap_fried;;;;;;;;;;;;//
+toadstool_fried;~r~Оно того не стоит, правда.~/~;~r~Não vale a pena, sério.~/~;N/A;N/A;;;;~r~Não vale a pena, sério.~/~;N/A;~r~Buna değmez, gerçekten.~/~;;//
+flyagaric_fried;;;;;;;;;;;;//
 spider;;;;;;;;;;;//
 stool;;;;;;;;;;;//
-maggot;;;;;;;;;;;//
+maggot;;;;;;;;;;;//			  					
 bone_foot;Может быть измельчена в костяную муку.;Pode ser moído até virar pó de osso..;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
 bone;Может быть измельчена в костяную муку.;Pode ser moído até virar pó de osso..;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
 skull;Может быть измельчён в костяную муку.;Pode ser moído até virar pó de osso..;能够磨成骨粉。;Kann zu Knochenmehl zerrieben werden.;;;;;Można zmielić na mączkę kostną.;;//
@@ -470,7 +477,7 @@ wineskin;Наполнен родниковой водой.;Cheio de água de nas
 coffee;Экспортный вариант популярного эльфийского напитка. То ещё пойло, но бодрит отменно.;Uma versão de exportação de uma bebida élfica popular. O gosto é horrível, mas prepara você.;精灵族的这个饮品备受欢迎，味道虽然恐怖，但是确实可以提神。;Eine Export-Version eines elfischen Drinks. Schmeckt widerlich, aber baut dich auf.;;;;;Eksportowa wersja popularnego elfiego napitku. Smakuje okropnie, ale natychmiast orzeźwia.;;//
 wine;Сейчас, когда маннширские виноградники разорены войной, хорошего вина днём с огнём не сыскать. Это - явно из старых запасов.;Agora que as vinhas de Mannshire foram devastadas pela guerra, é difícil encontrar um bom vinho. Este claramente é um estoque antigo.;曼恩郡的葡萄园都被战火毁了，好酒现在很难找了，这一瓶显然是陈年老酒。;Jetzt da die Weingärten von Mannshire vom Krieg verwüstet sind, ist es schwer, guten Wein zu finden. Dieser hier ist ganz klar ein alter Jahrgang.;;;;;Teraz, kiedy winnice Mannshire zostały zniszczone przez wojnę, ciężko jest znaleźć dobre wino. Te na pewno pochodzi ze starych zapasów.;;//
 wine1;Пряный ароматный напиток, прославивший винокурни Бринна. Легко пьётся, хорошо утоляет жажду и поднимает настроение.;Uma bebida aromática apimentada que trouxe fama às destilarias de Brynn. Fácil de beber, sacia a sede e eleva o humor.;醇香佳酿，添加了香料，产自布林的蒸馏厂。口感好，解渴又提神。;Ein würziger und aromatischer Drink, der den Destillerien in Brynn viel Ruhm einbrachte.;;;;;Ostry aromatyczny napój, który przyniósł sławę destylarniom w Brynn. Łatwy do picia. Ożywia ciało i umysł.;;//
-wine2;Это игристое вино из Яхонтовых царств делается из мерзлого винограда по секретному рецепту. Местные аристократы готовы продать душу за всего один глоток.;Este vinho espumante é feito nos Reinos Jacintos a partir de uvas congeladas e por uma receita secreta. Nobres destas regiões estão dispostos a vender as suas almas por um único gole.;这个起泡酒产自红锆王国，采用鲜冻葡萄酿造而成，配方保密。当地贵族如果能够抿上一口，就算出卖自己的灵魂也没关系。;Dieser spritzige Wein wird nach einem geheimen Rezept in den Jacinth Königreichen aus gefrorenen Trauben hergestellt.;;;;;Te wino musujące robi się w Królestwach Jacinth z zamrożonych winogron w sekretny sposób. Bogacze w tych regionach są gotowi sprzedać duszę za łyk.;;//
+wine2;Это игристое вино из Яхонтовых царств делается из мерзлого винограда по секретному рецепту. Местные аристократы готовы продать душу за всего один глоток.;Este vinho borbulhante é feito nos Reinos Jacyth a partir de uvas congeladas e por uma receita secreta. Nobres destas regiões estão dispostos a vender as suas almas por um único gole.;这个起泡酒产自红锆王国，采用鲜冻葡萄酿造而成，配方保密。当地贵族如果能够抿上一口，就算出卖自己的灵魂也没关系。;Dieser spritzige Wein wird nach einem geheimen Rezept in den Jacinth Königreichen aus gefrorenen Trauben hergestellt.;;;;;Te wino musujące robi się w Królestwach Jacinth z zamrożonych winogron w sekretny sposób. Bogacze w tych regionach są gotowi sprzedać duszę za łyk.;;//
 mead;Северяне могут прожить около двух недель, не съев ни единой крошки, но начинают чахнуть после трех дней без медовухи.;Os nórdicos podem sobreviver por duas semanas sem uma única migalha de pão, mas começam a murchar após três dias sem hidromel.;北方人一口面包不吃，也能撑两个星期。可要是没有蜂蜜酒，他们连三天都熬不过去。;Die Leute aus dem Norden können zwei Wochen ohne Brot auskommen, aber sie gehen ein, sobald sie drei Tage mal keinen Met gehabt haben.;;;;;Mieszkańcy północy potrafią przeżyć dwa tygodnie bez kromki chleba, ale zaczynają chudnąć po trzech dniach bez miodu pitnego.;;//
 brandy;Дорогой, но очень полезный.;É caro, mas tem muitos usos.;贵重物品，不过用处也很多。;Teuer, aber vielseitig einsetzbar.;;;;;Jest bardzo drogi, ale użyć można wiele razy.;;//
 ale;Полная кружка старого доброго деревенского эля. Лучшее завершение тяжелого рабочего дня.;Uma caneca de cerveja da boa e velha aldeia. O final perfeito para um dia de trabalho duro.;一杯陈年好酒。忙活一天之后，如果能喝上这么一杯，那简直不要太惬意！;Ein Krug mit gutem alten Dorfbier. Das perfekte Ende für einen harten Arbeitstag.;;;;;Dzban dobrego starego wiejskiego ale. Doskonałe na zakończenie ciężkiego dnia.;;//
@@ -493,6 +500,7 @@ dragonfruit_rot;Даже в таком виде этот диковинный п
 carrot;Отличный гарнир... если очистить от земли.;Um excelente enfeite... quando lava a sujeira.;特别适合当配菜，不过要先把泥洗掉。;Eine exzellente Beilage, sobald du den Dreck abgewaschen hast.;;;;;Doskonały garnek. Jak tylko dasz radę usunąć z niego te błoto...;;//
 carrot_rot;Пожалуй, есть её - не самая лучшая идея.;Comer isso não parece uma ser boa ideia.;都已经这样了，还是不吃了吧。;Es ist keine gute Idee das zu essen.;;;;;Jedzenie tego nie jest dobrym pomysłem...;;//
 potato;Можно есть сырой. Но зачем?;Pode come-lô cru. Mas porque fazer isso?能生吃，可是为什么要生吃？;Du kannst sie roh essen. Aber warum solltest du?;;;;;Możesz zjeść surowe. Ale czy warto?;;//
+potato_fried;Лучший ужин для привала.;N/A;;;;;;;;Mola için en iyi akşam yemeği.;;																										
 potato_rot;Такой - только удобрять.;Isso é bom apenas como fertilizante.;只能当肥料了。;Nur gut als Dünger.;;;;;To nadaje się wyłącznie na zioła.;;//
 leek;Свежий, зелёный, хрустящий.;Fresco, verde e crocante.;新鲜、翠绿又爽脆。;Frisch, grün und knackig.;;;;;Świeże, zielone i chrupiące.;;//
 leek_rot;Слегка... подзавял.;Parece um pouco... murcho.;好像已经……烂了。;Sieht irgendwie... verwelkt aus;;;;;Wygląda jakoś... zwiędle.;;//
@@ -562,12 +570,16 @@ alchemy_kit;Если хорошенько его прогреть, залить 
 letter_pile;Объёмная пачка писем, заметок и докладных записок, густо испещрённых неизвестными вам именами и обозначениями.;Uma pilha de cartas, notas e relatórios de tamanho decente, densamente coberta de nomes e designações desconhecidas.;一些信件、字条和报告，摞得整整齐齐，写满了陌生的名字和职位。;Ein ordentlich großer Stapel von Briefen, Notizen und Berichten, dicht beschrieben mit unbekannten Namen und Bezeichnungen.;;;;;;;//
 wicked_hand;На тыльной стороне ладони отчётливо виднеется каторжное клеймо - их выжигают на коже ещё до отправления на камнеломни.;A marca do condenado é claramente visível no dorso desta mão - essas marcações são queimadas na pele antes de enviar um criminoso às pedreiras.;手背还能清晰得看到皮肤上的烙印，囚犯去石场之前，身上都要先用烙铁烫几个这样的印记。;Das Brandzeichen des Sträflings ist auf dem Handrücken deutlich sichtbar - solche Zeichen werden in die Haut eingebrannt, bevor ein Krimineller in die Steinbrüche geschickt wird.;;;;;Stos liter, notatek, raportów, gęsto zapisanych nieznanymi nazwami i oznaczeniami.;;
 ;;;;;;;;;;;//
-pinecap;Травники уверяют, будто в сыром виде хвойники впитывают яды и придают сил.;Herbalistas afirmam que o cogumelo  pine cap cru pode absorver venenos e conceder vigor.;药师说生的松乳菇可以吸收毒药，给人活力。;Kräuterkundige behaupten, dass rohe Kiefernkappen Gifte absorbieren können, und außerdem Vitalität verleihen.;;;;;Zielarze uważają, że surowe szyszki mogą pochłaniać trucizny i dodawać wigoru.;;//
-flyagaric;Не настолько коварный, как поганка - его яркая шляпа издали бросается в глаза.;Não é tão enganoso como um gorro da morte, mas é facilmente reconhecido pelas suas cores brilhantes.;毒蝇伞的菌盖颜色鲜艳，因此没有某些毒鹅膏那么具有欺骗性。;Nicht ganz so trügerisch wie die Todeskappe, da er an seinen grellen Farben erkannt werden kann.;;;;;Nie tak groźny jak muchomor, łatwo rozpoznać po jasnych kolorach.;;//
+pinecap;Травники уверяют, будто в сыром виде хвойники впитывают яды и придают сил.;Os herboristas afirmam que o chapéu de pinho cru pode absorver venenos e conceder vigor. .;药师说生的松乳菇可以吸收毒药，给人活力。;Kräuterkundige behaupten, dass rohe Kiefernkappen Gifte absorbieren können, und außerdem Vitalität verleihen.;;;;;Zielarze uważają, że surowe szyszki mogą pochłaniać trucizny i dodawać wigoru.;;//
+flyagaric;Не настолько коварный, как поганка - его яркая шляпа издали бросается в глаза.;Não tão ilusório quanto o capuz da morte, é facilmente reconhecido por suas cores brilhantes..;毒蝇伞的菌盖颜色鲜艳，因此没有某些毒鹅膏那么具有欺骗性。;Nicht ganz so trügerisch wie die Todeskappe, da er an seinen grellen Farben erkannt werden kann.;;;;;Nie tak groźny jak muchomor, łatwo rozpoznać po jasnych kolorach.;;//
 stool;На её счету множество жизней неосторожных грибников.;Tirou muitas vidas de cogumelos descuidados.;许多人因为不慎采食这种蘑菇而丧命。;Die Leben vieler Pilzsammler nahm dieser Pilz schon.;;;;;Pochłonął życia wielu nieostrożnych grzybiarzy.;;//
+pinecap_fried;Не самый питательный перекус, но однозначно очень вкусный.;N/A;;;;;;;;En doyurucu atıştırmalık değil, ama kesinlikle çok lezzetli.;;
+flyagaric_fried;Тщательная варка и жарка делают мухоморы почти безопасными для употребления.;N/A;;;;;;;;Kapsamlı pişirme ve kızartma, sinek mantarlarının yemek için neredeyse güvenli olmasını sağlar.;;
+stool_fried;Если вы уверены, что хотите это есть - дерзайте.;N/A;;;;;;;;Yemek istediğinizden eminseniz - devam edin.;;																																						
 magefungus;Редкий гриб, растущий лишь в самых тёмных пещерах. Народная молва издавна наделяла его волшебными свойствами.;Um cogumelo raro, que só pode ser encontrado nas cavernas mais escuras. Algumas pessoas dizem que tem propriedades mágicas.;这种蘑菇十分稀罕，仅见于洞穴最黑暗的地方，有的人说这种蘑菇具有魔力。;Ein seltener Pilz, der sich nur in den dunkelsten Höhlen finden lässt. Man sagt, er habe magische Eigenschaften.;;;;;Rzadki grzyb, którego odnaleźć można jedynie w najciemniejszych jaskiniach. Niektórzy mówią, że ma magiczną moc.;;//
 spider;Паук;Aranha;蜘蛛;Spinne;;;;;Pająk;;//
-maggot;Личинка;Larva;蛆;Made;;;;;Robal;;//
+maggot;Личинка;Verme;蛆;Made;;;;;Robal;;//
+bone_foot;Разваливается в руках.;Ele se desfaz em pó nas suas mãos.;你刚放在手上，就碎成了粉末。;Zerfällt in deinen Händen zu Staub.;;;;;Zamienia się w pył w twoich dłoniach.;;//
 bone_foot;Разваливается в руках.;Ele se desfaz em pó nas suas mãos.;你刚放在手上，就碎成了粉末。;Zerfällt in deinen Händen zu Staub.;;;;;Zamienia się w pył w twoich dłoniach.;;//
 bone;На такую даже собака не позарится.;Nem um cachorro vai se interessar.;狗都不会多看一眼。;Kein Hund wird daran interessiert sein.;;;;;Nawet psa by to nie zaciekawiło.;;//
 skull;На удивление хорошо сохранился.;Surpreendentemente bem preservado.;保存得极为完好。;Überraschend gut erhalten.;;;;;Zaskakująco nieźle zachowane.;;//
@@ -600,8 +612,8 @@ hide_deer;Олени в Альдорских лесах встречаются �
 hide_moose;В охоте на лося многое зависит от удачи. Но если уж вернулся не с пустыми руками, то без денег не останешься.;É preciso sorte para caçar um alce. Mas se você voltar triunfante, não ficará com fome.;要想干倒一头驼鹿，不光要有实力，运气也要够好才行。你只要能胜利而归，就不会担心饿着肚子了。;Es braucht Glück, um einen Elch zu erlegen. Kehrst du triumphierend zurück, bleibst du nicht hungrig.;;;;;Trzeba mieć szczęście, by upolować łosia. Ale jak wrócisz w chwale, nie będziesz głodny.;;//
 hide_rabbit01;Несмотря на всю осторожность и верткость кроликов, подстрелить их не так уж сложно. Их шкурки обычно пускают на одежду.;Apesar de quão cautelosos e coelhos podem ser, caçar um não é tão difícil. Suas peles são geralmente usadas para fazer roupas.;虽然兔子机警善跑，但是猎捕并没有那么困难。兔子的皮毛通常用来缝制衣服。;Auch wenn die Hasen vorsichtig und schreckhaft sind, lassen sie sich leicht erlegen. Die Pelze werden für die Kleiderherstellung verwendet.;;;;;Pomimo tego jak ostrożne i podejrzliwe są zające i króliki, polowanie na nie jest dość proste. Ich futra służą głównie na ubrania.;;//
 hide_rabbit02;Несмотря на всю осторожность и верткость кроликов, подстрелить их не так уж сложно. Серый кроличий мех ценится немного выше.;Apesar de quão cautelosos e coelhos podem ser, caçar um não é tão difícil. Pele de coelho cinza pode pagar um pouco mais de dinheiro.;虽然兔子机警善跑，但是猎捕并没有那么困难。灰兔的皮毛比一般的兔皮值钱一些。;Auch wenn die Hasen vorsichtig und schreckhaft sind, lassen sie sich leicht erlegen. Die Pelze grauer Hasen bringen ein wenig mehr Geld.;;;;;Pomimo tego jak ostrożne i podejrzliwe są zające i króliki, polowanie na nie jest dość proste. Ich futra służą głównie na ubrania.;;//
-horns_deer;Оленьим рогам можно найти множество применения - зелья, лекарства, украшения...;Chifres de veado podem ser usados para muitas coisas: poções, remédios, jóias ...;鹿角的用途很多，可以入药，也可以用作陈设……;Hirschgeweihe sind vielseitig verwendbar: Tränke, Medizin, Schmuck,...;;;;;Poroża jeleni mogą służyć do wielu rzeczy: mikstur, medykamentów, ozdób...;;//
-horns_moose;У лосиных рогов есть множество применений в алхимии и фармацевтике. У аптекарей они не залёживаются.;Os chifres de alce têm muitos usos na alquimia e na fabricação de medicamentos. Os boticários estão sempre dispostos a comprar alguns.;驼鹿的角在炼金和制药领域应用广泛，药剂师一般都不会拒绝。;Elchgeweihe werden in der Alchemie und in der Medizin verwendet. Apotheker sind gewillt sie aufzukaufen.;;;;;Poroża łosi mają wiele zastosowań w alchemii oraz medycynie. Aptekarze zawsze zapłacą za nie wiele.;;//
+horns_deer;Оленьим рогам можно найти множество применения - зелья, лекарства, украшения...;Galhadas de veado podem ser usados para muitas coisas: poções, remédios, jóias ...;鹿角的用途很多，可以入药，也可以用作陈设……;Hirschgeweihe sind vielseitig verwendbar: Tränke, Medizin, Schmuck,...;;;;;Poroża jeleni mogą służyć do wielu rzeczy: mikstur, medykamentów, ozdób...;;//
+horns_moose;У лосиных рогов есть множество применений в алхимии и фармацевтике. У аптекарей они не залёживаются.;As Galhadas de alce têm muitos usos na alquimia e na fabricação de medicamentos. Os boticários estão sempre dispostos a comprar alguns.;驼鹿的角在炼金和制药领域应用广泛，药剂师一般都不会拒绝。;Elchgeweihe werden in der Alchemie und in der Medizin verwendet. Apotheker sind gewillt sie aufzukaufen.;;;;;Poroża łosi mają wiele zastosowań w alchemii oraz medycynie. Aptekarze zawsze zapłacą za nie wiele.;;//
 ;;;;;;;;;;;//
 ;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;consum_desc_end;//
 ;;;;;;;;;;;//
